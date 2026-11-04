@@ -43,7 +43,7 @@ Votre meilleur argument est déjà sur la table : un CRM en service, construit s
 
 Trois risques se traitent avant de signer : la société, les données et le contrat. Les autres se règlent dans le contrat ou mois par mois.
 
-![Matrice des risques · 14 risques, 4 zones](../diagrammes/audit-matrice-des-risques.png)
+![Matrice des risques · 14 risques, 4 zones](diagrammes/audit-matrice-des-risques.png)
 
 Le placement est l'appréciation de cet audit, pas une mesure.
 
@@ -107,7 +107,7 @@ Douze solutions, dans l'ordre où les mettre en place. Les quatre premières con
 
 En trente jours : un accord, une société, un contrat, un premier rapport. Le travail facturé commence à l'acompte.
 
-![Plan des 30 jours · 4 étapes, 3 décisions](../diagrammes/audit-plan-30-jours.png)
+![Plan des 30 jours · 4 étapes, 3 décisions](diagrammes/audit-plan-30-jours.png)
 
 Les dates partent du rendez-vous (J0). Le délai d'immatriculation peut décaler le démarrage : il ne décale jamais l'ordre contrat, acompte, travail.
 

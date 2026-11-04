@@ -79,7 +79,7 @@ Marwin Tech et BOJ.ART proposent une ligne d'œuvres créées par Medhi et réal
 
 **STRATES, la première pièce.** Un relief mural en strates d'environ 90 × 65 cm, peint au pinceau par un bras robotisé. Critères proposés pour le premier essai : un trait de 7 mm sur un segment de 10 à 15 cm, une largeur de 6 à 8 mm sur 90 % de la longueur, un débordement d'au plus 1 mm, incertitude comprise. L'audit du 2 novembre est favorable à un banc d'essai ciblé ; aucune performance n'est encore mesurée.
 
-![Ligne création · 4 phases, 3 décisions](../diagrammes/offre-ligne-creation.png)
+![Ligne création · 4 phases, 3 décisions](diagrammes/offre-ligne-creation.png)
 
 **La phase 1 en pratique.** Proposé : 6 journées Marwin (4 500 € HT), plus la part de Medhi, l'accès à une machine et les consommables sur devis, le tout dans 10 000 € HT. Les cinq premiers jours : un motif, le pinceau et deux rendus limites ; des coupons comparés avec le peintre ; la mesure du trait ; un même cas d'essai soumis à un laboratoire et à un intégrateur ; puis la décision et le plafond de la phase suivante. Si le pilote laboratoire est retenu, son geste robotique devient ce premier trait : rien n'est facturé deux fois.
 
@@ -131,7 +131,7 @@ Comparez au coût employeur, pas au net : aux niveaux discutés ici, un salaire 
 
 Carlone propose des bureaux, une bonne rémunération et peut-être d'investir dans votre activité. Règle : un sujet, un accord. Mélanger honoraires, locaux et capital rend chacun plus difficile à négocier, et plus difficile à quitter.
 
-![Accords séparés · 4 sujets, le contrat d'abord](../diagrammes/offre-accords-separes.png)
+![Accords séparés · 4 sujets, le contrat d'abord](diagrammes/offre-accords-separes.png)
 
 **Bureaux.** Ils servent d'abord la mission et ne remplacent pas les honoraires. La convention fixe le lieu, les horaires d'accès, les intervenants, l'entretien, l'assurance, les usages partagés et la restitution, à titre gratuit ou avec loyer. Gardez votre propre organisation : des horaires imposés et une place dans ses équipes sont des indices de salariat. L'adresse compte aussi pour le FRR : un bureau réellement utilisé à Cosne-Cours-sur-Loire, commune classée, soutient l'implantation ; un travail régulier hors zone peut réduire ou supprimer l'exonération. À faire trancher par le service des impôts.
 

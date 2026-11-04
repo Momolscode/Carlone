@@ -51,7 +51,7 @@ Le logiciel est solide en démonstration et en simulation, mais rien n'est encor
 
 La galerie vient en premier, avec STRATES comme pièce phare ; les événements, l'atelier augmenté et les contenus suivent.
 
-![State Of The Art · 3 pôles, 4 activités](../diagrammes/vision-trois-poles.png)
+![State Of The Art · 3 pôles, 4 activités](diagrammes/vision-trois-poles.png)
 
 Chaque pôle garde ses outils et ses données ; le projet commun coordonne, il ne fusionne pas. Le cabaret reste une piste tant que Carlone ne l'a pas confirmé.
 
@@ -93,7 +93,7 @@ Pour que le projet dure, chacun doit savoir ce qu'il possède, ce qu'il facture 
 
 Cinq étapes, chacune fermée par une décision fondée sur une preuve. La première, cadrer, commence maintenant et ne coûte presque rien.
 
-![Feuille de route · 5 étapes, 4 décisions](../diagrammes/vision-feuille-de-route.png)
+![Feuille de route · 5 étapes, 4 décisions](diagrammes/vision-feuille-de-route.png)
 
 Les durées viennent de la session sur le bras peintre : ce sont des estimations, pas des devis. La galerie ouvrira en 2027, date exacte à fixer : si le cadrage commence maintenant, l'œuvre pilote peut viser l'ouverture.
 

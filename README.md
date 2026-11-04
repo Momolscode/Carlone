@@ -1,34 +1,51 @@
 # Carlone
 
-Tout ce qui concerne M. Carlone : l’offre de Marwin Tech, la présentation, l’audit, le catalogue d’offres du CRM, la note de vision State Of The Art et les documents sources. Copies du 4 novembre 2026.
+Tout ce qui concerne le projet mené avec M. Carlone, marchand d'art, par Morgan Olsen et Mathys Couet (Marwin Tech), avec Medhi (BOJ.ART). État au 4 novembre 2026.
 
-![Couverture de la présentation](presentation/diapositives/01-cover.jpg)
+Le point de départ est `interne/contexte-projet-carlone.md` : les personnes, la chronologie depuis le 18 octobre, les chantiers, l'offre, les règles et les décisions attendues.
 
-## Le dossier
+## Pour Carlone
 
-| Fichier | Contenu | Pour qui |
-|---|---|---|
-| [Présentation (PDF)](presentation/Offre-Marwin-Tech-pour-Carlone.pdf) | 13 diapositives : ce qui est livré, les trois volets, le premier mois, les deux formules, le paiement, STRATES, le laboratoire, les garanties, les prochaines étapes | À montrer à Carlone |
-| [Offre détaillée](documents/offre-marwin-tech-remuneration-et-collaboration.md) | L’offre complète ; les sections marquées « interne » couvrent la rémunération, le plancher et la préparation du rendez-vous | Morgan et Mathys |
-| [Audit](documents/audit-risques-et-solutions.md) | Verdict, atouts, matrice des risques, prix face au marché, 12 solutions, plan des 30 jours | Morgan et Mathys |
-| [Catalogue d’offres du CRM](documents/offres-crm-catalogue.md) | Neuf offres de vente d’œuvres et cadre fiscal de l’article 238 bis AB | Carlone et l’équipe |
-| [Note de vision State Of The Art](documents/note-de-vision-state-of-the-art.md) | Le projet commun de Medhi, Morgan, Mathys et Carlone | L’équipe |
-| [Sources](sources/) | Propositions de collaboration ; Marwin Tech, choix de structure (29 octobre) ; Marwin Tech, options avantageuses (30 octobre) ; audit STRATES (2 novembre) | L’équipe |
+Les documents faits pour lui être montrés.
 
-Les images des diapositives sont dans [presentation/diapositives](presentation/diapositives/) et les schémas des documents dans [diagrammes](diagrammes/). Les fichiers de [presentation/source](presentation/source/) sont les sources HTML de la présentation en ligne ; le PDF et les images en sont un rendu local.
+| Fichier | Contenu | Date |
+| --- | --- | --- |
+| `pour-carlone/offre-marwin-tech-pour-carlone.pdf` | Diaporama « Offre Marwin Tech pour Carlone », 13 diapositives : ce qui est livré, les volets, le premier mois, les formules, le paiement, STRATES, le laboratoire, les garanties | 2 nov. |
+| `pour-carlone/offre-marwin-tech/` | Les mêmes diapositives en images, et leurs sources HTML | 2 nov. |
+| `pour-carlone/vernissage-strates-diaporama.pdf` | Diaporama du vernissage « Strates », 12 diapositives | 4 nov. |
+| `pour-carlone/vernissage-strates-idees.md` | Le vernissage : parcours en cinq temps, vingt et une idées, trois formats | 4 nov. |
+| `pour-carlone/visuels/` | Six visuels du vernissage, générés par IA : des intentions, pas des photos | 4 nov. |
+| `pour-carlone/strates-proposition-artistique-v1.1.pdf` | Proposition STRATES, BOJ.ART et Marwin Tech, 8 pages | 2 nov. |
 
-## Versions en ligne
+Le PDF de l'offre est un rendu local de sa page en ligne, fait le 4 novembre ; la page reste la référence. Ses visuels sont générés par IA.
 
-Les versions de référence restent les documents en ligne, privés :
+## Interne
 
-- [Présentation](https://claude.ai/artifact/1cQAdJFmYQpJQUy676NYVL)
-- [Offre détaillée](https://claude.ai/artifact/G7MR3rW9P6osDQiyzxfhdM)
-- [Audit](https://claude.ai/artifact/RdJ3zRdkFtxKfoFx5CeM2g)
-- [Catalogue d’offres du CRM](https://claude.ai/artifact/Q7MyT5HvBoYF8xiJZhzsc1)
-- [Note de vision](https://claude.ai/artifact/CUGhjw8dJa1Fsys3KG3Z4W)
+Les documents de travail de Morgan et Mathys : rémunération, positions de négociation, risques. Ils ne sont pas destinés à Carlone.
 
-## À savoir
+| Fichier | Contenu | Date |
+| --- | --- | --- |
+| `interne/contexte-projet-carlone.md` | Dossier de contexte : qui est qui, chronologie, chantiers, décisions | 4 nov. |
+| `interne/offre-marwin-tech-remuneration-et-collaboration.md` | L'offre, la rémunération de chacun, la préparation du rendez-vous | 2 nov. |
+| `interne/audit-marwin-tech-carlone.md` | Audit de l'offre : risques et solutions | 2 nov. |
+| `interne/offres-de-carlone-catalogue-crm.md` | Neuf offres de vente d'œuvres aux entreprises, avec l'avantage fiscal | 2 nov. |
+| `interne/state-of-the-art-note-de-vision.md` | Note de vision State Of The Art | 2 nov. |
+| `interne/diagrammes/` | Les sept schémas de ces documents, en images | 2 nov. |
+| `interne/strates-audit-robotique-ia.pdf` | Audit robotique et IA de STRATES | 2 nov. |
+| `interne/marwin-tech-options-avantageuses-2026-10-30.pdf` | Proposition d'accompagnement et laboratoire (pp. 1-16), annexe des fondateurs sur la structure et la rémunération (pp. 17-26) | 30 oct. |
+| `interne/marwin-tech-choix-structure-2026-10-29.pdf` | Choix de la structure de Marwin Tech | 29 oct. |
 
-- Les visuels de la présentation sont générés par IA : ils montrent une intention, aucune réalisation.
-- Les simulations de rémunération n’ont pas été validées par un expert-comptable.
-- Le CRM et les données de ses prospects restent dans le dépôt FinanceScope/CRM-Carlone ; ils ne sont pas copiés ici.
+## Sources
+
+| Fichier | Contenu | Date |
+| --- | --- | --- |
+| `sources/propositions-de-collaboration.pdf` | Les huit missions proposées à Carlone | 18 oct. |
+| `sources/rapport-recherche-fusion-des-univers.md` | Rapport « Fusion des univers », d'où viennent les idées du vernissage | 4 nov. |
+
+## Ce qui n'est pas ici
+
+- **Le CRM** et ses données vivent dans le dépôt FinanceScope/CRM-Carlone ; ils contiennent les coordonnées des entreprises prospectées.
+- **Le dossier « Partenariats entreprises Nièvre »** de Mathys nomme des dirigeants et leurs contacts.
+- **Les vidéos** de la session STRATES.
+
+Les versions vivantes de ces documents sont des pages privées sur claude.ai, que seul Morgan peut ouvrir.
