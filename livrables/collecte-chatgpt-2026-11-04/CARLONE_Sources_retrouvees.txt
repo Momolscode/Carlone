@@ -1,0 +1,1154 @@
+
+
+
+
+
+
+CARLONE — SOURCES RETROUVÉES
+
+Collecte du 4 novembre 2026.
+
+Couverture : 219 conversations répertoriées, 153 lectures réussies, 66 refusées. Lecture parfois limitée aux derniers échanges.
+
+
+Structurer Marwin Tech
+
+https://chatgpt.com/c/6adf6332-ba8c-832a-b993-206d087466db
+
+UTILISATEUR
+Let’s go fais moi cette ébauche. 
+Que l’ont avance.
+
+ASSISTANT
+**C’est fait : Éclosion a maintenant une première ébauche mécanique en 3D.**
+
+Le dossier comprend :
+
+- **Un plan coté** : pétale de 150 × 54 mm, axe de 3 mm et socle de 100 × 90 mm.
+- **Quatre pièces en STEP et STL**, avec les sources modifiables.
+- **Un calcul d’effort** : cible provisoire de 0,08 N·m, pour une masse mobile maximale supposée de 35 g.
+- Une notice et un petit coupon pour vérifier les alésages.
+
+**Contrôles effectués :** géométries et maillages vérifiés ; aucune collision entre pétale et socle sur les 61 positions contrôlées après correction.
+
+Le plan et les calculs :
+
+:chatgpt-content-reference{index="0"}
+
+[**Télécharger les fichiers 3D et les sources**](https://chatgpt.com/library?file_id=libfile_df91bd13b6408191aba7a00365f0dd5d&account_id=personal)
+
+Le support moteur et son couplage restent à adapter au matériel retenu. L’assemblage physique et sa résistance restent à éprouver.
+
+**Prochaine action : imprimer uniquement le coupon d’alésages, puis vérifier le passage de l’axe réel.** Cela permettra d’ajuster les jeux avant d’imprimer le module complet.
+
+UTILISATEUR
+Mmhhh
+
+ASSISTANT
+**Qu’est-ce qui te fait hésiter : trop technique, pas assez spectaculaire, ou l’idée du pétale ne te parle pas ?**
+
+L’ébauche montre surtout la mécanique. Elle ne transmet pas encore toute l’ambition artistique du lieu qu’on imagine.
+
+UTILISATEUR
+Fais moi voir un visuel d’un rendu final
+
+ASSISTANT
+**Voilà Éclosion dans sa forme finale envisagée** : pétales ivoire et or, cœur lumineux et mécanisme dissimulé dans le socle.
+
+Une projection artistique à traduire ensuite en conception mécanique.
+
+UTILISATEUR
+Anime la moi
+
+ASSISTANT
+**Voici Éclosion animée** : fermeture puis réouverture des pétales, en 8 secondes, sans son.
+
+
+
+::chatgpt-content-reference{index="0"}
+
+
+
+[Télécharger la vidéo](https://chatgpt.com/library?file_id=libfile_89659f0afae88191a13f07a0fdc84763&account_id=personal)
+
+UTILISATEUR
+Pousse sur le github de Carlone tout ce qui lui concerne
+
+ASSISTANT
+C’est poussé sur le dépôt privé **[Momolscode/Carlone](https://github.com/Momolscode/Carlone)** : offres, études du laboratoire IA/robotique, Éclosion, STRATES, animations, fichiers 3D et archives financières.
+
+Les documents existants sont conservés, avec un index distinguant les propositions des anciennes études. Le CRM reste dans son dépôt actuel.
+
+**48 fichiers ajoutés et README enrichi.** Quatre visuels indisponibles sont signalés dans l’inventaire.
+
+[Voir le commit vérifié](https://github.com/Momolscode/Carlone/commit/b2050059dc0653fe9391a3aeb67f56d5b4c14eb6).
+
+Bras robotique précis
+
+https://chatgpt.com/c/6ae7c762-6630-83eb-afde-680aa0c54b2e
+
+UTILISATEUR
+D’accord d’accord garde ça comme un projet plus que pertinent voir même comme une offre à proposer à un investisseur avec un cahier des charges, une road map de A à Z de l’entraînement des coûts des problèmes à consacrer et des solutions immédiates qui pourrait être mis en place
+
+ASSISTANT
+C’est fait : **le projet de peinture robotique BOJ.ART est formalisé pour une discussion avec un investisseur.**
+
+- [Dossier investisseur — PDF, 23 pages](https://chatgpt.com/library?file_id=libfile_e3e6f830cb788191830313eef7fcece3&account_id=personal) : cahier des charges, entraînement de A à Z, roadmap, risques, solutions et actions des trente premiers jours.
+- [Budget modifiable — Excel](https://chatgpt.com/library?file_id=libfile_eec6dbb556648191a9d76b20ff701dda&account_id=personal) : 53 postes de dépenses, financement par étapes et simulation du coût par figurine.
+
+La proposition prévoit **10 000 € pour commencer par les mesures et le cadrage**, puis un programme indicatif de douze mois estimé à **323 875 € HT, réserve comprise**. L’enveloppe investisseur proposée est de 325 000 €, débloquée progressivement selon les résultats.
+
+Ces montants restent des estimations à confirmer par devis. Le premier objectif concret est de démontrer des traits précis et reproductibles sur une sculpture connue, puis d’élargir les détails et l’autonomie.
+
+UTILISATEUR
+L’investisseur en question serait Carlone mais qu’est ce qui coûte aussi chère ? Pour arriver à ce genre de bras robotique fonctionnel ?
+
+ASSISTANT
+**Le plus gros coût que j’ai prévu, c’est le travail de développement : presque 200 000 € sur un an.** Les 325 000 € correspondent au programme complet de recherche et développement. J’aurais dû mieux distinguer cela du coût d’un premier bras peintre.
+
+Dans mon estimation :
+
+| Poste | Budget HT |
+|---|---:|
+| Bras robotique et contrôleur | 10 500 € |
+| Caméras, capteurs, supports, protections, outils et rinçage | 26 000 € |
+| Travail : robotique, IA, mécanique, peintre, intégration et validation | 199 850 € |
+| Essais, consommables, calcul, maintenance et fonctionnement | 22 750 € |
+| Réserve pour imprévus | 64 775 € |
+| **Total** | **323 875 €** |
+
+Pour situer le matériel : le bras UFACTORY 850 avec contrôleur DC est actuellement affiché à **11 798,56 € TTC**, hors livraison. Il faut ensuite construire et programmer son équipement de peinture. :chatgpt-content-reference{index="0"}
+
+**Ce qui fait monter mon budget, ce sont les journées de spécialistes.** J’ai notamment compté 200 journées de robotique et d’IA à 650 €/jour, soit 130 000 €. Ce sont des hypothèses de planification, pas des devis obtenus.
+
+La difficulté technique consiste à régler ensemble la position du pinceau, sa flexion, la pression, la quantité de peinture et l’observation du résultat. Puis à vérifier que cela fonctionne sur plusieurs pièces et après nettoyage.
+
+**Pour Carlone, je présenterais d’abord un démonstrateur beaucoup plus ciblé :**
+
+- Une figurine connue, immobilisée dans un support.
+- Un pinceau fixé au bras et une couleur.
+- Une bordure ou un motif précis à reproduire.
+- Chargement et nettoyage manuels.
+- Mesure de la qualité et du temps réellement gagné.
+
+Le matériel initial prévu pour cette version représente **environ 25 000 € HT**, avant le travail d’intégration. On peut réduire les dépenses externes en réutilisant l’atelier, le PC, les logiciels existants et en réalisant une partie du développement nous-mêmes ; notre temps reste à compter.
+
+Pour Carlone, la proposition serait donc : **financer une première capacité mesurable, puis décider de l’investissement suivant sur les pièces réellement peintes.** Le montant de 325 000 € reste une hypothèse de programme complet, pas un minimum démontré pour démarrer.
+
+UTILISATEUR
+Carlone vend des œuvre d’art il est moins figurine hehe mais azy ton test me paraît bien retravaille l’idée et prépare moi des visuels state of the art merci
+
+UTILISATEUR
+Je restes sur le fait que cela paraisse réalisable n’est-ce pas ? Peux-tu me faire une vidéo higgfield et approfondir ce sujet ?
+
+ASSISTANT
+**Oui, une première version bien délimitée me paraît techniquement réalisable** : un bras qui peint au pinceau un motif précis sur un relief connu. La maîtrise de tous les détails sur n’importe quelle sculpture reste une ambition à développer progressivement.
+
+J’ai créé cette vidéo avec **Higgsfield / Kling 3.0 Pro** : 10 secondes, en version muette. Elle illustre le geste envisagé sur STRATES ; c’est une **visualisation IA**, pas une démonstration du prototype.
+
+
+
+::chatgpt-content-reference{index="4"}
+
+
+
+Les recherches apportent des preuves encourageantes :
+
+- **Peindre sur une courbure est déjà démontré.** Une étude utilise un pinceau robotisé sur du papier placé sur une surface courbe connue. Notre relief minéral demanderait ses propres essais. :chatgpt-content-reference{index="0"}
+- **Apprendre l’effet des gestes fonctionne déjà sur toile.** FRIDA utilise de vrais traits pour modéliser le pinceau, puis photographie la peinture pour ajuster son plan. :chatgpt-content-reference{index="1"}
+- **Le contact reste déterminant.** IMPASTO combine apprentissage et commande de force ; ses auteurs signalent encore des échecs lorsque le pinceau s’use ou que la peinture devient trop sèche ou humide. :chatgpt-content-reference{index="2"}
+
+Ton intuition sur l’entraînement est donc pertinente. **Le contexte utile doit comprendre ce qui se passe physiquement** : position, angle, pression, quantité de peinture et résultat photographié. Le robot pourra alors apprendre quelles corrections améliorent réellement le trait.
+
+Pour STRATES, je commencerais avec un pinceau fixé au bras, une couleur et un segment de 10–15 cm. Une trajectoire programmée permettrait d’obtenir une première référence ; l’apprentissage servirait ensuite à corriger les défauts persistants.
+
+J’ai enrichi le dossier pour Carlone : **8 pages**, avec sources, montage minimal, problèmes et solutions, campagne de calibration, critères de réussite et planning indicatif de six semaines après accès au matériel.
+
+[CARLONE_STRATES_Proposition_Artistique_2026-11-02.pdf](https://chatgpt.com/library?file_id=libfile_aa945192989081918f7dfe573ae0901e&account_id=personal)
+
+UTILISATEUR
+Audit ce projet comme un ingénieur en robotique spécialisé dans l IA ayant eu 220 à son test de QI
+
+ASSISTANT
+**Mon verdict : STRATES mérite un prototype physique. Le projet est techniquement crédible, mais l’achat d’une cellule complète et la promesse d’une peinture entièrement autonome seraient prématurés.**
+
+J’ai audité les trois documents actuels, recalculé les 53 lignes budgétaires et vérifié les références techniques. Voici les conclusions qui changent réellement la décision.
+
+**1. Le premier risque est le dépôt de peinture.**
+
+Un bras peut suivre une courbe. Obtenir un trait propre dépend aussi de la flexion du pinceau, de son chargement, de la rugosité, de l’absorption et du séchage. IMPASTO montre précisément que l’usure du pinceau et l’état du pigment peuvent provoquer des échecs malgré une bonne planification. :chatgpt-content-reference{index="0"}
+
+Je commencerais donc par qualifier le couple **pinceau–peinture–support**, avant de choisir définitivement le robot.
+
+**2. Ton intuition sur l’apprentissage est pertinente, avec une condition : mesurer le monde réel.**
+
+Le contexte utile comprend les images, les mouvements effectivement exécutés, les efforts, l’état du pinceau et les résultats après séchage.
+
+Exemple calculé : à 10 mm/s, un décalage de seulement 20 ms entre mesure et mouvement introduit **0,20 mm d’erreur dans l’association des données**. La qualité des données peut compter davantage que leur quantité.
+
+La première IA devrait apprendre à prédire et corriger le dépôt, avec une comparaison contre une recette programmée déjà fonctionnelle.
+
+**3. Le matériel reste insuffisamment spécifié pour acheter.**
+
+J’ai relevé une ambiguïté concrète : le dossier cite une résolution d’effort de 0,15 N dans un ancien manuel ; la fiche actuelle du capteur UFACTORY AI1500 indique **0,4 N**. Ces références ne doivent pas être considérées comme interchangeables. :chatgpt-content-reference{index="1"}
+
+Il faut aussi comparer un bras de laboratoire et un banc cartésien adapté au relief. Le besoin d’orienter le pinceau décidera du nombre d’axes nécessaire.
+
+**4. La fiabilité demande une preuve plus solide qu’une belle démonstration.**
+
+Mon calcul confirme que **19 réussites sur 20 ne prouvent pas 95 % de fiabilité** : la borne inférieure exacte, unilatérale à 95 %, est d’environ **78,4 %**. Le rapport précise les hypothèses et un protocole de qualification plus robuste. :chatgpt-content-reference{index="2"}
+
+Il traite aussi un défaut souvent oublié : après un arrêt, recommencer le même mouvement peut déposer une seconde couche indésirable. Le système doit inspecter l’état réel de la peinture avant de reprendre.
+
+**5. Le modèle économique doit correspondre à Carlone.**
+
+Le budget initial est arithmétiquement cohérent. Mais **77,1 % de sa base correspond au travail humain**, contre **0,87 % au calcul GPU externe**.
+
+Surtout, une œuvre unique absorbe beaucoup moins facilement les heures de préparation qu’une série. Pour Carlone, la preuve décisive sera une œuvre convaincante, son coût complet et un intérêt commercial réel.
+
+**Je recommande trois engagements successifs :** qualifier la matière et la mesure ; démontrer un geste répétable sur un équipement disponible ; produire une œuvre pilote avant d’élargir l’autonomie.
+
+Le rapport de **12 pages** contient l’architecture, le budget d’erreur, les risques prioritaires, les calculs et les décisions à prendre. Il s’agit d’un audit de conception ; aucun essai physique n’a encore validé STRATES.
+
+[:chatgpt-content-reference{index="4"}](https://chatgpt.com/library?file_id=libfile_8bd7d413981081919fd42e60c7f66cd0&account_id=personal)
+
+Travail pour Marwin Studio
+
+https://chatgpt.com/c/6add7150-1754-8333-aa11-6fdb10d35d17
+
+UTILISATEUR
+Ah oui mais faut quand même qu’il me paye ce monsieur moi je peux lui faire une offre d accompagnement. Je peux faire office de consultant, studio marketing et bien d’autre cordes à mon arc. Et je penses qu’une DGX Spark déjà en matériel ça serait sympa il a investis dans des bureaux pour du personnel ont en ferait partie donc c’est cool. 
+Aux direction des opération de cosne cours sur Loire .
+Ça pourrait me donner cette air. J’aime bien.
+Allons vers un nouvel ère où Marwin Tech existe pour faire le bien et gagner contre le mal. Lutter contre l’impossible.
+
+ASSISTANT
+**Oui : ton accompagnement doit faire l’objet d’une offre rémunérée.** Quali Contact peut assurer sa prestation, et vous pouvez vendre votre propre travail de conseil, de création et de coordination.
+
+J’ai préparé une base de proposition **Marwin Tech** :
+
+| Composante | Ce que vous facturez |
+|---|---|
+| **Cadrage initial** | Reprise des projets, priorités, responsabilités et feuille de route |
+| **Accompagnement mensuel** | Conseil et coordination, avec un nombre de jours défini |
+| **Productions sur devis** | CRM, intégrations, présentations, visuels, vidéos et campagnes |
+| **Budget matériel distinct** | Équipement et logiciels nécessaires aux missions retenues |
+
+Le positionnement proposé est : **« Marwin Tech — Conseil, studio marketing et coordination des opérations à Cosne-Cours-sur-Loire ».** Une fonction de direction des opérations pourra se négocier avec John-Lucas, avec les responsabilités et les moyens correspondants.
+
+Pour la **DGX Spark**, NVIDIA la destine notamment au développement et à l’exécution d’IA locale. On peut l’étudier pour vos usages, puis défendre son financement avec des tests et un devis précis. :chatgpt-content-reference{index="0"} Les bureaux, le matériel et tes honoraires doivent chacun être clairement définis.
+
+Et ta vision de Marwin Tech peut devenir une ligne de conduite concrète : **résoudre des problèmes utiles, respecter les personnes, rémunérer le travail et tenir les engagements pris.**
+
+Pour chiffrer la proposition, deux informations : **tu te projettes comme prestataire Marwin Tech ou salarié chez John-Lucas ? Et combien de jours par semaine souhaites-tu consacrer à cette affaire ?**
+
+::page-preview{page_id="page_b393673dd9f481919152c334ac61444b"}
+
+UTILISATEUR
+Je préfère être prestataire ou salarié. Oui, mes pouvoirs fait en sorte d’être payé en plus par des missions de prestation.
+D’ailleurs moi et Matisse se posons la question de comment structuré une société, une boîte qui peut littéralement tout faire.
+
+ASSISTANT
+**Oui, vous pouvez construire Marwin Tech comme une société multiactivités à deux.** Le modèle que je propose : prendre en charge un projet complet, mobiliser les bonnes compétences et livrer un résultat vérifiable.
+
+Une seule entreprise pourrait réunir ces pôles :
+
+| Pôle | Ce que vous vendez |
+|---|---|
+| **Conseil et opérations** | Organisation, stratégie et coordination de projets |
+| **Studio marketing** | Identité, supports commerciaux, photo, vidéo et campagnes |
+| **Technologie** | CRM, logiciels, sites, automatisations et intégrations IA |
+| **Fabrication** | Prototypes et productions correspondant à vos compétences et équipements |
+
+L’objet social peut couvrir plusieurs activités, avec une rédaction suffisamment précise. Les métiers réglementés conservent leurs conditions de qualification, d’autorisation et d’assurance. :chatgpt-content-reference{index="0"}
+
+**Commercialement, je commencerais par trois offres faciles à comprendre :**
+
+- **Cadrer** : diagnostic et feuille de route, facturés au forfait.
+- **Produire** : un livrable défini, sur devis.
+- **Piloter** : un accompagnement mensuel avec du temps réservé.
+
+Pour la forme juridique, **SAS et SARL sont les deux pistes à comparer** : davantage de liberté d’organisation pour la SAS, un fonctionnement plus encadré pour la SARL. Le choix dépendra notamment de vos rôles et de vos rémunérations prévues. :chatgpt-content-reference{index="1"}
+
+Concernant tes revenus, **si tu envisages un salaire complété par des prestations**, le cumul est possible sous conditions. Il faut notamment respecter le contrat de travail, la loyauté envers l’employeur et distinguer le temps salarié de l’activité indépendante. Un montage avec John-Lucas comme employeur et client devra être examiné précisément. :chatgpt-content-reference{index="2"}
+
+Entre vous deux, les premières décisions seront **les apports, les rôles, le capital, la rémunération, les droits sur les créations et les règles de départ**.
+
+J’ai préparé cette structure dans un dossier commun. Votre prochain travail concret : choisir les trois prestations que vous pouvez déjà livrer et préciser qui prend chacune en charge.
+
+::page-preview{page_id="page_d8173b0839e0819193985bc3877b2217"}
+
+UTILISATEUR
+Ok toutes ces étapes faut tu me crées des rappels pour.
+Et continue à trouver des solutions innovantes et créatives pour ce projet state of the art
+
+ASSISTANT
+C’est fait, Morgan. **Les huit rappels sont actifs**, autour de **15 h, heure de Paris** :
+
+| Date | Étape |
+|---|---|
+| 26 octobre | Rôles, compétences et disponibilité |
+| 27 octobre | Trois offres commercialisables |
+| 28 octobre | Budget et rémunération |
+| 29 octobre | Structure juridique et activités |
+| 30 octobre | Accord entre associés |
+| 2 novembre | Accompagnement rémunéré de John-Lucas |
+| 3 novembre | CRM et outils Quali Contact |
+| 4 novembre | Première mission et points restant à régler |
+
+Chaque rappel proposera **une action de 20 à 30 minutes**, en tenant compte des décisions déjà consignées.
+
+**Chaque jeudi matin, dès le 29 octobre**, une veille cherchera les avancées utiles : trois pistes maximum et un seul essai proposé, avec critères de réussite.
+
+Première piste préparée : transformer une fiche de mission en brouillon d’offre et kit de travail pour les opératrices. Nous comparerons les méthodes sur des cas fictifs pour mesurer temps gagné et erreurs, suivant une démarche d’évaluation sur cas connus. :chatgpt-content-reference{index="0"}
+
+Le calendrier et le protocole sont enregistrés :
+
+::page-preview{page_id="page_d8173b0839e0819193985bc3877b2217"}
+
+Le pilotage général référence également ces nouveaux suivis :
+
+::page-preview{page_id="page_4ec13488958481919ac2e098f3e4b42a"}
+
+UTILISATEUR
+Continue ta contribution au projet
+
+ASSISTANT
+J’ai ajouté **« Offres & missions »** à ta [tour de contrôle privée](https://marwin-control-room.yellowghost64.chatgpt.site).
+
+Tu peux maintenant :
+
+- Choisir **Cadrer, Produire ou Piloter**.
+- Définir les livrables et les limites de la mission.
+- Chiffrer les jours et tarifs de chacun.
+- Exporter un brouillon et préparer la prochaine action.
+
+**15 tests passent**, avec cinq scénarios fictifs. La sauvegarde et la restauration sont vérifiées. Le CRM réel reste à raccorder.
+
+
+
+::chatgpt-content-reference{index="0"}
+
+
+
+J’ai aussi délimité le premier forfait pour John-Lucas : **feuille de route, fiche mission et cahier de passation**.
+
+Ton prochain bloc de **20 minutes avec Mathys** : préciser votre répartition, vos jours et vos tarifs pour ce cadrage.
+
+::page-preview{page_id="page_b393673dd9f481919152c334ac61444b"}
+
+La structure et la mémoire de pilotage sont actualisées :
+
+::page-preview{page_id="page_d8173b0839e0819193985bc3877b2217"}
+
+::page-preview{page_id="page_4ec13488958481919ac2e098f3e4b42a"}
+
+UTILISATEUR
+Ok je te laisse auditer tout ce qui à étais fais jusqu’à ce jour et ce qui peux être améliorer maintenant, fais les recherches appropriés. State of the art
+Encore merci à toi pour ta collaboration
+
+ASSISTANT
+**Audit réalisé et corrections publiées** dans la [console privée, version 3](https://marwin-control-room.yellowghost64.chatgpt.site). Le [rapport complet](https://chatgpt.com/space/page_25860d1eddf88191a1a4005e3235a5d0) conserve les constats, les recherches et les priorités.
+
+J’ai corrigé notamment :
+
+- **Le contexte affiché** : 24 dossiers, huit missions et cinq films conservés, avec un instantané daté.
+- **Le chiffrage** : un montant ponctuel ne devient plus mensuel sans revoir les volumes.
+- **La mémoire locale** : récupération du suivi précédent, refus des imports incohérents et signalement des sources modifiées.
+- **Le pilotage** : informations anciennes rapprochées et contributions des autres fils préservées.
+
+**33 tests passent pour la console ; 20 pour le pilote mémoire.** Les 22 dépôts sont inventoriés, sans revue exhaustive de leur code. La dernière prévisualisation du navigateur a expiré ; cette limite figure dans le rapport.
+
+La recherche soutient notre direction : contexte structuré, reprise vérifiable et évaluations sur des résultats observables. L’autonomie connectée reste la prochaine étape à prouver. :chatgpt-content-reference{index="0"}
+
+Les priorités sont désormais : chiffrer le cadrage Carlone, identifier précisément l’outil Quali Contact, puis tester une première liaison réelle avec le journal de mémoire.
+
+**Morgan, ton prochain bloc de 20 minutes avec Mathys : responsabilités, jours disponibles et tarifs du premier cadrage.** C’est l’action la plus directe pour avancer vers une mission rémunérée.
+
+https://github.com/Momolscode/Carlone/blob/main/sources/index-integration-chatgpt-2026-11-04.md
+
+# Intégration ChatGPT — 4 novembre 2026
+
+Cet index accompagne les pièces retrouvées dans la conversation de Morgan sur Carlone. Il complète le dépôt existant sans remplacer les décisions et documents des autres conversations.
+
+## Lire en premier
+
+1. [Contexte du dossier existant](../interne/contexte-projet-carlone.md).
+2. [Complément et limites des nouvelles sources](../interne/complement-chatgpt-2026-11-04.md).
+3. [Inventaire technique et provenance](inventaire-integration-chatgpt-2026-11-04.json).
+
+**Le dépôt est privé.** `interne/` contient des rémunérations, stratégies de négociation, budgets et scénarios historiques : ne pas remettre ce dossier au client. `pour-carlone/` regroupe des supports de présentation ; ce classement n'atteste pas leur validation ni leur envoi.
+
+## Pièces ajoutées
+
+| Sujet | Pièces | État |
+| --- | --- | --- |
+| Éclosion | [Concept PDF](../pour-carlone/eclosion/concept-2026-10-31.pdf), [visuel](../pour-carlone/eclosion/visuel-fleur-cinetique.png), [animation 1080p](../pour-carlone/eclosion/animation-concept-1080p-2026-10-31.mp4) | Intention artistique ; aucune construction ou recette attestée |
+| Prototype Éclosion P0 | [Étude mécanique](../interne/eclosion/ebauche-mecanique-p0-2026-10-31.pdf), [archive originale](../interne/eclosion/sources-p0-2026-10-31.zip), [sources CAO extraites](../interne/eclosion/prototype-p0/), [master vidéo archivé en parties](../interne/eclosion/medias-source/) | Prototype numérique ; fichiers extraits sans exécution du script |
+| STRATES | [Concept vidéo IA de 10 secondes](../pour-carlone/strates/bras-robotique-concept-ia-10s.mp4), [relief en galerie](../pour-carlone/strates/relief-mineral-bleu-galerie.png) | Visualisations conceptuelles ; pas une démonstration de robot réel |
+| Laboratoire | [Audit du 31 octobre](../interne/laboratoire/audit-ia-robotique-2026-10-31.pdf), [visuels](../pour-carlone/laboratoire-ia-robotique/visuels/) | Étude et intentions, financement non validé |
+| Structure et rémunération | [Étude du 29 octobre](../interne/archives-marwin-tech/choix-structure-2026-10-29.pdf), [options v5 du 30 octobre](../interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf) | Archives internes ; hypothèses juridiques, sociales et fiscales à réexaminer avant usage |
+| Peinture robotique | [Dossier investisseur v1](../interne/strates/archives-investisseur/dossier-investisseur-v1-2026-11-02.pdf), [budget modifiable](../interne/strates/archives-investisseur/budget-v1-2026-11-02.xlsx) | Ancien scénario R&D ; ne remplace pas STRATES phase 1 |
+| Pages de contexte | [Offres et projets](chatgpt-pages/2026-11-04/carlone-offres-et-projets.md), [accompagnement](chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md) | Copies des pages lues le 4 novembre ; blocs JSON conservés à côté |
+| CRM | [Référence du dépôt et de la branche](crm-reference-2026-11-04.md) | Code et données conservés dans leur dépôt canonique |
+
+La proposition STRATES du 2 novembre et son audit robotique étaient déjà présents, avec les mêmes empreintes : ils n'ont pas été dupliqués.
+
+## Limites de récupération
+
+Quatre références d'images ont été retrouvées mais leurs fichiers binaires n'ont pas pu être récupérés :
+- Atelier MARWIN TECH, art et robotique ;
+- Bras robotique éducatif au cube rouge ;
+- Rivière ultramarine dans la pierre ;
+- Bras robotique peignant un relief fluvial bleu.
+
+Leurs identifiants figurent dans l'inventaire. Les documents en ligne non exportables déjà signalés dans le README restent également hors de cette intégration. Aucun avancement opérationnel n'est déduit de cet archivage.
+
+
+## Fichiers volumineux
+
+La limite de transfert impose deux conditionnements sans perte : le PDF v5 est allégé par suppression de l’enveloppe ASCII85 de ses images (texte et pixels décodés contrôlés identiques) ; son fichier original exact est conservé en `.original.pdf.gz`. Le master vidéo est réparti en trois parties binaires ; le MP4 1080p reste directement utilisable. Le [script de restitution](../tools/restaurer-archives.py) reconstitue et contrôle les originaux dans un dossier de sortie choisi, sans écraser les fichiers existants.
+
+
+https://github.com/Momolscode/Carlone/blob/main/interne/contexte-projet-carlone.md
+
+# Projet Carlone — le contexte réuni
+
+Nov 4, 2026 · @Olsen Morgan
+
+Carlone, marchand d'art venu de l'avenue Montaigne et plus gros client de Morgan et Mathys, est au centre de trois chantiers : son CRM de vente d'œuvres aux entreprises, une offre d'accompagnement de Marwin Tech, et STRATES, une œuvre de BOJ.ART peinte par un bras robotisé pour sa galerie de 2027. Le 4 novembre s'y est ajoutée une proposition d'événement, le vernissage « Strates », avec son document d'idées et son diaporama. Rien n'est signé, et le dépôt GitHub du CRM est toujours public (revérifié le 4 novembre à 16 h 19).
+
+## À faire tout de suite
+
+Le dépôt public est le seul point qui coûte quelque chose chaque jour : je l'ai revérifié ce matin, il est toujours visible de tous.
+
+- [ ] Passer le dépôt GitHub FinanceScope/CRM-Carlone en privé (Settings, Danger Zone, Change visibility). Vérifié le 4 novembre via l'API GitHub : « public », dernier envoi le 30 octobre. L'analyse du 2 novembre y comptait 931 numéros de téléphone, 206 adresses e-mail, 63 fichiers de profils LinkedIn et le rapport destiné à Carlone.
+- [ ] Immatriculer Marwin Tech avant toute facture : SARL à l'IS par défaut, SAS si Carlone entre au capital. Sans société, pas d'acompte possible.
+- [ ] Prendre une RC professionnelle, ouvrir un compte pro et un outil de facturation prêt pour la facture électronique.
+- [ ] Écrire l'accord à trois avec Medhi (rôles, droits, partage des ventes, accès au parc) avant de présenter STRATES à Carlone.
+- [ ] Fixer la date du rendez-vous « argent et rémunération » : d'après le point du matin du 4 novembre, aucun rendez-vous n'est à l'agenda jusqu'au vendredi 6 novembre.
+- [ ] Ne pas présenter l'Artefact « CRM Entreprises Nièvre » du 22 octobre comme l'outil actuel : c'est une ancienne version à 100 entreprises, alors que le CRM livré en compte 500.
+
+## Qui est qui
+
+Quatre personnes, trois pôles : les lieux et l'argent (Carlone), la tech (Morgan et Mathys, sous le nom Marwin Tech), l'art (Medhi, BOJ.ART). Morgan fait le lien et a baptisé l'ensemble « State Of The Art ».
+
+| Personne | Ce qu'on sait | Ce qu'elle apporte ou attend |
+| --- | --- | --- |
+| Carlone | Marchand d'art venu de l'avenue Montaigne ; vend des œuvres avec un avantage fiscal ; a racheté six bâtiments et l'ancienne affaire de Medhi ; connaît BOJ.ART | Une galerie en 2027, des événements, peut-être un cabaret ; propose des bureaux, une bonne rémunération et envisage d'investir dans l'activité de Morgan et Mathys |
+| Morgan | Associé de Mathys ; orchestre BOJ.ART ; construit Jarvis | Le programme, le prix, la coordination des trois pôles |
+| Mathys Couet | Associé de Morgan ; co-auteur du CRM ; auteur du dossier du 21 octobre | La technique, le CRM, l'exploitation |
+| Medhi | BOJ.ART est son projet (sculptures, figurines, finition) ; parc d'impression 3D ; Morgan le connaît depuis un an et demi | La création, l'atelier, les machines ; « plus que partant » |
+
+Les liens existent déjà deux à deux : Carlone et Morgan/Mathys par le CRM, Carlone et Medhi par le rachat de son affaire, Medhi et Morgan par BOJ.ART et Jarvis. Tout ce qui précède vient des messages de Morgan du 2 novembre, repris dans la note de vision ; je n'ai fait aucune recherche sur ces personnes.
+
+## Chronologie
+
+Le projet part d'une offre de huit missions le 18 octobre et culmine le 2 novembre, avec la préparation complète du rendez-vous sur la rémunération.
+
+| Date | Ce qui s'est passé |
+| --- | --- |
+| 4 nov. | Dépôt du CRM toujours public (vérifié). Aucun rendez-vous à l'agenda jusqu'au 6 novembre. Proposition de vernissage « Strates » : document d'idées avec six visuels générés par IA, puis diaporama de 12 diapositives pour Carlone, exporté en PDF. |
+| 2 nov. | Préparation du rendez-vous « argent et rémunération » : note de vision State Of The Art, catalogue des offres de Carlone, offre Marwin Tech (document de travail et diaporama de 13 diapositives), audit Marwin Tech × Carlone, audit STRATES, proposition artistique STRATES v1.1 en PDF. |
+| 1 nov. | Récupération des archives BOJ.ART (trois zips, Jarvis M07). |
+| 30 oct. | « Marwin Tech, options avantageuses » (26 pages) : SARL à l'IS retenue comme référence. Dernier envoi sur le dépôt du CRM. |
+| 29 oct. | Rapport CRM Nièvre et Hermes360 ; « Marwin Tech, choix de structure » (7 pages). |
+| 23 oct. | Troisième zip du CRM : 500 entreprises, champs « art » et contacts finance. Jamais repris dans l'Artefact. |
+| 22 oct. | Avant un rendez-vous, mise en ligne du CRM en Artefact (deuxième zip, avec l'onglet Culture et ses 97 prospects), plus recherche Ctrl+K et liens d'appel. Invitation GitHub au dépôt FinanceScope/CRM-Carlone. |
+| 21 oct. | Dossier de Mathys « Partenariats entreprises Nièvre – Le Vieux Relais & le M » : top 100 Pappers, 15 entreprises à contacter en premier. |
+| 18 oct. | PDF « Propositions de collaboration » : huit missions (suivi des établissements, études de rentabilité, gestion administrative, prestataires, outils après chaque rachat, catalogue privé des œuvres, séjours des invités, événements art et restauration). |
+
+Le CRM a changé de but en route : pensé le 21 octobre pour amener les entreprises au Vieux Relais et au M, il sert au 2 novembre à vendre des œuvres d'art aux entreprises avec un avantage fiscal.
+
+## Les chantiers
+
+Un seul chantier est livré, le CRM, et il l'a été sans facture ; les cinq autres sont des propositions.
+
+| Chantier | Où il en est |
+| --- | --- |
+| CRM de vente d'œuvres | Livré : 500 entreprises de la Nièvre classées en vagues, 471 numéros, 60 interlocuteurs finance ou RH, 125 fiches d'appel, plafond fiscal et économie d'impôt calculés par entreprise, onglet Culture (97 artistes et structures), version autonome sur Firebase prête à installer. Aucune facture à ce jour. |
+| Catalogue d'offres de Carlone | Brouillon du 2 novembre : neuf offres en quatre familles (entreprises, suivi, artistes, galerie 2027). Une seule est déjà dans le CRM : l'œuvre exposée. Tout doit être validé par l'expert-comptable de Carlone. |
+| Accompagnement Marwin Tech | Offre de six mois prête (document et diaporama) ; rien de signé ; Marwin Tech pas encore immatriculée ; l'entité de Carlone qui paiera n'est pas identifiée. |
+| STRATES | Relief mural d'environ 90 × 65 cm peint au pinceau par un bras robotisé, pour la galerie. L'audit du 2 novembre est favorable à un banc d'essai ciblé ; rien n'est fabriqué ni mesuré ; les visuels et le film sont générés par IA. |
+| Vernissage « Strates » | Proposition du 4 novembre : une soirée en cinq temps qui montre l'œuvre naître, vingt et une idées, trois formats de 6 à 30 journées, six visuels générés par IA. Diaporama prêt pour Carlone ; honoraires estimés, à fixer par Morgan. |
+| State Of The Art | Note de vision du 2 novembre ; forme juridique non décidée ; un projet commun à la fois : STRATES d'abord, la galerie ensuite, le cabaret plus tard. |
+
+Côté Medhi, trois documents BOJ.ART du 2 novembre (plan Jarvis, contenu premium, état d'avancement) et la veille « Outils 3D de l'atelier » du 4 novembre décrivent l'atelier ; aucun ne mentionne Carlone.
+
+## L'offre Marwin Tech en chiffres
+
+Un taux unique de 750 € HT la journée-personne et deux niveaux de temps réservé : on ajuste le périmètre, jamais le taux.
+
+|  | Formule de base | Renforcement |
+| --- | --- | --- |
+| Honoraires (HT par mois) | 15 000 € | 30 000 € |
+| Temps réservé par mois | 20 journées (140 h), un mi-temps chacun | 40 journées (280 h), un plein temps chacun |
+| Total sur six mois (HT) | 90 000 € | 180 000 € |
+| Net estimé par personne et par mois | ≈ 3 660 € | ≈ 7 500 € |
+
+- **Paiement.** Acompte de 7 500 € à la commande ; le travail démarre à sa réception ; mois 2 à 6 payés d'avance.
+- **Premier mois déjà réparti.** Cadrage 6 jours, CRM et campagne pilote 7, copilote Jarvis 4, coordination 3.
+- **Positions de négociation.** Ancre : renforcement plus pilote laboratoire. Cible : base sur six mois avec reconduction. Plancher : environ 10 300 € HT par mois pour 14 journées ; en dessous, refuser ou vendre un lot à prix fixe.
+- **Option laboratoire.** Pilote de 90 jours, 30 000 € HT dont 13 500 € d'honoraires pour 18 journées ; le matériel est acheté et possédé par l'entité de Carlone.
+- **Option création (STRATES).** Phase 1 d'environ 10 000 € HT, dont 6 journées Marwin (4 500 €) ; puis décision. En échange, la galerie obtient la première présentation, une exclusivité sur la série et les films de fabrication.
+- **Option événement (idée du 4 novembre).** Un vernissage mêlant art, IA, impression 3D et robotique, en trois formats de 6 à 30 journées : voir [Vernissage « Strates »](https://claude.ai/artifact/SJ5m7bMW67hztrp2YohmhA).
+- **À ne pas présenter.** Le programme R&D de 323 875 € HT du dossier investisseur : l'audit du 2 novembre le classe comme ancien scénario.
+
+Les revenus nets sont des simulations (modèle SARL à l'IS du 30 octobre) non validées par un expert-comptable. L'objectif de 7 500 € nets chacun suppose le renforcement à plein temps pendant douze mois, alors que le contrat n'en couvre que six.
+
+## Règles et garde-fous
+
+Les sessions précédentes ont déjà fixé ces règles ; elles valent pour tout texte, toute offre et tout rendez-vous du projet.
+
+- **L'avantage fiscal (article 238 bis AB du CGI).** Une société à l'IS, ou une société de personnes (pas les professions en BNC), déduit le prix d'une œuvre originale d'artiste vivant sur cinq ans, un cinquième par an. Plafond annuel : 20 000 € ou 5 ‰ du chiffre d'affaires si c'est plus. Conditions : œuvre exposée au public ou aux salariés, jamais dans un bureau, et réserve spéciale au passif. Le dispositif vaut pour les achats faits avant le 31 décembre 2028.
+- **Les œuvres faites à la machine.** Impression 3D et bras peintre, donc STRATES, sont très probablement exclus de la définition fiscale de l'œuvre originale. Ils se vendent par la galerie, sans argument de déduction, sauf rescrit favorable. Les pièces faites entièrement à la main par Medhi restent éligibles.
+- **Jamais de rendement.** Ni placement, ni plus-value, ni rachat garanti : sinon l'offre bascule dans le régime des intermédiaires en biens divers (dossier préalable à l'AMF, contribution de 8 000 €).
+- **Prospection.** Les textes aux entreprises ne citent ni Le Vieux Relais ni le M. Respecter les oppositions, proposer « STOP », n'utiliser que des coordonnées professionnelles publiées.
+- **Un sujet, un accord.** Honoraires, bureaux, matériel et investissement se négocient séparément. Ne jamais échanger une baisse d'honoraires contre une promesse d'investissement. Garder la majorité à Morgan et Mathys.
+- **Indépendance.** Horaires imposés et place dans les équipes de Carlone sont des indices de salariat : être à la fois salariés et prestataires du même client expose à une requalification.
+- **Ne pas dépendre d'un seul client.** Carlone serait à la fois payeur, bailleur et peut-être associé : chercher un deuxième client d'ici le quatrième mois.
+- **Données.** Rien sur Carlone dans le dépôt public BOJART ; clause de sous-traitance RGPD (article 28) dans le contrat.
+- **Robot en galerie.** Aucune démonstration au milieu du public sans intégrateur, norme ISO 10218-2:2025 et règlement machines (UE) 2023/1230, applicable au 20 janvier 2027.
+- **Droits.** Motifs de Medhi ou œuvres du domaine public ; toute simulation est présentée comme une simulation.
+
+## Décisions attendues
+
+Le rendez-vous doit rapporter quatre réponses : la formule, l'entité qui signe et paie, la date de démarrage et celle de l'acompte.
+
+**À demander à Carlone**
+
+- [ ] Quelle entité signe et paie (dénomination, SIREN), et qui valide les livrables de son côté ?
+- [ ] Quelle formule, quelles priorités parmi les huit missions, et que se passe-t-il après six mois ?
+- [ ] Où sont les bureaux proposés, en zone FRR (Cosne-Cours-sur-Loire) ou non ?
+- [ ] Quelle forme d'investissement, à quel horizon ? Veut-il salarier l'un de vous, et pour quelles fonctions ?
+- [ ] Quelle enveloppe pour la phase 1 de STRATES, et quelle exclusivité sur les œuvres ?
+- [ ] Au nom de quelle structure les œuvres sont-elles vendues ? Le CRM attend ce nom dans chaque mail.
+- [ ] Quels artistes et quelles œuvres sont disponibles, à quelle fourchette de prix pour une entreprise de la Nièvre ?
+- [ ] Qui est son expert-comptable ou son avocat fiscaliste ?
+- [ ] Pour la galerie 2027 : quels bâtiments, quelles dates, quel public ? Le cabaret tient-il toujours ?
+- [ ] Pour le vernissage « Strates » : quel lieu, quelle date, combien d'invités, quel budget hors honoraires et quel format ?
+
+**À trancher entre Morgan et Mathys**
+
+- [ ] La cible personnelle : 2 500 € nets avec réserve, 3 660 € sans, ou 7 500 € à plein temps.
+- [ ] Le temps que chacun peut réellement donner, et le partage de la parole (Morgan : programme et prix ; Mathys : technique et CRM).
+- [ ] Le capital, les rôles et la propriété du CRM déjà livré et de ses données.
+- [ ] La situation ACRE et France Travail de chacun, et l'adresse d'exploitation de Marwin Tech.
+
+**À régler avec Medhi**
+
+- [ ] Le motif et le format de STRATES (90 × 65 cm dans l'audit, 90 × 56 cm dans la simulation).
+- [ ] L'inventaire de son parc : modèles, volumes, matières.
+
+**Réponses déjà notées par Morgan** dans la note de vision : la case « structure qui porte l'activité » est cochée ; la forme de State Of The Art, « on sait pas encore » ; le rôle de Mathys, « tout comme moi » ; l'inventaire du parc, « à faire ». À la ligne « part maximale des revenus venant de Carlone », la réponse s'arrête sur « 10 millions » : à compléter.
+
+## Où sont les documents
+
+Les pages de travail sont toutes privées dans tes Artefacts ; les originaux sont dans ton dossier Téléchargements.
+
+| Document | Date | Où |
+| --- | --- | --- |
+| [Vernissage « Strates » pour M. Carlone](https://claude.ai/artifact/MtFJQHzyJNhmojNRqtT57a) (diaporama de 12 diapositives, pour lui) | 4 nov. | Artefact |
+| Vernissage « Strates » pour M. Carlone.pdf (export du diaporama) | 4 nov. | Téléchargements |
+| [Vernissage « Strates » — un événement à ajouter à l'offre](https://claude.ai/artifact/SJ5m7bMW67hztrp2YohmhA) (parcours, idées, formats, six visuels) | 4 nov. | Artefact |
+| rapport\_de\_recherche\_et\_innovation.md (« Fusion des univers », source des idées de vernissage) | 4 nov. | Téléchargements |
+| [Note de vision State Of The Art](https://claude.ai/artifact/CUGhjw8dJa1Fsys3KG3Z4W) | 2 nov. | Artefact |
+| [Offres de Carlone — catalogue pour le CRM](https://claude.ai/artifact/Q7MyT5HvBoYF8xiJZhzsc1) | 2 nov. | Artefact |
+| [Offre Marwin Tech à Carlone — rémunération et collaboration](https://claude.ai/artifact/G7MR3rW9P6osDQiyzxfhdM) (document de travail, sections internes) | 2 nov. | Artefact |
+| [Offre Marwin Tech pour Carlone](https://claude.ai/artifact/1cQAdJFmYQpJQUy676NYVL) (diaporama de 13 diapositives, pour lui) | 2 nov. | Artefact |
+| [Audit Marwin Tech × Carlone : risques et solutions](https://claude.ai/artifact/RdJ3zRdkFtxKfoFx5CeM2g) | 2 nov. | Artefact |
+| CARLONE\_STRATES\_Proposition\_Artistique\_2026-11-02.pdf (8 pages, v1.1) et STRATES\_Audit\_Robotique\_IA\_2026-11-02.pdf | 2 nov. | Téléchargements |
+| [CRM Entreprises Nièvre](https://claude.ai/artifact/QNqpmhLwvPuF6H9Na2ZSZq) (ancienne version, 100 entreprises) | 22 oct. | Artefact |
+| CRM Entreprises Nièvre.zip, (2).zip et (3).zip | 22 et 23 oct. | Téléchargements |
+| Dossier partenariats entreprises Nièvre – Le Vieux Relais & le M.pdf (34 pages, de Mathys) | 21 oct. | Téléchargements |
+| Propositions-de-collaboration.pdf (les huit missions) | 18 oct. | Téléchargements |
+| Dépôt FinanceScope/CRM-Carlone (le CRM à jour, public) | 30 oct. | GitHub |
+| Dépôt Momolscode/BOJART (Jarvis, simulations, audit STRATES) | 2 nov. | GitHub |
+
+## Limites de ce document
+
+Une seule session de ce PC touche au projet : celle du 22 octobre, qui a mis le CRM en ligne. Les documents du 2 novembre viennent d'ailleurs (conversations claude.ai ou sessions dans le cloud) : j'en ai lu les résultats, pas les échanges.
+
+- **Non lus, faute d'accès :** le dossier investisseur, le budget BOJART, « Marwin Tech, choix de structure », « Marwin Tech, options avantageuses », le rapport CRM du 29 octobre et la conversation ChatGPT « Bras robotique précis ».
+- **Issue des rendez-vous inconnue :** rien n'indique avec qui était celui du 22 octobre, ni si le rendez-vous sur la rémunération a eu lieu, ni ce qui a été dit ou signé.
+- **Le Vieux Relais et le M :** aucun document ne dit noir sur blanc qu'ils appartiennent à Carlone ; à confirmer.
+- **Caroline Margeridon :** son dossier des 8 et 9 octobre est un projet distinct ; aucun lien avec Carlone n'apparaît.
+- **Chiffres :** ceux du CRM et des revenus viennent des documents du 2 novembre, sans nouvelle vérification ; seul le caractère public du dépôt a été revérifié aujourd'hui.
+
+
+https://github.com/Momolscode/Carlone/blob/main/interne/offre-marwin-tech-remuneration-et-collaboration.md
+
+# Offre Marwin Tech à Carlone — rémunération et collaboration
+
+Nov 2, 2026 · @Olsen Morgan
+
+## L'offre en une page
+
+*Document de travail de Morgan et Mathys pour le rendez-vous « argent et rémunération » avec Carlone. Les sections sans la mention « interne » peuvent servir de base à la proposition écrite ; les autres restent entre vous deux.*
+
+**Marwin Tech propose à Carlone six mois d'accompagnement**, menés par Morgan Olsen et Mathys Couet : suivre ses établissements, exploiter le CRM déjà livré pour la vente d'œuvres et préparer ses événements. Le travail se répartit en trois volets : **Cadrer** (feuille de route, études de rentabilité, scénarios), **Produire** (CRM, campagnes, catalogue des œuvres, copilote Jarvis) et **Piloter** (suivi des établissements, administration, prestataires, séjours et événements).
+
+|  | Formule de base | Renforcement |
+| --- | --- | --- |
+| Honoraires mensuels | 15 000 € HT | 30 000 € HT |
+| Temps réservé par mois | 20 journées-personnes (140 h) | 40 journées-personnes (280 h) |
+| Soit, pour chacun de vous deux | 10 jours, environ un mi-temps | 20 jours, environ un plein temps |
+| Total si retenu six mois | 90 000 € HT | 180 000 € HT |
+
+- **Taux de référence : 750 € HT la journée-personne.** On ajuste le périmètre et le nombre de jours, pas le taux.
+- **Paiement :** 7 500 € d'acompte à la commande, déduits du premier mois ; solde du premier mois à sa fin, sous 7 jours ; mois 2 à 6 payés d'avance, en début de mois. TVA en sus.
+- **Hors forfait, sur devis ou convention séparés :** bureaux, matériel, IA locale, publicité, fabrication, artistes, travaux et sous-traitants.
+- **Option laboratoire :** pilote de 90 jours, budget de 30 000 € HT dont 13 500 € d'honoraires Marwin ; le reste en achats faits et possédés par l'entité de Carlone.
+- **Option création :** des œuvres de Medhi (BOJ.ART) réalisées avec la robotique et l'IA, à commencer par STRATES pour la galerie ; première phase d'environ 10 000 € HT, puis décision sur pièce.
+- **Chaque mois,** Carlone reçoit le tableau des projets, les livrables avec la capacité consommée et un rapport d'amélioration.
+
+**Ce que le rendez-vous doit trancher :** la formule, l'entité qui signe et paie, la date de démarrage et celle de l'acompte. Les bureaux et l'investissement évoqués par Carlone se règlent dans des accords séparés.
+
+## Ce qui est déjà livré
+
+Marwin Tech a déjà construit l'outil de prospection de la vente d'œuvres. Au 30 octobre, aucune prestation n'avait été facturée. L'accompagnement proposé prend la suite de ce travail.
+
+| Livrable | Contenu | État |
+| --- | --- | --- |
+| CRM Entreprises Nièvre | 500 entreprises classées, 471 numéros, interlocuteurs finance ou RH pour 60 d'entre elles, 125 fiches d'appel approfondies | Prêt à servir (rapport du 29 octobre) |
+| Potentiel œuvres d'art de chaque entreprise | Régime fiscal, résultat, plafond de déduction (le plus élevé de 20 000 € ou 5 ‰ du chiffre d'affaires), économie d'impôt, mail d'approche, note pour l'expert-comptable | Intégré au CRM |
+| Suivi d'appels partagé | Cinq vues : Aujourd'hui, Appels, Entreprises, Culture, Mémo d'appel ; rappels planifiés, agenda, exports | Intégré au CRM |
+| Volet culture | 97 artistes et structures culturelles à démarcher, avec le même suivi | Intégré au CRM |
+| Version autonome | Hébergée sur Firebase sous le compte des associés, connexion Google, suivi synchronisé en temps réel ; ne dépend pas de Claude | Prête à installer (environ 30 min) |
+| Rapport CRM et Hermes360 | Mode d'emploi, données, règles de prospection, compatibilité avec Hermes360 par échange de fichiers | Daté du 29 octobre |
+| Étude Hermes360 et alternatives | Conclusion : outil surdimensionné pour démarrer ; commencer avec le CRM et les téléphones | Réalisée |
+| Catalogue d'offres commerciales | Neuf offres pour vendre les œuvres aux entreprises : œuvre exposée, collection d'entreprise, commande sur mesure, suivi sur cinq ans… | Brouillon du 2 novembre, à valider |
+
+Les droits sur ces livrables, ce qui revient à Carlone et ce qui reste à Marwin Tech, se fixent dans le contrat (voir « Paiement et protections »).
+
+## Les prestations, en trois volets
+
+Les huit propositions de collaboration se rangent dans les trois volets de l'offre. Chaque mois, Carlone choisit ses priorités dans le temps réservé.
+
+| Volet | Propositions | Ce que Carlone reçoit |
+| --- | --- | --- |
+| **Cadrer** | Études de rentabilité : budget prévisionnel, seuil, trois scénarios ; diagnostic des outils après chaque rachat | Une décision chiffrée avant chaque engagement |
+| **Produire** | Catalogue privé des œuvres ; mise en place des outils de chaque établissement ; CRM et campagnes ; copilote Jarvis | Des outils en service, documentés et réversibles |
+| **Piloter** | Suivi centralisé des établissements (encaissements, dépenses, trésorerie, factures, points d'attention) ; gestion administrative déléguée ; coordination des prestataires locaux ; séjours des invités ; événements art et restauration | Un tableau de bord partagé et un point mensuel |
+
+**Le premier mois** (20 journées-personnes) est déjà réparti :
+
+| Travail | Jours | Heures | Résultat |
+| --- | --- | --- | --- |
+| Cadrage | 6 | 42 | Feuille de route et tableau de bord partagé |
+| CRM et campagne pilote | 7 | 49 | Premier lot commercial exploitable |
+| Copilote | 4 | 28 | Démonstrateur Jarvis |
+| Coordination | 3 | 21 | Suivi et arbitrages avec Carlone |
+
+**Ensuite,** le pilotage devient récurrent. En formule de base, chaque mission ajoutée prend la place de jours de cadrage ou de production. Mener les huit propositions de front demande plus de 20 journées par mois : c'est l'objet du renforcement.
+
+**Option laboratoire.** Pilote de 90 jours et 18 journées de R&D : un cas d'IA lié aux projets de Carlone, puis un geste robotique simple sur un banc d'essai. À chaque étape, on autorise, adapte ou arrête ; un bilan précède toute nouvelle tranche. Le démonstrateur Jarvis du forfait reste dans le forfait : aucun travail n'est facturé deux fois.
+
+## Créer des œuvres avec la robotique et l'IA
+
+Marwin Tech et BOJ.ART proposent une ligne d'œuvres créées par Medhi et réalisées avec la robotique et l'IA, à commencer par STRATES pour la galerie. Medhi crée, choisit et signe ; l'IA et le robot sont ses outils. La première étape, environ 10 000 € HT, achète une preuve et une décision, pas un prototype complet.
+
+| Outil | Rôle dans la création |
+| --- | --- |
+| IA de conception | Explorer motifs, variantes, rendus et vidéos d'intention avec Medhi ; toute simulation est présentée comme telle |
+| Bras robotisé | Peindre au pinceau un geste mesuré et répétable, selon une recette approuvée |
+| Vision et mesure | Recaler la pièce, mesurer la largeur du trait et le débordement, inspecter après chaque passe |
+| Modèle appris | Ajuster vitesse, contact ou nombre de passes dans des limites fixées, seulement s'il fait mieux que la recette programmée |
+| Parc d'impression BOJ.ART | Fabriquer coupons, gabarits et porte-outils, puis de petites séries |
+| Jarvis | Interface de l'atelier : il transmet la mission et la recette ; le contrôleur pilote le geste, une chaîne de sécurité indépendante l'arrête |
+
+**STRATES, la première pièce.** Un relief mural en strates d'environ 90 × 65 cm, peint au pinceau par un bras robotisé. Critères proposés pour le premier essai : un trait de 7 mm sur un segment de 10 à 15 cm, une largeur de 6 à 8 mm sur 90 % de la longueur, un débordement d'au plus 1 mm, incertitude comprise. L'audit du 2 novembre est favorable à un banc d'essai ciblé ; aucune performance n'est encore mesurée.
+
+&#91;embedded content: Ligne création · 4 phases, 3 décisions\]
+
+**La phase 1 en pratique.** Proposé : 6 journées Marwin (4 500 € HT), plus la part de Medhi, l'accès à une machine et les consommables sur devis, le tout dans 10 000 € HT. Les cinq premiers jours : un motif, le pinceau et deux rendus limites ; des coupons comparés avec le peintre ; la mesure du trait ; un même cas d'essai soumis à un laboratoire et à un intégrateur ; puis la décision et le plafond de la phase suivante. Si le pilote laboratoire est retenu, son geste robotique devient ce premier trait : rien n'est facturé deux fois.
+
+**Qui apporte quoi**
+
+| Partie | Apporte | Garde |
+| --- | --- | --- |
+| Medhi (BOJ.ART) | Création, direction artistique, signature ; atelier, parc d'impression et Jarvis | Ses œuvres, ses droits d'auteur, ses machines |
+| Marwin Tech | Robotique, IA, logiciels, mesure | Ses outils et composants réutilisables |
+| Carlone | Financement par phase, galerie, vente | Le matériel acheté par son entité |
+
+En échange du financement, la galerie de Carlone obtient la première présentation des œuvres, une exclusivité de vente sur la série pour une durée à fixer et l'usage des films de fabrication. Le partage des ventes entre création, fabrication, technique et lieu s'écrit avant l'œuvre pilote.
+
+**Limites à connaître**
+
+- **Fiscalité.** Une œuvre peinte par un robot ou imprimée en 3D n'entre très probablement pas dans la définition fiscale de l'œuvre d'art, qui vise une peinture « entièrement exécutée à la main par l'artiste ». Sauf rescrit favorable, elle ne passe pas par l'offre de déduction aux entreprises : elle se vend par la galerie. Les pièces peintes entièrement à la main par Medhi restent éligibles si les autres conditions sont remplies. Le taux réduit de TVA des œuvres d'art pose la même question.
+- **Valeur.** La présence d'un robot ne garantit aucune prime de vente. La valeur se juge sur une pièce réelle, posée à côté d'une référence peinte à la main.
+- **Sécurité.** Aucun robot ne travaille au milieu du public sans conception et validation dédiées (ISO 10218-2:2025 ; règlement machines (UE) 2023/1230, applicable au 20 janvier 2027). En galerie, on commence par les films de fabrication et des démonstrations derrière protection.
+- **Droits.** Motifs originaux de Medhi ou œuvres du domaine public ; aucune œuvre protégée sans accord écrit.
+
+## Ce que chaque niveau vous rapporte (interne)
+
+Traduction des honoraires en revenu net pour chacun de vous deux, si le même niveau dure douze mois.
+
+| Honoraires mensuels HT | Jours facturés | Net par personne et par mois | Laissé dans Marwin |
+| --- | --- | --- | --- |
+| 30 000 € (renforcement) | 40 | ≈ 7 500 € | rien |
+| 15 000 € (base), tout en rémunération | 20 | ≈ 3 660 € | rien |
+| 15 000 € (base), avec réserve | 20 | 2 500 € | ≈ 3 900 € par mois |
+| ≈ 10 300 € (plancher) | ≈ 14 | 2 500 € | rien |
+
+*Modèle SARL à l'IS de l'annexe fondateurs du 30 octobre (pp. 18-19) : 30 000 € de frais par an, foyer d'une part, sans ACRE ni FRR ; nets après cotisations et impôt sur le revenu. Le plancher est calculé ici à partir de la p. 19 : 60 000 € nets pour vous deux + 33 332 € de cotisations et d'impôt + 30 000 € de frais = 123 332 € par an. Simulation indicative, à faire valider par un expert-comptable.*
+
+**Ce que cela veut dire pour le rendez-vous**
+
+- **Votre objectif de 7 500 € nets chacun** suppose environ 30 000 € HT par mois pendant douze mois : le renforcement, à plein temps, sans réserve.
+- **Par jour travaillé, base et renforcement paient presque pareil**, environ 370 € nets. Le renforcement double le revenu parce qu'il double votre temps.
+- **La réserve finance le laboratoire, le matériel et un premier recrutement.** En base, 2 500 € chacun laissent environ 46 750 € par an dans Marwin.
+- **Le contrat ne couvre que six mois.** Les montants annuels supposent que les six autres sont financés : demandez une reconduction ou un horizon de douze mois.
+- **Avec le FRR confirmé,** une SARL à l'IR donnerait environ 4 280 € par mois au lieu de 3 660 € au niveau de base. Ne pas le compter avant l'avis du service des impôts.
+
+**Si Carlone préfère vous salarier**
+
+Comparez au coût employeur, pas au net : aux niveaux discutés ici, un salaire coûte à l'employeur de l'ordre de 1,6 à 1,9 fois le net avant impôt, selon le niveau et le statut (à simuler sur le simulateur Urssaf). Le salariat ne vaut que pour des fonctions réellement salariées, avec un contrat distinct ; un CDD exige un motif légal temporaire. Les lots autonomes restent facturés par Marwin. Être à la fois salariés et prestataires du même client expose à une requalification.
+
+**À décider entre vous deux avant le rendez-vous :** la cible personnelle (2 500 € avec réserve, 3 660 € sans, ou 7 500 € à plein temps), le temps que chacun peut réellement donner et le partage du travail entre Morgan et Mathys.
+
+## Bureaux, matériel, investissement (interne)
+
+Carlone propose des bureaux, une bonne rémunération et peut-être d'investir dans votre activité. Règle : un sujet, un accord. Mélanger honoraires, locaux et capital rend chacun plus difficile à négocier, et plus difficile à quitter.
+
+&#91;embedded content: Accords séparés · 4 sujets, le contrat d'abord\]
+
+**Bureaux.** Ils servent d'abord la mission et ne remplacent pas les honoraires. La convention fixe le lieu, les horaires d'accès, les intervenants, l'entretien, l'assurance, les usages partagés et la restitution, à titre gratuit ou avec loyer. Gardez votre propre organisation : des horaires imposés et une place dans ses équipes sont des indices de salariat. L'adresse compte aussi pour le FRR : un bureau réellement utilisé à Cosne-Cours-sur-Loire, commune classée, soutient l'implantation ; un travail régulier hors zone peut réduire ou supprimer l'exonération. À faire trancher par le service des impôts.
+
+**Matériel et laboratoire.** L'entité de Carlone achète et possède le matériel ; Marwin facture seulement les travaux convenus. Toute autre répartition de la propriété demande un accord distinct. Les imprimantes et machines de BOJ.ART restent à leurs propriétaires : y accéder n'en transfère pas la propriété.
+
+**Investissement.**
+
+- L'acompte n'est ni du capital ni un prêt.
+- En parler après les premiers rapports mensuels, une fois la collaboration prouvée.
+- S'il veut investir tout de suite, proposez-lui la ligne création : il finance STRATES phase par phase, chaque tranche débloquée par une preuve, sans entrer au capital de Marwin.
+- Ne présentez pas le programme R&D de 323 875 € HT du dossier investisseur : l'audit du 2 novembre le garde comme ancien scénario et demande de rechiffrer banc et œuvre pilote par livrables.
+- Gardez la majorité à vous deux. Une majorité extérieure ferait perdre l'option IR de la SARL (au moins 50 % des droits de vote aux personnes physiques et 34 % au gérant et son foyer). Elle peut aussi fermer l'ACRE et, selon les conditions de détention, le FRR.
+- Si Carlone entre au capital, la SAS redevient la forme la plus simple pour accueillir un investisseur.
+- Un même client à la fois payeur, bailleur et associé concentre le risque : si la relation s'arrête, honoraires, bureaux et capital s'arrêtent ensemble. Cherchez tôt un deuxième client.
+- N'échangez jamais une baisse d'honoraires contre une promesse d'investissement.
+
+## Quelle société pour facturer (interne)
+
+Marwin Tech n'existe pas encore : ni forme juridique, ni répartition du capital, ni rémunération ne sont décidées. Il faut une société immatriculée pour facturer l'acompte.
+
+**Recommandation la plus récente (30 octobre) :** une SARL à gérance majoritaire, à l'IS, comme prévisionnel de référence, avec une rémunération régulière soutenable, des frais justifiés et une réserve de trésorerie. Le dossier du 29 octobre privilégiait la SAS ; l'annexe chiffrée du 30 le remplace.
+
+| Scénario : 180 000 € HT de chiffre d'affaires par an, 30 000 € de frais | Net annuel par personne, sans FRR | Avec FRR confirmé |
+| --- | --- | --- |
+| SARL à l'IS, tout en rémunération | 43 875 € | 43 875 € |
+| SARL à l'IR | 42 272 € | 51 408 € |
+| SAS à l'IS, 2 500 € par mois + dividendes | 41 080 € | 43 430 € |
+
+**Ce qui peut changer le choix**
+
+- Carlone entre au capital : la SAS, plus souple pour un investisseur.
+- L'un de vous vit d'un emploi extérieur, y compris chez Carlone : SAS à l'IS avec mandat non rémunéré.
+- Le FRR est confirmé et vous retirez l'essentiel des bénéfices : SARL à l'IR, option limitée à cinq exercices.
+
+**FRR (France Ruralités Revitalisation).** Cosne-Cours-sur-Loire (58086) est classée et la fenêtre court jusqu'au 31 décembre 2029. Le classement de la commune ne vaut pas exonération pour Marwin. Il faut prouver une adresse et des moyens réellement utilisés en zone, moins de 11 salariés, un régime réel, l'origine de l'activité (dont le CRM non facturé) et la part de travail hors zone. Cœur de Loire a voté l'exonération de CFE le 26 septembre 2024. Demander un rescrit au service des impôts avant de compter l'exonération.
+
+**Aides à étudier, sans les budgéter**
+
+- ACRE : exonération de 25 % des cotisations couvertes pendant 12 mois si le revenu professionnel ne dépasse pas 36 045 € (2026), dégressive jusqu'à 48 060 € ; demande dans les 60 jours du début d'activité.
+- ARE ou ARCE : selon les droits France Travail de chacun, inconnus à ce jour.
+- Région Bourgogne-Franche-Comté : avance remboursable à la création (20 000 à 200 000 €, ce n'est pas une subvention) ; aide à l'investissement matériel (dépôt avant engagement) ; aide au conseil stratégique pour un client éligible (50 % jusqu'à 15 000 € sur deux ans, dépôt avant signature du devis). Échéance annoncée : 31 décembre 2026, dans la limite des crédits.
+
+**Ordre de lancement**
+
+1. Rôles des deux associés, droits sur les créations, revenu visé, réserve.
+2. Prévisionnel comparé SARL-IS, SARL-IR et SAS-IS, contrôlé par un expert-comptable.
+3. Statuts et pacte entre vous deux.
+4. Formalités d'immatriculation.
+5. Contrat Carlone et facture d'acompte.
+
+Si le contrat doit être signé avant l'immatriculation, il l'est au nom de la société en formation, avec la liste des actes que la société reprendra une fois immatriculée. D'ici là, les signataires en répondent personnellement.
+
+## Paiement et protections
+
+**Échéancier de la formule de base**
+
+| Échéance | Montant HT | Quand |
+| --- | --- | --- |
+| Acompte | 7 500 € | À la commande ; le travail démarre à réception |
+| Solde du premier mois | 7 500 € | Fin du mois 1, payable sous 7 jours |
+| Mois 2 à 6 | 15 000 € par mois | D'avance, en début de mois |
+| Total | 90 000 € | Sur six mois, TVA en sus |
+
+Pour le renforcement, Marwin propose le même calendrier, montants doublés. Bureaux, matériel, IA locale, publicité, fabrication, artistes, travaux et sous-traitants ont leurs propres devis.
+
+**Ce que le contrat fixe**
+
+| Clause | Contenu |
+| --- | --- |
+| Parties | L'entité de Carlone qui signe et paie (dénomination, SIREN) et Marwin Tech |
+| Objet | Formule retenue, volets, temps réservé, priorités du mois |
+| Livrables et réception | Qui valide côté Carlone et sous quel délai ; sans réponse dans ce délai, le livrable est réputé accepté |
+| Paiement | Échéancier ci-dessus ; en cas de retard, pénalités légales et indemnité forfaitaire de 40 € ; travaux suspendus après une relance restée sans effet |
+| Délégation | Plafonds de dépense ; achats au nom de l'entité de Carlone ; aucune dépense hors plafond sans accord écrit |
+| Droits | Trois registres : outils préexistants, composants réutilisables de Marwin, développements propres à Carlone, cédés ou concédés au paiement complet |
+| Données | Accès nominatif aux seuls projets autorisés, sauvegardes vérifiées, règles de conservation et de suppression ; clause de sous-traitance des données personnelles (RGPD, article 28) |
+| Durée et révision | Bilan au troisième mois ; reconduction ou ajustement à six mois |
+| Sortie | Préavis ; remise des fichiers, configurations, documentations et accès |
+| Indépendance | Marwin organise ses méthodes, ses horaires et ses moyens ; d'éventuelles fonctions salariées font l'objet d'un contrat distinct |
+
+**Avant toute facture,** Marwin Tech sera immatriculée. Un acte signé plus tôt l'est au nom de la société en formation, qui le reprend ensuite.
+
+## Préparer le rendez-vous (interne)
+
+**But :** repartir avec quatre réponses : la formule, l'entité qui signe et paie, la date de démarrage et celle de l'acompte. Pour les bureaux et l'investissement, un principe et une date suffisent.
+
+**Avant d'y aller**
+
+- Fixer entre vous deux la cible personnelle et le temps réel de chacun (voir « Ce que chaque niveau vous rapporte »).
+- Répartir la parole : Morgan porte le programme et le prix, Mathys la technique et le CRM.
+- Préparer une proposition à deux lignes, base et renforcement, plus les options laboratoire et création.
+- Obtenir l'accord de Medhi avant de présenter la ligne création : son rôle, le motif de STRATES, le principe du partage des ventes.
+- Décider ce que vous dites du CRM déjà livré : offert à ce jour, droits réglés au contrat, la suite est payante.
+- Passer en privé le dépôt GitHub FinanceScope/CRM-Carlone : il est public et contient des numéros, des e-mails et des fiches LinkedIn de prospects.
+- Si l'aide régionale au conseil stratégique intéresse Carlone, ne pas lui faire signer le volet Cadrer avant le dépôt du dossier.
+
+**Ordre du jour (50 minutes)**
+
+1. Ce qui est livré (5 min)
+2. Ses priorités parmi les huit propositions (10 min)
+3. Formule et prix (10 min)
+4. Ligne création : STRATES et la phase 1 (5 min)
+5. Paiement et démarrage (5 min)
+6. Bureaux (5 min)
+7. Investissement : principe et calendrier (5 min)
+8. Prochaines étapes, qui fait quoi (5 min)
+
+**Positions**
+
+|  | Proposition | Si ça coince |
+| --- | --- | --- |
+| Ancre | Renforcement à 30 000 € HT par mois, plus le pilote laboratoire | Base pendant trois mois, puis renforcement si le bilan le justifie |
+| Cible | Base à 15 000 € HT par mois sur six mois, reconduction prévue | Réduire le périmètre, pas le taux de 750 € |
+| Plancher | Environ 10 300 € HT par mois pour 14 journées | En dessous, refuser ou limiter la mission à un lot à prix fixe |
+
+**S'il dit…**
+
+| Il dit | Vous répondez |
+| --- | --- |
+| « C'est cher » | 750 € la journée-personne. Deux salariés qualifiés coûteraient 1,6 à 1,9 fois leur net, sans les outils ni le CRM déjà livré. On réduit le périmètre, pas le taux. |
+| « Je préfère vous salarier » | Possible pour des fonctions vraiment salariées, avec un contrat distinct ; le reste passe par Marwin. Être salariés et prestataires du même client expose à une requalification. |
+| « Je vous donne déjà les bureaux » | Ils servent la mission : convention à part, sans effet sur les honoraires. |
+| « Je veux investir chez vous » | Bienvenu, après les premiers rapports mensuels, par un pacte, en minoritaire. |
+| « Commencez, on verra le paiement » | Le démarrage suit l'acompte : c'est lui qui réserve votre temps. |
+| « Et le CRM déjà fait ? » | Offert à ce jour ; ses droits sont fixés au contrat ; la suite est payante. |
+| « Ces œuvres passent en défiscalisation ? » | Très probablement pas : la définition fiscale vise une œuvre entièrement exécutée à la main par l'artiste. Elles se vendent par la galerie ; un rescrit peut trancher. |
+| « Combien pour un robot qui peint ? » | Environ 10 000 € HT pour la première phase : une preuve et une décision. La suite se chiffre sur résultats, sans achat de cellule avant. |
+
+**À noter avant de partir :** dénomination et SIREN de l'entité, formule, date de démarrage, date de l'acompte, personne qui valide les livrables, plafonds de dépense, adresse des bureaux, horizon après six mois.
+
+## Questions ouvertes et sources (interne)
+
+**À éclaircir avec Carlone**
+
+1. Quelle entité signe et paie (dénomination, SIREN) ?
+2. Où sont les bureaux proposés, en zone FRR ou non ?
+3. Que se passe-t-il après six mois ?
+4. Qui valide les livrables de son côté ?
+5. Quelles priorités parmi les huit propositions ?
+6. Veut-il salarier l'un de vous, et pour quelles fonctions ?
+7. Quelle forme d'investissement envisage-t-il, et à quel horizon ?
+8. Quelle enveloppe pour la phase 1 de la ligne création, et quelle exclusivité attend-il sur les œuvres ?
+
+**À trancher entre vous**
+
+1. Répartition du capital, rôles et disponibilité de chacun.
+2. Propriété du CRM déjà livré et de ses données.
+3. Situation ACRE et France Travail de chacun.
+4. Adresse d'exploitation de Marwin Tech.
+5. Place de BOJ.ART et de Medhi : prestation ou mise à disposition par convention, sans transfert d'atelier, de machines ni de créations ; pour la ligne création, partage des ventes et propriété de STRATES.
+
+**Sources**
+
+- *Propositions de collaboration* (PDF, huit propositions).
+- *Marwin Tech, choix de structure*, 29 octobre 2026 (7 pages).
+- *Marwin Tech, options avantageuses*, 30 octobre 2026 (26 pages : proposition pp. 1-16, annexe fondateurs pp. 17-26).
+- *STRATES : verdict de l'audit*, BOJ.ART / Marwin Tech, 2 novembre 2026 (12 pages, privé). L'enveloppe de 10 000 € HT de la phase 1 reprend l'enveloppe de cadrage du dossier STRATES ; les 6 journées Marwin sont une proposition.
+- [BOFiP archivé, fiche 3K1121](https://bofip-archives.impots.gouv.fr/bofip/32848-AIDA.html/identifiant=3K1121-19950815) : œuvres « entièrement exécutées à la main par l'artiste » ; doctrine archivée, à confirmer sur le texte en vigueur de l'article 98 A de l'annexe III du CGI.
+- *Rapport CRM Nièvre et Hermes360*, 29 octobre 2026, et passation du dépôt FinanceScope/CRM-Carlone.
+- [Offres CRM de Carlone](https://claude.ai/artifact/Q7MyT5HvBoYF8xiJZhzsc1) et [note de vision State Of The Art](https://claude.ai/artifact/CUGhjw8dJa1Fsys3KG3Z4W).
+- Références officielles citées par le dossier du 30 octobre, non rouvertes ici : [fiscalité de la SARL](https://entreprendre.service-public.gouv.fr/vosdroits/F36211), [FRR](https://entreprendre.service-public.gouv.fr/vosdroits/F31139), [SAS et dividendes](https://entreprendre.service-public.gouv.fr/vosdroits/F36006), [salariat et indépendance](https://entreprendre.service-public.gouv.fr/vosdroits/F1691), [simulateurs Urssaf](https://mon-entreprise.urssaf.fr), [rescrit fiscal](https://www.impots.gouv.fr/professionnel/le-rescrit-fiscal).
+- Calculs faits ici : plancher d'environ 10 300 € HT par mois, totaux sur six mois, équivalence entre 30 000 € HT par mois et environ 7 500 € nets chacun. Le rapport de 1,6 à 1,9 entre coût employeur et salaire net est un ordre de grandeur à simuler. Aucune simulation de ce document n'a été validée par un expert-comptable.
+
+
+https://github.com/Momolscode/Carlone/blob/main/sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md
+
+# John-Lucas Carlone Offre et projets en Nièvre
+
+Source : https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d
+
+Export lu le 4 novembre 2026. Mise à jour source : 2026-10-28T17:48:14.950863Z. Copie documentaire ; elle ne constitue ni signature ni validation de l’offre. Les versions peuvent diverger des autres études archivées.
+
+Deux volets sont à préparer pour John-Lucas Carlone : une proposition d’accompagnement rémunéré Marwin Tech portée par Morgan Olsen et Mathys Couet, et le raccordement du CRM et des offres aux outils de Quali Contact. Morgan précise le 25 octobre 2026 que le client prévoit d’engager Quali Contact ; le message précédent proposant de construire ses offres reste mis de côté. Il souhaite valoriser ses services de conseil, de studio marketing et de coordination des opérations à Cosne-Cours-sur-Loire. Le statut de la collaboration, son temps consacré et les honoraires restent à convenir. Les projets de galerie, d’événement artistique et de cabaret sont conservés comme chantiers distincts.
+
+# Périmètre et état des projets
+
+| Chantier | Informations données par Morgan | Prochaine décision |
+| --- | --- | --- |
+| CRM et offres entreprises | John-Lucas vise les entreprises de la Nièvre. Le [dépôt CRM fourni par Morgan](https://github.com/FinanceScope/CRM-Carlone) est identifié ; la branche de travail contient 500 fiches et une fonction d’enrichissement. Quali Contact est prévu comme prestataire. | Obtenir le logiciel et le module réellement utilisés par Quali Contact, son modèle d’import et de retour, puis éprouver les échanges sur des données fictives. |
+| Galerie d’art | John-Lucas a racheté, selon Morgan, un ancien bar restaurant hôtel avec cour pour en faire une galerie. | Définir le concept, les artistes, les usages, le calendrier, le budget et l’état du lieu. |
+| Cabaret | John-Lucas souhaite racheter « le M ». | Confirmer le lieu et le stade de l’acquisition, puis établir la faisabilité de l’exploitation. |
+| Événement artistique | John-Lucas souhaite réunir des artistes et peintres dans la ville de Morgan. | Définir le public, le lieu, la date, le format, le budget et les conditions de participation des artistes. |
+
+Client et porteur des projets : John-Lucas Carlone. Équipe sur l’affaire : Morgan Olsen et Mathys Couet ; répartition opérationnelle à préciser. Morgan a fourni le 28 octobre 2026 le [dépôt CRM-Carlone](https://github.com/FinanceScope/CRM-Carlone). Le code complet est sur [claude/new-session-utninu](https://github.com/FinanceScope/CRM-Carlone/tree/claude/new-session-utninu), avec un instantané de 500 entreprises examiné à la révision `18c2080` ; la branche main ne contient qu’un README. L’[audit de reprise et d’enrichissement](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) précise les acquis et les points à corriger. Le logiciel de Quali Contact, son interface et les données du suivi en service restent à confirmer. La société émettrice des offres, les offres validées et les moyens disponibles restent à renseigner.
+
+# Préparer les offres pour les opératrices
+
+Chaque campagne doit présenter aux opératrices une fiche d’offre à jour, reliée à sa société émettrice et à sa version validée. Elle contient le service proposé, la cible, les questions de qualification, les conditions, l’argumentaire et les documents utiles. Les contenus fiscaux et commerciaux sont fournis ou validés par les responsables compétents ; ils ne sont pas déduits d’un ancien instantané du CRM.
+
+| Élément de l’offre | Usage dans leur outil |
+| --- | --- |
+| Identifiant, société émettrice et version | Afficher la bonne offre et retrouver celle utilisée lors d’un appel |
+| Présentation courte et cible | Expliquer clairement le service et qualifier l’interlocuteur |
+| Questions, réponses et conditions validées | Guider l’entretien avec des informations approuvées |
+| Documents et prochaine étape | Présenter le bon support et préparer la suite |
+| Responsable, statut et période de validité | Distinguer brouillon, offre validée, suspendue ou périmée |
+
+La préparation porte sur l’organisation et la mise à disposition des offres existantes ou validées. La proposition de message précédente est mise de côté. La création d’une offre commerciale complète n’est pas relancée par ce changement de périmètre ; le rôle précis de John-Lucas, de Morgan, de Mathys et de Quali Contact dans sa validation reste à fixer.
+
+Une activité commerciale de galerie ne rend pas automatiquement un achat ou un versement éligible à un avantage fiscal. L’acquisition d’œuvres originales d’artistes vivants peut relever d’une déduction du résultat imposable sous conditions ; le mécénat est un dispositif distinct de réduction d’impôt, avec ses propres bénéficiaires et conditions. Les offres artistiques, prestations commerciales et opérations de mécénat doivent être distinguées dans la proposition. Références : [Ministère de la Culture](https://www.culture.gouv.fr/thematiques/mecenat/entreprises/des-avantages-supplementaires-pour-la-culture) et [article 238 bis du CGI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054402913), consultés le 25 octobre 2026.
+
+# Préparer la passerelle avec Quali Contact
+
+But : permettre aux opératrices de conserver leurs outils tout en utilisant les données de campagne choisies et en renvoyant les résultats dans le CRM de l’équipe. Le fonctionnement ci-dessous est un cahier de raccordement proposé ; ce n’est pas une compatibilité attestée.
+
+| Sens | Contenu proposé | Référence pour la mise à jour |
+| --- | --- | --- |
+| CRM vers outil de Quali Contact | Entreprises et contacts retenus, campagne, offre validée et sa version, documents et questions de qualification | CRM de Morgan et Mathys pour les données de campagne et les offres |
+| Outil de Quali Contact vers CRM | Résultat d’appel, compte rendu, qualification, rendez-vous, rappel, prochaine action et opposition | Retour daté et attribué de l’équipe ayant réalisé l’échange |
+
+Prévoir des identifiants stables pour rattacher chaque retour à la bonne société, au bon contact, à la campagne et à la version d’offre. Un retour reçu deux fois ne doit pas créer deux activités ou deux rendez-vous. Une modification concurrente ne doit pas être écrasée silencieusement ; les conflits sont présentés à l’équipe. Une opposition confirmée reste prioritaire sur un ancien fichier de campagne.
+
+Mode de raccordement à choisir après examen du logiciel : API ou mécanisme officiel d’extension si disponible ; sinon échange de fichiers selon un modèle réellement accepté. Une extension de navigateur ne sera retenue que si le logiciel et le mode d’accès s’y prêtent. Les opératrices voient les fiches nécessaires à leur campagne ; la mise à disposition ne porte pas sur l’ensemble des projets Marwin.
+
+Critères de réception proposés : une fiche affiche la bonne offre ; un appel fictif produit un seul retour ; une répétition ne crée pas de doublon ; un rendez-vous revient sur le bon contact ; un conflit de révision est signalé ; une opposition empêche une nouvelle sollicitation dans le parcours testé. Aucun de ces tests d’intégration n’a été exécuté à ce stade.
+
+Les [pages publiques de Qualicontact](https://www.qualicontact.com/solution/), consultées le 25 octobre 2026, décrivent ses campagnes et son activité de relation donateurs. Elles ne permettent pas d’identifier le logiciel, l’extension ou le format d’échange destiné à cette mission. La confirmation de l’outil et du périmètre de prestation reste nécessaire.
+
+# Préparer la prospection à partir du CRM existant
+
+Le dépôt contient 500 entreprises et 500 SIREN distincts à la révision examinée le 28 octobre 2026. La sélection associe un classement initial, des chiffres de différents exercices et des entreprises retenues par effectif ; elle ne prouve pas un classement homogène des 500 plus grandes entreprises. Pour une actualisation, préciser le critère de taille, le siège ou l’établissement local et l’année. L’éligibilité au service et le besoin réel restent des critères de priorité distincts.
+
+Proposition de départ : sélectionner vingt comptes bien qualifiés dans cet univers, préparer l’argumentaire puis examiner les retours avant d’élargir. Ce nombre est un choix de méthode, pas un objectif commercial convenu. Aucun prospect, rendez-vous ou taux de conversion n’est encore constaté.
+
+Champs intermédiaires proposés pour la passerelle, à rapprocher des champs réels : identifiants de société, entreprise, contact, offre, campagne et événement ; SIREN et nom de l’entreprise ; coordonnées professionnelles utiles ; besoin et questions de qualification ; version de l’offre ; résultat d’appel ; prochaine action et date ; rendez-vous ; opposition à la prospection ; auteur, source et date du retour. Ces noms ne constituent pas le format d’import du prestataire.
+
+La prospection électronique vers un professionnel doit être liée à sa fonction, l’informer et lui permettre de s’opposer simplement aux sollicitations ; les messages identifient leur émetteur. Le suivi conserve les oppositions. Référence : [CNIL, prospection par courrier électronique](https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel), consultée le 25 octobre 2026.
+
+# Organiser le travail de Morgan
+
+Morgan précise le 28 octobre 2026 que John-Lucas souhaite déléguer le quotidien et envisage une disponibilité de vingt jours par mois, avec davantage de couverture si nécessaire. La [proposition d’accompagnement Marwin Tech](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) est recalibrée à titre d’hypothèse sur vingt journées-personnes cumulées pour l’équipe, à 15 000 € HT par mois pendant six mois, avec 7 500 € HT d’acompte imputés sur le premier mois. Vingt jours par personne n’est pas encore confirmé. La continuité doit être organisée par des plages, des relais et une éventuelle astreinte distincte ; aucun engagement permanent n’est pris. Mandat, budgets, moyens, prix et entités restent à valider. Le CRM réalisé sert de point de départ ; aucun contrat ni paiement n’est acquis.
+
+Prochaine étape technique : obtenir le nom et la version du logiciel, le module envisagé et un modèle d’import/export ou sa documentation API. La structure des données du [CRM identifié](https://github.com/FinanceScope/CRM-Carlone/tree/claude/new-session-utninu) permet de préparer la correspondance ; le suivi commercial réellement utilisé doit être rapproché avant migration. Tester une campagne fictive et son retour, avec identifiants stables, conservation des oppositions et reprise sans doublon. La connexion effective et l’utilisation de données réelles viennent ensuite.
+
+Points encore attendus : le logiciel et le module réellement utilisés chez Quali Contact, un modèle de fichier d’import et de retour, puis un accès en lecture ou un export autorisé du suivi en service. Le lien du dépôt CRM et son modèle de données ont été retrouvés ; ils n’ont plus à être redemandés.
+
+
+
+https://github.com/Momolscode/Carlone/blob/main/sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md
+
+# Marwin Tech Accompagnement de John-Lucas Carlone
+
+Source : https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b
+
+Export lu le 4 novembre 2026. Mise à jour source : 2026-10-29T13:33:21.133899Z. Copie documentaire ; elle ne constitue ni signature ni validation de l’offre. Les versions peuvent diverger des autres études archivées.
+
+Brief élargi par Morgan Olsen le 28 octobre 2026 : John-Lucas souhaite déléguer le suivi quotidien de ses projets, et Morgan envisage une implication de vingt jours par mois, avec une disponibilité renforcée à organiser. Scénario de travail proposé : vingt journées-personnes cumulées pour l’équipe, soit 140 heures par mois, à 15 000 € HT mensuels pendant six mois. Un acompte de 7 500 € HT serait imputé sur le premier mois. Ces montants et la répartition entre intervenants restent à valider ; vingt jours par personne constitueraient un autre volume. Cette version remplace la proposition limitée à quatre jours mensuels, sans constituer un accord client.
+
+# Proposition à adresser à John Lucas
+
+Bonjour John-Lucas,
+
+Vous m’avez expliqué vouloir développer vos projets sans avoir à en gérer chaque détail. Avec la prospection, la galerie, le cabaret et les événements, l’enjeu est de disposer d’une équipe qui relie les sujets, organise les priorités et fait avancer les réalisations. C’est l’accompagnement que je vous propose avec **Marwin Tech**.
+
+Le CRM que nous avons réalisé constitue une première base concrète. Nous vous proposons de prolonger ce travail par un pilotage opérationnel : préparation des campagnes et des supports commerciaux, coordination avec Quali Contact selon son périmètre, communication, suivi des intervenants et organisation des projets culturels. Vous disposeriez d’un interlocuteur principal et d’une vue d’ensemble, avec des décisions préparées pour vous permettre d’arbitrer rapidement.
+
+Notre force serait d’associer **notre réflexion, notre créativité et l’intelligence artificielle**. Nous construirions progressivement votre **Jarvis**, un copilote adapté à vos activités : retrouver les informations utiles, suivre les actions et les échéances, préparer les synthèses et automatiser les tâches répétitives après vérification. L’objectif est de faciliter la coordination entre vos projets et de réduire le temps perdu à rechercher une information ou à reprendre un dossier. Vous conserveriez la validation des décisions importantes et des engagements financiers.
+
+Cette organisation s’améliorerait au fil des missions : les décisions, les méthodes et les retours d’expérience seraient conservés pour rendre les prochaines réalisations plus fluides. Nous entretiendrions chaque jour notre veille et notre réflexion pour rester à la pointe, puis testerions les nouvelles solutions avant de les retenir. Vous pourriez ainsi bénéficier d’innovations évaluées sur leur utilité, leur coût et leur fiabilité.
+
+Vous connaissez déjà la personne avec qui je souhaite ouvrir la boutique et l’atelier d’impression 3D **BOJ.ART**. J’ai également accès à un atelier d’environ dix imprimantes 3D. Cette complémentarité permettrait d’étudier pour vos lieux des supports de présentation d’œuvres, des éléments de scénographie, des objets sur mesure et des prototypes. Notre projet de laboratoire de recherche appliquée en IA et robotique prolongerait cette capacité d’innovation, selon les besoins concrets de vos activités.
+
+La base que je vous propose est un accompagnement de **six mois à 15 000 € HT par mois**, avec **20 journées de travail cumulées pour l’équipe, soit 140 heures mensuelles**, réparties selon les priorités convenues. Un **acompte de 7 500 € HT**, intégralement déduit du premier mois, réserverait cette capacité et permettrait de lancer les prestations après formalisation du contrat. Les fabrications, achats, prestataires externes et éventuelle mise à disposition de bureaux seraient précisés séparément.
+
+Le premier mois viserait trois livrables : une feuille de route sur 90 jours avec les budgets par projet, un tableau de bord commun et un premier démonstrateur de Jarvis sur un périmètre convenu. Un point court régulier regrouperait les avancées, les blocages et les arbitrages nécessaires. Chaque livraison serait accompagnée de ses contrôles, afin que vous puissiez constater le travail réalisé. Des revues à 30 et 90 jours permettraient d’ajuster les priorités et les moyens.
+
+Notre ambition est de devenir votre partenaire de confiance sur la durée : comprendre vos projets, prendre en charge leur organisation et transformer les priorités retenues en réalisations vérifiables. Je vous propose de commencer par choisir ensemble les trois priorités du premier mois, puis de fixer le périmètre, les responsabilités et le budget de l’accompagnement.
+
+Morgan Olsen
+Marwin Tech
+
+# Mission proposée
+
+Prendre en charge le pilotage quotidien du portefeuille de projets convenu et construire progressivement un copilote Jarvis adapté à ces activités. Marwin Tech organise les tâches, prépare les décisions, coordonne les intervenants et réalise les livrables relevant de ses compétences dans la capacité réservée. Le projet BOJ.ART ouvre des pistes complémentaires pour la création et le prototypage destinés à la galerie ou au cabaret. La responsabilité sur chaque chantier et les pouvoirs de signature ou de dépense sont définis par écrit. John-Lucas reçoit une synthèse et des arbitrages regroupés plutôt que de gérer chaque tâche.
+
+| Chantier à piloter | Résultats à convenir |
+| --- | --- |
+| Organisation du portefeuille | Feuille de route sur 90 jours, budgets distincts, responsables, dépendances et calendrier partagé |
+| CRM et prospection | Fiabilisation des données, procédure d’appels, supports approuvés, coordination Quali Contact et indicateurs disponibles |
+| Copilote Jarvis | Démonstrateur sur un périmètre autorisé, recherche dans les informations, suivi des actions et préparation de synthèses ; automatisations étendues après essais |
+| Galerie et création avec BOJ.ART | Parcours commercial, catalogue ou supports retenus, étude de présentoirs, de scénographie et de prototypes adaptés aux lieux |
+| Cabaret et événements | Dossier de faisabilité opérationnelle, planning de préparation, prestataires et budgets à faire valider |
+| Processus et automatisation | Procédures documentées, prototypes utiles, essais de fiabilité, supervision et transmission |
+
+Le périmètre de Quali Contact reste à confirmer avec John-Lucas et le prestataire. La préparation de la connexion CRM est conservée dans le [dossier technique existant](https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d). Le conseil fiscal et les engagements propres à l’exploitation des lieux sont attribués aux professionnels et responsables concernés.
+
+# Proposition financière sur six mois
+
+| Élément | Scénario proposé à valider |
+| --- | --- |
+| Durée | Six mois, avec revues de périmètre à 30 et 90 jours ; renouvellement par accord écrit |
+| Capacité | Vingt journées-personnes de sept heures par mois, soit 140 heures cumulées pour l’équipe |
+| Décompte | Deux personnes mobilisées une journée consomment deux journées-personnes ; le planning répartit la capacité |
+| Honoraires | 15 000 € HT par mois, soit 90 000 € HT pour six mois |
+| Acompte | 7 500 € HT à la commande après validation du contrat et du cadre d’encaissement |
+| Premier mois | Facture de 15 000 € HT, diminuée de l’acompte de 7 500 € HT ; solde de 7 500 € HT |
+| Mois 2 à 6 | 15 000 € HT par mois ; règlement sous sept jours après facture de fin de mois |
+| Variante de capacité | Vingt jours pour chacun de deux intervenants représentent quarante journées-personnes, soit 280 heures et 30 000 € HT par mois au même tarif journalier |
+| Continuité et urgences | Plages de contact, relais, incidents couverts et délais de prise en charge à convenir ; astreinte hors plages chiffrée séparément |
+| TVA | Selon le régime applicable à l’entité facturante ; aucun montant TTC fixé ici |
+
+L’acompte est entièrement imputé sur le premier mois. Sur six mois : 7 500 € HT à la commande, 7 500 € HT de solde pour le premier mois, puis cinq mensualités de 15 000 € HT, soit 90 000 € HT au total. Il fournit une trésorerie de démarrage en contrepartie des prestations convenues. Le contrat précisera le sort du montant non imputé si la mission ne démarre pas ou prend fin avant la prestation correspondante.
+
+Hypothèse interne : vingt journées-personnes × 750 € HT = 15 000 € HT par mois. Ce calcul constitue une base de négociation, à confirmer selon les compétences mobilisées, les coûts, le budget du client et le mandat réel. Les réunions, la préparation, la coordination, les déplacements et les corrections consomment cette capacité. La disponibilité éventuelle pendant trente jours calendaires ne correspond ni à trente journées de production ni à une astreinte permanente. Elle exige un planning de relais et un accord sur son coût.
+
+Chaque mois, une liste de tâches et de livrables est convenue dans la limite des 140 heures. Le planning distingue les intervenants et conserve du temps pour la coordination et les aléas. Un relevé du travail et des résultats est remis au client. Les dépassements, reports, interventions urgentes et changements de périmètre requièrent l’accord prévu au contrat. Les économies issues de l’automatisation permettent de réaffecter la capacité ou de revoir le forfait ; elles ne sont pas présentées comme des heures manuelles fictivement réalisées.
+
+# Démarrage et progression proposés
+
+Le CRM déjà réalisé constitue le point de départ ; sa facturation passée relève des accords existants et n’est pas ajoutée rétroactivement à cette offre. Le premier mois vise une reprise de l’ensemble du portefeuille convenu, la formalisation du mandat, les budgets par chantier, la mise en ordre du CRM et une feuille de route sur 90 jours. Les livrables prioritaires sont sélectionnés avec les moyens et informations disponibles.
+
+| Période | Résultats proposés à préciser au lancement |
+| --- | --- |
+| Jours 1 à 10 | Inventaire des projets et accès, budgets disponibles, responsabilités, risques et règles de décision |
+| Avant la fin du premier mois | Feuille de route sur 90 jours, budgets par projet, tableau de bord et premier démonstrateur Jarvis sur des données fictives ou un périmètre autorisé ; priorité des corrections CRM à arbitrer dans la capacité disponible |
+| Mois 2 | Améliorations numériques et commerciales retenues ; test du parcours Quali Contact si les références et accès sont disponibles |
+| Mois 3 | Bilan des résultats, du temps, du coût des outils et des reprises ; révision des priorités et des moyens |
+| Mois 4 à 6 | Exécution du portefeuille révisé, fiabilisation des automatisations et transmission des méthodes utiles |
+
+Le forfait couvre le travail de l’équipe sur les lots convenus. Travaux immobiliers, achats d’œuvres, matériel, publicité, rémunération des artistes, personnel d’exploitation, prestataires et abonnements externes ont leurs budgets propres. Les prestations exigeant une qualification particulière sont confiées aux professionnels compétents. Une refonte ou un développement dépassant la capacité réservée fait l’objet d’un lot complémentaire. Aucun achat ni sous-traitance n’est engagé sans l’autorisation prévue.
+
+Le [dépôt du CRM et son audit](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) permettent de préparer les premières tâches. Le logiciel, le module et les formats réellement utilisés par Quali Contact restent à obtenir ; aucune date de mise en service de la passerelle n’est promise avant cet examen. La [tour de contrôle privée](https://marwin-control-room.yellowghost64.chatgpt.site) peut servir à préparer les fiches de mission et le suivi.
+
+Repères de suivi proposés : livrables acceptés, délais, temps passé et corrections nécessaires. Les données commerciales issues du CRM sont suivies lorsqu’elles sont accessibles. Aucun objectif de chiffre d’affaires ou de performance n’est annoncé comme garanti.
+
+# Bureaux et forme de la collaboration
+
+Les locaux mis à disposition, les horaires d’accès, l’assurance, les équipements et la confidentialité sont précisés dans un accord distinct. Une présence importante auprès d’un même client ne dispense pas de définir l’organisation et l’autonomie réelles de Marwin Tech. Si John-Lucas devient également employeur, les fonctions salariées et les prestations seront examinées au regard des conditions de travail effectives.
+
+Le statut ne se déduit pas du titre affiché ni de la présence dans les bureaux. Le lien de subordination et les conditions réelles de travail distinguent notamment l’emploi salarié de l’activité indépendante. Référence : [Service Public Entreprendre](https://entreprendre.service-public.gouv.fr/vosdroits/F1691), consultée le 25 octobre 2026.
+
+# Mandat et continuité du service
+
+La délégation du quotidien se traduit en règles écrites, pas en permission générale d’engager le client. Un contrat décrit la prestation et, si nécessaire, un mandat distinct précise les actes effectués en son nom. Pour chaque catégorie, fixer l’entité concernée, le budget disponible, le plafond par acte, le plafond cumulé et la personne habilitée.
+
+| Décision ou action | Règle proposée |
+| --- | --- |
+| Préparer, analyser, organiser et produire dans le lot approuvé | Marwin agit dans le planning, les accès et le budget convenus |
+| Dépenser ou commander dans un budget déjà approuvé | Possible seulement si le mandat fixe les plafonds et les actes autorisés ; chaque engagement est tracé |
+| Nouveau contrat, recrutement, emprunt, investissement ou changement stratégique | Décision réservée au client ou à un mandataire expressément habilité |
+| Questions fiscales, juridiques, travaux et exploitation réglementée | Professionnel compétent et responsable désignés ; Marwin coordonne le dossier dans son mandat |
+
+Une synthèse courte regroupe avancement, budget consommé, incidents et décisions nécessaires. En l’absence d’une autorisation requise, l’engagement attend ; une absence de réponse ne vaut pas approbation. Le [Code civil, articles 1984 à 1989](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136404/) décrit le mandat et ses limites, consulté le 28 octobre 2026.
+
+La continuité se prépare par un calendrier de présence et des relais identifiés. Distinguer le délai d’accusé de réception, le début de traitement et la résolution effective. Une couverture le soir, le week-end ou les jours fériés nécessite un périmètre d’incidents, des personnes disponibles et une tarification d’astreinte. Aucun engagement 24 h/24 ou 30 jours/30 n’est pris avant cette organisation.
+
+# Jarvis et mémoire des projets
+
+Jarvis désigne ici le copilote à construire progressivement pour les activités de John-Lucas. Le premier périmètre relie les projets prioritaires aux informations autorisées du CRM et des documents : retrouver une information, suivre les actions, préparer une synthèse et présenter les décisions attendues. Chaque projet conserve son objectif, ses décisions datées, ses sources, son responsable, son budget et ses critères de réception. Les procédures, modèles de livrables et retours d’expérience alimentent une méthode réutilisable ; les données confidentielles restent rattachées au client et aux personnes autorisées.
+
+Pour chaque automatisation, décrire le déclencheur, les données autorisées, le résultat attendu et les erreurs possibles. Commencer par une proposition ou une simulation, tester des cas normaux et des échecs, puis autoriser seulement les actions délimitées. Prévoir journal, prévention des doublons, contrôle humain adapté, arrêt et retour au fonctionnement manuel. La quantité de contexte ne remplace ni sa mise à jour ni les essais des outils.
+
+Mesurer le temps total, les corrections, les erreurs résiduelles et le coût par résultat accepté. Retenir les améliorations démontrées et conserver les cas de test pour les révisions. La [méthode de consulting et d’audit](https://chatgpt.com/space/page_b6ab6638a38881919966d13180fc9000) reste le cadre de livraison. Ces principes décrivent l’organisation à mettre en place ; ils ne déclarent pas un agent autonome ou une intégration déjà opérationnels.
+
+# BOJ.ART et recherche appliquée
+
+John-Lucas connaît déjà la personne avec qui Morgan souhaite ouvrir la boutique et l’atelier d’impression 3D BOJ.ART. Ce projet peut nourrir des propositions de création et de prototypage pour la galerie ou le cabaret. L’ouverture de la boutique et les modalités de participation de ce partenaire restent à organiser.
+
+Morgan dispose d’un accès à un atelier d’environ dix imprimantes 3D. Selon les besoins et les moyens disponibles, des supports de présentation d’œuvres, des éléments de scénographie, des objets sur mesure ou des prototypes pourraient être étudiés. Chaque réalisation est définie par son usage, ses dimensions, ses matériaux et son budget.
+
+En parallèle, Marwin Tech souhaite développer un laboratoire de recherche appliquée en intelligence artificielle et en robotique. L’ambition de rester à la pointe repose sur un travail quotidien de veille, de réflexion et d’amélioration des méthodes. Les nouvelles solutions sont testées, puis retenues selon leurs gains concrets de temps, de qualité et d’efficacité pour les activités accompagnées, avant leur utilisation en exploitation.
+
+Le laboratoire est un projet de développement parallèle, et non une installation annoncée comme déjà opérationnelle. L’accès à l’atelier est déclaré par Morgan le 28 octobre 2026 ; il ne constitue pas un apport automatique de ces machines à Marwin Tech. Les caractéristiques, la disponibilité et les conditions d’usage sont à préciser pour chaque fabrication. Le financement général du laboratoire n’est pas ajouté d’office à l’accompagnement Carlone ; les prototypes qui lui seraient destinés feront l’objet d’un périmètre, de droits et d’un budget convenus.
+
+# Option de matériel IA local
+
+DGX Spark est une option à étudier pour des usages locaux d’IA. La documentation NVIDIA décrit une plateforme Grace Blackwell avec processeur Arm, destinée notamment au développement, au prototypage et à l’exécution de modèles ; la gamme comporte des configurations de mémoire de 64 ou 128 Go selon le fabricant. Références : [NVIDIA DGX Spark](https://www.nvidia.com/fr-fr/products/workstations/dgx-spark/) et [guide matériel](https://docs.nvidia.com/dgx/dgx-spark/hardware.html), consultés le 25 octobre 2026.
+
+Usages à éprouver sur les données autorisées : recherche et synthèse de documents internes, préparation de comptes rendus, aide à la qualification et expérimentation d’agents locaux. Ce sont des propositions de tests, pas des services déjà installés. Vérifier les logiciels et modèles réellement compatibles, la qualité des réponses, les temps de traitement et les coûts avant de choisir le modèle et le fournisseur.
+
+Le besoin de DGX Spark n’est pas établi pour le seul raccordement CRM. Son financement peut être présenté comme une option de capacité IA, justifiée par des usages et un devis d’équipement. Définir le propriétaire du matériel, les conditions d’accès, les sauvegardes et ce qui se passe à la fin de la collaboration. Aucun achat, configuration précise ou budget fournisseur n’est validé.
+
+# Ligne de conduite Marwin Tech
+
+Traduction proposée de l’ambition « faire le bien et lutter contre l’impossible » : résoudre des problèmes utiles, respecter les personnes et leurs données, rémunérer le travail clairement, annoncer honnêtement les limites et mesurer les progrès. La signature « L’impossible devient personnel » exprime une volonté d’engagement.
+
+# Points à valider avant engagement
+
+À valider : vingt journées cumulées pour l’équipe ou vingt jours par intervenant ; disponibilité nominative de Morgan et Mathys ; compétences et partenaires nécessaires ; budget client ; prix, acompte et entités contractantes ; autonomie, mandat, plafonds de dépenses et signatures ; priorités à 90 jours ; organisation des urgences ; droits sur les créations et les méthodes ; sortie, continuité et remise des accès. Aucun contrat, encaissement, embauche ou transfert de pouvoir n’est établi par cette proposition.
+
+# Constitution de Marwin Tech et encaissement de l’acompte
+
+La proposition prévoit un acompte sur des prestations identifiées, intégralement imputé sur le premier mois. La trésorerie de démarrage peut contribuer à organiser les moyens de Marwin Tech ; les frais de constitution et les apports au capital restent des décisions internes des fondateurs. Cette offre ne prévoit ni participation de John-Lucas au capital ni prêt consenti par lui. Si l’objectif devenait un investissement ou un prêt, un accord distinct serait nécessaire.
+
+Si la signature précède l’immatriculation, faire préparer le contrat au nom et pour le compte de la société en formation et organiser la reprise des engagements. Les signataires portent une responsabilité pendant cette période ; la procédure dépend des actes et de leur moment. Référence : [Bpifrance Création, Société en formation](https://bpifrance-creation.fr/encyclopedie/formalites-creation-dune-entreprise/formalites-specifiques-a-creation-societes/societe), consultée le 28 octobre 2026.
+
+Avant l’encaissement, identifier exactement le prestataire, le client qui commande et le cadre de facturation ; faire valider les mentions, la TVA applicable et la facture d’acompte. Service Public prévoit notamment une mention adaptée pour une société en cours d’immatriculation. Référence : [Service Public Entreprendre, Mentions obligatoires sur une facture](https://entreprendre.service-public.gouv.fr/vosdroits/F31808), fiche vérifiée le 11 août 2026 et consultée le 28 octobre 2026.
+
+
+
+https://github.com/Momolscode/Carlone/blob/main/interne/complement-chatgpt-2026-11-04.md
+
+# Complément de contexte ChatGPT — 4 novembre 2026
+
+## Portée et hiérarchie des sources
+
+Apport documentaire demandé par Morgan : pousser sur le GitHub Carlone les pièces concernant son projet. Les documents déjà présents sont conservés. Ce complément ne valide ni contrat, prix, société, répartition, rémunération, achat ou test physique.
+
+Le contexte principal reste [contexte-projet-carlone.md](contexte-projet-carlone.md), daté du 4 novembre. Ses priorités récentes priment sur les idées plus anciennes reproduites ici, sauf décision ultérieure explicite. Aucun document signé n'a été identifié dans les pièces de cette intégration.
+
+Morgan Olsen est l'utilisateur. Mathys Couet est cité dans le dossier Carlone ; la mention « Matisse » dans la conversation ne décide ni de l'identité du futur associé ni de ses parts. BOJ.ART et son atelier restent distincts de Marwin Tech. Les créations et droits de Medhi doivent faire l'objet d'un accord, pas d'un transfert implicite par ajout à ce dépôt.
+
+## Ce qu'ajoute la conversation
+
+Morgan souhaite faire de Marwin Tech une société de conseil et de réalisation : audits, cadrage, marketing, CRM, automatisation, coordination et suivi des livraisons. L'IA doit aider à documenter et orchestrer le travail, avec une amélioration continue mesurée, sans garantie de « pouvoir tout faire ».
+
+Pour John-Lucas Carlone, le contexte donné mentionne une galerie, un projet de cabaret, de la prospection auprès d'entreprises de la Nièvre, des événements artistiques et une volonté de déléguer. Les acquisitions et montants évoqués restent des déclarations de Morgan, pas des vérifications immobilières ou une preuve de budget disponible.
+
+Le modèle Cadrer / Produire / Piloter et la fiche mission commune permettent de distinguer livrables, limites, temps, coût, responsables et preuve de réception. L'atelier Jarvis, UNUM et les recherches artistiques ne sont pas automatiquement inclus dans un abonnement commercial Carlone.
+
+## Offre et versions à ne pas confondre
+
+Le dossier principal contient une offre d'accompagnement et un recentrage sur STRATES. Les études des 29 et 30 octobre sont conservées **comme archives internes**, avec leurs annexes de rémunération. Elles ne doivent pas être envoyées comme une nouvelle proposition en vigueur.
+
+Le dossier investisseur du 2 novembre porte un ancien scénario de R&D à 323 875 EUR HT, réserve comprise. Ce montant est une hypothèse de programme, **pas une commande, une facture ni le prix de la première phase STRATES**. Le contexte plus récent distingue une première étape limitée et le financement éventuel d'un laboratoire.
+
+Des conditions de paiement divergent entre les copies de pages et les PDF : notamment facturation en fin de mois contre paiement d'avance. Il faut retenir une seule version écrite dans la proposition à signer ; cette intégration ne tranche pas la négociation.
+
+Les études juridiques, fiscales et sociales sont datées. Aucune éligibilité à une aide ou exonération n'est attestée par leur présence ici. La possibilité de cumuler emploi chez le client et prestations doit être examinée selon les conditions réelles de travail. Aucun frais personnel n'est validé comme dépense de société par cet archivage.
+
+## Labo, art et robotique
+
+Le laboratoire est une proposition d'évolution : expérimentation IA, mémoire de projet, réutilisation de composants, prototypage avec l'atelier BOJ.ART et robotique artistique. Les illustrations sont des intentions générées, et les animations ne démontrent aucune performance physique.
+
+Éclosion comporte une étude numérique P0, des STEP/STL, un OpenSCAD, des calculs, une nomenclature et des diagnostics. Le script fourni n'a pas été exécuté lors de l'intégration. La présence de maillages et de calculs ne certifie ni assemblage, collision, solidité, sécurité, effort moteur ou durée de vie. Lire `prototype-p0/LIRE_AVANT_ESSAI.txt` avant toute fabrication.
+
+STRATES possède une proposition et un audit déjà présents dans le dépôt. Sa vidéo IA de dix secondes illustre une intention de peinture robotique ; aucune précision, autonomie ou qualité d'exécution réelle n'a été mesurée ici. Les budgets d'industrialisation restent exploratoires.
+
+Une DGX Spark n'est ni une dépense approuvée ni un préalable. Aucun robot, exosquelette ou service permanent n'est installé par ce dépôt. Les travaux physiques et les usages au public nécessitent un cadrage et une validation propres.
+
+## CRM et Quali Contact
+
+Le code et les données restent dans FinanceScope/CRM-Carlone. Le dossier d'échange Quali Contact doit partir de l'outil et du module effectivement utilisés, puis d'une recette sur données fictives. La présence d'une étude Hermes/Vocalcom dans le CRM ne prouve pas que Quali Contact exploite cette interface ni qu'un connecteur fonctionne.
+
+Ne pas recopier de base de contacts dans les supports de présentation. Les nouvelles pièces n'incluent ni export des 500 entreprises ni identifiants de connexion.
+
+## État de l'intégration
+
+Fichiers récupérés, empreintes et références d'origine : [inventaire](../sources/inventaire-integration-chatgpt-2026-11-04.json). Quatre images n'ont pas été transférables et restent explicitement absentes. Aucun statut de lancement n'a été coché et aucun message n'a été envoyé au client.
+

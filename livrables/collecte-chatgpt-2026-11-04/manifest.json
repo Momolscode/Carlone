@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-04",
+  "scope": "Copie de tous les livrables locaux Carlone disponibles dans outputs au moment de cette publication. Les scripts de travail et les conversations sans rapport avec Carlone sont hors de ce dossier.",
+  "files": [
+    {
+      "path": "CARLONE_Preuve_ajout_GitHub.json",
+      "bytes": 298,
+      "sha256": "3a07d7303f5a43cceaee3316bf0481f6d2756ca97ce2ff001ba86cb515c3c5b2"
+    },
+    {
+      "path": "CARLONE_Preuve_reprise59_GitHub.json",
+      "bytes": 333,
+      "sha256": "ce4bdcd00e4b5ccb62899f26364382bf92bd07355b43f9a33ffd4faf8d320621"
+    },
+    {
+      "path": "CARLONE_Recueil_complement_v2.zip",
+      "bytes": 185706,
+      "sha256": "03f348ad48776467a6dab43f4b3b5f45f94ff8720cb1c6e563322acfad9c1788"
+    },
+    {
+      "path": "CARLONE_Recueil_complet.zip",
+      "bytes": 130503,
+      "sha256": "e46c05a20c4f98a904c44c157584581e7d8c7cd9dfc24feb3062c3f9b8a9012d"
+    },
+    {
+      "path": "CARLONE_Recueil_et_sources.html",
+      "bytes": 131653,
+      "sha256": "3abcbd41e9e74b4ae8ff738865e106216b876563de191061f429776a5a032f98"
+    },
+    {
+      "path": "CARLONE_Recueil_et_sources_v2.html",
+      "bytes": 185062,
+      "sha256": "25a16da23ec8843cc8251a099fa5faab1c10048a0456b2c283cc707f66d43994"
+    },
+    {
+      "path": "CARLONE_Reprise_59_visuels/index.html",
+      "bytes": 2557,
+      "sha256": "bd47e950b81ed4c8e4a36ae5fc345f0c1ec8d969bcd3e6191b49012cbb2fb506"
+    },
+    {
+      "path": "CARLONE_Reprise_59_visuels/manifest.json",
+      "bytes": 22368,
+      "sha256": "cfb7cbcbc71525642a9f1fac47bd75394bca9c09bd2d73bbe0bb617dfbfa4851"
+    },
+    {
+      "path": "CARLONE_Reprise_59_visuels/visuels/bras-educatif-cube-rouge-extrait-pdf.png",
+      "bytes": 3847986,
+      "sha256": "30c3512b1f68830d4aa85cad3e89dca86663565cc33717974e239c5cc4943228"
+    },
+    {
+      "path": "CARLONE_Reprise_59_visuels/visuels/bras-peignant-relief-fluvial-extrait-pdf.png",
+      "bytes": 3925137,
+      "sha256": "dbeb92d36a99ab096093fe7e931a00f90056a2d3666e62870b5f47a9312326f1"
+    },
+    {
+      "path": "CARLONE_Reprise_59_visuels/visuels/riviere-ultramarine-extrait-pdf.png",
+      "bytes": 3593855,
+      "sha256": "685c6099053cfd015384c277cd29a3b76dc2747346179edc4c5f33599362b178"
+    },
+    {
+      "path": "CARLONE_Sources_retrouvees.txt",
+      "bytes": 112720,
+      "sha256": "1fa08c58011aad7b523d7e7b1b28f475af07d34077564b473e023f620275ba15"
+    },
+    {
+      "path": "CARLONE_Sources_retrouvees_v2.txt",
+      "bytes": 164703,
+      "sha256": "e6de2d20edf9b048de2e2e5dc4c610f5bf5ef1358ed338c0769b27200615b765"
+    },
+    {
+      "path": "CARLONE_Visuels_et_bilan_reprise.zip",
+      "bytes": 11377477,
+      "sha256": "e33b0fe3918e1dedcdf9380e2436d8f26dc369699bf573c756122fec76a3559d"
+    }
+  ]
+}
