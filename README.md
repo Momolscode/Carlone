@@ -62,3 +62,7 @@ Les PDF, animations, études du laboratoire et fichiers du prototype Éclosion r
 ## Recueil complémentaire des sessions ChatGPT
 
 Le [recueil et son index](sources/index-complement-sessions-chatgpt-2026-11-04.md) ajoutent les trois conversations retrouvées, cinq exports supplémentaires de Pages et le bilan de couverture : 160 lectures réussies sur les 219 conversations répertoriées. Les 59 refus restants et l’ancienneté parfois limitée des messages sont conservés comme limites.
+
+## Dernière reprise : conversations et visuels
+
+La [reprise des 59 lectures restantes](sources/reprise-59-et-visuels-2026-11-04.md) porte le bilan cumulé à **169 conversations lues sur 219**, avec 50 encore refusées ou sans réponse. Elle ajoute trois visuels extraits des PDF, correspondant aux descriptions recherchées. Les quatre fichiers originaux de la bibliothèque restent non vérifiés, et le quatrième visuel n’a pas de correspondance certaine.
