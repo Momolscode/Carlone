@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "page_id": "page_b128c8890ea881919e5c2fd29d2bfd3d",
+    "layout": "document",
+    "symbol": null,
+    "title": "John-Lucas Carlone Offre et projets en Nièvre",
+    "preview": "Deux volets sont à préparer pour John-Lucas Carlone : une proposition d’accompagnement rémunéré Marwin Tech portée par Morgan Olsen et Mathys Couet, et le raccordement du CRM et des offres aux outils de Quali Contact. Morgan précise le 25 o",
+    "creator_account_user_id": "user-qxMawOGPujHJ7pzNFpuNWZ0O",
+    "owner_workspace_id": null,
+    "parent": {
+      "page_id": "page_4ec13488958481919ac2e098f3e4b42a",
+      "title": "Marwin Studio Pilotage et mémoire"
+    },
+    "drive_scope": "personal",
+    "drive_space_id": null,
+    "library_container_id": "fde3_cGFnZV9iMTI4Yzg4OTBlYTg4MTkxOWU1YzJmZDI5ZDJiZmQzZA_d87bfa7c187c8191adbca754b07efc92",
+    "file_upload_page_id": "page_b128c8890ea881919e5c2fd29d2bfd3d",
+    "position": 1835936337675264,
+    "created_at": "2026-10-25T05:36:21.107934Z",
+    "updated_at": "2026-10-28T17:48:14.950863Z",
+    "deleted_at": null,
+    "current_sequence": 6,
+    "projection_through_sequence": 6,
+    "access": {
+      "can_read": true,
+      "can_comment": true,
+      "can_write": true,
+      "can_share": true,
+      "can_delete": true,
+      "sources": [
+        "library"
+      ]
+    },
+    "url": "https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d"
+  },
+  "content": {
+    "schema_version": 2,
+    "symbol": null,
+    "title": "John-Lucas Carlone Offre et projets en Nièvre",
+    "title_hash": "0eb10bded701bb74d356761a05505880a8db7f6884fed59d3c515e7448816273",
+    "blocks": [
+      {
+        "id": "fecbb6e5-7d0e-4a97-be0d-1b6dccb84fd6",
+        "kind": "markdown",
+        "markdown": "Deux volets sont à préparer pour John-Lucas Carlone : une proposition d’accompagnement rémunéré Marwin Tech portée par Morgan Olsen et Mathys Couet, et le raccordement du CRM et des offres aux outils de Quali Contact. Morgan précise le 25 octobre 2026 que le client prévoit d’engager Quali Contact ; le message précédent proposant de construire ses offres reste mis de côté. Il souhaite valoriser ses services de conseil, de studio marketing et de coordination des opérations à Cosne-Cours-sur-Loire. Le statut de la collaboration, son temps consacré et les honoraires restent à convenir. Les projets de galerie, d’événement artistique et de cabaret sont conservés comme chantiers distincts.",
+        "hash": "5cd0f94a39d836df23a46fba70254efcd7cf0d515c5423f2a9e0b4608d7570e5",
+        "metadata": {}
+      },
+      {
+        "id": "0fd623aa-ccbc-4a5a-8084-e0f5f923c55b",
+        "kind": "markdown",
+        "markdown": "# Périmètre et état des projets",
+        "hash": "7e26a11aec1bea7f1cfd4acfc0cc6c5e15f87f2752700a1bf83781679c0a2607",
+        "metadata": {}
+      },
+      {
+        "id": "858165b8-54fe-474d-b848-376393b75813",
+        "kind": "markdown",
+        "markdown": "| Chantier | Informations données par Morgan | Prochaine décision |\n| --- | --- | --- |\n| CRM et offres entreprises | John-Lucas vise les entreprises de la Nièvre. Le [dépôt CRM fourni par Morgan](https://github.com/FinanceScope/CRM-Carlone) est identifié ; la branche de travail contient 500 fiches et une fonction d’enrichissement. Quali Contact est prévu comme prestataire. | Obtenir le logiciel et le module réellement utilisés par Quali Contact, son modèle d’import et de retour, puis éprouver les échanges sur des données fictives. |\n| Galerie d’art | John-Lucas a racheté, selon Morgan, un ancien bar restaurant hôtel avec cour pour en faire une galerie. | Définir le concept, les artistes, les usages, le calendrier, le budget et l’état du lieu. |\n| Cabaret | John-Lucas souhaite racheter « le M ». | Confirmer le lieu et le stade de l’acquisition, puis établir la faisabilité de l’exploitation. |\n| Événement artistique | John-Lucas souhaite réunir des artistes et peintres dans la ville de Morgan. | Définir le public, le lieu, la date, le format, le budget et les conditions de participation des artistes. |",
+        "hash": "fa519725f7d7841eb9ffaadc54e60c977b4edbb29a682b7043eed153fd9c44c3",
+        "metadata": {}
+      },
+      {
+        "id": "ae0d22a5-b056-4357-ab1c-053190f9ce33",
+        "kind": "markdown",
+        "markdown": "Client et porteur des projets : John-Lucas Carlone. Équipe sur l’affaire : Morgan Olsen et Mathys Couet ; répartition opérationnelle à préciser. Morgan a fourni le 28 octobre 2026 le [dépôt CRM-Carlone](https://github.com/FinanceScope/CRM-Carlone). Le code complet est sur [claude/new-session-utninu](https://github.com/FinanceScope/CRM-Carlone/tree/claude/new-session-utninu), avec un instantané de 500 entreprises examiné à la révision `18c2080` ; la branche main ne contient qu’un README. L’[audit de reprise et d’enrichissement](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) précise les acquis et les points à corriger. Le logiciel de Quali Contact, son interface et les données du suivi en service restent à confirmer. La société émettrice des offres, les offres validées et les moyens disponibles restent à renseigner.",
+        "hash": "6ebe2f29e4ff852b04ea4bbe8f0d06da6d110ffcea6837eaa59153673a622e6d",
+        "metadata": {}
+      },
+      {
+        "id": "8725b0f2-9cb5-4ee9-acd9-c690d0e9dbe8",
+        "kind": "markdown",
+        "markdown": "# Préparer les offres pour les opératrices",
+        "hash": "94c176d3ec9fb9b2b803fd7937e9299cab0469664528f321107177721bde0b22",
+        "metadata": {}
+      },
+      {
+        "id": "2bc08e61-08e9-4a85-bd2c-e8b5895015a7",
+        "kind": "markdown",
+        "markdown": "Chaque campagne doit présenter aux opératrices une fiche d’offre à jour, reliée à sa société émettrice et à sa version validée. Elle contient le service proposé, la cible, les questions de qualification, les conditions, l’argumentaire et les documents utiles. Les contenus fiscaux et commerciaux sont fournis ou validés par les responsables compétents ; ils ne sont pas déduits d’un ancien instantané du CRM.",
+        "hash": "f5cfb3f3b651d1ba8184dbfc0e7a0804d21bcd53bde8ab0e358971bc3d5246df",
+        "metadata": {}
+      },
+      {
+        "id": "28fee6ac-d5dd-46c4-9ef9-9b12805a18e6",
+        "kind": "markdown",
+        "markdown": "| Élément de l’offre | Usage dans leur outil |\n| --- | --- |\n| Identifiant, société émettrice et version | Afficher la bonne offre et retrouver celle utilisée lors d’un appel |\n| Présentation courte et cible | Expliquer clairement le service et qualifier l’interlocuteur |\n| Questions, réponses et conditions validées | Guider l’entretien avec des informations approuvées |\n| Documents et prochaine étape | Présenter le bon support et préparer la suite |\n| Responsable, statut et période de validité | Distinguer brouillon, offre validée, suspendue ou périmée |",
+        "hash": "3b66cf0dcdb17b3ae3427dee1b3319e864c34ea13d7ff6b824074eb1ee9160b3",
+        "metadata": {}
+      },
+      {
+        "id": "71b450fa-1288-4cb1-80e0-4190a43f46d5",
+        "kind": "markdown",
+        "markdown": "La préparation porte sur l’organisation et la mise à disposition des offres existantes ou validées. La proposition de message précédente est mise de côté. La création d’une offre commerciale complète n’est pas relancée par ce changement de périmètre ; le rôle précis de John-Lucas, de Morgan, de Mathys et de Quali Contact dans sa validation reste à fixer.",
+        "hash": "c82d67fbcbd4b624f52127188effd072347c0af4caa5113eaf2fc9267bdc226f",
+        "metadata": {}
+      },
+      {
+        "id": "cee829a7-1125-42ac-b22c-461124565601",
+        "kind": "markdown",
+        "markdown": "Une activité commerciale de galerie ne rend pas automatiquement un achat ou un versement éligible à un avantage fiscal. L’acquisition d’œuvres originales d’artistes vivants peut relever d’une déduction du résultat imposable sous conditions ; le mécénat est un dispositif distinct de réduction d’impôt, avec ses propres bénéficiaires et conditions. Les offres artistiques, prestations commerciales et opérations de mécénat doivent être distinguées dans la proposition. Références : [Ministère de la Culture](https://www.culture.gouv.fr/thematiques/mecenat/entreprises/des-avantages-supplementaires-pour-la-culture) et [article 238 bis du CGI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054402913), consultés le 25 octobre 2026.",
+        "hash": "1c0938ac0a45e77740924aeb5d1de21fa27a2d9e8b6afd81af3ece9752ed0dde",
+        "metadata": {}
+      },
+      {
+        "id": "28f780b6-7824-40cc-9cd6-94a7f05a9eb5",
+        "kind": "markdown",
+        "markdown": "# Préparer la passerelle avec Quali Contact",
+        "hash": "232f6ef5b6464fca07bad9868854afc971fc1adc3d4d7238f19948c089751281",
+        "metadata": {}
+      },
+      {
+        "id": "45b6b008-8dff-42a5-bf55-c0fbdc0d7fdb",
+        "kind": "markdown",
+        "markdown": "But : permettre aux opératrices de conserver leurs outils tout en utilisant les données de campagne choisies et en renvoyant les résultats dans le CRM de l’équipe. Le fonctionnement ci-dessous est un cahier de raccordement proposé ; ce n’est pas une compatibilité attestée.",
+        "hash": "857c0b16a6774c66abd25f7a537268b36cf3d0d5bd44e5b6e536ad897198b812",
+        "metadata": {}
+      },
+      {
+        "id": "6230af85-7fd0-493a-93b0-feff58395891",
+        "kind": "markdown",
+        "markdown": "| Sens | Contenu proposé | Référence pour la mise à jour |\n| --- | --- | --- |\n| CRM vers outil de Quali Contact | Entreprises et contacts retenus, campagne, offre validée et sa version, documents et questions de qualification | CRM de Morgan et Mathys pour les données de campagne et les offres |\n| Outil de Quali Contact vers CRM | Résultat d’appel, compte rendu, qualification, rendez-vous, rappel, prochaine action et opposition | Retour daté et attribué de l’équipe ayant réalisé l’échange |",
+        "hash": "3a2a097e17591dde9f22ea50d8c49238a041fcf563c720322a342b619940ce3a",
+        "metadata": {}
+      },
+      {
+        "id": "af23fd55-d0a2-47c5-ae81-9dbdf7c7c838",
+        "kind": "markdown",
+        "markdown": "Prévoir des identifiants stables pour rattacher chaque retour à la bonne société, au bon contact, à la campagne et à la version d’offre. Un retour reçu deux fois ne doit pas créer deux activités ou deux rendez-vous. Une modification concurrente ne doit pas être écrasée silencieusement ; les conflits sont présentés à l’équipe. Une opposition confirmée reste prioritaire sur un ancien fichier de campagne.",
+        "hash": "54d0dca7751bb6e5ef5004e59f3fcbaebbf49eafce99423b2c1e9c3b0336af6e",
+        "metadata": {}
+      },
+      {
+        "id": "67868850-b813-48e1-b173-25a7d12ff7d6",
+        "kind": "markdown",
+        "markdown": "Mode de raccordement à choisir après examen du logiciel : API ou mécanisme officiel d’extension si disponible ; sinon échange de fichiers selon un modèle réellement accepté. Une extension de navigateur ne sera retenue que si le logiciel et le mode d’accès s’y prêtent. Les opératrices voient les fiches nécessaires à leur campagne ; la mise à disposition ne porte pas sur l’ensemble des projets Marwin.",
+        "hash": "507c8653252d2cb64191b067222ccb7837ac14d740d8b27524e034e779b60cef",
+        "metadata": {}
+      },
+      {
+        "id": "323457f8-f5c9-44cc-8839-584502b9ceeb",
+        "kind": "markdown",
+        "markdown": "Critères de réception proposés : une fiche affiche la bonne offre ; un appel fictif produit un seul retour ; une répétition ne crée pas de doublon ; un rendez-vous revient sur le bon contact ; un conflit de révision est signalé ; une opposition empêche une nouvelle sollicitation dans le parcours testé. Aucun de ces tests d’intégration n’a été exécuté à ce stade.",
+        "hash": "f959327e4e1bbe0c0d118f71292d4daf6ca932ad506df341f3550a3965be39c0",
+        "metadata": {}
+      },
+      {
+        "id": "4a62e1a7-42e1-48d9-a08a-d99dfbbfbb97",
+        "kind": "markdown",
+        "markdown": "Les [pages publiques de Qualicontact](https://www.qualicontact.com/solution/), consultées le 25 octobre 2026, décrivent ses campagnes et son activité de relation donateurs. Elles ne permettent pas d’identifier le logiciel, l’extension ou le format d’échange destiné à cette mission. La confirmation de l’outil et du périmètre de prestation reste nécessaire.",
+        "hash": "da198fb72424e10c8562005e8f3f8162a616c7e578381a03eaf1693e9464162f",
+        "metadata": {}
+      },
+      {
+        "id": "993cc217-824c-4da0-872c-7eddfe6911d4",
+        "kind": "markdown",
+        "markdown": "# Préparer la prospection à partir du CRM existant",
+        "hash": "6b7bb8544f7b6875b21f27aacfb68ca0cd833cb11c1366ea7158438cd182e17b",
+        "metadata": {}
+      },
+      {
+        "id": "dfa55bc9-e456-483f-94d5-67aaecc8d389",
+        "kind": "markdown",
+        "markdown": "Le dépôt contient 500 entreprises et 500 SIREN distincts à la révision examinée le 28 octobre 2026. La sélection associe un classement initial, des chiffres de différents exercices et des entreprises retenues par effectif ; elle ne prouve pas un classement homogène des 500 plus grandes entreprises. Pour une actualisation, préciser le critère de taille, le siège ou l’établissement local et l’année. L’éligibilité au service et le besoin réel restent des critères de priorité distincts.",
+        "hash": "bb14bfb5d3e99c5f4acf67d033bffd1c6944c1df5a8484fa1a56f4dbeef70e95",
+        "metadata": {}
+      },
+      {
+        "id": "8277d733-25cc-4bb4-b2cb-372a9f864384",
+        "kind": "markdown",
+        "markdown": "Proposition de départ : sélectionner vingt comptes bien qualifiés dans cet univers, préparer l’argumentaire puis examiner les retours avant d’élargir. Ce nombre est un choix de méthode, pas un objectif commercial convenu. Aucun prospect, rendez-vous ou taux de conversion n’est encore constaté.",
+        "hash": "7b09a8eee224b1b474b65aa5ed2b79b1193a40b205c4e9fdab3e255620bc3043",
+        "metadata": {}
+      },
+      {
+        "id": "edbaa7ee-3f0c-485d-949a-4aece2bd9bb1",
+        "kind": "markdown",
+        "markdown": "Champs intermédiaires proposés pour la passerelle, à rapprocher des champs réels : identifiants de société, entreprise, contact, offre, campagne et événement ; SIREN et nom de l’entreprise ; coordonnées professionnelles utiles ; besoin et questions de qualification ; version de l’offre ; résultat d’appel ; prochaine action et date ; rendez-vous ; opposition à la prospection ; auteur, source et date du retour. Ces noms ne constituent pas le format d’import du prestataire.",
+        "hash": "1a62b38e3ccfaaa3b5b0e13d503d405ce5b58375fbe9b8bf4629b879fa834f14",
+        "metadata": {}
+      },
+      {
+        "id": "de04b4f7-91ca-4d8a-aaea-7b12fc622f0c",
+        "kind": "markdown",
+        "markdown": "La prospection électronique vers un professionnel doit être liée à sa fonction, l’informer et lui permettre de s’opposer simplement aux sollicitations ; les messages identifient leur émetteur. Le suivi conserve les oppositions. Référence : [CNIL, prospection par courrier électronique](https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel), consultée le 25 octobre 2026.",
+        "hash": "1ed3cd8e54e959ec2a94b9c870cd08fe1390dc212a5da77d458c0dfb0fa59cd9",
+        "metadata": {}
+      },
+      {
+        "id": "4653cab7-86a7-4f1b-bf15-3d73d82718f1",
+        "kind": "markdown",
+        "markdown": "# Organiser le travail de Morgan",
+        "hash": "27eb25154e6edc73b863e08a2241349587b948292e5d0214aaccb73328f21ddf",
+        "metadata": {}
+      },
+      {
+        "id": "ad671d32-65c6-40ff-8ac6-9e162ad98e94",
+        "kind": "markdown",
+        "markdown": "Morgan précise le 28 octobre 2026 que John-Lucas souhaite déléguer le quotidien et envisage une disponibilité de vingt jours par mois, avec davantage de couverture si nécessaire. La [proposition d’accompagnement Marwin Tech](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) est recalibrée à titre d’hypothèse sur vingt journées-personnes cumulées pour l’équipe, à 15 000 € HT par mois pendant six mois, avec 7 500 € HT d’acompte imputés sur le premier mois. Vingt jours par personne n’est pas encore confirmé. La continuité doit être organisée par des plages, des relais et une éventuelle astreinte distincte ; aucun engagement permanent n’est pris. Mandat, budgets, moyens, prix et entités restent à valider. Le CRM réalisé sert de point de départ ; aucun contrat ni paiement n’est acquis.",
+        "hash": "a023c55b722d359d8330e309e751803bd937e5113a7d407b924f27b54deabd31",
+        "metadata": {}
+      },
+      {
+        "id": "dfc5d840-0d2e-438c-ab02-955ee66e5c90",
+        "kind": "markdown",
+        "markdown": "Prochaine étape technique : obtenir le nom et la version du logiciel, le module envisagé et un modèle d’import/export ou sa documentation API. La structure des données du [CRM identifié](https://github.com/FinanceScope/CRM-Carlone/tree/claude/new-session-utninu) permet de préparer la correspondance ; le suivi commercial réellement utilisé doit être rapproché avant migration. Tester une campagne fictive et son retour, avec identifiants stables, conservation des oppositions et reprise sans doublon. La connexion effective et l’utilisation de données réelles viennent ensuite.",
+        "hash": "fecc82e6d22a541cd19f870784833be3a7343827143d94d6b4fa4085c550c1f0",
+        "metadata": {}
+      },
+      {
+        "id": "eae6a4b1-a9e3-4c95-9a61-a5fd51afd86f",
+        "kind": "markdown",
+        "markdown": "Points encore attendus : le logiciel et le module réellement utilisés chez Quali Contact, un modèle de fichier d’import et de retour, puis un accès en lecture ou un export autorisé du suivi en service. Le lien du dépôt CRM et son modèle de données ont été retrouvés ; ils n’ont plus à être redemandés.",
+        "hash": "1e37d72c9a47be61260a29cafce1a84f437ac02a41e0724296f2cbc374746abb",
+        "metadata": {}
+      }
+    ],
+    "page_id": "page_b128c8890ea881919e5c2fd29d2bfd3d"
+  },
+  "view": "editing"
+}
+

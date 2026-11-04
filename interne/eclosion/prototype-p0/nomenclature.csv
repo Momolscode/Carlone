@@ -1,0 +1,12 @@
+Repere,Quantite,Designation,Statut
+P01,1,Petale imprime avec nervure et embase,STL/STEP fournis ; eprouvette de forme
+P02,1,Socle imprime 100 x 90 mm et deux joues,STL/STEP fournis ; fixer sur etabli
+P03,2,Entretoise D8 / passage D3.3 x 4.5 mm,STL/STEP fournis ; ajuster apres mesure
+P04,1,Coupon 4 alesages D3.0/3.2/3.4/3.6,STL/STEP fournis ; essai calibre
+Q01,1,Axe metallique lisse D3 x 70 mm,A identifier/mesurer ; non commande
+Q02,1,Vis de pression M3 pour le moyeu,Longueur et taraudage a verifier
+Q03,2,Arrets axiaux ou colliers D3,A choisir ; non modelises
+Q04,1,Microservo candidat D85MG ou equivalent,Reference indicative ; continu et bruit a valider
+Q05,1,Palonnier et liaison amovible vers axe D3,A concevoir apres mesure du servo reel
+Q06,1,Support servo reglable et visserie,A concevoir ; ne pas percer sur simple envelope
+Q07,1,"Alimentation protegee, commande, coupure et protection zone mobile",A dimensionner ; non inclus dans maquette

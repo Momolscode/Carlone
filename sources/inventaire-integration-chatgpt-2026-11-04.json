@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-04",
+  "scope": "Pièces récupérées de la conversation ChatGPT, en complément du dépôt existant",
+  "files": [
+    {
+      "path": "interne/eclosion/ebauche-mecanique-p0-2026-10-31.pdf",
+      "library_file_id": "libfile_bd77c2d85028819182872ea4259310df",
+      "source_filename": "Eclosion_P0_Ebauche_Mecanique_2026-10-31.pdf",
+      "status": "prototype numérique non éprouvé",
+      "bytes": 151666,
+      "sha256": "03c84e76fc8ee3f4065fe1b0fd75622f3a45ad2889b6ad3e0734e21482669307",
+      "git_blob_sha": "57152a9c859d8e148344c1850479388f8ed2f5f7"
+    },
+    {
+      "path": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "library_file_id": "libfile_df91bd13b6408191aba7a00365f0dd5d",
+      "source_filename": "Eclosion_P0_Ebauche_3D_2026-10-31.zip",
+      "status": "sources CAO non éprouvées",
+      "bytes": 594488,
+      "sha256": "bfc877206573e90b9191c7e91e2de36ebc7caa143c41529ff52a195860cd925d",
+      "git_blob_sha": "f703ddf5745268a9277946594cbe89242fbf4479"
+    },
+    {
+      "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4",
+      "library_file_id": "libfile_0cdef6101ec881919f9b4ec873031c4e",
+      "source_filename": "Eclosion_Animation_2026-10-31.mp4",
+      "status": "animation conceptuelle, aucun essai physique",
+      "bytes": 16669233,
+      "sha256": "bd57f18c76a36e53e16cfff191b4658f7b68c90fd48c44295807c59a8a16ed4a",
+      "git_blob_sha": "457b676d693a3a270ef444cbdc430583af11e205",
+      "storage": "original réparti en parties binaires exactes, sans perte",
+      "parts": [
+        {
+          "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4.part01",
+          "bytes": 8000000,
+          "sha256": "6e15e20b50bdfdd0d3a526725cf9d0115cee700f7525a33041db551e5bf9faa4"
+        },
+        {
+          "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4.part02",
+          "bytes": 8000000,
+          "sha256": "b72ead61256b5ed527f154978d6039f1c9f06f4ecc007a038ece6f115e5e2967"
+        },
+        {
+          "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4.part03",
+          "bytes": 669233,
+          "sha256": "1b43f827f89477b674f4fd17373200c7375f007ca6d0f6e68f1106e99f0cb256"
+        }
+      ],
+      "restore_manifest": "interne/eclosion/medias-source/animation-master-manifeste.json"
+    },
+    {
+      "path": "pour-carlone/eclosion/animation-concept-1080p-2026-10-31.mp4",
+      "library_file_id": "libfile_89659f0afae88191a13f07a0fdc84763",
+      "source_filename": "Eclosion_Animation_H264_2026-10-31.mp4",
+      "status": "animation conceptuelle, aucun essai physique",
+      "bytes": 2474016,
+      "sha256": "f7f79657784ef9019ca4e8085b980198619e067bec75d967f71c1d53d3dd801e",
+      "git_blob_sha": "5641f2c403f12be4a8df1b5d182b12a9e8e57f54"
+    },
+    {
+      "path": "pour-carlone/eclosion/concept-2026-10-31.pdf",
+      "library_file_id": "libfile_85fb1d8547c081918a85b68d2c7aaa88",
+      "source_filename": "Marwin_Tech_Eclosion_Concept_2026-10-31.pdf",
+      "status": "intention artistique",
+      "bytes": 203821,
+      "sha256": "138387950123fac48d404853ade864588d77d7f003b2c46a9865b953d65bb8e5",
+      "git_blob_sha": "49892227b2cccc8bb820314068df0b86d850eeac"
+    },
+    {
+      "path": "pour-carlone/eclosion/visuel-fleur-cinetique.png",
+      "library_file_id": "libfile_e415889c452c81918dbe669d42dabd56",
+      "source_filename": "Éclosion, fleur cinétique sculpturale.png",
+      "status": "visuel généré, intention",
+      "bytes": 2399486,
+      "sha256": "776cfba83b335dfdf36785f7f83ade1e8e78765aa2a92f2e56ca01aff70acda6",
+      "git_blob_sha": "3ca12b593da02f02d1c678ee76d2872bf9efa807"
+    },
+    {
+      "path": "pour-carlone/strates/bras-robotique-concept-ia-10s.mp4",
+      "library_file_id": "libfile_a6e1e9fb70148191a3099b6ad8536b80",
+      "source_filename": "STRATES_Bras_Robotique_Concept_IA_10s.mp4",
+      "status": "concept vidéo IA, aucune démonstration réelle",
+      "bytes": 6594939,
+      "sha256": "d1fb384aeba56821ded749fe983459ea82dbf5055b1ca99012e63459e066139b",
+      "git_blob_sha": "539cd13e321731fb33f3ec92e4cbc578c696926d"
+    },
+    {
+      "path": "interne/laboratoire/audit-ia-robotique-2026-10-31.pdf",
+      "library_file_id": "libfile_397ad1805c648191af000a0447b770fb",
+      "source_filename": "Marwin_Tech_Audit_Labo_IA_Robotique_2026-10-31.pdf",
+      "status": "étude historique, hypothèses à valider",
+      "bytes": 104868,
+      "sha256": "41635ccbbbcccad92afa4768f2bd92f226fb743e6dd0af4d1134869012cb571d",
+      "git_blob_sha": "98a088cf93648eda278857387642800b54c9f2cf"
+    },
+    {
+      "path": "interne/archives-marwin-tech/choix-structure-2026-10-29.pdf",
+      "library_file_id": "libfile_16e35b4ea7748191a425aae1a6b6416c",
+      "source_filename": "Marwin_Tech_Choix_Structure_2026-10-29.pdf",
+      "status": "étude historique, non validée juridiquement",
+      "bytes": 94863,
+      "sha256": "a6fca5220c9313226044655ee3fcd1d8c09fbee0aeb33c659c201c06a6c5a824",
+      "git_blob_sha": "3a97c4a242d6c12e3bbc60e550396308d65d2052"
+    },
+    {
+      "path": "interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf",
+      "library_file_id": "libfile_b22b0d8afca88191a80cb30a5dd1c183",
+      "source_filename": "Marwin_Tech_Options_Avantageuses_2026-10-30.pdf",
+      "status": "version historique v5, annexes internes",
+      "bytes": 10994839,
+      "sha256": "1e74eb164bf606e1a464a8d71a1c8d92e1c80cdec81b766e0c2701f4f83fa646",
+      "git_blob_sha": "53c3c2fe3540b7708cded76ef298b9a40234bced",
+      "original_sha256": "fd77d49f11a2ca7b267258a9a09b3834245adb8ef2a5612efdd4150b4cb64849",
+      "original_archive": "interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.original.pdf.gz",
+      "transformation": "Suppression de l’enveloppe ASCII85 des images ; texte et pixels décodés comparés identiques. Original exact dans .gz."
+    },
+    {
+      "path": "interne/strates/archives-investisseur/dossier-investisseur-v1-2026-11-02.pdf",
+      "library_file_id": "libfile_e3e6f830cb788191830313eef7fcece3",
+      "source_filename": "BOJART_Peinture_Robotique_Dossier_Investisseur_2026-11-02.pdf",
+      "status": "scénario R&D historique, non retenu comme offre actuelle",
+      "bytes": 4723781,
+      "sha256": "533d7c8a069009be80d1d3c1e27f1b980f0b01a5d401612f82afac772bad68c4",
+      "git_blob_sha": "0fbf073fde2c641d34151d9ce7f3126d445104f1"
+    },
+    {
+      "path": "interne/strates/archives-investisseur/budget-v1-2026-11-02.xlsx",
+      "library_file_id": "libfile_eec6dbb556648191a9d76b20ff701dda",
+      "source_filename": "BOJART_Peinture_Robotique_Budget_2026-11-02.xlsx",
+      "status": "hypothèses de budget, aucun achat validé",
+      "bytes": 17432,
+      "sha256": "66d2834ef6f8c90d1df31690039e3bf7f86388ff68868238dd4602ec79d4c839",
+      "git_blob_sha": "8dcdd6c994ecb4fceedfbc83f977b24e9b664508"
+    },
+    {
+      "path": "pour-carlone/strates/relief-mineral-bleu-galerie.png",
+      "library_file_id": "libfile_70fa04a20fa88191a26395aca88d3666",
+      "source_filename": "Relief minéral bleu dans une galerie française.png",
+      "status": "visuel généré, intention",
+      "bytes": 2439037,
+      "sha256": "c2083137742c99b7c4eefb99a6168187e1273fbe81ee35aa1f51f6d93fa1daa4",
+      "git_blob_sha": "82312f6e130fd2c718225334d3e52390a6090fd7"
+    },
+    {
+      "path": "pour-carlone/laboratoire-ia-robotique/visuels/atelier-pilote.png",
+      "library_file_id": "libfile_e11c58278e0c8191b39c353dbe5ee28a",
+      "source_filename": "Atelier pilote MARWIN TECH.png",
+      "status": "visuel généré, intention",
+      "bytes": 2521536,
+      "sha256": "164637a8fbe0a0c1b5a024ae11dae150c3c1e63aaeb8c4ace0095130e784adaf",
+      "git_blob_sha": "9de12509ba52f384158f2b1b34f06e6982f862ad"
+    },
+    {
+      "path": "pour-carlone/laboratoire-ia-robotique/visuels/laboratoire-ia-art-robotique.png",
+      "library_file_id": "libfile_89e54438a1e481919653805181821ee6",
+      "source_filename": "Laboratoire MARWIN TECH : IA, art et robotique.png",
+      "status": "visuel généré, intention",
+      "bytes": 2373665,
+      "sha256": "53e495b776995e59c90699747ef62fe98d1438c989c543cdc272c5b44ebd4224",
+      "git_blob_sha": "32534a3346e2361b2ed4f1dd8c4f96846a688859"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/LIRE_AVANT_ESSAI.txt",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/LIRE_AVANT_ESSAI.txt",
+      "status": "source extraite, non exécutée",
+      "bytes": 3298,
+      "sha256": "5efb22666e62318c0c454064b3cb9e9659442438dc219c4a95ba78a99677038a",
+      "git_blob_sha": "73a8b1335e45c72141eaa1c03f4bffc695c8fd07"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/apercu_assemblage.png",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/apercu_assemblage.png",
+      "status": "source extraite, non exécutée",
+      "bytes": 80934,
+      "sha256": "36e7cdfe09530031af31992a1a6a5e4c39c58b367c234bbe94d8cf83fd9d633e",
+      "git_blob_sha": "c7b72dd18f3bc856bf0de7966a1b4418ea2acacd"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/assemblage_p0.step",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/assemblage_p0.step",
+      "status": "source extraite, non exécutée",
+      "bytes": 910380,
+      "sha256": "762810935f10b9228b937605aef25cb3b96569081a66c65e00e07191080948de",
+      "git_blob_sha": "cd4f9be0dc8dfb8e3aeb343881982de2e1c01e0d"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/build_p0.py",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/build_p0.py",
+      "status": "source extraite, non exécutée",
+      "bytes": 5375,
+      "sha256": "5acc50c0cddb4f0c0ae36061aadd3ebc800c55b7b19c920d9a7a484bcb1944bb",
+      "git_blob_sha": "5b73de1b33eab62e6e5547daacb3b13d3c9c50d0"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/calculs_et_controles.json",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/calculs_et_controles.json",
+      "status": "source extraite, non exécutée",
+      "bytes": 2454,
+      "sha256": "f288c7dccfe33f7f195e02d15595c96759e9a97ae927fa1915e20a186b5f2fc4",
+      "git_blob_sha": "2ca60d8d40e9e7869bc5eccb9a41836378e9193c"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/collision_diagnostic.json",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/collision_diagnostic.json",
+      "status": "source extraite, non exécutée",
+      "bytes": 3662,
+      "sha256": "b3831b997c369d900b8f547fa9e3a2fb31cb351b14daed628694d433e7e3b5ea",
+      "git_blob_sha": "391a92636eed24b9353971b92efe5945210306de"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/coupon_alesages.step",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/coupon_alesages.step",
+      "status": "source extraite, non exécutée",
+      "bytes": 29868,
+      "sha256": "97ce3d3159f14f1d1c772cb629f1a87cc4a64839f9bbc27903d896be695b6a3d",
+      "git_blob_sha": "908a78d3e777923a2e7352c8d88f7b37ff391bde"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/coupon_alesages.stl",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/coupon_alesages.stl",
+      "status": "source extraite, non exécutée",
+      "bytes": 85484,
+      "sha256": "118f3f8f9a3815ba87af8b18ada95f9153b4aadaec8c892a51ed1fd4f727badb",
+      "git_blob_sha": "6fa2c1cd03f74f7f02b86564537d9d3beace00aa"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/eclosion_p0.scad",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/eclosion_p0.scad",
+      "status": "source extraite, non exécutée",
+      "bytes": 8054,
+      "sha256": "91a009834bcf8d16f518d4c8ed5786e73652abaa2923b103f7c6c0dc277932ca",
+      "git_blob_sha": "dbd5bb2e2f05142c70ab974f9ab7a6b3280752c7"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/effort_par_angle.csv",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/effort_par_angle.csv",
+      "status": "source extraite, non exécutée",
+      "bytes": 345,
+      "sha256": "dcb1ee0f7f987d4d40d81346b1baa1276bba8769bb69321cfd2d9a86ded6c965",
+      "git_blob_sha": "3bc0df4cf0c35082e7fe86f6742e67839e2e9c75"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/empreintes_sha256.json",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/empreintes_sha256.json",
+      "status": "source extraite, non exécutée",
+      "bytes": 1852,
+      "sha256": "74b5691b3e30a16c405011de45257e106edd3893722dd9d3f7c937370966a072",
+      "git_blob_sha": "8cff61554c49a9b1c3541b9c89c1c0aa1fc77d9f"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/entretoise_p0.step",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/entretoise_p0.step",
+      "status": "source extraite, non exécutée",
+      "bytes": 9572,
+      "sha256": "959bcd5449ec55c407fbb4e227ecf7b1fccb07b7bcee92e09d5654ca44fb9f64",
+      "git_blob_sha": "79d1c9a3b79d8b63ee2d13426a7b0ae7579e5f73"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/entretoise_p0.stl",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/entretoise_p0.stl",
+      "status": "source extraite, non exécutée",
+      "bytes": 42084,
+      "sha256": "1a6ec746b65d8bc954206d55f811f00e3ec071d9de219cd8c3f0f25c82d3a4ff",
+      "git_blob_sha": "40f29df97ed99c7191dfaf26eef22ffa292adb6d"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/nomenclature.csv",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/nomenclature.csv",
+      "status": "source extraite, non exécutée",
+      "bytes": 966,
+      "sha256": "4aa8c75217d48b5811d6cb4dc008e105b10a4b25bd25fef2470fbca2f1e6be06",
+      "git_blob_sha": "da965bfcb775373d4b3580a268d0a988e0f2d858"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/outline.json",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/outline.json",
+      "status": "source extraite, non exécutée",
+      "bytes": 6582,
+      "sha256": "5e96942ec7dca417ccb91f4dd3693ad66e23bb2b24af117ea4a484ba7050248e",
+      "git_blob_sha": "fb2d5dcab920266b50f27df1cfe1a4c74a9ac76b"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/petale_p0.step",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/petale_p0.step",
+      "status": "source extraite, non exécutée",
+      "bytes": 758707,
+      "sha256": "8858fe5d6fe028bec05114951ba53d4291da9626978ef627bb9c0fcb2770a9ed",
+      "git_blob_sha": "bcc13a53d07bc47022d3007c64e6dcfb247e5060"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/petale_p0.stl",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/petale_p0.stl",
+      "status": "source extraite, non exécutée",
+      "bytes": 84484,
+      "sha256": "07202df5359cae82425b3f338bfae78561d907d640270879f9b6d50690498bd7",
+      "git_blob_sha": "4d00b7f78dc60b0b379d06ce8f192d472091d295"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/socle_p0.step",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/socle_p0.step",
+      "status": "source extraite, non exécutée",
+      "bytes": 65709,
+      "sha256": "23a58201fbaa8aed023fd663d848f14b18683e5874dbf7ec1eb45abf8542648e",
+      "git_blob_sha": "3aafa72d3f6b1041d0732c7000940621495848c4"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/socle_p0.stl",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/socle_p0.stl",
+      "status": "source extraite, non exécutée",
+      "bytes": 129484,
+      "sha256": "808d3f3e41a1bbcef686f00edbbf19637896d04bcf2840820f6661d6035d1620",
+      "git_blob_sha": "98530f1eada43ac0e8504c97d52b8f70bc7380af"
+    },
+    {
+      "path": "interne/eclosion/prototype-p0/verification_maillages.json",
+      "source_archive": "interne/eclosion/sources-p0-2026-10-31.zip",
+      "archive_member": "Eclosion_P0/verification_maillages.json",
+      "status": "source extraite, non exécutée",
+      "bytes": 895,
+      "sha256": "77d558df15b4644cacafc3ad9373c288c608773e9b3246f570ce42adf93c5cf0",
+      "git_blob_sha": "a8dc5a8fe28add6dd34cf29baa317d3feac9234c"
+    },
+    {
+      "path": "pour-carlone/strates-proposition-artistique-v1.1.pdf",
+      "library_file_id": "libfile_aa945192989081918f7dfe573ae0901e",
+      "status": "déjà présent, contenu identique, non dupliqué",
+      "git_blob_sha": "e0d348cee8dc5e51a52f796be5c4abb262d92241"
+    },
+    {
+      "path": "interne/strates-audit-robotique-ia.pdf",
+      "library_file_id": "libfile_8bd7d413981081919fd42e60c7f66cd0",
+      "status": "déjà présent, contenu identique, non dupliqué",
+      "git_blob_sha": "b6752d60ea6c5e1165c418c32312c2c3d93c7d87"
+    }
+  ],
+  "unavailable_files": [
+    {
+      "library_file_id": "libfile_0379adfb1434819195e92f6d572950cc",
+      "name": "Atelier MARWIN TECH, art et robotique.png",
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+    },
+    {
+      "library_file_id": "libfile_d6e569264d488191a791bf42fb8b6089",
+      "name": "Bras robotique éducatif au cube rouge.png",
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+    },
+    {
+      "library_file_id": "libfile_a0b1eafe059c819191a2ceeae4840883",
+      "name": "Rivière ultramarine dans la pierre.png",
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+    },
+    {
+      "library_file_id": "libfile_268510149a14819195ed5f3a1e1075f1",
+      "name": "Bras robotique peignant un relief fluvial bleu.png",
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+    }
+  ],
+  "large_file_handling": "Limite de requête 16 MiB : PDF allégé sans changement de texte/pixels + original gzip, master vidéo découpé sans perte."
+}

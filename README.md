@@ -32,8 +32,6 @@ Les documents de travail de Morgan et Mathys : rémunération, positions de nég
 | `interne/state-of-the-art-note-de-vision.md` | Note de vision State Of The Art | 2 nov. |
 | `interne/diagrammes/` | Les sept schémas de ces documents, en images | 2 nov. |
 | `interne/strates-audit-robotique-ia.pdf` | Audit robotique et IA de STRATES | 2 nov. |
-| `interne/marwin-tech-options-avantageuses-2026-10-30.pdf` | Proposition d'accompagnement et laboratoire (pp. 1-16), annexe des fondateurs sur la structure et la rémunération (pp. 17-26) | 30 oct. |
-| `interne/marwin-tech-choix-structure-2026-10-29.pdf` | Choix de la structure de Marwin Tech | 29 oct. |
 
 ## Sources
 
@@ -46,6 +44,10 @@ Les documents de travail de Morgan et Mathys : rémunération, positions de nég
 
 - **Le CRM** et ses données vivent dans le dépôt FinanceScope/CRM-Carlone ; ils contiennent les coordonnées des entreprises prospectées.
 - **Le dossier « Partenariats entreprises Nièvre »** de Mathys nomme des dirigeants et leurs contacts.
-- **Les vidéos** de la session STRATES.
 
 Les versions vivantes de ces documents sont des pages privées sur claude.ai, que seul Morgan peut ouvrir.
+
+## Complément ChatGPT du 4 novembre 2026
+
+Les PDF, animations, études du laboratoire et fichiers du prototype Éclosion récupérés de la conversation sont décrits dans [l’index de l’intégration](sources/index-integration-chatgpt-2026-11-04.md). Les versions historiques et les documents financiers restent dans `interne/`. Le contexte déjà présent est conservé ; cet apport ne valide ni devis ni achat ni faisabilité physique.
+
