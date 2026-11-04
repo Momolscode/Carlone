@@ -1,0 +1,100 @@
+{
+  "version": "0.2",
+  "units": "mm, kg, N.m, s",
+  "geometry": {
+    "petale_p0": {
+      "volume_mm3": 14241.847674714641,
+      "center_mm": [
+        53.46513633371817,
+        -3.234410324411105e-10,
+        2.460502302568444
+      ],
+      "bbox_mm": [
+        158.00000020000004,
+        54.00000020000006,
+        12.000512983326518
+      ],
+      "solid_valid": true,
+      "solid_count": 1
+    },
+    "socle_p0": {
+      "volume_mm3": 51497.40401750573,
+      "center_mm": [
+        2.3836806023889446e-15,
+        -1.0044683251557951e-15,
+        5.190610071287383
+      ],
+      "bbox_mm": [
+        100.00000020000004,
+        90.00000020000004,
+        41.00100722736214
+      ],
+      "solid_valid": true,
+      "solid_count": 1
+    },
+    "coupon_alesages": {
+      "volume_mm3": 5462.523905478911,
+      "center_mm": [
+        34.96443473876552,
+        10.0,
+        1.9999999999999998
+      ],
+      "bbox_mm": [
+        70.00000020000002,
+        20.000000200000002,
+        4.001611443779403
+      ],
+      "solid_valid": true,
+      "solid_count": 1
+    },
+    "entretoise_p0": {
+      "volume_mm3": 187.70623406117312,
+      "center_mm": [
+        -4.277499335196535e-15,
+        1.681294326803537e-17,
+        2.2500000000000004
+      ],
+      "bbox_mm": [
+        8.001790470865988,
+        8.002685556214162,
+        4.503580741731975
+      ],
+      "solid_valid": true,
+      "solid_count": 1
+    }
+  },
+  "nominal_sweep": {
+    "min_deg": 20,
+    "max_deg": 80,
+    "samples": 61,
+    "max_intersection_mm3": 0.0,
+    "scope": "petale/socle nominaux seulement ; sans moteur, couplage, cables ni deformation"
+  },
+  "mass_model": {
+    "density_g_cm3": 1.24,
+    "solid_petal_mass_g": 17.659891116646154,
+    "center_from_pivot_mm": [
+      53.46513633371817,
+      -3.234410324411105e-10,
+      -3.539497697431556
+    ],
+    "radial_distance_mm": 53.58216911560407
+  },
+  "sizing": {
+    "max_moving_mass_kg": 0.035,
+    "max_com_radius_m": 0.08,
+    "com_offset_m": 0.006,
+    "sweep_deg": 60,
+    "move_time_s": 3,
+    "max_acceleration_rad_s2": 0.6717775423089695,
+    "max_inertia_kg_m2": 0.0007887600000000001,
+    "gravity_torque_Nm": 0.027535739072133372,
+    "inertia_torque_Nm": 0.0005298712542716229,
+    "friction_assumption_Nm": 0.008,
+    "design_factor": 2,
+    "target_torque_Nm": 0.07213122065281,
+    "target_kgfcm": 0.7355337516155873,
+    "suggested_target_Nm": 0.08,
+    "hardware_validation": false
+  }
+}

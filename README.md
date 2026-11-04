@@ -43,3 +43,8 @@ Les documents de travail de Morgan et Mathys : rémunération, positions de nég
 - **Les graphiques et schémas** des documents n'existent qu'en ligne ; l'export Markdown les remplace par une mention.
 
 Les versions vivantes de ces documents sont des pages privées sur claude.ai, que seul Morgan peut ouvrir.
+
+## Complément ChatGPT du 4 novembre 2026
+
+Les PDF, animations, études du laboratoire et fichiers du prototype Éclosion récupérés de la conversation sont décrits dans [l’index de l’intégration](sources/index-integration-chatgpt-2026-11-04.md). Les versions historiques et les documents financiers restent dans `interne/`. Le contexte déjà présent est conservé ; cet apport ne valide ni devis ni achat ni faisabilité physique.
+

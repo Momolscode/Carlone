@@ -1,0 +1,22 @@
+{
+  "original_path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4",
+  "original_bytes": 16669233,
+  "original_sha256": "bd57f18c76a36e53e16cfff191b4658f7b68c90fd48c44295807c59a8a16ed4a",
+  "parts": [
+    {
+      "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4.part01",
+      "bytes": 8000000,
+      "sha256": "6e15e20b50bdfdd0d3a526725cf9d0115cee700f7525a33041db551e5bf9faa4"
+    },
+    {
+      "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4.part02",
+      "bytes": 8000000,
+      "sha256": "b72ead61256b5ed527f154978d6039f1c9f06f4ecc007a038ece6f115e5e2967"
+    },
+    {
+      "path": "interne/eclosion/medias-source/animation-master-2026-10-31.mp4.part03",
+      "bytes": 669233,
+      "sha256": "1b43f827f89477b674f4fd17373200c7375f007ca6d0f6e68f1106e99f0cb256"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+ECLOSION P0 - EBAUCHE MECANIQUE v0.2 - 31 octobre 2026
+
+Objet : progresser du concept vers un module de table, un seul petale.
+Ce pack est une etude geometrique. Il n'est pas une machine achevee, une
+validation de resistance ou une autorisation d'exposition au public.
+
+FICHIERS
+- Eclosion_P0_Ebauche_Mecanique.pdf : plan cote et hypotheses de calcul.
+- eclosion_p0.scad : source OpenSCAD, choix part et angle en tete de fichier.
+- build_p0.py : source CadQuery 2.7.0, numpy/scipy ; export et calculs.
+- assemblage_p0.step : etat ouvert a 80 degres depuis la verticale.
+- petale_p0, socle_p0, entretoise_p0, coupon_alesages : STEP + STL.
+- nomenclature.csv : quantites et elements restant a concevoir.
+- effort_par_angle.csv, calculs_et_controles.json : calculs et controle.
+Unites STEP/STL : millimetres. Le STL ne transporte pas la declaration d'unite.
+
+GEOMETRIE NOMINALE
+Petale : pivot a pointe 150 mm ; encombrement 158 x 54 x 12 mm.
+Peau 1.6 mm, nervure centrale largeur 2.4 mm et hauteur ajoutee 3 mm.
+Embase 20 x 18 x 12 ; pivot D3.2 nominal, a finir/calibrer.
+Vis de pression : avant-trou D2.6, taraudage M3 a verifier, aucune tenue garantie.
+Socle : 100 x 90 x 5 ; axe a 35 mm au-dessus du plan de table.
+Joues : 16 x 6 x 36 ; faces internes espacees de 28 mm.
+Deux entretoises 4.5 mm + embase 18 = 27 mm : jeu axial total nominal 1 mm.
+Axe lisse D3 x 70 ; deux arrets axiaux restant a ajouter.
+Fixation socle : quatre passages D4.5 aux centres (+/-42,+/-35).
+Angle depuis la verticale : 20 ferme, 80 ouvert ; course 60 degres.
+
+CONTROLES EFFECTUES
+4 solides valides dans CadQuery. Exports STEP et STL produits.
+Balayage geometrique a 61 positions entieres de 20 a 80 degres : pas
+d'intersection volumique entre petale et socle corriges.
+Ce controle discret nominal n'inclut ni deformations, ni vis, ni capots,
+ni cables, ni servo/couplage. Il n'est pas une verification exhaustive de jeu.
+Une petite collision initiale a ete corrigee en ecartant les joues.
+
+HYPOTHESES DE CALCUL
+Masse mobile enveloppe : 35 g, centre de masse radial <=80 mm, offset <=6 mm.
+Le modele plein en PLA de densite supposee 1.24 g/cm3 vaut environ 17.7 g
+hors visserie/finition. Peser et trouver le centre de masse apres impression.
+Mouvement quintique de 60 degres en 3 s ; frottement suppose 0.008 N.m.
+Couple de dimensionnement environ 0.072 N.m, cible arrondie 0.08 N.m.
+Ne pas confondre couple de blocage constructeur et couple continu utile.
+
+ORDRE DE PREMIERE PRISE EN MAIN
+1. Ouvrir le PDF, STEP ou SCAD et relire les cotes.
+2. Verifier les STL dans le trancheur, en mm, sans envoi G-code automatique.
+3. Si un essai d'impression est decide, commencer par le coupon ; utiliser le
+profil deja valide de la machine et du filament reels. Aucun profil fourni.
+4. Ajuster le passage de l'axe et controler alignement/jeu sur un montage manuel.
+5. Mesurer masse et effort ; concevoir ensuite la liaison du servo et son support.
+6. Alimenter seulement apres revue du montage, de la protection, de la coupure
+et de l'alimentation. Commander un mouvement lent, sous surveillance.
+
+RESTE A FAIRE
+Couplage, fixation moteur, arrets axiaux, rigidite/fluage/fatigue, bruit,
+electrique, protection et tenue de la vis de pression. Aucun achat realise.
+Le dossier concept precedent reste une vision artistique distincte.

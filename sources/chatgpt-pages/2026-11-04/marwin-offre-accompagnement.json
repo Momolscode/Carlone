@@ -1,0 +1,439 @@
+{
+  "metadata": {
+    "page_id": "page_b393673dd9f481919152c334ac61444b",
+    "layout": "document",
+    "symbol": null,
+    "title": "Marwin Tech Accompagnement de John-Lucas Carlone",
+    "preview": "Brief élargi par Morgan Olsen le 28 octobre 2026 : John-Lucas souhaite déléguer le suivi quotidien de ses projets, et Morgan envisage une implication de vingt jours par mois, avec une disponibilité renforcée à organiser. Scénario de travail",
+    "creator_account_user_id": "user-qxMawOGPujHJ7pzNFpuNWZ0O",
+    "owner_workspace_id": null,
+    "parent": {
+      "page_id": "page_b128c8890ea881919e5c2fd29d2bfd3d",
+      "title": "John-Lucas Carlone Offre et projets en Nièvre"
+    },
+    "drive_scope": "personal",
+    "drive_space_id": null,
+    "library_container_id": "fde3_cGFnZV9iMzkzNjczZGQ5ZjQ4MTkxOTE1MmMzMzRhYzYxNDQ0Yg_d87bfa7c187c8191adbca754b07efc92",
+    "file_upload_page_id": "page_b393673dd9f481919152c334ac61444b",
+    "position": 1835938509049856,
+    "created_at": "2026-10-25T06:11:41.754014Z",
+    "updated_at": "2026-10-29T13:33:21.133899Z",
+    "deleted_at": null,
+    "current_sequence": 9,
+    "projection_through_sequence": 9,
+    "access": {
+      "can_read": true,
+      "can_comment": true,
+      "can_write": true,
+      "can_share": true,
+      "can_delete": true,
+      "sources": [
+        "library"
+      ]
+    },
+    "url": "https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b"
+  },
+  "content": {
+    "schema_version": 2,
+    "symbol": null,
+    "title": "Marwin Tech Accompagnement de John-Lucas Carlone",
+    "title_hash": "b86c65074923261e586f1a844e711de3bd77b28a88a15753cf46c17074dedcb3",
+    "blocks": [
+      {
+        "id": "6f2ebfd7-166f-46ec-a1e4-78b980c14def",
+        "kind": "markdown",
+        "markdown": "Brief élargi par Morgan Olsen le 28 octobre 2026 : John-Lucas souhaite déléguer le suivi quotidien de ses projets, et Morgan envisage une implication de vingt jours par mois, avec une disponibilité renforcée à organiser. Scénario de travail proposé : vingt journées-personnes cumulées pour l’équipe, soit 140 heures par mois, à 15 000 € HT mensuels pendant six mois. Un acompte de 7 500 € HT serait imputé sur le premier mois. Ces montants et la répartition entre intervenants restent à valider ; vingt jours par personne constitueraient un autre volume. Cette version remplace la proposition limitée à quatre jours mensuels, sans constituer un accord client.",
+        "hash": "75ad252847863e31820b8cd79a18c7abb89c9eca226b11d4c29c9f47f10512ac",
+        "metadata": {}
+      },
+      {
+        "id": "a4bff860-e5d1-474f-ae44-46e003447c3e",
+        "kind": "markdown",
+        "markdown": "# Proposition à adresser à John Lucas",
+        "hash": "fecbfacade34f10d49e23fd8bf258e1f48e5eabeee1a38a28b57f50d493c9114",
+        "metadata": {}
+      },
+      {
+        "id": "ae0fd151-4edd-453d-bf01-b5b0cc95adcf",
+        "kind": "markdown",
+        "markdown": "Bonjour John-Lucas,",
+        "hash": "796cca1de1f33b171417dbad600afdfa307e8ea1b9eb7cf9df54f9a9fa62baa4",
+        "metadata": {}
+      },
+      {
+        "id": "f86dc62c-36b1-4003-afc4-ef3e58adb58b",
+        "kind": "markdown",
+        "markdown": "Vous m’avez expliqué vouloir développer vos projets sans avoir à en gérer chaque détail. Avec la prospection, la galerie, le cabaret et les événements, l’enjeu est de disposer d’une équipe qui relie les sujets, organise les priorités et fait avancer les réalisations. C’est l’accompagnement que je vous propose avec **Marwin Tech**.",
+        "hash": "0a872a7aaabe275bf4e90dae9822e9685f6ec80adb9cc42c21eed0f56c6a8d39",
+        "metadata": {}
+      },
+      {
+        "id": "51dccaf4-9f62-45d6-befe-b729413fb07a",
+        "kind": "markdown",
+        "markdown": "Le CRM que nous avons réalisé constitue une première base concrète. Nous vous proposons de prolonger ce travail par un pilotage opérationnel : préparation des campagnes et des supports commerciaux, coordination avec Quali Contact selon son périmètre, communication, suivi des intervenants et organisation des projets culturels. Vous disposeriez d’un interlocuteur principal et d’une vue d’ensemble, avec des décisions préparées pour vous permettre d’arbitrer rapidement.",
+        "hash": "11ef3c50e455d859fa315053077901d6f887afd8cb25233604f8ec73daf3d266",
+        "metadata": {}
+      },
+      {
+        "id": "18d4d2b9-12ce-49c0-87a3-3b1ef2684ee4",
+        "kind": "markdown",
+        "markdown": "Notre force serait d’associer **notre réflexion, notre créativité et l’intelligence artificielle**. Nous construirions progressivement votre **Jarvis**, un copilote adapté à vos activités : retrouver les informations utiles, suivre les actions et les échéances, préparer les synthèses et automatiser les tâches répétitives après vérification. L’objectif est de faciliter la coordination entre vos projets et de réduire le temps perdu à rechercher une information ou à reprendre un dossier. Vous conserveriez la validation des décisions importantes et des engagements financiers.",
+        "hash": "3caed7ec23f6fc17535a2d31510681b1da805b84631e19470332c23be968671a",
+        "metadata": {}
+      },
+      {
+        "id": "6b6089df-6acb-4719-b067-c6d8bb7b48bb",
+        "kind": "markdown",
+        "markdown": "Cette organisation s’améliorerait au fil des missions : les décisions, les méthodes et les retours d’expérience seraient conservés pour rendre les prochaines réalisations plus fluides. Nous entretiendrions chaque jour notre veille et notre réflexion pour rester à la pointe, puis testerions les nouvelles solutions avant de les retenir. Vous pourriez ainsi bénéficier d’innovations évaluées sur leur utilité, leur coût et leur fiabilité.",
+        "hash": "055473581cd5bcd188f9b1a8c519c5a05c64a1d48abd573260db3604f526f1df",
+        "metadata": {}
+      },
+      {
+        "id": "84562208-618b-4db5-9f29-af9654f50356",
+        "kind": "markdown",
+        "markdown": "Vous connaissez déjà la personne avec qui je souhaite ouvrir la boutique et l’atelier d’impression 3D **BOJ.ART**. J’ai également accès à un atelier d’environ dix imprimantes 3D. Cette complémentarité permettrait d’étudier pour vos lieux des supports de présentation d’œuvres, des éléments de scénographie, des objets sur mesure et des prototypes. Notre projet de laboratoire de recherche appliquée en IA et robotique prolongerait cette capacité d’innovation, selon les besoins concrets de vos activités.",
+        "hash": "744ef4cf38a38dc28de971c8c535ce7fc86bdd2cce7b2838de078a778e7b0d40",
+        "metadata": {}
+      },
+      {
+        "id": "f03a4078-7b0e-428b-a093-9a8b57fb23f8",
+        "kind": "markdown",
+        "markdown": "La base que je vous propose est un accompagnement de **six mois à 15 000 € HT par mois**, avec **20 journées de travail cumulées pour l’équipe, soit 140 heures mensuelles**, réparties selon les priorités convenues. Un **acompte de 7 500 € HT**, intégralement déduit du premier mois, réserverait cette capacité et permettrait de lancer les prestations après formalisation du contrat. Les fabrications, achats, prestataires externes et éventuelle mise à disposition de bureaux seraient précisés séparément.",
+        "hash": "d152dccdcd5be4f1c8d217a683e79e39de1fc63a00d0d4a93569fa894b040350",
+        "metadata": {}
+      },
+      {
+        "id": "8788d9d4-5af6-4960-9e55-519f8d6b33c0",
+        "kind": "markdown",
+        "markdown": "Le premier mois viserait trois livrables : une feuille de route sur 90 jours avec les budgets par projet, un tableau de bord commun et un premier démonstrateur de Jarvis sur un périmètre convenu. Un point court régulier regrouperait les avancées, les blocages et les arbitrages nécessaires. Chaque livraison serait accompagnée de ses contrôles, afin que vous puissiez constater le travail réalisé. Des revues à 30 et 90 jours permettraient d’ajuster les priorités et les moyens.",
+        "hash": "f7bf684d7c45f9fa6e4492a7accb4ed704ab92e741b0a06838dfc85bf99e84f5",
+        "metadata": {}
+      },
+      {
+        "id": "5a6e02a3-4890-4f8b-8da7-141c0abff922",
+        "kind": "markdown",
+        "markdown": "Notre ambition est de devenir votre partenaire de confiance sur la durée : comprendre vos projets, prendre en charge leur organisation et transformer les priorités retenues en réalisations vérifiables. Je vous propose de commencer par choisir ensemble les trois priorités du premier mois, puis de fixer le périmètre, les responsabilités et le budget de l’accompagnement.",
+        "hash": "4bd713ad44873c7a0d6e2234c57c5ed1f695b4876b293016099d595c9b8c4d96",
+        "metadata": {}
+      },
+      {
+        "id": "1b1b972b-7e6a-4b2d-bc7a-4c165c4d0ff9",
+        "kind": "markdown",
+        "markdown": "Morgan Olsen\nMarwin Tech",
+        "hash": "c8d4e6c55192d311664dcf424fbf909390f80251b6c9e1f1185b0132446725e4",
+        "metadata": {}
+      },
+      {
+        "id": "3cb0a3c2-0834-4231-bd51-34afcc51c565",
+        "kind": "markdown",
+        "markdown": "# Mission proposée",
+        "hash": "3e964b0e26054d7614eda25f4fef12b48d5dbc92b56dbb17904fc4e3a0c813c7",
+        "metadata": {}
+      },
+      {
+        "id": "b2e24a20-ce2a-4004-bfd9-4b21bbab2501",
+        "kind": "markdown",
+        "markdown": "Prendre en charge le pilotage quotidien du portefeuille de projets convenu et construire progressivement un copilote Jarvis adapté à ces activités. Marwin Tech organise les tâches, prépare les décisions, coordonne les intervenants et réalise les livrables relevant de ses compétences dans la capacité réservée. Le projet BOJ.ART ouvre des pistes complémentaires pour la création et le prototypage destinés à la galerie ou au cabaret. La responsabilité sur chaque chantier et les pouvoirs de signature ou de dépense sont définis par écrit. John-Lucas reçoit une synthèse et des arbitrages regroupés plutôt que de gérer chaque tâche.",
+        "hash": "bb743f7a461d8b3154580f4d221b4fd7e482d5d15ba62724efe2b3fe64ea8fe2",
+        "metadata": {}
+      },
+      {
+        "id": "ed7b8a0e-6929-4b30-9fb1-2ab32828d672",
+        "kind": "markdown",
+        "markdown": "| Chantier à piloter | Résultats à convenir |\n| --- | --- |\n| Organisation du portefeuille | Feuille de route sur 90 jours, budgets distincts, responsables, dépendances et calendrier partagé |\n| CRM et prospection | Fiabilisation des données, procédure d’appels, supports approuvés, coordination Quali Contact et indicateurs disponibles |\n| Copilote Jarvis | Démonstrateur sur un périmètre autorisé, recherche dans les informations, suivi des actions et préparation de synthèses ; automatisations étendues après essais |\n| Galerie et création avec BOJ.ART | Parcours commercial, catalogue ou supports retenus, étude de présentoirs, de scénographie et de prototypes adaptés aux lieux |\n| Cabaret et événements | Dossier de faisabilité opérationnelle, planning de préparation, prestataires et budgets à faire valider |\n| Processus et automatisation | Procédures documentées, prototypes utiles, essais de fiabilité, supervision et transmission |",
+        "hash": "4e400e14b283879d48f0da73b2f94cb6369308fde67928073aad7b31f842fa2e",
+        "metadata": {}
+      },
+      {
+        "id": "dc844343-1c43-4868-a0d1-6ef4391ebeeb",
+        "kind": "markdown",
+        "markdown": "Le périmètre de Quali Contact reste à confirmer avec John-Lucas et le prestataire. La préparation de la connexion CRM est conservée dans le [dossier technique existant](https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d). Le conseil fiscal et les engagements propres à l’exploitation des lieux sont attribués aux professionnels et responsables concernés.",
+        "hash": "12c7c8ea70239c093e3e6d9cc6f1e7228ebb28f668cb06e5efbd1ba2322a01ec",
+        "metadata": {}
+      },
+      {
+        "id": "046af9f7-334f-42a4-b291-ae5188bd88f2",
+        "kind": "markdown",
+        "markdown": "# Proposition financière sur six mois",
+        "hash": "9528da8bdd40c4090c51a5106e728d00ca71a5e33c1f26355994b68409bd434c",
+        "metadata": {}
+      },
+      {
+        "id": "6112f7e4-04c2-40fd-a6b9-f16c2a621ccf",
+        "kind": "markdown",
+        "markdown": "| Élément | Scénario proposé à valider |\n| --- | --- |\n| Durée | Six mois, avec revues de périmètre à 30 et 90 jours ; renouvellement par accord écrit |\n| Capacité | Vingt journées-personnes de sept heures par mois, soit 140 heures cumulées pour l’équipe |\n| Décompte | Deux personnes mobilisées une journée consomment deux journées-personnes ; le planning répartit la capacité |\n| Honoraires | 15 000 € HT par mois, soit 90 000 € HT pour six mois |\n| Acompte | 7 500 € HT à la commande après validation du contrat et du cadre d’encaissement |\n| Premier mois | Facture de 15 000 € HT, diminuée de l’acompte de 7 500 € HT ; solde de 7 500 € HT |\n| Mois 2 à 6 | 15 000 € HT par mois ; règlement sous sept jours après facture de fin de mois |\n| Variante de capacité | Vingt jours pour chacun de deux intervenants représentent quarante journées-personnes, soit 280 heures et 30 000 € HT par mois au même tarif journalier |\n| Continuité et urgences | Plages de contact, relais, incidents couverts et délais de prise en charge à convenir ; astreinte hors plages chiffrée séparément |\n| TVA | Selon le régime applicable à l’entité facturante ; aucun montant TTC fixé ici |",
+        "hash": "fd8de95ac0e6505beb2e1e222d9f4467fd811ae8015aec93ba13c32b982e15f9",
+        "metadata": {}
+      },
+      {
+        "id": "f86d2119-b03a-427c-bb00-be429053aa1a",
+        "kind": "markdown",
+        "markdown": "L’acompte est entièrement imputé sur le premier mois. Sur six mois : 7 500 € HT à la commande, 7 500 € HT de solde pour le premier mois, puis cinq mensualités de 15 000 € HT, soit 90 000 € HT au total. Il fournit une trésorerie de démarrage en contrepartie des prestations convenues. Le contrat précisera le sort du montant non imputé si la mission ne démarre pas ou prend fin avant la prestation correspondante.",
+        "hash": "23f91f06c49dff4399198e7a443c6b865457875a62b147944fcfc26091339132",
+        "metadata": {}
+      },
+      {
+        "id": "f5d0677e-151d-4182-9fa3-31bcbc0260b5",
+        "kind": "markdown",
+        "markdown": "Hypothèse interne : vingt journées-personnes × 750 € HT = 15 000 € HT par mois. Ce calcul constitue une base de négociation, à confirmer selon les compétences mobilisées, les coûts, le budget du client et le mandat réel. Les réunions, la préparation, la coordination, les déplacements et les corrections consomment cette capacité. La disponibilité éventuelle pendant trente jours calendaires ne correspond ni à trente journées de production ni à une astreinte permanente. Elle exige un planning de relais et un accord sur son coût.",
+        "hash": "5c280f28d3a39288c6f7b73a181f636c0136d33e99ad80c23451e8d40ba721c4",
+        "metadata": {}
+      },
+      {
+        "id": "9ce0acdc-ce29-4028-a43c-2287e5d39404",
+        "kind": "markdown",
+        "markdown": "Chaque mois, une liste de tâches et de livrables est convenue dans la limite des 140 heures. Le planning distingue les intervenants et conserve du temps pour la coordination et les aléas. Un relevé du travail et des résultats est remis au client. Les dépassements, reports, interventions urgentes et changements de périmètre requièrent l’accord prévu au contrat. Les économies issues de l’automatisation permettent de réaffecter la capacité ou de revoir le forfait ; elles ne sont pas présentées comme des heures manuelles fictivement réalisées.",
+        "hash": "a0ad2b08fcdef5e87dec6072a4a33992623389e0c6d0ffe1c1d94442e7f692e7",
+        "metadata": {}
+      },
+      {
+        "id": "143d976f-c081-41d6-a553-0c0635c317c9",
+        "kind": "markdown",
+        "markdown": "# Démarrage et progression proposés",
+        "hash": "20326188e1074572584d3c3033b3fe6441cb5318ce3cbfdee34341c558965c2c",
+        "metadata": {}
+      },
+      {
+        "id": "9b7c1a10-96b0-4721-82ae-3dad6945de55",
+        "kind": "markdown",
+        "markdown": "Le CRM déjà réalisé constitue le point de départ ; sa facturation passée relève des accords existants et n’est pas ajoutée rétroactivement à cette offre. Le premier mois vise une reprise de l’ensemble du portefeuille convenu, la formalisation du mandat, les budgets par chantier, la mise en ordre du CRM et une feuille de route sur 90 jours. Les livrables prioritaires sont sélectionnés avec les moyens et informations disponibles.",
+        "hash": "5f5a671a4e550e49920cd96bd6380dc4fa4d4033d0846cde4316aef9ec3d3bb0",
+        "metadata": {}
+      },
+      {
+        "id": "694b4642-3b28-415a-b614-180000fc2d96",
+        "kind": "markdown",
+        "markdown": "| Période | Résultats proposés à préciser au lancement |\n| --- | --- |\n| Jours 1 à 10 | Inventaire des projets et accès, budgets disponibles, responsabilités, risques et règles de décision |\n| Avant la fin du premier mois | Feuille de route sur 90 jours, budgets par projet, tableau de bord et premier démonstrateur Jarvis sur des données fictives ou un périmètre autorisé ; priorité des corrections CRM à arbitrer dans la capacité disponible |\n| Mois 2 | Améliorations numériques et commerciales retenues ; test du parcours Quali Contact si les références et accès sont disponibles |\n| Mois 3 | Bilan des résultats, du temps, du coût des outils et des reprises ; révision des priorités et des moyens |\n| Mois 4 à 6 | Exécution du portefeuille révisé, fiabilisation des automatisations et transmission des méthodes utiles |",
+        "hash": "16e316118c918208e69f34e42e6a17f8b74d721071227d84d874ddf096a25bba",
+        "metadata": {}
+      },
+      {
+        "id": "e677c6e5-083f-48b1-a448-b772a5fa86b2",
+        "kind": "markdown",
+        "markdown": "Le forfait couvre le travail de l’équipe sur les lots convenus. Travaux immobiliers, achats d’œuvres, matériel, publicité, rémunération des artistes, personnel d’exploitation, prestataires et abonnements externes ont leurs budgets propres. Les prestations exigeant une qualification particulière sont confiées aux professionnels compétents. Une refonte ou un développement dépassant la capacité réservée fait l’objet d’un lot complémentaire. Aucun achat ni sous-traitance n’est engagé sans l’autorisation prévue.",
+        "hash": "456c63cbf4605b797cf85084b09aff6e24e208be4ff9a2acceacda6853de3622",
+        "metadata": {}
+      },
+      {
+        "id": "5310819e-9aba-4c57-aa4a-29760fd604f8",
+        "kind": "markdown",
+        "markdown": "Le [dépôt du CRM et son audit](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) permettent de préparer les premières tâches. Le logiciel, le module et les formats réellement utilisés par Quali Contact restent à obtenir ; aucune date de mise en service de la passerelle n’est promise avant cet examen. La [tour de contrôle privée](https://marwin-control-room.yellowghost64.chatgpt.site) peut servir à préparer les fiches de mission et le suivi.",
+        "hash": "46424554395df66c55a3f80fe8fcf72ef9c0f9c44072a046743ec724927b3da5",
+        "metadata": {}
+      },
+      {
+        "id": "166928e0-99d4-456a-928e-cae145ce588f",
+        "kind": "markdown",
+        "markdown": "Repères de suivi proposés : livrables acceptés, délais, temps passé et corrections nécessaires. Les données commerciales issues du CRM sont suivies lorsqu’elles sont accessibles. Aucun objectif de chiffre d’affaires ou de performance n’est annoncé comme garanti.",
+        "hash": "f76c19523af95ae7eaf069047af27f8fd6aac8f2081a4c385bf88660e1ecfb95",
+        "metadata": {}
+      },
+      {
+        "id": "48c4c086-d9c2-4745-b579-136c1f2aca66",
+        "kind": "markdown",
+        "markdown": "# Bureaux et forme de la collaboration",
+        "hash": "162771565b7bf89b87f40c255b360f7ee3a493a7b09ac1e932596575cab71e67",
+        "metadata": {}
+      },
+      {
+        "id": "f46695a1-17a6-4d1c-bf17-518f171b7c51",
+        "kind": "markdown",
+        "markdown": "Les locaux mis à disposition, les horaires d’accès, l’assurance, les équipements et la confidentialité sont précisés dans un accord distinct. Une présence importante auprès d’un même client ne dispense pas de définir l’organisation et l’autonomie réelles de Marwin Tech. Si John-Lucas devient également employeur, les fonctions salariées et les prestations seront examinées au regard des conditions de travail effectives.",
+        "hash": "00d863382a4b92d0a257a6290fe47a5cf3bb1122e90a047e66b5255894e32fa9",
+        "metadata": {}
+      },
+      {
+        "id": "7dec1df5-8983-4911-ad92-2fb342ff1b22",
+        "kind": "markdown",
+        "markdown": "Le statut ne se déduit pas du titre affiché ni de la présence dans les bureaux. Le lien de subordination et les conditions réelles de travail distinguent notamment l’emploi salarié de l’activité indépendante. Référence : [Service Public Entreprendre](https://entreprendre.service-public.gouv.fr/vosdroits/F1691), consultée le 25 octobre 2026.",
+        "hash": "d4799bb365cd5f1adff37a2a04caad20f770f0a5f82dff4a45170d91c54feb20",
+        "metadata": {}
+      },
+      {
+        "id": "1bf439d6-d391-4045-9c57-aef85984ec43",
+        "kind": "markdown",
+        "markdown": "# Mandat et continuité du service",
+        "hash": "4ed79763b279aaefa2192cff61bb316870455f4472e3e6dd46466c3d2fc621a6",
+        "metadata": {}
+      },
+      {
+        "id": "06d87827-7c1c-4500-9473-12c5e41b049f",
+        "kind": "markdown",
+        "markdown": "La délégation du quotidien se traduit en règles écrites, pas en permission générale d’engager le client. Un contrat décrit la prestation et, si nécessaire, un mandat distinct précise les actes effectués en son nom. Pour chaque catégorie, fixer l’entité concernée, le budget disponible, le plafond par acte, le plafond cumulé et la personne habilitée.",
+        "hash": "b77fe6aa12c56e3b6b9ebe6cb8cd5c5009e6493a8fcbcd3afd30d9679c60eaf6",
+        "metadata": {}
+      },
+      {
+        "id": "a0fec293-30bb-4602-a38e-cc549e3a4e3f",
+        "kind": "markdown",
+        "markdown": "| Décision ou action | Règle proposée |\n| --- | --- |\n| Préparer, analyser, organiser et produire dans le lot approuvé | Marwin agit dans le planning, les accès et le budget convenus |\n| Dépenser ou commander dans un budget déjà approuvé | Possible seulement si le mandat fixe les plafonds et les actes autorisés ; chaque engagement est tracé |\n| Nouveau contrat, recrutement, emprunt, investissement ou changement stratégique | Décision réservée au client ou à un mandataire expressément habilité |\n| Questions fiscales, juridiques, travaux et exploitation réglementée | Professionnel compétent et responsable désignés ; Marwin coordonne le dossier dans son mandat |",
+        "hash": "8d6ec456bf69e47ffda8a6a3822de9c23529d5b268b2904b74dd8be700aa1b57",
+        "metadata": {}
+      },
+      {
+        "id": "c038c168-c1b3-40e1-901b-36d0ad2a9077",
+        "kind": "markdown",
+        "markdown": "Une synthèse courte regroupe avancement, budget consommé, incidents et décisions nécessaires. En l’absence d’une autorisation requise, l’engagement attend ; une absence de réponse ne vaut pas approbation. Le [Code civil, articles 1984 à 1989](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136404/) décrit le mandat et ses limites, consulté le 28 octobre 2026.",
+        "hash": "69d7cf6b7e184af620fc928932211b1a83c496154e0f0a3a487e1ee7be6fa7ec",
+        "metadata": {}
+      },
+      {
+        "id": "4f4a24a2-3a71-45a6-8b95-971df3bec9bc",
+        "kind": "markdown",
+        "markdown": "La continuité se prépare par un calendrier de présence et des relais identifiés. Distinguer le délai d’accusé de réception, le début de traitement et la résolution effective. Une couverture le soir, le week-end ou les jours fériés nécessite un périmètre d’incidents, des personnes disponibles et une tarification d’astreinte. Aucun engagement 24 h/24 ou 30 jours/30 n’est pris avant cette organisation.",
+        "hash": "14f8bd6ef1de0e9de072548e11303ee262af87119ca7d31e3c0f24f2a61b8c3b",
+        "metadata": {}
+      },
+      {
+        "id": "5fbcc9c7-661a-4919-add8-3e6e380da746",
+        "kind": "markdown",
+        "markdown": "# Jarvis et mémoire des projets",
+        "hash": "47e2689c727da525ef398502b541d2d5d2dd6607dcd046e7c948af670a9e7a68",
+        "metadata": {}
+      },
+      {
+        "id": "f89fe808-2578-4f43-84a6-192494969257",
+        "kind": "markdown",
+        "markdown": "Jarvis désigne ici le copilote à construire progressivement pour les activités de John-Lucas. Le premier périmètre relie les projets prioritaires aux informations autorisées du CRM et des documents : retrouver une information, suivre les actions, préparer une synthèse et présenter les décisions attendues. Chaque projet conserve son objectif, ses décisions datées, ses sources, son responsable, son budget et ses critères de réception. Les procédures, modèles de livrables et retours d’expérience alimentent une méthode réutilisable ; les données confidentielles restent rattachées au client et aux personnes autorisées.",
+        "hash": "64e1636f9e895c640e6cef531a14bea370910ead38faa1dcc60620354f78c3f8",
+        "metadata": {}
+      },
+      {
+        "id": "3213ad8f-e2b8-469c-9877-3c10f231d6e2",
+        "kind": "markdown",
+        "markdown": "Pour chaque automatisation, décrire le déclencheur, les données autorisées, le résultat attendu et les erreurs possibles. Commencer par une proposition ou une simulation, tester des cas normaux et des échecs, puis autoriser seulement les actions délimitées. Prévoir journal, prévention des doublons, contrôle humain adapté, arrêt et retour au fonctionnement manuel. La quantité de contexte ne remplace ni sa mise à jour ni les essais des outils.",
+        "hash": "1532d53922e400ef4757213b8889d026d48424870c4a890e26647979b7cb9018",
+        "metadata": {}
+      },
+      {
+        "id": "84969178-6866-45bc-9575-a65fd0942dd1",
+        "kind": "markdown",
+        "markdown": "Mesurer le temps total, les corrections, les erreurs résiduelles et le coût par résultat accepté. Retenir les améliorations démontrées et conserver les cas de test pour les révisions. La [méthode de consulting et d’audit](https://chatgpt.com/space/page_b6ab6638a38881919966d13180fc9000) reste le cadre de livraison. Ces principes décrivent l’organisation à mettre en place ; ils ne déclarent pas un agent autonome ou une intégration déjà opérationnels.",
+        "hash": "fcfa6d7cc051cdbb69b0dfe22b0777bc2f7b13384c38eb5861a53601053abce6",
+        "metadata": {}
+      },
+      {
+        "id": "c4a139a1-edd7-40d6-92a0-29c24daa5956",
+        "kind": "markdown",
+        "markdown": "# BOJ.ART et recherche appliquée",
+        "hash": "85ecfa55cd0cf17843dd63ff390e4c61b10ff379196ed96d281d6cb89c53cade",
+        "metadata": {}
+      },
+      {
+        "id": "09e0c0ee-6a0e-4bc0-b93a-5d25b2996177",
+        "kind": "markdown",
+        "markdown": "John-Lucas connaît déjà la personne avec qui Morgan souhaite ouvrir la boutique et l’atelier d’impression 3D BOJ.ART. Ce projet peut nourrir des propositions de création et de prototypage pour la galerie ou le cabaret. L’ouverture de la boutique et les modalités de participation de ce partenaire restent à organiser.",
+        "hash": "a601e2de4f8b92451783705c9583cf8dc50bcd46d336a0b7d08d2fb74122bc54",
+        "metadata": {}
+      },
+      {
+        "id": "08016fa9-c113-4314-9e24-ad5167626c69",
+        "kind": "markdown",
+        "markdown": "Morgan dispose d’un accès à un atelier d’environ dix imprimantes 3D. Selon les besoins et les moyens disponibles, des supports de présentation d’œuvres, des éléments de scénographie, des objets sur mesure ou des prototypes pourraient être étudiés. Chaque réalisation est définie par son usage, ses dimensions, ses matériaux et son budget.",
+        "hash": "e6a8cecadf67cf051f6622a505669e5656bd2309cfeeb13a104cd47b98db67c0",
+        "metadata": {}
+      },
+      {
+        "id": "4ec719c4-3666-4d96-9c6a-91458ead0255",
+        "kind": "markdown",
+        "markdown": "En parallèle, Marwin Tech souhaite développer un laboratoire de recherche appliquée en intelligence artificielle et en robotique. L’ambition de rester à la pointe repose sur un travail quotidien de veille, de réflexion et d’amélioration des méthodes. Les nouvelles solutions sont testées, puis retenues selon leurs gains concrets de temps, de qualité et d’efficacité pour les activités accompagnées, avant leur utilisation en exploitation.",
+        "hash": "fa91a978360eef2d5c61ac7efa3f10df115a45aeddc2abaef3bc5162ba16edaf",
+        "metadata": {}
+      },
+      {
+        "id": "d896eee9-c623-4b95-b06e-be4419f72a8e",
+        "kind": "markdown",
+        "markdown": "Le laboratoire est un projet de développement parallèle, et non une installation annoncée comme déjà opérationnelle. L’accès à l’atelier est déclaré par Morgan le 28 octobre 2026 ; il ne constitue pas un apport automatique de ces machines à Marwin Tech. Les caractéristiques, la disponibilité et les conditions d’usage sont à préciser pour chaque fabrication. Le financement général du laboratoire n’est pas ajouté d’office à l’accompagnement Carlone ; les prototypes qui lui seraient destinés feront l’objet d’un périmètre, de droits et d’un budget convenus.",
+        "hash": "587af2383bd768efbe96bdbffbf43bc8ecb229982ae90348e27a1ea1482ffc2b",
+        "metadata": {}
+      },
+      {
+        "id": "fd060c84-7c70-4bfa-8bf2-84b9ea758339",
+        "kind": "markdown",
+        "markdown": "# Option de matériel IA local",
+        "hash": "6ebf21de3ab0e1679867a4360e573880770a80e3ee836bf5cce15e85d1e3cda9",
+        "metadata": {}
+      },
+      {
+        "id": "46e33a3f-e061-480d-aa0b-d7cbf82aff66",
+        "kind": "markdown",
+        "markdown": "DGX Spark est une option à étudier pour des usages locaux d’IA. La documentation NVIDIA décrit une plateforme Grace Blackwell avec processeur Arm, destinée notamment au développement, au prototypage et à l’exécution de modèles ; la gamme comporte des configurations de mémoire de 64 ou 128 Go selon le fabricant. Références : [NVIDIA DGX Spark](https://www.nvidia.com/fr-fr/products/workstations/dgx-spark/) et [guide matériel](https://docs.nvidia.com/dgx/dgx-spark/hardware.html), consultés le 25 octobre 2026.",
+        "hash": "977b29d9b138f3d2b36e2048b5bfd468b5ae2b6d0b53322f46d05429baadc707",
+        "metadata": {}
+      },
+      {
+        "id": "0c1bf642-3d44-43b5-85b5-3e13db2a1c10",
+        "kind": "markdown",
+        "markdown": "Usages à éprouver sur les données autorisées : recherche et synthèse de documents internes, préparation de comptes rendus, aide à la qualification et expérimentation d’agents locaux. Ce sont des propositions de tests, pas des services déjà installés. Vérifier les logiciels et modèles réellement compatibles, la qualité des réponses, les temps de traitement et les coûts avant de choisir le modèle et le fournisseur.",
+        "hash": "a0f9aacb2099bcb522632f007f83e98cba33fa51f714190b72602135dc2d20b6",
+        "metadata": {}
+      },
+      {
+        "id": "12f48967-04ce-475a-98ad-c10af8d84696",
+        "kind": "markdown",
+        "markdown": "Le besoin de DGX Spark n’est pas établi pour le seul raccordement CRM. Son financement peut être présenté comme une option de capacité IA, justifiée par des usages et un devis d’équipement. Définir le propriétaire du matériel, les conditions d’accès, les sauvegardes et ce qui se passe à la fin de la collaboration. Aucun achat, configuration précise ou budget fournisseur n’est validé.",
+        "hash": "6efdee0cd7281ff294ac27577660853e2f62d1da411c238b8a04c9cbb9d1e555",
+        "metadata": {}
+      },
+      {
+        "id": "8abc0de7-a0b9-4328-b974-264f98eabb8f",
+        "kind": "markdown",
+        "markdown": "# Ligne de conduite Marwin Tech",
+        "hash": "5c117334c4dab68c27762d86b515850068b88666fdf7768d8d9cc8efa26de48b",
+        "metadata": {}
+      },
+      {
+        "id": "3479108f-2f63-4e50-bea4-34a064745c2f",
+        "kind": "markdown",
+        "markdown": "Traduction proposée de l’ambition « faire le bien et lutter contre l’impossible » : résoudre des problèmes utiles, respecter les personnes et leurs données, rémunérer le travail clairement, annoncer honnêtement les limites et mesurer les progrès. La signature « L’impossible devient personnel » exprime une volonté d’engagement.",
+        "hash": "feeb714caeb3e0ed3a2a9f0fd3eb6d1149dae688bfcc7b7fae277bebbb09b59e",
+        "metadata": {}
+      },
+      {
+        "id": "7d1f7c7e-7929-42b9-98f8-720ec4ed560d",
+        "kind": "markdown",
+        "markdown": "# Points à valider avant engagement",
+        "hash": "886b9bcfe3066add0a2274dae54617d6b46176cd8382e08062a965d8cb0bf89c",
+        "metadata": {}
+      },
+      {
+        "id": "224a39ff-97aa-46d4-a1b0-d4fd6581a621",
+        "kind": "markdown",
+        "markdown": "À valider : vingt journées cumulées pour l’équipe ou vingt jours par intervenant ; disponibilité nominative de Morgan et Mathys ; compétences et partenaires nécessaires ; budget client ; prix, acompte et entités contractantes ; autonomie, mandat, plafonds de dépenses et signatures ; priorités à 90 jours ; organisation des urgences ; droits sur les créations et les méthodes ; sortie, continuité et remise des accès. Aucun contrat, encaissement, embauche ou transfert de pouvoir n’est établi par cette proposition.",
+        "hash": "2d562b62ae7c92bcb95791963d3c0332bab05a70f3f4a18301a0ee2ccaa7bc06",
+        "metadata": {}
+      },
+      {
+        "id": "b31f5208-ba04-45c4-90a8-6a1e8049188f",
+        "kind": "markdown",
+        "markdown": "# Constitution de Marwin Tech et encaissement de l’acompte",
+        "hash": "4884ac37fff7d00ef5194a33bef55a6e6c0313ab0815eb6f3068aacd639b8873",
+        "metadata": {}
+      },
+      {
+        "id": "10a509ee-cd9e-40b2-a0ba-8d9ef1b6af05",
+        "kind": "markdown",
+        "markdown": "La proposition prévoit un acompte sur des prestations identifiées, intégralement imputé sur le premier mois. La trésorerie de démarrage peut contribuer à organiser les moyens de Marwin Tech ; les frais de constitution et les apports au capital restent des décisions internes des fondateurs. Cette offre ne prévoit ni participation de John-Lucas au capital ni prêt consenti par lui. Si l’objectif devenait un investissement ou un prêt, un accord distinct serait nécessaire.",
+        "hash": "b84f70e0a8775fb5b1b85c8582f58a3af5405e2d4be5b60e3ebab57a1e72c54f",
+        "metadata": {}
+      },
+      {
+        "id": "7da33eae-5722-44bc-815f-e29001d4199f",
+        "kind": "markdown",
+        "markdown": "Si la signature précède l’immatriculation, faire préparer le contrat au nom et pour le compte de la société en formation et organiser la reprise des engagements. Les signataires portent une responsabilité pendant cette période ; la procédure dépend des actes et de leur moment. Référence : [Bpifrance Création, Société en formation](https://bpifrance-creation.fr/encyclopedie/formalites-creation-dune-entreprise/formalites-specifiques-a-creation-societes/societe), consultée le 28 octobre 2026.",
+        "hash": "6d50880054214247581edbf240d90c466c112bbadfcabcb093b0b0999cfb419d",
+        "metadata": {}
+      },
+      {
+        "id": "7042b0ae-932e-41fa-8a54-ceb4507e77a5",
+        "kind": "markdown",
+        "markdown": "Avant l’encaissement, identifier exactement le prestataire, le client qui commande et le cadre de facturation ; faire valider les mentions, la TVA applicable et la facture d’acompte. Service Public prévoit notamment une mention adaptée pour une société en cours d’immatriculation. Référence : [Service Public Entreprendre, Mentions obligatoires sur une facture](https://entreprendre.service-public.gouv.fr/vosdroits/F31808), fiche vérifiée le 11 août 2026 et consultée le 28 octobre 2026.",
+        "hash": "f94d2ecf21896749d03a723d7e51b2f3bc90aa493b7d8ba04405b65fa00e1cbe",
+        "metadata": {}
+      }
+    ],
+    "page_id": "page_b393673dd9f481919152c334ac61444b"
+  },
+  "view": "editing"
+}
+
