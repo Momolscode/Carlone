@@ -4,6 +4,8 @@ Tout ce qui concerne le projet mené avec M. Carlone, marchand d'art, par Morgan
 
 Le point de départ est `interne/contexte-projet-carlone.md` : les personnes, la chronologie depuis le 18 octobre, les chantiers, l'offre, les règles et les décisions attendues.
 
+Ce dépôt est privé et doit le rester : `crm/` et `sources/` contiennent les coordonnées des entreprises prospectées.
+
 ## Pour Carlone
 
 Les documents faits pour lui être montrés.
@@ -28,17 +30,25 @@ Les documents de travail de Morgan et Mathys : rémunération, positions de nég
 | `interne/state-of-the-art-note-de-vision.md` | Note de vision State Of The Art | 2 nov. |
 | `interne/strates-audit-robotique-ia.pdf` | Audit robotique et IA de STRATES | 2 nov. |
 
+## Le CRM
+
+`crm/` contient le CRM de Carlone, code et données, avec tout son historique : la branche `claude/new-session-utninu` du dépôt de Mathys, FinanceScope/CRM-Carlone, telle qu'elle était le 4 novembre (`b53a81c`). Chacun peut désormais y travailler de son côté. Pour reprendre ce que Mathys aura poussé chez FinanceScope :
+
+```bash
+git subtree pull --prefix=crm https://github.com/FinanceScope/CRM-Carlone.git claude/new-session-utninu
+```
+
 ## Sources
 
 | Fichier | Contenu | Date |
 | --- | --- | --- |
 | `sources/propositions-de-collaboration.pdf` | Les huit missions proposées à Carlone | 18 oct. |
+| `sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` | Dossier de Mathys : partenariats avec les entreprises de la Nièvre, 34 pages | 21 oct. |
+| `sources/archives-crm/` | Les trois premières versions du CRM, en zip (100 puis 500 entreprises) | 22 et 23 oct. |
 | `sources/rapport-recherche-fusion-des-univers.md` | Rapport « Fusion des univers », d'où viennent les idées du vernissage | 4 nov. |
 
 ## Ce qui n'est pas ici
 
-- **Le CRM** et ses données vivent dans le dépôt FinanceScope/CRM-Carlone ; ils contiennent les coordonnées des entreprises prospectées.
-- **Le dossier « Partenariats entreprises Nièvre »** de Mathys nomme des dirigeants et leurs contacts.
 - **Le diaporama « Offre Marwin Tech pour Carlone »** (13 diapositives) n'existe qu'en ligne ; son PDF s'exporte depuis sa page.
 - **Les graphiques et schémas** des documents n'existent qu'en ligne ; l'export Markdown les remplace par une mention.
 
