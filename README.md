@@ -66,3 +66,7 @@ Le [recueil et son index](sources/index-complement-sessions-chatgpt-2026-11-04.m
 ## Dernière reprise : conversations et visuels
 
 La [reprise des 59 lectures restantes](sources/reprise-59-et-visuels-2026-11-04.md) porte le bilan cumulé à **169 conversations lues sur 219**, avec 50 encore refusées ou sans réponse. Elle ajoute trois visuels extraits des PDF, correspondant aux descriptions recherchées. Les quatre fichiers originaux de la bibliothèque restent non vérifiés, et le quatrième visuel n’a pas de correspondance certaine.
+
+## Tous les livrables téléchargeables
+
+Les [recueils, archives ZIP, galerie des visuels et preuves de publication](livrables/collecte-chatgpt-2026-11-04/README.md) sont également réunis dans le dépôt. Les versions historiques sont conservées ; le dernier bilan reste celui de la reprise des 59 conversations.
