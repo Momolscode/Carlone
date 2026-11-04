@@ -361,18 +361,37 @@
     {
       "library_file_id": "libfile_d6e569264d488191a791bf42fb8b6089",
       "name": "Bras robotique éducatif au cube rouge.png",
-      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration",
+      "pdf_alternative": {
+        "path": "pour-carlone/visuels-recuperes-pdf/bras-educatif-cube-rouge-extrait-pdf.png",
+        "source_pdf": "interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf",
+        "page": 9,
+        "identity_with_library_original_verified": false
+      }
     },
     {
       "library_file_id": "libfile_a0b1eafe059c819191a2ceeae4840883",
       "name": "Rivière ultramarine dans la pierre.png",
-      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration",
+      "pdf_alternative": {
+        "path": "pour-carlone/visuels-recuperes-pdf/riviere-ultramarine-extrait-pdf.png",
+        "source_pdf": "pour-carlone/strates-proposition-artistique-v1.1.pdf",
+        "page": 1,
+        "identity_with_library_original_verified": false
+      }
     },
     {
       "library_file_id": "libfile_268510149a14819195ed5f3a1e1075f1",
       "name": "Bras robotique peignant un relief fluvial bleu.png",
-      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration"
+      "reason": "référence retrouvée ; transfert binaire indisponible lors de cette intégration",
+      "pdf_alternative": {
+        "path": "pour-carlone/visuels-recuperes-pdf/bras-peignant-relief-fluvial-extrait-pdf.png",
+        "source_pdf": "pour-carlone/strates-proposition-artistique-v1.1.pdf",
+        "page": 3,
+        "identity_with_library_original_verified": false
+      }
     }
   ],
-  "large_file_handling": "Limite de requête 16 MiB : PDF allégé sans changement de texte/pixels + original gzip, master vidéo découpé sans perte."
+  "large_file_handling": "Limite de requête 16 MiB : PDF allégé sans changement de texte/pixels + original gzip, master vidéo découpé sans perte.",
+  "latest_recovery_note": "Trois alternatives visuelles extraites des PDF ; les quatre originaux Library restent non vérifiés. Voir sources/reprise-59-et-visuels-2026-11-04.md."
 }

@@ -1,0 +1,449 @@
+{
+  "date": "2026-11-04",
+  "scope": "Reprise des 59 lectures restantes et recherche des quatre visuels manquants, explicitement demandées par Morgan.",
+  "base_commit": "553b8b49379c07ed867161ab733bff43352ab261",
+  "coverage": {
+    "previous_conversations_read": 160,
+    "remaining_targeted": 59,
+    "attempted": 59,
+    "new_successful_reads": 9,
+    "still_unread": 50,
+    "rate_limited": 47,
+    "timed_out": 3,
+    "cumulative_successful_reads": 169,
+    "listed_conversations": 219,
+    "new_carlone_matches_in_returned_messages": 0,
+    "limit": "Les messages restitués sont parfois limités aux derniers échanges, sans curseur plus ancien. Ces lectures ne constituent pas un export intégral du compte."
+  },
+  "read_attempts_without_unrelated_titles_or_content": [
+    {
+      "conversation_id_sha256": "ab3e0330e9cda4bccd8acc8198e697190523cc0c3f60187e659ceb24dccda2de",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "38cd78b8b8d25d660102db5bb86f0759fcae3dfe73ce93e665495458c08c3311",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "2dd84ab8009dc5618c46232aeff917c499c0a552ea14953067ac76d59cb71f9e",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "dce595cebfbb26620ef813b081b045ba2f560296240a49a467a77eb98fba8bcb",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "e75199221642aa8aab310490f77e229ea4bd74b38f7b3312e037711667981378",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "783395f02f5d4bfb1efb81cbcd3a2d233c999334ee22fa20645ee753865d7635",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "7a5b1667d4295402c5e6b2d528acf816193d3ff79bf936a6dcb08e8c4afc033e",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "bbe59845914b51fc7e8f5196e9b075003f26a1e70d5366a8e4be5ba03375fe56",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "f4dfaf8357da733543beebb80654c3984cc0f7fdf901abf89f7eff167875ed2d",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "819312f55df2c7faf508627e1e82fd5821b4331900b8ece77284ae852924235d",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "386f15e80a6bf2f4391367726886650e61f0c3a49b717eb729a8c0bae252841c",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "68defe84a9f84ca4c07bf0bbb40bf88e2b3c5a58ada04e52a45a92260016504d",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "82ee5f75e41122ece50866ca448fdc8acff840c5e2475ebdd1fabaaf0fad486e",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "0acbb848f606e74f04f19d3488d151d3e8ae980e30690f438522e0e2672c766e",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "e935d5f434fb7cacb166cee64a48792fba85f6134653bd9c3e1024ebce3f3c40",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "83220084f90fa18d1f607456373681784817accfeb66a594f295ed0596498bfb",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "285528d2ded82774c6eb916c1b309a23d73fb66c04bf4968a095b91851ad4701",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "29682c99643c8bf5d2439ed40d6981017548f09196de41e883622e67f8e2d310",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "2444a5e486c9e2893ce3b217bc5bed7bed6805854dc233bf91385691b5683f0b",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "5aaaaddf081b89cd867d75e525891ef24045928383c7bc8af9e68226ab32733a",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "c4886a8d860be1fae384bb43937e483175d2aba00fdd69902532f903f2285aba",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "cfcf3b9edeb4124fe728d7a802c5c6785ecaf8737cbe4225539d0febdf58bd52",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "ce526e03c8f064ba43af805584271819fa7573d605d3bd64f45be870cea29196",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "63d344c1392d0a1e76815cf4239296782c520d6264bacc83f10fd493423257a2",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "be298606f0a15003e08395a788f050a4f5fe019d2f510b5bfb771366ad4a06cc",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "72fff52cd807fc586c8e3514c0b4a75e716461adeed7971bf838f44d12566674",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "ae658e855600d5abe7e95a998d382696c3968cb4624a3e2ffee4bceec6239242",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "86d1876c895132f1239debe794bd644bd313899932d706beafc9096302fd4951",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "2e3d06d87af26777f10ebaf5539c69f94d461365384a4191ff599d23afbd2fe9",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "6a26403af5880422be02650145a789c1dd596fe008910ab01dcca9b2f8edf307",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "3db2c60d0bec71ad05e8764d33aa9ac9c593982d086f0ab84785919ae6dcd93f",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "d1550cae9f139f4e7f64b3f3d97c0f27bb1483297b99a7a8ec4cc45a5e254eab",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "edc8dc6ebdefde18631926988acb236cdfbe517a6131f83da68f429b6b1a33d8",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "4ee165f608c4d1d787d28ff1a3e11b40f56bcfd6284fb2f30bc929e7cbc391ba",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "793c119c35f171f53fe5ea66a0eb741facfef01f1c6fe8a1f22e255216afd7dc",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "c7700968f31fed9d109f2c2c8132ca4e65333d3b16c63db7cfc204979fbead98",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "09248aa1974916ceab813527d5dd4cc1bd4306d0eb2b4d5852ea8990caeda9c7",
+      "status": "read_success",
+      "response_sha256": "b3beaf761b14684638c8be6b3ee1a34cc37eb7bff40fe27be650bb59eb4db7ff",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "422dde679297e416a4adef92c605431f69d9fff2c011fb518f01665aecfe08ef",
+      "status": "rate_limited",
+      "response_sha256": "47bd0dfe906d9afb4b4ca8cbf36762295d86ab725b561e35951cc542ab1f28ca",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "825c2574dd294caabc99a3b0fc79ca390f21fd279e5dc9bef329ffd9c504e5bf",
+      "status": "read_success",
+      "response_sha256": "9342818bb3501731671164bed04861bfe948da21196d28392c7ce748f9071933",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "26037be5ebb7497b450d809d08be3981cf2a433399d2f0fcf87484bf667bae72",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "41c9dba1f1b76ca1d1ed9dcc1636f39f132b835d045be77876965b2e57b835b7",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "262079cef7be164ea2d7a9cff6bbdb846f23f89c887cac3da92a9e748f843352",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "d7d8c921c6d44a3bdf02a62bc3d12ced854b64f2ce09a4cde6aaf9509e340fbf",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "48e00538bf29b013ca821cebd03958ab583a7970d847b57a2212bac85473f1d9",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "fe3e837bf9b80bb3b501c9f890236f717a0969ab25ed07f13eb3ff2f61b94304",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "09850b76a5943dc0feedcf57b6472f8ed722ceef3c1302a3757900ba0a9df918",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "faa23ab6a113818934c0f99a12899fcfa2cfce3eb11d1de9253209f6943d3d0a",
+      "status": "read_success",
+      "response_sha256": "27de870a8bc3938ec45c4c93897e0e18589b8deba2dc18d2f75f34c38daeb87c",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "637ed9b514e8f6eaf3ffcf879be305a42f9ee96f1857a0643552e0a86a6ad3fd",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "8927f6acc50720e4d5a2d33da6e9b0d5cae7a391821ccf5f9e092a9307f6f5cf",
+      "status": "rate_limited",
+      "response_sha256": "10b973ac49a890d9cb45719cec494f4fc1a8365835c1611fb415514cd816b27c",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "7785fa6c271f776316fa666d280729bce363738eb40c29c27439a4cdc47b5733",
+      "status": "timeout",
+      "response_sha256": "c47c98f6c688bcde502d632852c9024f3b36899f54baefca12ad472b2ad9fc87",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "082381c252919c4a6148a3eedbcc2cdde44b54c2b6eb7e866d9f1c088f58f231",
+      "status": "timeout",
+      "response_sha256": "c47c98f6c688bcde502d632852c9024f3b36899f54baefca12ad472b2ad9fc87",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "d9f961b14f7017d657a9c9083e42d1fffff7b31125e02d504fed89b343c97bbb",
+      "status": "read_success",
+      "response_sha256": "31d45b431ca75e292b9c6d56d6d483fbb10e624e0349d70740ff22614976b213",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "d6795d9f80d8b1e3068560e5abcda5aae93a3095481118dd2f57afd35787e3e5",
+      "status": "rate_limited",
+      "response_sha256": "47bd0dfe906d9afb4b4ca8cbf36762295d86ab725b561e35951cc542ab1f28ca",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "4ab0b25fc89d0b1a14f11f0e09857a6bb7e143cbcf9d2cf5f6e9697079aaeff8",
+      "status": "read_success",
+      "response_sha256": "37399d1218d4afcc5cca48f94a26c5900ed6f3fa45f0a75e51768144df54a3d9",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "601fb959d29a9fd6532ff6f27066bacd5af239663e230357ff9cd6fbfe03b313",
+      "status": "timeout",
+      "response_sha256": "c47c98f6c688bcde502d632852c9024f3b36899f54baefca12ad472b2ad9fc87",
+      "direct_carlone_match": null
+    },
+    {
+      "conversation_id_sha256": "f372dfdcf015233e5fe69b5600982c03d501b40fb08dfefb35940763ebbca26d",
+      "status": "read_success",
+      "response_sha256": "5c0a3b88ac3b08fe25599282b8291562994068be2851d32bf553e13ce1aae1f8",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "72e627d76f710c427af97c95e378bf8b63e49ad462d22d5158950f19b774e255",
+      "status": "read_success",
+      "response_sha256": "004f6ffbcc5c03bfd2530a15e16d457503959637fac5f46f0a42d0ebf854a96d",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "e2e5cf9f3e3c22295e0dcd4da90c71f008c2eb33be05b64fbf8a21afb4b5f2aa",
+      "status": "read_success",
+      "response_sha256": "c802d5a2be88f52a973c190530940fcfba9e4ce2397f63d1b4b53a8ed1e96263",
+      "direct_carlone_match": false
+    },
+    {
+      "conversation_id_sha256": "ac0073bd6a3bb332bf3f61c8a18776c8b06503a9eff4785e4a8689aa7ccb1f7a",
+      "status": "read_success",
+      "response_sha256": "20aa69414233983f02fc40a8f4e6ad65ecaffaf5803023516cb588565e53fa83",
+      "direct_carlone_match": false
+    }
+  ],
+  "recovered_pdf_visuals": [
+    {
+      "title": "Rivière ultramarine dans la pierre",
+      "path": "pour-carlone/visuels-recuperes-pdf/riviere-ultramarine-extrait-pdf.png",
+      "bytes": 3593855,
+      "sha256": "685c6099053cfd015384c277cd29a3b76dc2747346179edc4c5f33599362b178",
+      "source_pdf": "pour-carlone/strates-proposition-artistique-v1.1.pdf",
+      "source_pdf_sha256": "40288aa750ce11961c6b8cef7b3b12b46b94f572067e3ce87a224ecfc7ffafe0",
+      "source_page_1_based": 1,
+      "source_pdf_xref": 3,
+      "source_pdf_commit": "553b8b49379c07ed867161ab733bff43352ab261",
+      "width": 1122,
+      "height": 1402,
+      "candidate_library_file_id": "libfile_a0b1eafe059c819191a2ceeae4840883",
+      "identity_with_library_original_verified": false,
+      "matching_basis": "Correspondance visuelle avec la description recherchée et contexte de la page PDF ; identité binaire avec la référence Library non établie.",
+      "recovery_method": "Extraction de l’image incorporée au PDF par PyMuPDF, sans génération, redimensionnement ni recadrage supplémentaire. Le PDF peut lui-même contenir une version déjà recadrée ou transformée.",
+      "source_visual_status": "Illustration générée par IA, intention de projet ; aucune photographie ni performance physique attestée."
+    },
+    {
+      "title": "Bras robotique peignant un relief fluvial bleu",
+      "path": "pour-carlone/visuels-recuperes-pdf/bras-peignant-relief-fluvial-extrait-pdf.png",
+      "bytes": 3925137,
+      "sha256": "dbeb92d36a99ab096093fe7e931a00f90056a2d3666e62870b5f47a9312326f1",
+      "source_pdf": "pour-carlone/strates-proposition-artistique-v1.1.pdf",
+      "source_pdf_sha256": "40288aa750ce11961c6b8cef7b3b12b46b94f572067e3ce87a224ecfc7ffafe0",
+      "source_page_1_based": 3,
+      "source_pdf_xref": 7,
+      "source_pdf_commit": "553b8b49379c07ed867161ab733bff43352ab261",
+      "width": 1536,
+      "height": 1024,
+      "candidate_library_file_id": "libfile_268510149a14819195ed5f3a1e1075f1",
+      "identity_with_library_original_verified": false,
+      "matching_basis": "Correspondance visuelle avec la description recherchée et contexte de la page PDF ; identité binaire avec la référence Library non établie.",
+      "recovery_method": "Extraction de l’image incorporée au PDF par PyMuPDF, sans génération, redimensionnement ni recadrage supplémentaire. Le PDF peut lui-même contenir une version déjà recadrée ou transformée.",
+      "source_visual_status": "Illustration générée par IA, intention de projet ; aucune photographie ni performance physique attestée."
+    },
+    {
+      "title": "Bras robotique éducatif au cube rouge",
+      "path": "pour-carlone/visuels-recuperes-pdf/bras-educatif-cube-rouge-extrait-pdf.png",
+      "bytes": 3847986,
+      "sha256": "30c3512b1f68830d4aa85cad3e89dca86663565cc33717974e239c5cc4943228",
+      "source_pdf": "interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf",
+      "source_pdf_sha256": "1e74eb164bf606e1a464a8d71a1c8d92e1c80cdec81b766e0c2701f4f83fa646",
+      "source_page_1_based": 9,
+      "source_pdf_xref": 33,
+      "source_pdf_commit": "553b8b49379c07ed867161ab733bff43352ab261",
+      "width": 1536,
+      "height": 1024,
+      "candidate_library_file_id": "libfile_d6e569264d488191a791bf42fb8b6089",
+      "identity_with_library_original_verified": false,
+      "matching_basis": "Correspondance visuelle avec la description recherchée et contexte de la page PDF ; identité binaire avec la référence Library non établie.",
+      "recovery_method": "Extraction de l’image incorporée au PDF par PyMuPDF, sans génération, redimensionnement ni recadrage supplémentaire. Le PDF peut lui-même contenir une version déjà recadrée ou transformée.",
+      "source_visual_status": "Illustration générée par IA, intention de projet ; aucune photographie ni performance physique attestée."
+    }
+  ],
+  "library_originals_recovered": 0,
+  "library_originals_still_unverified": 4,
+  "fourth_visual": {
+    "library_file_id": "libfile_0379adfb1434819195e92f6d572950cc",
+    "name": "Atelier MARWIN TECH, art et robotique.png",
+    "status": "aucune correspondance certaine retrouvée",
+    "existing_different_workshop_visuals": [
+      "pour-carlone/laboratoire-ia-robotique/visuels/atelier-pilote.png",
+      "pour-carlone/laboratoire-ia-robotique/visuels/laboratoire-ia-art-robotique.png"
+    ],
+    "note": "Les deux visuels d’atelier existants ont des pixels identiques à des images des PDF ; cela ne prouve pas leur identité avec le fichier manquant."
+  },
+  "checks": {
+    "pdf_files_examined": 11,
+    "distinct_large_embedded_images_examined": 22,
+    "source_pages_rendered_and_visually_checked": 3,
+    "pixel_duplicates_of_recovered_images_in_existing_repo": 0,
+    "library_browser_access": "La navigation directe vers le premier fichier exact a redirigé vers la page de connexion ChatGPT. Aucun accès aux fichiers de bibliothèque n’a été obtenu par ce navigateur."
+  }
+}

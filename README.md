@@ -4,6 +4,8 @@ Tout ce qui concerne le projet mené avec M. Carlone, marchand d'art, par Morgan
 
 Le point de départ est `interne/contexte-projet-carlone.md` : les personnes, la chronologie depuis le 18 octobre, les chantiers, l'offre, les règles et les décisions attendues.
 
+Ce dépôt est privé et doit le rester : `crm/` et `sources/` contiennent les coordonnées des entreprises prospectées.
+
 ## Pour Carlone
 
 Les documents faits pour lui être montrés.
@@ -33,17 +35,22 @@ Les documents de travail de Morgan et Mathys : rémunération, positions de nég
 | `interne/diagrammes/` | Les sept schémas de ces documents, en images | 2 nov. |
 | `interne/strates-audit-robotique-ia.pdf` | Audit robotique et IA de STRATES | 2 nov. |
 
+## Le CRM
+
+`crm/` contient le CRM de Carlone, code et données, avec tout son historique : la branche `claude/new-session-utninu` du dépôt de Mathys, FinanceScope/CRM-Carlone, telle qu'elle était le 4 novembre (`b53a81c`). Chacun peut désormais y travailler de son côté. Pour reprendre ce que Mathys aura poussé chez FinanceScope :
+
+```bash
+git subtree pull --prefix=crm https://github.com/FinanceScope/CRM-Carlone.git claude/new-session-utninu
+```
+
 ## Sources
 
 | Fichier | Contenu | Date |
 | --- | --- | --- |
 | `sources/propositions-de-collaboration.pdf` | Les huit missions proposées à Carlone | 18 oct. |
+| `sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` | Dossier de Mathys : partenariats avec les entreprises de la Nièvre, 34 pages | 21 oct. |
+| `sources/archives-crm/` | Les trois premières versions du CRM, en zip (100 puis 500 entreprises) | 22 et 23 oct. |
 | `sources/rapport-recherche-fusion-des-univers.md` | Rapport « Fusion des univers », d'où viennent les idées du vernissage | 4 nov. |
-
-## Ce qui n'est pas ici
-
-- **Le CRM** et ses données vivent dans le dépôt FinanceScope/CRM-Carlone ; ils contiennent les coordonnées des entreprises prospectées.
-- **Le dossier « Partenariats entreprises Nièvre »** de Mathys nomme des dirigeants et leurs contacts.
 
 Les versions vivantes de ces documents sont des pages privées sur claude.ai, que seul Morgan peut ouvrir.
 
@@ -51,3 +58,11 @@ Les versions vivantes de ces documents sont des pages privées sur claude.ai, qu
 
 Les PDF, animations, études du laboratoire et fichiers du prototype Éclosion récupérés de la conversation sont décrits dans [l’index de l’intégration](sources/index-integration-chatgpt-2026-11-04.md). Les versions historiques et les documents financiers restent dans `interne/`. Le contexte déjà présent est conservé ; cet apport ne valide ni devis ni achat ni faisabilité physique.
 
+
+## Recueil complémentaire des sessions ChatGPT
+
+Le [recueil et son index](sources/index-complement-sessions-chatgpt-2026-11-04.md) ajoutent les trois conversations retrouvées, cinq exports supplémentaires de Pages et le bilan de couverture : 160 lectures réussies sur les 219 conversations répertoriées. Les 59 refus restants et l’ancienneté parfois limitée des messages sont conservés comme limites.
+
+## Dernière reprise : conversations et visuels
+
+La [reprise des 59 lectures restantes](sources/reprise-59-et-visuels-2026-11-04.md) porte le bilan cumulé à **169 conversations lues sur 219**, avec 50 encore refusées ou sans réponse. Elle ajoute trois visuels extraits des PDF, correspondant aux descriptions recherchées. Les quatre fichiers originaux de la bibliothèque restent non vérifiés, et le quatrième visuel n’a pas de correspondance certaine.

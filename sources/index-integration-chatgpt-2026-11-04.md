@@ -39,3 +39,7 @@ Leurs identifiants figurent dans l'inventaire. Les documents en ligne non export
 ## Fichiers volumineux
 
 La limite de transfert impose deux conditionnements sans perte : le PDF v5 est allégé par suppression de l’enveloppe ASCII85 de ses images (texte et pixels décodés contrôlés identiques) ; son fichier original exact est conservé en `.original.pdf.gz`. Le master vidéo est réparti en trois parties binaires ; le MP4 1080p reste directement utilisable. Le [script de restitution](../tools/restaurer-archives.py) reconstitue et contrôle les originaux dans un dossier de sortie choisi, sans écraser les fichiers existants.
+
+## Reprise des visuels manquants
+
+La [reprise des 59 lectures et des visuels](reprise-59-et-visuels-2026-11-04.md) ajoute trois versions incorporées aux PDF (relief bleu, bras peintre et bras éducatif). Les quatre fichiers Library originaux restent non vérifiés ; ces extractions sont explicitement distinguées des originaux.

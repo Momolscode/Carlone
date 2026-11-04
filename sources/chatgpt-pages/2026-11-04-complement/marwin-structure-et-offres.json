@@ -1,0 +1,418 @@
+{
+  "source_url": "https://chatgpt.com/space/page_d8173b0839e0819193985bc3877b2217",
+  "page_id": "page_d8173b0839e0819193985bc3877b2217",
+  "source_title": "Marwin Tech Structure et offres de la société",
+  "retrieval_date": "2026-11-04",
+  "source_updated_at": "2026-10-29T07:11:41.102589Z",
+  "source_sequence": null,
+  "listed_sequence": 9,
+  "selection": "Copie des blocs Markdown de la page entière.",
+  "blocks": [
+    {
+      "id": "1cf749ad-f98a-4e16-9f1c-7face8d9b3b6",
+      "kind": "markdown",
+      "markdown": "Orientation précisée par Morgan Olsen le 28 octobre 2026 : développer Marwin Tech comme un cabinet de conseil opérationnel et de réalisation, capable de conduire des audits approfondis puis de livrer et piloter les solutions retenues. L’IA soutient la recherche, l’analyse, la production et le contrôle. Les modalités commerciales et les responsabilités restent à convenir ; aucune forme juridique, répartition du capital ou immatriculation n’est annoncée comme décidée.",
+      "hash": "5e3aecd1bdf4637c6a2de14f0a0a9859538a9dcf49fe054b69f8965fea78a221",
+      "metadata": {}
+    },
+    {
+      "id": "1ea19966-b1cd-48fc-9229-735deb1100ad",
+      "kind": "markdown",
+      "markdown": "# Un cabinet de conseil et de réalisation",
+      "hash": "4e1c65ae6f9738adde371359ddf9e65750a6624237513a94cbbe7626840a14c9",
+      "metadata": {}
+    },
+    {
+      "id": "af09865c-a973-4489-a0fa-a478fd317b85",
+      "kind": "markdown",
+      "markdown": "Le conseil constitue le point d’entrée de Marwin Tech ; les pôles ci-dessous apportent les capacités de réalisation. Chaque mission précise le client, le problème à résoudre, le résultat attendu, le responsable, le temps prévu, le prix, les moyens et les critères de réception. Les compétences absentes sont recherchées auprès de partenaires adaptés avant de promettre la réalisation.",
+      "hash": "86636165cddffdc988190537a3029642bf040faf15ea5e58f66ef01cf8199fe0",
+      "metadata": {}
+    },
+    {
+      "id": "9f10645f-2fa6-4dac-b682-41fe16d68617",
+      "kind": "markdown",
+      "markdown": "| Pôle proposé | Prestations possibles | Conditions de lancement |\n| --- | --- | --- |\n| Conseil et opérations | Cadrage, organisation, coordination d’intervenants, suivi de projets | Mission et autorité confiée clairement définies |\n| Studio marketing | Positionnement, supports commerciaux, identité, photo, vidéo et campagnes | Livrables, droits et canaux de diffusion définis |\n| Logiciels et automatisation | CRM, sites, tableaux de bord, connecteurs et outils IA | Accès et interfaces vérifiés ; recette et maintenance prévues |\n| Prototypes et fabrication | Conception et petites productions selon les compétences disponibles | Besoin, équipements, qualifications et couverture de l’activité vérifiés |",
+      "hash": "502a8408356eaa0dff5005da806e702bdc15d27e6f4d86836a5d4727f21d5c05",
+      "metadata": {}
+    },
+    {
+      "id": "ad404cf7-d7ca-4df3-a5c7-4519d338a2f4",
+      "kind": "markdown",
+      "markdown": "Les premiers services à commercialiser sont ceux dont la réalisation peut être démontrée. Les activités physiques ou spécialisées s’ajoutent lorsque leurs moyens sont établis. Les projets existants comme BOJ.ART, Jarvis et UNUM conservent leurs propriétaires, leurs missions et leurs moyens propres ; leur présence dans le contexte ne constitue pas un apport automatique à Marwin Tech.",
+      "hash": "f5e98e1631183755988e6c007ab5beb727a2be2e8ec5c0802c0a841b6949e812",
+      "metadata": {}
+    },
+    {
+      "id": "68e17c38-4278-4346-b9f6-8d66011e6811",
+      "kind": "markdown",
+      "markdown": "La [méthode de consulting et d’audit](https://chatgpt.com/space/page_b6ab6638a38881919966d13180fc9000) précise la collecte des preuves, les livrables, le choix des solutions, la réception et l’amélioration après mission. Le cap commercial est confirmé par Morgan ; cette méthode reste à éprouver sur une première mission réelle, avec un périmètre et des moyens convenus.",
+      "hash": "f14ee39f2aac13e7fd3fabb1f4ce3db99aa98740fa04f1020b4c8f2494daeb1c",
+      "metadata": {}
+    },
+    {
+      "id": "7653170c-77d1-4cd8-8448-7bbbf6748504",
+      "kind": "markdown",
+      "markdown": "# Trois offres simples au démarrage",
+      "hash": "7b23ff43e8f5b9592cc514c456712751047dd78a75745f3e4e1cb5960915e7a1",
+      "metadata": {}
+    },
+    {
+      "id": "c47faedd-c583-434a-b49a-c2c14cbfe256",
+      "kind": "markdown",
+      "markdown": "| Offre de départ | Résultat vendu | Mode de rémunération proposé |\n| --- | --- | --- |\n| Cadrer un projet | Diagnostic étayé, options comparées et feuille de route chiffrable | Forfait initial payé et borné |\n| Produire un livrable | Solution précisément décrite, testée et documentée | Devis par lot avec critères de réception |\n| Piloter dans la durée | Coordination, suivi des résultats et amélioration avec temps réservé | Accompagnement mensuel borné en jours ou heures |",
+      "hash": "1b823b3aed863447967edae8e1e6fc74157556c0b644f0394b374184c769a26d",
+      "metadata": {}
+    },
+    {
+      "id": "72fa07bf-2b39-4522-871d-6f0669c861ac",
+      "kind": "markdown",
+      "markdown": "Le prix se prépare à partir du temps, des achats, des outils, des charges, de la maintenance et de la marge visée. Le chiffre d’affaires facturé par la société ne se confond pas avec la rémunération personnelle des associés. Le matériel et les locaux figurent dans une convention ou un budget distinct selon qui les finance et en reste propriétaire.",
+      "hash": "27eff5f8189932b8f3a77cfde52eee2bd7ea1ff2689627a3c81b3c536401f3ca",
+      "metadata": {}
+    },
+    {
+      "id": "299c1d6f-dfca-46b8-ad5f-52b04ff9e998",
+      "kind": "markdown",
+      "markdown": "Application au dossier Carlone : le brief élargi du 28 octobre 2026 porte sur le pilotage quotidien des projets et l’automatisation progressive. La [proposition d’accompagnement](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) retient à titre de scénario vingt journées-personnes cumulées par mois, soit 140 heures, à 15 000 € HT mensuels sur six mois ; acompte de 7 500 € HT imputé sur le premier mois. Vingt jours pour chacun des deux intervenants constitueraient une autre capacité. Le mandat, les budgets, les moyens, l’astreinte éventuelle, le tarif et les cocontractants restent à convenir. Le [cahier de raccordement](https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d) conserve les dépendances Quali Contact.",
+      "hash": "128658140e7242bc7a0150ba6a56f4877312fa935175a72b98d7d7075b33692f",
+      "metadata": {}
+    },
+    {
+      "id": "ecfde0ed-1620-424a-93e7-22dfa4d491c2",
+      "kind": "markdown",
+      "markdown": "# Choisir la forme juridique",
+      "hash": "e2d3249b07e3f339ec92a78c328983bba70b617ecfbc5b60b21999c0c1108b6a",
+      "metadata": {}
+    },
+    {
+      "id": "77a06db5-df8b-43f1-b4f1-2c0b4d95478c",
+      "kind": "markdown",
+      "markdown": "Deux pistes à comparer pour une association à deux : SAS et SARL. La SAS offre une grande liberté d’organisation dans ses statuts ; la SARL dispose d’un cadre légal plus prescriptif. Le choix doit tenir compte des activités retenues, du rôle de chacun, de la rémunération envisagée, de la protection sociale et du projet d’évolution. Références : [SAS, Service Public Entreprendre](https://entreprendre.service-public.gouv.fr/vosdroits/F37366), [SARL, Bpifrance Création](https://bpifrance-creation.fr/encyclopedie/structures-juridiques/entreprendre-a-plusieurs/sarl-societe-a-responsabilite-limitee) et [choix de la forme juridique](https://entreprendre.service-public.gouv.fr/vosdroits/F23844), consultés le 25 octobre 2026.",
+      "hash": "6940970870c5206100606f5085c155685a5eefac65c19a88e05829dfc3b7bbed",
+      "metadata": {}
+    },
+    {
+      "id": "9a232988-6c6a-40f5-8693-22f7858cafe8",
+      "kind": "markdown",
+      "markdown": "Travail préparatoire proposé : comparer les deux formes sur les mêmes hypothèses de chiffre d’affaires, dépenses, temps et rémunération, puis faire examiner le choix et les textes par les professionnels compétents. Aucun capital symbolique, pourcentage de parts ou régime de rémunération n’est retenu par défaut.",
+      "hash": "b53326aa4c3077f90ae8b7ba2a13b1d5c4d60db8d12be6b40380ddc8ec9ed9b8",
+      "metadata": {}
+    },
+    {
+      "id": "69c61570-7ee6-4623-8020-9054b073247e",
+      "kind": "markdown",
+      "markdown": "# Définir les activités et les moyens",
+      "hash": "664211ad8e57fe976cb13f6bc6973852d4c06b9cf4e2829014bf2b8ef5be8dd3",
+      "metadata": {}
+    },
+    {
+      "id": "fa421015-83f6-4baa-b481-cdcf3286b72e",
+      "kind": "markdown",
+      "markdown": "L’objet social doit décrire des activités précises tout en couvrant celles que la société prévoit réellement d’exercer. Il peut comprendre une activité principale et des activités secondaires. Certaines activités imposent des conditions d’accès ou d’exercice indépendantes de la forme de société. Références : [rédaction de l’objet social, Bpifrance Création](https://bpifrance-creation.fr/encyclopedie/structures-juridiques/entreprendre-a-plusieurs/comment-bien-rediger-son-objet-social) et [activités réglementées, Service Public Entreprendre](https://entreprendre.service-public.gouv.fr/vosdroits/F35897), consultés le 25 octobre 2026.",
+      "hash": "562c6c13a7d1891c264274d9f34f17df56e70816f2f8b6aa98b3218af53f762e",
+      "metadata": {}
+    },
+    {
+      "id": "ec061e22-f724-44e7-b991-25a576844d1a",
+      "kind": "markdown",
+      "markdown": "Périmètre de travail à faire traduire dans les statuts selon les activités retenues : conseil en organisation et gestion de projet ; communication et production de contenus ; conception, développement, intégration et maintenance de solutions numériques ; conception et fabrication de prototypes lorsque les conditions de l’activité sont réunies. Ce périmètre constitue un brief de rédaction, pas une clause statutaire prête à déposer.",
+      "hash": "ae38fb9bfdd056e24ab1ee2ef32324f3bd75dbbed181b39aac4452747ea5fb19",
+      "metadata": {}
+    },
+    {
+      "id": "6b272d20-114e-4e98-9ce1-2e84ff691dfc",
+      "kind": "markdown",
+      "markdown": "Pour chaque service, préciser qui est compétent pour le délivrer, qui le valide et quelle couverture s’applique. Les opérations fiscales du client et l’exploitation de ses lieux ne sont pas absorbées dans une promesse générale Marwin Tech. Un partenariat ou une sous-traitance précise le rôle et la responsabilité de chaque intervenant.",
+      "hash": "b0a67619d9a6a628589fd8aa1300e58985a7462a2c9933575af22c0ed11c85f9",
+      "metadata": {}
+    },
+    {
+      "id": "455e5350-8974-4e71-8e80-105a26fd8a32",
+      "kind": "markdown",
+      "markdown": "# Régler les sujets entre associés",
+      "hash": "81214b501356a66c0fb1797c1350850a11e73f4426509b2f5c415dbe3f5627b8",
+      "metadata": {}
+    },
+    {
+      "id": "a1e79177-b98e-4145-af13-db17044e24d7",
+      "kind": "markdown",
+      "markdown": "| Sujet | Décision à écrire avant les engagements importants |\n| --- | --- |\n| Apports | Argent, matériel, créations, accès et temps apportés par chacun |\n| Capital et gouvernance | Parts, fonctions de direction, votes et décisions réservées |\n| Travail et rémunération | Rôles opérationnels, disponibilité, calcul et révision de la rémunération |\n| Clients et créations | Attribution des contrats, données, marque, code et droits sur les livrables |\n| Dépenses et engagements | Qui signe, dans quelle limite et avec quel accord |\n| Désaccord et départ | Procédure de résolution, conditions de sortie et continuité des missions |",
+      "hash": "a064c8571fff8513b59746d860fab66b7be6f2e8b034f17cdbb448be4b89fedc",
+      "metadata": {}
+    },
+    {
+      "id": "9c63dda5-cf5d-4549-86c3-a4b3295cebcc",
+      "kind": "markdown",
+      "markdown": "La répartition du capital et la rémunération du travail sont deux sujets à organiser séparément. Une éventuelle répartition à parts égales doit s’accompagner d’un fonctionnement prévu en cas de désaccord. Le choix de répartition reste ouvert ; les compétences et le rôle exact du second associé sont à préciser.",
+      "hash": "cfaeeabf7a5d1d169beaca98e5b3ba586872654ded8b58e7c944afa80206ffee",
+      "metadata": {}
+    },
+    {
+      "id": "2a326872-2ef5-45fb-87ed-b341db795488",
+      "kind": "markdown",
+      "markdown": "# Salariat et prestations indépendantes",
+      "hash": "882afd0f009f4f64937372d65404b9f3950afaeffb0245e6ba1e03862b1c6f19",
+      "metadata": {}
+    },
+    {
+      "id": "82275bb8-0d21-4ebf-a020-dafb12603566",
+      "kind": "markdown",
+      "markdown": "Morgan envisage d’être rémunéré pour son travail et d’ajouter des missions de prestation. Le choix entre prestation seule, salariat ou cumul n’est pas fixé par sa dernière formulation. Deux scénarios sont donc conservés : facturer l’accompagnement via Marwin Tech, ou occuper un emploi salarié tout en développant des missions indépendantes compatibles.",
+      "hash": "966a73045285d8c3ad895b8ffd6bc9163e7f110af95c004c82a578fe610b43f8",
+      "metadata": {}
+    },
+    {
+      "id": "2dc6cbff-b9b5-4677-88d7-90a7a6187539",
+      "kind": "markdown",
+      "markdown": "Le cumul d’un emploi et d’une activité indépendante est possible en principe, sous réserve notamment du contrat de travail, de la loyauté envers l’employeur et de l’absence de concurrence incompatible. L’activité indépendante ne s’exerce pas pendant le temps salarié ; l’utilisation des moyens de l’employeur pour son entreprise doit être clarifiée. Référence : [Bpifrance Création, cumul d’une activité indépendante avec un emploi salarié](https://bpifrance-creation.fr/encyclopedie/statut-du-dirigeant-son-conjoint/situation-pluriactifs/cumul-dune-activite), consultée le 25 octobre 2026.",
+      "hash": "d1b6b25920f7edd4833c8fb1b2a6428f2aeb1fbffe61d79771fd72b76da6b5a0",
+      "metadata": {}
+    },
+    {
+      "id": "bb18333a-757a-46ae-a12e-46dc1c519d6f",
+      "kind": "markdown",
+      "markdown": "Si John-Lucas ou une même société rémunère à la fois un poste salarié et une prestation Marwin Tech, faire examiner les fonctions, livrables, temps, moyens et conditions réelles d’indépendance avant de retenir le montage. Une distinction de contrats ou de noms de missions ne suffit pas à qualifier la relation ; le [lien de subordination et les conditions réelles de travail](https://entreprendre.service-public.gouv.fr/vosdroits/F1691) doivent être pris en compte. La rémunération d’un dirigeant de sa propre société constitue encore une situation distincte.",
+      "hash": "19658c8fc451e9a9ab71456a0fdb06d6070e4e4029f2745b77d12589f64ec776",
+      "metadata": {}
+    },
+    {
+      "id": "9b8ab868-a34a-4e3b-8ea0-825a0af6df64",
+      "kind": "markdown",
+      "markdown": "# Première décision à prendre à deux",
+      "hash": "043e13a67a231c16963ad014bb88be98206ff98c563c29cd8a5538cef3003c40",
+      "metadata": {}
+    },
+    {
+      "id": "ccd8343a-d19c-4143-ba11-bfa4646ade0e",
+      "kind": "markdown",
+      "markdown": "Préparer une fiche commune : les trois offres que vous pouvez livrer maintenant ; les responsabilités et le temps disponible de chacun ; les premiers clients ; les coûts fixes et le revenu personnel recherché ; les apports et les règles de décision. Cette fiche permettra de chiffrer le premier devis, de comparer SAS et SARL et de préparer les statuts et le pacte sur des hypothèses concrètes.",
+      "hash": "1077a0b7f61b6a060137fbcf73b2d0976b915c94506ef88b8c4a67b5fb6503aa",
+      "metadata": {}
+    },
+    {
+      "id": "4a2bb4e8-be52-4fb3-bcb4-4289c6b3d332",
+      "kind": "markdown",
+      "markdown": "Marwin Tech conserve la signature « L’impossible devient personnel ». La promesse commerciale proposée est de réunir les compétences nécessaires pour résoudre un problème et livrer un résultat vérifiable.",
+      "hash": "99f168466ad489c3415e48a3d3e14b381b6f305dbdd9efdfb77a7a64a8505a61",
+      "metadata": {}
+    },
+    {
+      "id": "a3a8254c-df5e-498a-9f24-39993621b3e0",
+      "kind": "markdown",
+      "markdown": "# Rappels de lancement",
+      "hash": "68caca42076fe0048b2fa23f69db0fdd38661a9aeeda82511af5c3d4fdfc978e",
+      "metadata": {}
+    },
+    {
+      "id": "38d0f27e-d7b2-48b8-a1b0-577f5e1db804",
+      "kind": "markdown",
+      "markdown": "Huit rappels sont programmés les jours ouvrés du 26 octobre au 4 novembre 2026, dans l’après-midi autour de 15 h, heure de Paris. Chaque rappel propose une action de 20 à 30 minutes et un résultat concret à discuter à deux. Ces rendez-vous de travail ne constituent pas des échéances contractuelles ; les étapes restent à confirmer par vos décisions et réalisations.",
+      "hash": "27e549409f006a787d7474a0c4b3f5d267e68f64d865f1e988a6d359915c908f",
+      "metadata": {}
+    },
+    {
+      "id": "795bb12f-7b29-4545-9c22-6cb689d28e63",
+      "kind": "markdown",
+      "markdown": "| Date | Sujet | Résultat à préparer | État |\n| --- | --- | --- | --- |\n| 26 octobre | Rôles et disponibilité | Compétences, responsabilités et temps de chacun | À préparer |\n| 27 octobre | Offres de départ | Trois fiches Cadrer, Produire et Piloter avec livrables et limites | À préparer |\n| 28 octobre | Budget et rémunération | Coûts, revenu recherché et scénarios prestation, salariat ou cumul | À préparer |\n| 29 octobre | Forme juridique et activités | Comparaison SAS et SARL et questions à faire examiner | À préparer |\n| 30 octobre | Accord entre associés | Apports, capital, décisions, rémunération, droits et sortie | À préparer |\n| 2 novembre | Première offre Carlone | Accompagnement chiffré ; temps, matériel et bureaux précisés séparément | À préparer |\n| 3 novembre | CRM et Quali Contact | Références du CRM et du module, échanges attendus et recette fictive | À préparer |\n| 4 novembre | Revue de lancement | Points réglés, blocages et première mission à contractualiser | À préparer |",
+      "hash": "05752168618395601896a837259d6a0ab3316d3503a6d162beba81ef563926a2",
+      "metadata": {}
+    },
+    {
+      "id": "d4f70503-c17d-4b9a-98ba-a23c19319217",
+      "kind": "markdown",
+      "markdown": "Le rappel quotidien Studio Marwin est conservé. Si une étape est terminée, le rappel reprend le prochain point incomplet ; un rappel délivré ne valide pas une décision.",
+      "hash": "37ec88c7f5248e1cbb578b4b3e13f62eb159df7cd1ec969d6ffe8dcbcf403cbc",
+      "metadata": {}
+    },
+    {
+      "id": "0f3d9103-417b-405f-8fa1-401521040cff",
+      "kind": "markdown",
+      "markdown": "# Recherche appliquée et atelier 3D",
+      "hash": "914bc8f1c256417322b6675ced8f52b9717255aa3228907f5b42d0e6c29c72da",
+      "metadata": {}
+    },
+    {
+      "id": "19b97b2c-87b7-4249-8f81-13705b53743b",
+      "kind": "markdown",
+      "markdown": "Morgan exprime le 28 octobre 2026 le souhait de développer, en parallèle des missions de conseil, un laboratoire de recherche appliquée en IA et en robotique. Ce laboratoire est un projet à structurer. L’ambition de rester à la pointe technologique se traduit par une veille sourcée, des essais comparatifs et la validation d’usages concrets ; elle ne vaut pas garantie de supériorité permanente.",
+      "hash": "37e106643d4a42ba17a7f3903010bcc33321f19f46e24234bba040420ab2f16b",
+      "metadata": {}
+    },
+    {
+      "id": "579a8a31-b89d-45df-a54b-c5c08b7e2c70",
+      "kind": "markdown",
+      "markdown": "Morgan indique avoir à disposition un atelier d’environ dix imprimantes 3D. Cet accès peut soutenir des études de prototypage et de fabrication sur mesure, sous réserve des machines, matériaux, conditions d’utilisation et disponibilités adaptés. La propriété des équipements, leur apport éventuel à la société et une capacité de production industrielle ne sont pas établis par cette déclaration.",
+      "hash": "d08f725ecc6ed18833a393dbaa0269e6655c71f1067c7a4370117370260b59a6",
+      "metadata": {}
+    },
+    {
+      "id": "eb93693e-35b3-4b75-badc-cd95a2038ba4",
+      "kind": "markdown",
+      "markdown": "Pour le dossier Carlone, des supports de présentation, éléments de scénographie et dispositifs interactifs constituent des pistes à étudier. Chaque application doit préciser besoin, prototype, coût, droits, critères de réception et conditions d’exploitation. La [proposition d’accompagnement](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) présente ce potentiel futur ; aucun achat ni financement du laboratoire par le client n’est acté.",
+      "hash": "4bd4ce7fa70fa22980fbd5ced904ba415b2c6337449b5047de9183777accf71c",
+      "metadata": {}
+    },
+    {
+      "id": "57d82dbe-261b-460e-9cfc-19d924edb65c",
+      "kind": "markdown",
+      "markdown": "# Innovation appliquée",
+      "hash": "45a56ef0edce0aa7f98390edcfb525ba4a5377f6e9872ab5c768eaa776a97b5d",
+      "metadata": {}
+    },
+    {
+      "id": "0f818fce-819b-401f-8cd8-8ade45e0680e",
+      "kind": "markdown",
+      "markdown": "Un rendez-vous est programmé chaque jeudi matin autour de 8 h, heure de Paris, à partir du 29 octobre 2026. Il vérifie les avancées utiles au projet, propose jusqu’à trois pistes et prépare un seul essai avec une méthode de référence, un critère de réussite, un coût et une décision d’adoption. Les étapes de lancement encore ouvertes sont reprises dans ce bilan.",
+      "hash": "6ec85eae66f51a9fb0214148b70cf7a8f3f46bae8176c488259c79c3e49041ee",
+      "metadata": {}
+    },
+    {
+      "id": "eb0544a4-7b9a-4fd6-95f6-a3ed3b97bac2",
+      "kind": "markdown",
+      "markdown": "## Pistes préparées le 25 octobre 2026",
+      "hash": "e676c47b5587f7c0ef8d25198fe64151e70b772d29bc956574fe24cd8d0e6997",
+      "metadata": {}
+    },
+    {
+      "id": "960cccf2-3501-4cfc-87b5-bb83e9050c5d",
+      "kind": "markdown",
+      "markdown": "| Piste | Application à Marwin Tech |\n| --- | --- |\n| Fiche mission commune | Relier besoin, offre et version, responsable, budget, droits, réception et preuve de livraison |\n| Modules réutilisables | Réemployer une méthode de cadrage, de production ou de passation dans plusieurs missions en respectant les données et droits de chaque client |\n| Comparaison des méthodes | Mesurer le temps, les corrections et le coût avant de retenir une automatisation |",
+      "hash": "65e89273cc37bb8a3cdec068a52e7b6ffd8f0cfc7ae736150c78261717ee8248",
+      "metadata": {}
+    },
+    {
+      "id": "1bec06b2-7af8-455b-97f1-6adc143edc8a",
+      "kind": "markdown",
+      "markdown": "Les sous-workflows réutilisables et les évaluations sur des cas connus sont notamment documentés par [n8n pour la réutilisation](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflowtrigger) et [n8n pour les évaluations](https://docs.n8n.io/build/integrate-ai/test-and-improve-ai-workflows/understand-why-to-test.md), consultés le 25 octobre 2026. Leur application ci-dessus est une proposition pour Marwin Tech ; le choix d’outil dépendra des interfaces et contraintes réelles.",
+      "hash": "10e52359346b33fefadb6a80815f22a3e96a5bb2c358a91979ce592e44ce62d6",
+      "metadata": {}
+    },
+    {
+      "id": "e8479b6c-ce82-4285-8458-16ff01cf4c1b",
+      "kind": "markdown",
+      "markdown": "## Démonstrateur commercial et comparaison",
+      "hash": "34577891e0641e3297bac228f63f23a0bf9de16dd93cadcdcce063e0b03ff815",
+      "metadata": {}
+    },
+    {
+      "id": "be0ae977-be66-4d2b-930c-7a7a6afe5618",
+      "kind": "markdown",
+      "markdown": "**Statut au 25 octobre 2026 : module contrôlé sur données fictives.** Le poste **Offres et missions** de la [console privée](https://marwin-control-room.yellowghost64.chatgpt.site) contient trois canevas, une fiche modifiable, un chiffrage par intervenant et un brouillon exportable. L’[audit du pilotage](https://chatgpt.com/space/page_25860d1eddf88191a1a4005e3235a5d0) porte à 17 les contrôles des missions et prix, dans 33 tests console au total. Le passage entre période ponctuelle et mensuelle impose de compléter à nouveau volumes et achats ; les tarifs sont conservés. Les cinq cas fictifs restent examinables : dossier complet, prix manquant, deux versions, contradiction et opposition. Un cas bloquant empêche la préparation du kit fictif.",
+      "hash": "f54512ac5436e16b8f9325872d0811a69b09bbffe04713bfba0100180e97060f",
+      "metadata": {}
+    },
+    {
+      "id": "91e8075b-3b9b-451b-8048-4476deccb0fc",
+      "kind": "markdown",
+      "markdown": "La comparaison de productivité reste à réaliser : préparer les mêmes dossiers avec et sans le canevas, puis mesurer le temps total, les corrections et le coût. Cible proposée : réduire de 30 % le temps de préparation, sans information critique inventée ni régression sur les cas convenus. Ce seuil reste un objectif ; les contrôles fonctionnels ne prouvent pas un gain de temps ni une fiabilité générale. La version livrée emploie des canevas et des règles locales, sans génération par modèle d’IA.",
+      "hash": "d14f6c48bc0a871931ee122a17e5e5a1a1264db7b5f99cddc347976d9a39caf9",
+      "metadata": {}
+    },
+    {
+      "id": "fc4f7db6-1332-4af5-9cb7-4207c566656d",
+      "kind": "markdown",
+      "markdown": "Prochaine action : convenir à deux des responsabilités, des jours et des tarifs du premier cadrage, puis renseigner la structure qui facture dans la fiche. Le [premier forfait proposé pour John-Lucas](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) précise les livrables et les bornes à discuter. Le [code du CRM Carlone est identifié et examiné](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) depuis le 28 octobre 2026 ; le suivi en service et les références du logiciel Quali Contact restent à confirmer pour le raccordement. Les contrôles fictifs de la console ne valident pas ces interfaces. Vérifier aussi le dispositif de facturation adapté à la structure retenue et aux opérations : les étapes 2026 et 2027 de la facturation électronique sont récapitulées dans l’audit, avec la source Service Public. Aucun devis accepté ni règlement n’est consigné.",
+      "hash": "49ddbe77456266c9c90f369d522dfef673c9fd53f4ea31faf2fbf9c03f174b57",
+      "metadata": {}
+    },
+    {
+      "id": "6aa46983-b8a2-4108-834d-8bcb020e3342",
+      "kind": "markdown",
+      "markdown": "## Bilan innovation du 29 octobre 2026",
+      "hash": "bcfddcd059762b1ed3c6760adb735a67841b00edeea369ffe2a6176656adeacb",
+      "metadata": {}
+    },
+    {
+      "id": "e204c3d5-3390-4ee3-bcd1-f45957b49320",
+      "kind": "markdown",
+      "markdown": "**Décision proposée : renforcer le démonstrateur existant par une preuve de livraison, sans ouvrir un chantier concurrent.** Le module Offres et missions reste le socle testé sur données fictives. L’unique essai exploratoire conserve la comparaison avec la méthode actuelle ; il doit vérifier qu’une fiche commune peut produire un dossier facturable, traçable et réutilisable sans mélanger les données ni les créations des clients.",
+      "hash": "e1d6cc364c2263b0a17ffcffeaf6dcb28081aa63b0098671738e0bde725169d1",
+      "metadata": {}
+    },
+    {
+      "id": "3e0543da-7a6f-4296-ad47-78be1238b908",
+      "kind": "markdown",
+      "markdown": "| Piste | Problème et bénéfice attendu comme hypothèse | Effort et dépendances | Statut |\n| --- | --- | --- | --- |\n| Portail de preuves dans la fiche mission | Les sources, versions, temps, coûts, livrables, droits et réception sont dispersés. Un manifeste par mission pourrait réduire les reprises et faciliter Cadrer, Produire et Piloter. | Faible : une demi-journée de préparation, puis l’essai ci-dessous. Dépend du canevas et des cinq cas fictifs existants. | **Préparé ; essai retenu** |\n| Registre des modules réutilisables | Une méthode réemployée peut perdre sa version ou emporter des éléments propres à un client. Un registre pourrait relier module, version, propriétaire, licence, données admises, tests et missions utilisatrices. | Moyen : environ une journée après le premier essai. Dépend de règles de droits et d’un responsable de validation. | **Proposé ; différé** |\n| Traçage des futures fonctions IA | Une automatisation utilisant un modèle devra relier entrée, modèle, coût, sortie et évaluation. Langfuse 4.70 a ajouté une évaluation par lots via MCP ; les versions récentes permettent aussi d’exporter des métadonnées d’évaluation et leur provenance. Le cœur est sous licence MIT, hors composants `ee` ; le cloud propose un palier gratuit limité et un palier Core annoncé à 29 $ par mois. | Moyen à élevé : un à deux jours, hébergement et politique de données. Inutile pour le module actuel à règles locales. | **Proposé ; à réexaminer après preuve du besoin** |",
+      "hash": "c1df90f13fe8bd78acec0a823652e9ee06082e77aeea57fc98549ac701984843",
+      "metadata": {}
+    },
+    {
+      "id": "46508543-5ae6-4b10-8829-fd4c7cf85d0b",
+      "kind": "markdown",
+      "markdown": "### Protocole de l’essai retenu",
+      "hash": "b43dec6a1a8f639aa8598889078b334bbc5e9613a2bee95c385a8fb6287efbc4",
+      "metadata": {}
+    },
+    {
+      "id": "443054d1-547d-4809-838c-d71145cdf608",
+      "kind": "markdown",
+      "markdown": "- **Entrées :** les cinq cas fictifs du CRM et de la console : dossier complet, prix manquant, deux versions, contradiction et opposition. Aucun connecteur Quali Contact ni donnée réelle.",
+      "hash": "ac068cdbb9cba8fb52b806fe4f537a6a4bafe3768ab435168f2aba6a3bed0667",
+      "metadata": {}
+    },
+    {
+      "id": "c601d2dd-5247-47ac-aaa7-bc1df430f3d4",
+      "kind": "markdown",
+      "markdown": "- **Référence :** préparer manuellement le dossier de livraison avec les informations actuelles.",
+      "hash": "66b18bd1cd4517b638034d361419f3c664654b44934773cdd69313ba7df1957b",
+      "metadata": {}
+    },
+    {
+      "id": "2e7cf75f-7983-44b8-869b-ec3ceb33fae1",
+      "kind": "markdown",
+      "markdown": "- **Variante :** utiliser la fiche mission et un manifeste comprenant identifiant, offre et version, sources et révisions, responsable et statut, temps et coût, livrables et contrôles, droits, décision de réception et blocages.",
+      "hash": "080a3e041e4568039f7d5a9f66cf509e73661723415c597a8fc8580ca80120e0",
+      "metadata": {}
+    },
+    {
+      "id": "c1027f61-0c35-4d1b-81da-cb0e7813c887",
+      "kind": "markdown",
+      "markdown": "- **Mesures :** durée totale, minutes de correction, coût des outils, champs obligatoires complets, erreurs critiques, doublons, conservation des versions, contradictions et oppositions.",
+      "hash": "6dccca69ca3efe9615d5a3a6841c3cd35833acbfe0a74e0e1874ddca348d0202",
+      "metadata": {}
+    },
+    {
+      "id": "8ae05d6b-10f8-4d67-8c57-d79af00c5d41",
+      "kind": "markdown",
+      "markdown": "- **Plafond avant dépense :** zéro euro d’outil payant et deux heures de travail pour ce premier passage.",
+      "hash": "3df916f2136e21b8ad3e1a849c934df9894da876fa65cef1eebda4bd4daa605f",
+      "metadata": {}
+    },
+    {
+      "id": "526898ca-b4a1-46b1-9506-e34f9abed588",
+      "kind": "markdown",
+      "markdown": "- **Décision :** adopter si le temps baisse d’au moins 30 %, avec zéro erreur critique, tous les champs obligatoires remplis et les oppositions et versions préservées ; ajuster si le gain atteint 10 à 29 % sans erreur critique ; abandonner en cas de confusion de données ou de droits, d’information inventée ou d’absence de gain.",
+      "hash": "cb63e99eb0d3ee10af95959cd53cff5517168f57af7f2402ae1e6b915ddd9895",
+      "metadata": {}
+    },
+    {
+      "id": "f58e3207-1aac-42d8-92fb-d16d958959eb",
+      "kind": "markdown",
+      "markdown": "### Veille vérifiée",
+      "hash": "9dab3fe944a80f61be705ee70a9dbe040955ef972867158a64262f6c5e969603",
+      "metadata": {}
+    },
+    {
+      "id": "981f2bc1-6a62-4e1e-8ecd-972f3d2feb0a",
+      "kind": "markdown",
+      "markdown": "[n8n 3.0](https://blog.n8n.io/introducing-n8n-v3/) est disponible en bêta depuis le 27 octobre 2026, avec des changements incompatibles et une migration à sens unique ; aucune migration du socle n’est proposée avant une version stable et un essai séparé. La [licence n8n](https://support.n8n.io/article/can-i-use-your-license-for-my-use-case) autorise une agence à exécuter des workflows pour ses clients sous certaines conditions, mais exige une licence commerciale si des personnes extérieures configurent les workflows, y compris par API, MCP ou agent. Les fonctions Langfuse citées sont documentées dans les [versions publiques](https://github.com/langfuse/langfuse/releases), avec la [licence du dépôt](https://github.com/langfuse/langfuse/blob/main/LICENSE) et les [tarifs cloud](https://langfuse.com/pricing), vérifiés le 29 octobre 2026.",
+      "hash": "fe54b0b84ee5596cbf5c09fa869e6c73869672f5db35b2030a13e8cf1f36607a",
+      "metadata": {}
+    },
+    {
+      "id": "39d63ab4-eef1-4d0c-9a63-bf4a93017ad5",
+      "kind": "markdown",
+      "markdown": "### Prochain jalon de lancement incomplet",
+      "hash": "65663265c1686600900e9a484c5fa6a516d0199887eea137a9bbaa3c58d5bafd",
+      "metadata": {}
+    },
+    {
+      "id": "6e09f881-5e82-4e3f-ae41-be9d554f0385",
+      "kind": "markdown",
+      "markdown": "Le premier jalon reste la fiche à deux sur les rôles, compétences, responsabilités et temps disponible de chacun. Aucun état du calendrier n’est modifié sans décision ou preuve accessible.",
+      "hash": "1e765d89b9a3303b11a6cd4605d28c0291bfd43882a7538a47c8518c19a4a4eb",
+      "metadata": {}
+    }
+  ]
+}
