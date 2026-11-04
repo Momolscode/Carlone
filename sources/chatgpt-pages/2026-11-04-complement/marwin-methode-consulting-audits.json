@@ -1,0 +1,306 @@
+{
+  "source_url": "https://chatgpt.com/space/page_b6ab6638a38881919966d13180fc9000",
+  "page_id": "page_b6ab6638a38881919966d13180fc9000",
+  "source_title": "Marwin Tech Méthode de consulting et audits",
+  "retrieval_date": "2026-11-04",
+  "source_updated_at": "2026-10-28T17:33:50.566122Z",
+  "source_sequence": null,
+  "listed_sequence": 1,
+  "selection": "Copie des blocs Markdown de la page entière.",
+  "blocks": [
+    {
+      "id": "b5de3b71-d342-4d1b-a6b7-39ed1c84f275",
+      "kind": "markdown",
+      "markdown": "Marwin Tech se développe comme un cabinet de conseil opérationnel et de réalisation, avec l’IA comme moyen de recherche, d’analyse, de production et de contrôle. Orientation exprimée par Morgan Olsen le 28 octobre 2026. Cette méthode sert à transformer une demande en diagnostic étayé, puis en mission livrable et mesurable.",
+      "hash": "33a3555af167e9dc2e1349f5cd6e01a661e5ef6e1a60543ee2eb2d845fcdcf6e",
+      "metadata": {}
+    },
+    {
+      "id": "476403a3-e36e-482e-ab4e-b80f056f6d9b",
+      "kind": "markdown",
+      "markdown": "# Positionnement et contributions",
+      "hash": "f6fa391c68dd85fa2097d257ac7976a501968485f178ea013f6472ba6be46312",
+      "metadata": {}
+    },
+    {
+      "id": "e5bf0ff2-90a8-405b-a07e-84f940b921cc",
+      "kind": "markdown",
+      "markdown": "Positionnement commercial proposé : « Nous aidons les dirigeants à comprendre leurs blocages, choisir les bons investissements et mettre en œuvre des solutions concrètes, en réunissant conseil, création et technologie. » Premiers clients à viser : dirigeants de petites entreprises et porteurs de projets dont un processus, une offre ou un outil doit être amélioré.",
+      "hash": "cc34272307aa48a5e13f315cd8c467fb618c1b75ec88587ddaedf5cf0c10ba66",
+      "metadata": {}
+    },
+    {
+      "id": "c0ca9990-6c87-4503-82c7-9021be03f76a",
+      "kind": "markdown",
+      "markdown": "La complémentarité à éprouver associe la connaissance du terrain, le diagnostic technique, la créativité et la relation client de Morgan aux capacités de recherche, de structuration et de fabrication assistée de Marwin. Morgan garde les arbitrages commerciaux et la validation du travail livré. Les responsabilités du futur associé se définissent selon ses compétences démontrées et son temps disponible ; Mathys Couet est identifié sur le dossier Carlone, sans que cela fixe la composition ou les parts de la future société.",
+      "hash": "19d1fa0e0fd046a53e1016e74f811d6bf5a83a3c5246ec35d43bbcf7b77cca68",
+      "metadata": {}
+    },
+    {
+      "id": "65909e13-f31f-4f7f-9757-9650ec1ea067",
+      "kind": "markdown",
+      "markdown": "# Trois offres reliées au résultat",
+      "hash": "2416a97f24c1f9957524c29ec4050949f624c94aeb8ef1d27ef60afaa80d3b8f",
+      "metadata": {}
+    },
+    {
+      "id": "dd2a3411-d0b5-41e9-8dbe-b6afc9d3f6c5",
+      "kind": "markdown",
+      "markdown": "| Offre | Résultat livré | Réception proposée |\n| --- | --- | --- |\n| Cadrer | Diagnostic sourcé, options comparées, priorité retenue et feuille de route chiffrable | Le client peut choisir une option et comprendre les preuves, coûts, hypothèses et limites |\n| Produire | Un lot défini : processus, support commercial, contenu, tableau de bord, logiciel ou automatisation | Livrable essayé sur les cas convenus, corrections traitées et documentation remise |\n| Piloter | Temps réservé de coordination, suivi des indicateurs et amélioration du dispositif | Revue des résultats, décisions écrites, consommation du temps et prochaine priorité |",
+      "hash": "02ac4e0ac27521f7f395575eb3faab745085033799100f268b8731d4c508d79c",
+      "metadata": {}
+    },
+    {
+      "id": "f402b7df-0794-4a58-a55a-14adaa85f915",
+      "kind": "markdown",
+      "markdown": "Chaque offre précise les éléments fournis par le client, les livrables inclus et exclus, le nombre de versions, les délais, les responsabilités et la réception. Le diagnostic est une prestation rémunérée ; les lots de réalisation et le suivi sont chiffrés séparément. Les montants dépendent de l’effort, des coûts et du périmètre convenus. Les fournitures matérielles et les bureaux gardent leur budget propre.",
+      "hash": "237ebef38c43747df05665c1e807329700d29810cb8f6b8790d341cc0d7248ff",
+      "metadata": {}
+    },
+    {
+      "id": "a012022d-352f-4154-b27d-7784231ca0a2",
+      "kind": "markdown",
+      "markdown": "# Déroulement d’un audit approfondi",
+      "hash": "fc32358ef5af53ff4d5e97dc063028bdb9c5923d6c4e5df77aa1894ddb9dc389",
+      "metadata": {}
+    },
+    {
+      "id": "df599512-bc77-4481-bb31-70c58130674e",
+      "kind": "markdown",
+      "markdown": "1. **Définir la décision.** Identifier le commanditaire, la question à résoudre, le périmètre, les contraintes et le résultat observable. Fixer le temps d’audit et les données accessibles avant d’examiner les solutions.",
+      "hash": "66f0027dc212ba81f0c78863a834094e6246dd431fbbeb127eb39b7d5e37c8b7",
+      "metadata": {}
+    },
+    {
+      "id": "101629b1-c355-45c3-a635-2be888c5a082",
+      "kind": "markdown",
+      "markdown": "2. **Examiner l’existant.** Rassembler les pièces autorisées, interroger les responsables concernés et observer des cas réels. Conserver pour chaque pièce sa source, sa date, sa version et son périmètre. Choisir un échantillon et expliquer ce qu’il permet de conclure.",
+      "hash": "3de1482fef64aa1f9de08422296bfc4d2f29c670b3dd66787b84105de2c297f0",
+      "metadata": {}
+    },
+    {
+      "id": "f3c3d6e6-d4dd-462a-afd8-afc35a1bd33f",
+      "kind": "markdown",
+      "markdown": "3. **Mesurer le point de départ.** Relever selon le problème le temps passé, les erreurs, les reprises, les coûts, les délais ou les étapes commerciales. Séparer les mesures, les déclarations et les estimations ; une donnée manquante reste inconnue.",
+      "hash": "fc4eec98cc12b3465c4246bcd41ca6ccd07b5d21ea14fe9b4d0c1507b8211078",
+      "metadata": {}
+    },
+    {
+      "id": "2d1837d7-e998-40f8-8a25-ef871a7be9c7",
+      "kind": "markdown",
+      "markdown": "4. **Établir les constats.** Relier chaque constat aux preuves. Distinguer symptôme, cause probable et cause vérifiée. Chercher aussi les éléments qui pourraient contredire l’explication proposée ; ouvrir un test lorsque les preuves manquent.",
+      "hash": "adbc2181fd0df00b60a4bdbbad973397c556571e88a1b72916f6b8cfd35fbb08",
+      "metadata": {}
+    },
+    {
+      "id": "5c0f345b-ccfb-4145-8054-0fd3b8760744",
+      "kind": "markdown",
+      "markdown": "5. **Comparer les options.** Inclure le maintien de l’existant et une amélioration simple avant une solution IA ou sur mesure. Comparer effort, coût initial et récurrent, dépendances, gains attendus et risques ; présenter les hypothèses de calcul.",
+      "hash": "e8a3f75e2f265a4ad66a9cc075ae42a42338780120526b4c5f127725e9421139",
+      "metadata": {}
+    },
+    {
+      "id": "f44bad64-021c-4abe-939f-e6a58adb661b",
+      "kind": "markdown",
+      "markdown": "6. **Préparer l’exécution.** Choisir un premier lot avec responsable à convenir, ressources, estimation, points de contrôle et critères de réception. Le client arbitre les choix qui engagent son activité.",
+      "hash": "3b2898295d05697b0498721efd11ac4e925c393c780caaded74af304c2e12e3a",
+      "metadata": {}
+    },
+    {
+      "id": "7dcee980-7071-4dbf-a39e-43f786491459",
+      "kind": "markdown",
+      "markdown": "7. **Revoir les conclusions.** Recalculer les chiffres, contrôler les sources et vérifier qu’elles soutiennent les conclusions. Un examen par un spécialiste compétent complète le travail lorsque le domaine ou l’enjeu le nécessite.",
+      "hash": "e7a6ac2c90896197b62daed8ef1bd60962b0f5e9e4967645a5e71619f54fe6c9",
+      "metadata": {}
+    },
+    {
+      "id": "2def7e29-3088-447d-9c3a-51664c42d685",
+      "kind": "markdown",
+      "markdown": "La profondeur dépend du périmètre examiné et des preuves obtenues. Un échange commercial initial sert à qualifier le besoin ; il ne constitue pas à lui seul un audit approfondi.",
+      "hash": "f1f74e096f7e5b89dd891700e4c46de7690bea5eb40583634412e7410d24aa1f",
+      "metadata": {}
+    },
+    {
+      "id": "7e95b03c-c470-4967-bec4-1f846020ac16",
+      "kind": "markdown",
+      "markdown": "# Dossier remis au client",
+      "hash": "26e326ca5388214b4169a44ede4bd2deb3ecde657adfef71c7e2457ecdcd9dd7",
+      "metadata": {}
+    },
+    {
+      "id": "45e8cf7c-412b-4d10-84eb-bbe8e15a798a",
+      "kind": "markdown",
+      "markdown": "| Livrable | Contenu utile |\n| --- | --- |\n| Synthèse de décision | Problème, principaux constats, options et décision attendue |\n| Cartographie de l’existant | Processus, personnes, outils, données et dépendances du périmètre |\n| Registre des constats | Source, fait observé, impact, limites et vérification nécessaire |\n| Comparatif des solutions | Coûts, effort, hypothèses de gain, contraintes et critères de choix |\n| Plan de réalisation | Lots, livrables, responsables à convenir, moyens et jalons |\n| Plan de réception | Cas d’essai, résultat attendu, preuve et personne qui accepte |\n| Dossier de passation | Fichiers, droits, accès à remettre, consignes, support et mesure des résultats |",
+      "hash": "2348ebd59af279bebcc44e5318da746262b2ae2aeddb5f88a3cfded9b52148ab",
+      "metadata": {}
+    },
+    {
+      "id": "8d20b8b8-4aa3-45d9-b9ef-9daac3936232",
+      "kind": "markdown",
+      "markdown": "Ces éléments peuvent être regroupés dans un seul dossier lisible. Le format et le niveau de détail sont proportionnés à la mission ; aucun volume de pages ne remplace une réponse étayée.",
+      "hash": "c97ff5f7bd1239bf6d5c1064969ec5be807f4cd21415b61ffe9245b3aa1ef53a",
+      "metadata": {}
+    },
+    {
+      "id": "6595dc75-cbb6-485b-a8dd-950e9cdab453",
+      "kind": "markdown",
+      "markdown": "# Prendre une mission et la mener à terme",
+      "hash": "142f315cabfaba4e6bbaa6e3d71b0c11875728b554e3c40b7a8043a6955b33a8",
+      "metadata": {}
+    },
+    {
+      "id": "243e3022-4112-4854-8d4a-804235545c39",
+      "kind": "markdown",
+      "markdown": "À l’entrée, choisir l’une de quatre voies : réalisation avec les compétences disponibles ; réalisation avec un spécialiste identifié ; cadrage exploratoire borné ; attente ou refus motivé. L’engagement de réalisation exige un résultat compris, des compétences adaptées, des accès autorisés, un budget et du temps, ainsi qu’une réception possible. Les questions fiscales, juridiques ou techniques réglementées sont attribuées au professionnel compétent.",
+      "hash": "6b490497fd86bc0264bcfb703e186048aee23da3807bf11ba14eaea593fe5080",
+      "metadata": {}
+    },
+    {
+      "id": "7df942b7-be26-4e97-a057-ddb5f2bde0b3",
+      "kind": "markdown",
+      "markdown": "Une fois le lot convenu, Marwin aide à décomposer le travail, préparer les pièces, rechercher, analyser, produire et vérifier avec les outils accessibles. Les connecteurs et systèmes autonomes doivent être éprouvés dans leur environnement réel avant d’être vendus comme opérationnels. Les actions externes se limitent au mandat de la mission et aux accès accordés.",
+      "hash": "d85a12b62b18e110eac0e4539684ca984ed86e2607e8dc0e3fa4ae741950b909",
+      "metadata": {}
+    },
+    {
+      "id": "1b7f0894-e067-4318-9f46-57b6f2a13743",
+      "kind": "markdown",
+      "markdown": "Le suivi conserve cinq états : à qualifier, cadrée, en réalisation, en réception, close. Un blocage est rattaché à l’état en cours et à sa condition de reprise. La clôture exige les preuves convenues, l’acceptation du livrable, la passation et les écarts encore ouverts. Une modification importante de la demande entraîne une nouvelle estimation et un accord sur le périmètre.",
+      "hash": "d454f41c3e0b1ee816ed22a7c35d9556baa1dc1061f95a32397812abd9bf7ae9",
+      "metadata": {}
+    },
+    {
+      "id": "b880dd57-ca84-44fc-9465-3d53532e7aac",
+      "kind": "markdown",
+      "markdown": "# Qualité de l’IA et amélioration continue",
+      "hash": "2f4e74b512af5c9b6987b2e71644b298407f485ce43273c79b219ec599b9f0b3",
+      "metadata": {}
+    },
+    {
+      "id": "f12f2167-4912-45aa-92f8-4c7f0a1849e7",
+      "kind": "markdown",
+      "markdown": "Pour chaque automatisation, conserver des cas normaux et des cas d’échec, les résultats attendus et la version testée. Comparer la méthode assistée à la méthode existante sur des tâches comparables : temps total avec corrections, erreurs restantes et coût par résultat accepté. Refaire les essais pertinents lorsqu’un outil, un modèle ou une source change. Ce dispositif adapte les principes d’évaluation contextualisée et de suivi du [NIST AI RMF Core](https://airc.nist.gov/airmf-resources/airmf/5-sec-core/), consulté le 28 octobre 2026 ; il ne constitue pas une certification.",
+      "hash": "11f9fa76dc5e3756b6e22b660de7b44560167933b0fa5fb4cd627bfe3e108924",
+      "metadata": {}
+    },
+    {
+      "id": "61a61e1d-3dfc-49f3-9026-4b7eb29c8513",
+      "kind": "markdown",
+      "markdown": "Définir les usages autorisés de l’IA et les règles de transmission des données avant leur traitement. Choisir le service et le déploiement selon la confidentialité, les accès et les conditions du fournisseur, puis contrôler les sorties. Ces précautions s’appuient sur les [recommandations de déploiement de la CNIL du 18 juillet 2024](https://www.cnil.fr/fr/comment-deployer-une-ia-generative-la-cnil-apporte-de-premieres-precisions), consultées le 28 octobre 2026.",
+      "hash": "760e71db1d16cc003ee1572a98797af20ff97ee4f061b8875dd69909bf6447df",
+      "metadata": {}
+    },
+    {
+      "id": "2c9c5ca7-2580-4351-91f7-e1b561d82127",
+      "kind": "markdown",
+      "markdown": "Après chaque mission, conserver la décision, les résultats mesurés, les erreurs et une amélioration à réessayer. Les méthodes réutilisables sont séparées des données confidentielles du client. L’extension à un autre client commence par la vérification du contexte, des droits et des interfaces.",
+      "hash": "029aad7e9acd65405c330f4f50c1ebc4ad6dbfb57b55c15f1e70247655739cef",
+      "metadata": {}
+    },
+    {
+      "id": "bb8a1c45-ec25-4ae6-815d-f730206dbd52",
+      "kind": "markdown",
+      "markdown": "# Première application au dossier Carlone",
+      "hash": "9eefe9ea1eb59c166bfe6b6852866d81fc91ee8d45306c8c2ca4ac352b0ea3b8",
+      "metadata": {}
+    },
+    {
+      "id": "cf90f5dc-1c64-427e-a76a-884f6d3f2328",
+      "kind": "markdown",
+      "markdown": "Le [premier forfait déjà préparé](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) reste « Cadrage et préparation du raccordement CRM » : un entretien de 60 à 90 minutes, jusqu’à cinq pièces convenues, un chantier prioritaire et un aller-retour de clarification. Il fournit une feuille de route, une fiche mission et un cahier de passation. Le présent cadre renforce la traçabilité et la réception de ces trois livrables ; il n’élargit pas ce forfait à l’ensemble des projets Carlone.",
+      "hash": "6c9c5ee7ae3fb394a6ea6e370fb15ece79000e28a0bf5bb13d9891cacd2a31dd",
+      "metadata": {}
+    },
+    {
+      "id": "05beee6b-01e9-478d-824d-de78b0b88634",
+      "kind": "markdown",
+      "markdown": "Le [code et le modèle du CRM Carlone sont identifiés](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) depuis le 28 octobre 2026 ; l’enrichissement est déjà présent. Le logiciel ou module de Quali Contact, son format d’échange et le suivi en service restent à confirmer. Préparer les critères de réception et une correspondance des champs à partir du code, puis réaliser l’essai dans le périmètre et avec les accès convenus. Le prix attend les jours, tarifs et structure facturante. Prospection, développement du connecteur, productions marketing et lieux culturels restent des lots distincts.",
+      "hash": "05dcacad58e07eafa1d745bf4ddc9e532fc054b91b34b4f9897abde24e961262",
+      "metadata": {}
+    },
+    {
+      "id": "d1cfb33b-2b6f-4e09-bd40-a24350c611fa",
+      "kind": "markdown",
+      "markdown": "Prochaine action : préparer la fiche d’entrée du premier audit en précisant la décision que John-Lucas doit pouvoir prendre, les pièces à examiner et le résultat qui permettra d’accepter le cadrage.",
+      "hash": "d2049014d47ad15ba5deb6b1b1f8b13280ef493e849b857c8888d605b88cb60f",
+      "metadata": {}
+    },
+    {
+      "id": "7b0ff581-1c2e-4db4-a9eb-65baddeb8f65",
+      "kind": "markdown",
+      "markdown": "# Fiche d’entrée réutilisable",
+      "hash": "676b32f6e43a15a9b202c6853bcebc2314e315ebfb41c9cd0357c51a485dd94d",
+      "metadata": {}
+    },
+    {
+      "id": "298d0514-2aec-4c91-8c09-06170a02d957",
+      "kind": "markdown",
+      "markdown": "- Client et commanditaire : à renseigner.",
+      "hash": "dfa99f7724a60e8ea5a84e10e6972751148e02835c635bd448d3c3197404c8b7",
+      "metadata": {}
+    },
+    {
+      "id": "88fa4df0-446f-4b5d-8389-a8fdc289599c",
+      "kind": "markdown",
+      "markdown": "- Décision à rendre possible : à renseigner.",
+      "hash": "e2c37ffd6d0a5662c5b2a2a05b73f40035ae5b04568797debf364baa27406a87",
+      "metadata": {}
+    },
+    {
+      "id": "6a114800-d281-4602-bae4-eaecb0e252f2",
+      "kind": "markdown",
+      "markdown": "- Processus ou projet examiné, inclusions et exclusions : à renseigner.",
+      "hash": "57ca3619e2d0bb053ab1c735b66250526533ecccfc3c9c06f9404da5dfd455ee",
+      "metadata": {}
+    },
+    {
+      "id": "b4129ef5-afcd-415a-a2ab-a06ca1892bd3",
+      "kind": "markdown",
+      "markdown": "- Pièces et personnes accessibles, autorisations : à renseigner.",
+      "hash": "ed7cc0a45dd12b09fd8a07504d0610e1d0363516a1745fa081357445c4b6bbd0",
+      "metadata": {}
+    },
+    {
+      "id": "592b2e49-5d40-4db6-a8d4-50d0c7944fe8",
+      "kind": "markdown",
+      "markdown": "- Mesure de départ et inconnues : à renseigner.",
+      "hash": "d9140c1dc24768744952cbc50fb61cdd77f04be9e1a1e383bbec566bc341ddb8",
+      "metadata": {}
+    },
+    {
+      "id": "962cf771-241e-4f7b-b7a2-d6ac9ce9f3ab",
+      "kind": "markdown",
+      "markdown": "- Livrables et critères de réception : à renseigner.",
+      "hash": "e660d376e131340328344c5aac13c914066be8c2799ea981da608f41e3de645c",
+      "metadata": {}
+    },
+    {
+      "id": "3377a679-e92e-4810-a708-780f66fff228",
+      "kind": "markdown",
+      "markdown": "- Compétences, responsable et spécialiste éventuel : à convenir.",
+      "hash": "dbe381f29531b01223c61471e29267cb0984eddf546277f33cd6ac5398f54615",
+      "metadata": {}
+    },
+    {
+      "id": "23f71a9e-be29-4886-90c3-6999bbef7c50",
+      "kind": "markdown",
+      "markdown": "- Effort, coûts externes, prix et délai proposés : à calculer.",
+      "hash": "d228a448e1c210331c89538267fec1a8180f953f9611a19a9b27e4139e64b0d3",
+      "metadata": {}
+    },
+    {
+      "id": "4b668479-3897-474d-bd16-c684d86ca7f3",
+      "kind": "markdown",
+      "markdown": "- Risque principal et condition de lancement : à renseigner.",
+      "hash": "f32b34907da0e6c7788a2bbd0f50c779f1e4b00e5c16233f0883b3ff1e1d5ab3",
+      "metadata": {}
+    },
+    {
+      "id": "c1f6ed8b-a243-4040-a3aa-d676367191de",
+      "kind": "markdown",
+      "markdown": "- Prochaine preuve attendue : à renseigner.",
+      "hash": "52b4ec62a074192d121367daf82710ee5d09d277279ded93638d31233c111464",
+      "metadata": {}
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://chatgpt.com/space/page_25860d1eddf88191a1a4005e3235a5d0",
+  "page_id": "page_25860d1eddf88191a1a4005e3235a5d0",
+  "source_title": "Marwin Audit du pilotage et des outils",
+  "retrieval_date": "2026-11-04",
+  "source_updated_at": "2026-10-25T10:18:18.915903Z",
+  "source_sequence": null,
+  "listed_sequence": 2,
+  "selection": "Extraits des seuls blocs mentionnant Carlone, John-Lucas ou Quali Contact.",
+  "blocks": [
+    {
+      "id": "fd13d5bc-0bc5-4f05-b261-0515022c8d80",
+      "kind": "markdown",
+      "markdown": "Lecture de la [page opérationnelle](https://chatgpt.com/space/page_4ec13488958481919ac2e098f3e4b42a), du [dossier société](https://chatgpt.com/space/page_d8173b0839e0819193985bc3877b2217), de l’[accompagnement Carlone](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b), du [cahier CRM](https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d), des quatre automatisations et des sources créatives. Le dernier lot lu contient la continuité créative Library 33, contenu 2.28, et le registre Library 7. La page de pilotage est plus récente sur le retour critique de Pub R1 : elle fait foi pour la prochaine action.",
+      "hash": "0fea4daeb4228312004b80c53f2cae516fa3153c174bfee93040fc4ae0d66bbf",
+      "metadata": {}
+    },
+    {
+      "id": "aa9121f0-6297-49d2-bee3-5dc78c082fa4",
+      "kind": "markdown",
+      "markdown": "La revue de code couvre la console et le prototype de continuité 0.1, dont les 20 tests ont été relancés avec succès. Les 22 dépôts du portefeuille sont inventoriés ; leur code, leur sécurité, leurs installations et leurs résultats commerciaux ne sont pas tous audités. Les conversations en direct, le CRM actualisé, le logiciel Quali Contact, les machines et les comptes de diffusion restent hors d’accès vérifié.",
+      "hash": "b5ad23f5feedcf50de5fc539abf35e1b41ad135707509381b4212626aeed5868",
+      "metadata": {}
+    },
+    {
+      "id": "a0ca27b2-f11e-4b85-82a2-8ccb29ef1a17",
+      "kind": "markdown",
+      "markdown": "Le générateur de la console reçoit désormais ses entrées explicitement et vérifie les empreintes des vidéos, leur durée et leur définition. Le dernier état de la mission créative est repris depuis le pilotage ; un brief dont le film existe ne reste plus étiqueté « non généré ». Les dossiers Marwin Tech et Carlone deviennent visibles dans le portefeuille, qui comprend 24 périmètres et 22 dépôts.",
+      "hash": "fa73e284cda8dab61d2029c84a5eea039b5c6a9570e547241e378a2c26be09ef",
+      "metadata": {}
+    },
+    {
+      "id": "2a2173dc-3fc6-42bb-a38f-7bbfd367ea68",
+      "kind": "markdown",
+      "markdown": "| Ordre | Travail suivant | Condition de réussite |\n| --- | --- | --- |\n| 1. Une mission rémunérée | Avec Mathys, fixer qui fait quoi, le temps disponible, les tarifs et la structure qui facture ; compléter le cadrage Carlone déjà délimité | Une fiche chiffrée, un livrable borné, un interlocuteur et une réception définis ; accord client à obtenir |\n| 2. Un raccordement utile | Obtenir nom et version du logiciel et de l’extension Quali Contact, documentation d’échange et structure du CRM | Import/export d’une campagne fictive avec identifiants stables, offre versionnée, opposition, doublons, conflits et retour traçable ; compatibilité réelle à vérifier ensuite |\n| 3. Une reprise entre sessions et appareils | Choisir l’environnement d’exécution puis relier un point d’entrée réel au journal et à la console | Un événement répété ne crée pas de doublon ; une interruption permet la reprise ; les deux interfaces affichent le même résultat vérifié |",
+      "hash": "105529ae1e9f0dd62659aab7d7fe3366389d67b529e90d16b7df0772fb828d19",
+      "metadata": {}
+    },
+    {
+      "id": "bf35fbfe-7ec9-4012-b100-c7fae8e3888d",
+      "kind": "markdown",
+      "markdown": "Avant les données de prospection réelles, préciser finalité, données nécessaires, responsabilités et modalités d’échange avec Quali Contact, en s’appuyant sur le [référentiel CNIL des activités commerciales](https://www.cnil.fr/sites/cnil/files/atoms/files/referentiel_traitements-donnees-caractere-personnel_gestion-activites-commerciales.pdf). Définir aussi ce que désigne « les 500 plus grandes entreprises de la Nièvre » ; aucun fichier de 500 prospects vérifié n’a été produit.",
+      "hash": "21f6ca7e0fb67bf56b12c31eec43a5e39da48ac98165478f2c29819bb7e76657",
+      "metadata": {}
+    }
+  ]
+}

@@ -58,3 +58,7 @@ Les versions vivantes de ces documents sont des pages privées sur claude.ai, qu
 
 Les PDF, animations, études du laboratoire et fichiers du prototype Éclosion récupérés de la conversation sont décrits dans [l’index de l’intégration](sources/index-integration-chatgpt-2026-11-04.md). Les versions historiques et les documents financiers restent dans `interne/`. Le contexte déjà présent est conservé ; cet apport ne valide ni devis ni achat ni faisabilité physique.
 
+
+## Recueil complémentaire des sessions ChatGPT
+
+Le [recueil et son index](sources/index-complement-sessions-chatgpt-2026-11-04.md) ajoutent les trois conversations retrouvées, cinq exports supplémentaires de Pages et le bilan de couverture : 160 lectures réussies sur les 219 conversations répertoriées. Les 59 refus restants et l’ancienneté parfois limitée des messages sont conservés comme limites.

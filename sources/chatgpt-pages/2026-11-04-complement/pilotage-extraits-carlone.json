@@ -1,0 +1,40 @@
+{
+  "source_url": "https://chatgpt.com/space/page_4ec13488958481919ac2e098f3e4b42a",
+  "page_id": "page_4ec13488958481919ac2e098f3e4b42a",
+  "source_title": "Marwin Studio Pilotage et mémoire",
+  "retrieval_date": "2026-11-04",
+  "source_updated_at": "2026-10-31T07:54:27.055079Z",
+  "source_sequence": null,
+  "listed_sequence": 86,
+  "selection": "Extraits des seuls blocs mentionnant Carlone, John-Lucas ou Quali Contact.",
+  "blocks": [
+    {
+      "id": "101d0180-e96b-4672-b53b-156247abeec4",
+      "kind": "markdown",
+      "markdown": "État rapproché le 25 octobre 2026, Europe/Paris. Morgan Olsen porte sa présence personnelle. Mathys Couet est l’un de ses associés principaux ; ils travaillent ensemble sur le dossier John-Lucas Carlone. Eaglemic, aussi appelé Michael Bach, est également un associé principal de Morgan et utilise @mtek_france. Ce compte ne désigne pas celui de Morgan.",
+      "hash": "32638ffead66007ae9f5abdff72e18757c99b0ed4f44f0179895e46971c618b5",
+      "metadata": {}
+    },
+    {
+      "id": "b609d05f-1db8-4117-9c23-cda29e471c56",
+      "kind": "markdown",
+      "markdown": "| Mission | Responsable | État au rapprochement | Prochaine action et condition de fin |\n| --- | --- | --- | --- |\n| MAR-01 Transmettre les recherches artistiques | Session Recherche artistique | Audit du 28 octobre et références conservés ; méthodes déjà transmises au scénario. Les fichiers de contrôle restent des instantanés datés | Approfondir uniquement un manque utile au débrief de R02 ; ne pas refaire les mêmes analyses ni lancer une génération depuis la veille |\n| MAR-02 Rattacher le contexte et le scénario suivant | Session Contexte et scénario | La photo de famille R02 terminée le 29 octobre, essai non approuvé ; R01 archivée en version 0 | Recueillir le retour sur le visage et le gag. Préserver les préparations et le test de lecture existant |\n| MAR-03 Relier une méthode à une scène | Contexte et scénario, avec coordination du pilotage | R02 : source 10,08 s et export recadré 10,10 s, 720 × 1280 / 24 i/s ; devis 70 / plafond 80 crédits. Job terminé, aucun actif | Réponse du décor et fin de face plus lisibles selon la réalisation ; fidélité non approuvée. Aucun appel supplémentaire ou publication autorisé |\n| MAR-04 Préparer les films déjà prêts pour diffusion | Morgan pour la création du compte dédié ; préparation Contexte et scénario | Instagram choisi le 26 octobre. Morgan créera Marwin Studio lorsque du contenu sera publiable. Kit et propositions de dates antérieurs conservés comme préparations, sans publication attestée | D’abord apprécier qualité, visage, action et son. Préparer ensuite le lancement du compte créé par Morgan ; connecter les mesures après cette étape. Spotlight hors du périmètre choisi ; aucune date ou publication automatique. |\n| MAR-05 Éprouver le pilote central | Ce fil de pilotage | 30 octobre : atelier Reverse API Engineer ajouté au [paquet 0.2.0](https://chatgpt.com/library?file_id=libfile_6e0415b1c8d4819180fa22732b157e58&account_id=personal). CLI isolée, inspection HAR par API/MCP et journal testés ; 106 tests. Aucun site tiers capturé | Réserver RAE à une lacune du connecteur officiel. Vérifier accès, capture bornée et résultat métier sur le premier service ; poursuivre le raccord de la console par l’API existante |\n| MAR-06 Préparer la tour de contrôle multiécran | Ce fil de pilotage | [Console privée](https://marwin-control-room.yellowghost64.chatgpt.site) : huit vues. Révision d’audit contrôlée : 24 dossiers, 22 dépôts, cinq films et huit missions ; 33 tests console passés. Changement de période commerciale sécurisé, suivi précédent récupérable, modifications locales à rapprocher signalées ; dernier déploiement consigné dans l’audit | Ouvrir Offres et missions pour le premier cadrage ; exporter le suivi utile. Le cœur local et les machines restent à raccorder |\n| MAR-07 Préparer le CRM et les offres pour Quali Contact | Équipe Morgan Olsen et Mathys Couet ; responsable opérationnel à préciser | [CRM fourni et audité le 28 octobre](https://chatgpt.com/space/page_e138620f745481919453e0cec121871d) : branche claude/new-session-utninu, révision 18c2080, 500 SIREN distincts ; enrichissement déjà présent. Code et données versionnées examinés, suivi en service non consulté. Le [cahier de raccordement](https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d) conserve les exigences | Obtenir le logiciel/module réellement utilisé par Quali Contact et ses formats d’échange ; fiabiliser identifiants et provenance, puis vérifier une campagne fictive de bout en bout |\n| MAR-08 Formaliser l’accompagnement rémunéré et la structure Marwin Tech | Morgan Olsen et son associé ; répartition à préciser | [Premier forfait de cadrage délimité](https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b) et [structure proposée actualisée](https://chatgpt.com/space/page_d8173b0839e0819193985bc3877b2217). Trois canevas, chiffrage par intervenant, 17 contrôles missions et prix dans les 33 tests console ; cinq cas fictifs. Gain de temps à mesurer | Convenez des responsabilités, jours, tarifs et structure facturante pour chiffrer la première mission ; poursuivre la comparaison SAS et SARL. Ni statut, ni capital, ni rémunération, ni matériel ne sont actés |",
+      "hash": "bc29923cdce459a57510ce468973a7fa578846576fd2f5f72f57579f4bbef7ea",
+      "metadata": {}
+    },
+    {
+      "id": "fa9ee2ae-45a9-4911-8da7-a31da3e8e95d",
+      "kind": "markdown",
+      "markdown": "Orientation précisée par Morgan le 28 octobre 2026 : Marwin Tech devient un projet de cabinet de conseil opérationnel et de réalisation, soutenu par l’IA. Marwin doit préparer des audits approfondis, proposer des livrables adaptés et accompagner l’exécution jusqu’à réception. La [méthode de consulting et d’audit](https://chatgpt.com/space/page_b6ab6638a38881919966d13180fc9000) relie preuves, options, réalisation et contrôle ; elle reste à éprouver en mission réelle. Le premier cas proposé reprend le cadrage CRM Carlone existant, sans élargir son forfait. Les décisions sur l’association, les prix et le statut restent ouvertes.",
+      "hash": "6fb7f87def6007cd8bcb0c43a8a22865a7f17170eecae0d6f351f78aaf1c8e25",
+      "metadata": {}
+    },
+    {
+      "id": "3f388c6c-5b76-4d5d-9729-291d09ab2832",
+      "kind": "markdown",
+      "markdown": "- [John-Lucas Carlone Offre et projets en Nièvre](https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d) : dossier de Morgan Olsen et Mathys Couet ; priorité au raccordement du CRM et des offres avec les outils de Quali Contact, engagement prévu et logiciel à identifier ; chantiers culturels conservés.",
+      "hash": "88a88e1621324a7998abd01d4b04db021ca4bcae96befc28a692cfcd018a82b0",
+      "metadata": {}
+    }
+  ]
+}

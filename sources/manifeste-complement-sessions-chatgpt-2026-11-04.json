@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-04",
+  "base_commit": "540c83221b895e17f7d10188b1e6152e7f07c6f6",
+  "scope": "Complément documentaire autorisé par Morgan : récupérer et pousser les sources encore accessibles concernant Carlone.",
+  "coverage": {
+    "conversations_repertoriees": 219,
+    "actives": 216,
+    "archivees": 3,
+    "lectures_reussies_cumulees": 160,
+    "lectures_refusees_restantes": 59,
+    "lectures_recuperees_ce_complement": 7,
+    "conversations_avec_mention_directe_carlone": 3,
+    "limite_anciennete": "Certaines conversations ne restituent que les échanges récents, sans curseur vers les plus anciens. Aucune exhaustivité intégrale des messages ne peut être affirmée."
+  },
+  "pages_added": [
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/audit-crm-carlone.md",
+      "source_url": "https://chatgpt.com/space/page_e138620f745481919453e0cec121871d"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/marwin-structure-et-offres.md",
+      "source_url": "https://chatgpt.com/space/page_d8173b0839e0819193985bc3877b2217"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/marwin-methode-consulting-audits.md",
+      "source_url": "https://chatgpt.com/space/page_b6ab6638a38881919966d13180fc9000"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/pilotage-extraits-carlone.md",
+      "source_url": "https://chatgpt.com/space/page_4ec13488958481919ac2e098f3e4b42a"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/audit-pilotage-extraits-carlone.md",
+      "source_url": "https://chatgpt.com/space/page_25860d1eddf88191a1a4005e3235a5d0"
+    }
+  ],
+  "pages_rechecked": [
+    {
+      "page_id": "page_b128c8890ea881919e5c2fd29d2bfd3d",
+      "title": "John-Lucas Carlone Offre et projets en Nièvre",
+      "url": "https://chatgpt.com/space/page_b128c8890ea881919e5c2fd29d2bfd3d",
+      "all_current_blocks_present_in_archive": true,
+      "through_sequence": null
+    },
+    {
+      "page_id": "page_b393673dd9f481919152c334ac61444b",
+      "title": "Marwin Tech Accompagnement de John-Lucas Carlone",
+      "url": "https://chatgpt.com/space/page_b393673dd9f481919152c334ac61444b",
+      "all_current_blocks_present_in_archive": true,
+      "through_sequence": null
+    }
+  ],
+  "conversations_archived": [
+    {
+      "path": "sources/chatgpt-conversations/2026-11-04/structurer-marwin-tech.json",
+      "title": "Structurer Marwin Tech",
+      "url": "https://chatgpt.com/c/6adf6332-ba8c-832a-b993-206d087466db",
+      "turns_returned": 5
+    },
+    {
+      "path": "sources/chatgpt-conversations/2026-11-04/bras-robotique-precis.json",
+      "title": "Bras robotique précis",
+      "url": "https://chatgpt.com/c/6ae7c762-6630-83eb-afde-680aa0c54b2e",
+      "turns_returned": 5
+    },
+    {
+      "path": "sources/chatgpt-conversations/2026-11-04/travail-pour-marwin-studio.json",
+      "title": "Travail pour Marwin Studio",
+      "url": "https://chatgpt.com/c/6add7150-1754-8333-aa11-6fdb10d35d17",
+      "turns_returned": 5
+    }
+  ],
+  "known_missing_images": 4,
+  "local_archive_search": {
+    "entries_examined": 3348,
+    "matches": []
+  },
+  "boundaries": [
+    "Pas d’export intégral ChatGPT trouvé dans les téléchargements récents examinés.",
+    "Les titres des conversations sans rapport avec Carlone et leurs messages ne sont pas ajoutés au dépôt.",
+    "Aucun nouveau contrat, achat, contact client ou validation opérationnelle."
+  ],
+  "files": [
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/audit-crm-carlone.md",
+      "bytes": 10623,
+      "sha256": "869c9e404a0dd744767928adbeecf1b3832cee39cf4c93885795a813371d62ec"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/audit-crm-carlone.json",
+      "bytes": 16358,
+      "sha256": "2f0b1a47b93f9f7af546244e4c86bda04b478c00cf3e0340b8db1ca5e156cd66"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/marwin-structure-et-offres.md",
+      "bytes": 21607,
+      "sha256": "5b140d4bf8d87a52e6149c9d3a2a286f9d50e6a79e1f4da1519e18ae4bb4951b"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/marwin-structure-et-offres.json",
+      "bytes": 33998,
+      "sha256": "bec4feccdedf9a52abf0ca2adb0de47b996af98acaa6f74ea15526622e806105"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/marwin-methode-consulting-audits.md",
+      "bytes": 10615,
+      "sha256": "b11cd3cadfc6128163ea302018b164cb447be38b53402d5087b5d322d17a3071"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/marwin-methode-consulting-audits.json",
+      "bytes": 19561,
+      "sha256": "6cf72a931a476755f920817830566536b5c05aedb14b29122d1f1df20c2821cc"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/pilotage-extraits-carlone.md",
+      "bytes": 6150,
+      "sha256": "b0e2390d0f18508e302ac6e687720369cbc8e4144c64bd7ac0478d3142261c03"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/pilotage-extraits-carlone.json",
+      "bytes": 6961,
+      "sha256": "a300d0edd018e92259c0688d618ba2eabd46289e1918880c0cf52623297ffd2d"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/audit-pilotage-extraits-carlone.md",
+      "bytes": 3518,
+      "sha256": "5fd50c5dcc47b08848d1c4c5ea4a09cbe96d25c066502ae3d50ae6275f7a302c"
+    },
+    {
+      "path": "sources/chatgpt-pages/2026-11-04-complement/audit-pilotage-extraits-carlone.json",
+      "bytes": 4538,
+      "sha256": "1096c3e792652a0fc145870c5d4a0b9fcb2669aa463520b52ab788c0eae89292"
+    },
+    {
+      "path": "sources/chatgpt-conversations/2026-11-04/structurer-marwin-tech.json",
+      "bytes": 7345,
+      "sha256": "015af634571dcc834e544ec86ca3cc517bf28928b5407aa4fb86c5915a7c68f2"
+    },
+    {
+      "path": "sources/chatgpt-conversations/2026-11-04/bras-robotique-precis.json",
+      "bytes": 17979,
+      "sha256": "092bb6ad92554fec26998a8765ce2430fb143f0726bcc6b5b4369c17d06db37b"
+    },
+    {
+      "path": "sources/chatgpt-conversations/2026-11-04/travail-pour-marwin-studio.json",
+      "bytes": 15162,
+      "sha256": "152d58511954778dbdcc575014dcb4de7157ae88bee8db659628b73744322872"
+    },
+    {
+      "path": "interne/recueil-sessions-chatgpt-2026-11-04.html",
+      "bytes": 185062,
+      "sha256": "25a16da23ec8843cc8251a099fa5faab1c10048a0456b2c283cc707f66d43994"
+    },
+    {
+      "path": "interne/recueil-sessions-chatgpt-2026-11-04.txt",
+      "bytes": 164703,
+      "sha256": "e6de2d20edf9b048de2e2e5dc4c610f5bf5ef1358ed338c0769b27200615b765"
+    },
+    {
+      "path": "sources/index-complement-sessions-chatgpt-2026-11-04.md",
+      "bytes": 4461,
+      "sha256": "03f0cbac2c271b618adf8c4a21a5569d63042b2f5d8dfc30c96c0c782e148ff7"
+    }
+  ]
+}

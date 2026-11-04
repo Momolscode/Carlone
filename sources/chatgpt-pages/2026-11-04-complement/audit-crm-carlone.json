@@ -1,0 +1,201 @@
+{
+  "source_url": "https://chatgpt.com/space/page_e138620f745481919453e0cec121871d",
+  "page_id": "page_e138620f745481919453e0cec121871d",
+  "source_title": "Audit du CRM Carlone et enrichissement des données",
+  "retrieval_date": "2026-11-04",
+  "source_updated_at": "2026-10-28T17:33:10.925238Z",
+  "source_sequence": null,
+  "listed_sequence": 0,
+  "selection": "Copie des blocs Markdown de la page entière.",
+  "blocks": [
+    {
+      "id": "d648ab33-ad12-4215-a74c-5374991678a5",
+      "kind": "markdown",
+      "markdown": "Conserver le CRM existant et renforcer la traçabilité de ses enrichissements est le prochain lot proposé. Le dépôt fourni par Morgan permet d’identifier le code et son modèle de données ; l’intégration à l’outil utilisé par Quali Contact reste à spécifier. Analyse du 28 octobre 2026 sur la branche `claude/new-session-utninu`, révision `18c2080cac09993bffa426b39d20b765f8413c4f`.",
+      "hash": "8d65155fac5f6d69b0f938ede5533958e2dcb9ea5f5f034fa07b0521b5f55b27",
+      "metadata": {}
+    },
+    {
+      "id": "892d6606-1272-4c65-8fcf-e480ee064f6d",
+      "kind": "markdown",
+      "markdown": "# Périmètre examiné",
+      "hash": "3f290bb899d942d7cb88f38195617b121fb7ea1c3ea5f7fdf0fa735ff5fcf6f8",
+      "metadata": {}
+    },
+    {
+      "id": "24aeece6-c7e5-4418-b5c6-5ed00c7d0d49",
+      "kind": "markdown",
+      "markdown": "Lecture de l’arborescence complète, de [README.md](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/README.md), [PASSATION.md](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/PASSATION.md), des scripts de fusion et d’enrichissement, des sections de stockage et d’export de [site/index.html](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/site/index.html) et de la note Hermès. Les 500 fiches de [site/companies.json](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/site/companies.json) ont été analysées pour produire les comptes ci-dessous. Le suivi partagé de l’application en service n’a pas été consulté ; les essais d’interface mentionnés dans la passation n’ont pas été rejoués. Aucun script de fusion, envoi, enrichissement externe ou changement du dépôt n’a été exécuté.",
+      "hash": "1ac3f57be3b381e909dafb1bb99075a135808f8dafa14b1f214f9fe27423c4c5",
+      "metadata": {}
+    },
+    {
+      "id": "46cf6abd-336b-49af-bc5c-b2b0107f1a41",
+      "kind": "markdown",
+      "markdown": "La branche par défaut `main` ne contient que le README initial. La branche de travail contient 621 fichiers, dont les sources, les lots de recherche et l’application. Toute reprise doit indiquer la branche et la révision étudiées pour éviter d’évaluer un dépôt apparemment vide.",
+      "hash": "df503e0216fdff965214ef1dce6f9c53adf8b679437bb3198dcd1a0c40282cde",
+      "metadata": {}
+    },
+    {
+      "id": "247a4aec-63e4-448b-adcb-dbf7e3ca27af",
+      "kind": "markdown",
+      "markdown": "# Résultats sur les données versionnées",
+      "hash": "14bf44b70b41ee6b4dfeb366e200c856218edad72e8745bb020221e8d0381b4a",
+      "metadata": {}
+    },
+    {
+      "id": "3e1d142e-8ee4-4375-bf72-c3063379129c",
+      "kind": "markdown",
+      "markdown": "| Contrôle | Résultat au 28 octobre 2026 |\n| --- | --- |\n| Entreprises et identifiants | 500 fiches et 500 SIREN distincts, aucun SIREN vide |\n| Téléphones | 471 renseignés ; 283 portent le drapeau « à confirmer » |\n| E-mails et sites | 109 e-mails renseignés et 283 sites web |\n| Enrichissement | 500 fiches avec les champs `fiab` et `completude` |\n| Actualités et motifs de contact | 3 fiches avec `actualites`, 2 avec `declencheur` |\n| Comptes liés et interlocuteurs | 124 fiches avec comptes liés, 60 avec `contacts_admin` |\n| Date de vérification du standard | Absente dans `fiab.standard` pour 499 fiches sur 500 |\n| Opposition issue des recherches | 14 valeurs vraies, 19 fausses et 467 non renseignées |",
+      "hash": "e77a9be8d85562606a2fd5bd2a7425f300887c6a1be260469821d99e322705bd",
+      "metadata": {}
+    },
+    {
+      "id": "acbc6f52-9a33-42b7-9ef8-d441415274c1",
+      "kind": "markdown",
+      "markdown": "Un champ renseigné ne prouve ni sa justesse ni sa fraîcheur. Ces nombres décrivent le fichier versionné, pas les données saisies depuis dans le suivi partagé. Les décomptes successifs de la passation sont un historique ; ils ne se cumulent pas. La base combine un classement initial, des chiffres de différents exercices et des entreprises sélectionnées par effectif : sa présence ne prouve pas un classement homogène des 500 plus grandes entreprises.",
+      "hash": "3bea73d218ba32dcf7f6eff05b117df2ccb8be03fdc52b1bc60324f18d30ad28",
+      "metadata": {}
+    },
+    {
+      "id": "617e33ae-b97c-418d-b590-0c0d46274f54",
+      "kind": "markdown",
+      "markdown": "# Ce qui existe déjà",
+      "hash": "f079ef49b2c7f6ed5d16e52c307421df2a30cebc28b9ad7a36d454deb5bbe0ca",
+      "metadata": {}
+    },
+    {
+      "id": "a6c2e4c2-b93b-4d19-a072-3045fc5bed4e",
+      "kind": "markdown",
+      "markdown": "[enrich.py](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/enrich.py) ajoute des vérifications de standards, des comptes liés, des actualités, un motif de contact et un indice de complétude. Il préserve un autre numéro publié à côté de l’existant et conserve des réserves. L’interface propose les fiches entreprises, les appels, le suivi, les refus, les exports CSV et l’agenda. Ces fonctions sont présentes dans le code ; leur fonctionnement partagé en service reste à vérifier dans l’environnement concerné.",
+      "hash": "cbdcdf7f02961adb715126c81fc95579a595414d15afc7a9e1d6ea3c546613e6",
+      "metadata": {}
+    },
+    {
+      "id": "39be90ab-3b55-405e-b5db-f8d40454e869",
+      "kind": "markdown",
+      "markdown": "Le partage s’appuie sur `window.claude.use(\"db\")` et la collection `suivi` ([initialisation](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/site/index.html#L2518-L2544)). Hors de cet environnement, l’application utilise le stockage local du navigateur. Une publication sur un autre hébergement ne fournit donc pas à elle seule le même suivi partagé.",
+      "hash": "c231577c78aefff29f9595d6801144362a3fe88b64e8b5520b696d936276ed97",
+      "metadata": {}
+    },
+    {
+      "id": "300e432c-dbee-4b1e-89b1-92d08e7e2a90",
+      "kind": "markdown",
+      "markdown": "# Améliorations prioritaires",
+      "hash": "fbf5b2159f9accfaa9d43642d0fbd4be4d599e7816d57b57ee499dedc025ae6e",
+      "metadata": {}
+    },
+    {
+      "id": "ce11c4bc-8885-4c34-a37e-9389816546af",
+      "kind": "markdown",
+      "markdown": "1. **Stabiliser tous les identifiants avant une actualisation du classement.** L’initialisation utilise le SIREN pour les fiches étendues et le rang pour les autres ([code](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/site/index.html#L2508)). Si un rang est réaffecté à une autre entreprise, le suivi peut être rattaché au mauvais compte. Préparer une correspondance entre anciennes clés et SIREN, sauvegarder le suivi, puis vérifier sa migration sur données fictives avant tout changement.",
+      "hash": "d0a637cd4b8c9b544efc6bbe3f238ba25d823fabe620c2cbf23fbdfc09396b5b",
+      "metadata": {}
+    },
+    {
+      "id": "caa06f1b-0170-427a-b0d9-64ea54b36702",
+      "kind": "markdown",
+      "markdown": "2. **Enregistrer la preuve et la date par valeur.** La majorité des dates de `fiab` sont nulles ; plusieurs niveaux « haute » sont déduits de catégories générales ([fonction fiab](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/enrich.py#L180-L216)). Conserver URL exacte, date d’observation, date du contrôle, méthode et réserve, puis afficher distinctement présence, fiabilité et fraîcheur. L’absence de date doit rester visible.",
+      "hash": "bc268b52963d77af3e2322451acf799e569cc9d855f544ff532bb27ec678f04f",
+      "metadata": {}
+    },
+    {
+      "id": "9a477cc8-d9c5-4755-96d5-f5683704d141",
+      "kind": "markdown",
+      "markdown": "3. **Préparer les changements avant leur application.** L’enrichissement peut remplacer le site web en gardant l’ancienne valeur ([code](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/enrich.py#L146-L151)), mais ce passage n’expose pas de validation humaine. Ajouter un journal de propositions avec ancienne valeur, valeur proposée, source et décision. Les informations confirmées par l’équipe doivent avoir une priorité explicite ; leur remplacement doit être signalé.",
+      "hash": "0569b6956c5fca77cba7cfb8d313e5619a96703c0ea53d8e998e09821883f2cf",
+      "metadata": {}
+    },
+    {
+      "id": "90f25850-5b98-4726-a800-32c5ade6262a",
+      "kind": "markdown",
+      "markdown": "4. **Spécifier un export et un retour de campagne pour le logiciel réel.** Le CSV existant ne prouve pas sa compatibilité avec Quali Contact. Les exports « appels » et « entreprises » ne sélectionnent pas exactement le téléphone de la même manière ([exports](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/site/index.html#L2434-L2450)). Définir l’identifiant stable, le numéro à utiliser, les exclusions, les champs de retour et la gestion des doublons selon le format accepté par le prestataire.",
+      "hash": "3d660102c0b7e45c1097ebed1f9a8819a7cf0ea1c180e2fe4529d5def3133457",
+      "metadata": {}
+    },
+    {
+      "id": "7bf3cde4-0bba-4027-9e82-bcccdfc80ee3",
+      "kind": "markdown",
+      "markdown": "5. **Rendre la reconstruction reproductible.** Le [README](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/README.md) omet `enrich.py` dans sa commande, alors que la [passation](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/PASSATION.md) le prévoit. Aligner les consignes et produire un manifeste avec révision, fichiers d’entrée, date et résultat des contrôles. Une reconstruction ne doit pas modifier les données saisies dans le suivi partagé.",
+      "hash": "2f792207aa53e42b71a985e3f988204ef59a68105a83625b8b24d124af2d9968",
+      "metadata": {}
+    },
+    {
+      "id": "06937556-bbb5-42ff-94be-6a88a33f74b5",
+      "kind": "markdown",
+      "markdown": "# Apport de la compétence fournie",
+      "hash": "5ca3aa30fa90fdeafc04ea96b2fc17e1f4b62dd5d86f110758a737fda91b5900",
+      "metadata": {}
+    },
+    {
+      "id": "08789a19-de41-472d-955e-8044e94699b4",
+      "kind": "markdown",
+      "markdown": "La [compétence crm-enrichment de Panaversity](https://github.com/panaversity/agentfactory-business-plugins/blob/main/sales-revops-marketing/skills/crm-enrichment/SKILL.md), fichier lu à la révision de contenu `fa4f34ccc2eecef26443235a07c17274ed739d93`, apporte une grille de champs, un rapport des changements et la protection des valeurs saisies manuellement. Elle est utilisée ici comme référence ; aucune installation ni planification n’a été effectuée.",
+      "hash": "d8e8b5937b52033026337bc70355dd8b97dd49c1df3fa8978690804f623f0632",
+      "metadata": {}
+    },
+    {
+      "id": "61cdd268-f8f1-41b8-bbd1-eeb6ca685089",
+      "kind": "markdown",
+      "markdown": "Adaptation au dossier : garder le SIREN comme ancrage d’entreprise, distinguer les contacts personnels et les comptes, limiter la collecte aux coordonnées professionnelles pertinentes et conserver les données inconnues comme telles. Une source publiée pour un e-mail ne prouve pas sa délivrabilité. Le contrôle syntaxique et de provenance présent dans le script ne doit pas être présenté comme une vérification de boîte mail. Les changements sensibles et les conflits vont dans une file de revue, sans alerte ou message envoyé automatiquement au titre de cet audit.",
+      "hash": "d0df320691a494210f82369351af4398d2f0d186380bd81b4f42fff283ec07f1",
+      "metadata": {}
+    },
+    {
+      "id": "d3796bd2-47b1-422e-b476-d7beb4053ac5",
+      "kind": "markdown",
+      "markdown": "L’indice actuel pondère notamment téléphone, dirigeant, chiffres, interlocuteurs, site et opposition. Il est utile pour ordonner le travail mais ne correspond pas au pourcentage de tous les champs remplis. Prévoir trois lectures séparées : couverture des champs utiles, niveau de preuve et ancienneté.",
+      "hash": "ac2db0d97b4a552a2d20880f5e20b8a5637f0c56d6b7094104ceacb44718217a",
+      "metadata": {}
+    },
+    {
+      "id": "2e5e0e6d-98b8-488d-a32e-1ae26c1632eb",
+      "kind": "markdown",
+      "markdown": "# Premier lot à chiffrer",
+      "hash": "2769f97b38078de75d06848117e72016a0113926c53729972f135cd32f0bcfdb",
+      "metadata": {}
+    },
+    {
+      "id": "1ff0eed5-a72d-4dec-b35d-faae6dc82978",
+      "kind": "markdown",
+      "markdown": "Livrables proposés : un dictionnaire des données et des sources ; un registre de propositions d’enrichissement ; une spécification d’échange avec Quali Contact ; une recette sur dix entreprises fictives. Ce lot consolide l’existant. Son prix attend l’effort de chaque intervenant, les accès disponibles et le format cible.",
+      "hash": "f50d867adf7a37cb61169aa03a6a769bd750d92c562da2704ecf59ea05820aef",
+      "metadata": {}
+    },
+    {
+      "id": "49207c5e-0192-46bb-ae51-50f6ac260191",
+      "kind": "markdown",
+      "markdown": "Chaque proposition de changement porte : SIREN, contact éventuel, champ, valeur actuelle ou empreinte, valeur proposée, URL source, dates, méthode de vérification, niveau de preuve, motif, état de revue et décision humaine. L’historique permet de retrouver et d’annuler une modification acceptée. Le rafraîchissement des données de référence et le suivi commercial sont traités séparément.",
+      "hash": "7c55986d17a5d77890dc29bba44b02ac8d8666d6f2120f232209592b019d5133",
+      "metadata": {}
+    },
+    {
+      "id": "75d92e0f-bc53-417b-80c0-b559b6ef8bb1",
+      "kind": "markdown",
+      "markdown": "Recette proposée : deux imports identiques ne créent aucun doublon ; un changement de rang conserve le suivi du SIREN ; une valeur confirmée manuellement n’est pas écrasée ; un refus reste prioritaire ; une source périmée reste signalée ; un échec d’import se reprend sans perte ; le téléphone exporté suit la règle convenue ; un retour d’appel crée une seule activité sur le bon compte. Ce sont des critères à tester, pas des contrôles déjà exécutés.",
+      "hash": "f87f36345058971a2109a910d73d4b07f96be7fa5ac2fd61fd229ee54bf11349",
+      "metadata": {}
+    },
+    {
+      "id": "2123c783-fced-4870-be46-6e62229a7e87",
+      "kind": "markdown",
+      "markdown": "# Information qui conditionne le raccordement",
+      "hash": "b9fb0e60c7415efad91de37bb6999f9f36c3f044cbe846f62bfa7891068bc450",
+      "metadata": {}
+    },
+    {
+      "id": "c6009b3f-bd14-401f-a346-47bb901ea5dd",
+      "kind": "markdown",
+      "markdown": "La [note Hermès](https://github.com/FinanceScope/CRM-Carlone/blob/18c2080cac09993bffa426b39d20b765f8413c4f/docs/hermes-vocalcom.md) existe, mais précise elle-même reposer sur des titres et extraits de recherche et présenter un format d’import proposé. Elle n’établit pas que Quali Contact utilise ce logiciel ou accepte ce format. Il faut obtenir le nom, la version et le module réellement utilisés, ainsi qu’un modèle d’import et de retour ou la documentation officielle de l’API. Aucun choix de fournisseur, coût ou connecteur n’est validé par cet audit.",
+      "hash": "901369f6818ce3ce7a299f8889994dc24ea3661d4a732a0478061bf4d4f1e0de",
+      "metadata": {}
+    },
+    {
+      "id": "2fc019d2-7f61-4f0f-9816-e91f6f3c9513",
+      "kind": "markdown",
+      "markdown": "Prochaine action : récupérer un modèle de fichier d’import et de retour de l’outil effectivement utilisé par Quali Contact afin de compléter la correspondance avec les champs du CRM déjà identifié.",
+      "hash": "34318b373ebde133a39d80bc83e12b01cb9a80841a1d5ee1bd454bb927461d72",
+      "metadata": {}
+    }
+  ]
+}
