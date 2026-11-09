@@ -181,7 +181,7 @@ Toutes portent la mention « Maquette — données fictives ».
 
 ## C. Cabaret-spectacle et restauration
 
-**En une phrase.** Des logiciels français vendent déjà la soirée dîner-spectacle en une seule saisie. L'IA prend le téléphone et aide au planning. Les autorisations et les déclarations restent au nom de l'exploitant.
+**En une phrase.** Des logiciels français réunissent déjà, selon leurs éditeurs, la vente d'une soirée dîner-spectacle : billet, formule, caisse. L'IA prend le téléphone pour une réservation de restaurant simple ; pour une formule dîner-spectacle, c'est **non vérifié**. Elle aide au planning. Les autorisations et les déclarations restent au nom de l'exploitant.
 
 Fiches clients liées : n° 11 (autorisations des lieux), 12 (caisse et ventes), 3 (échéances).
 
@@ -189,9 +189,9 @@ Fiches clients liées : n° 11 (autorisations des lieux), 12 (caisse et ventes),
 
 **1. Billetterie, plan de salle et formules dîner-spectacle en un seul outil — disponible**
 - Ce que fait l'outil : on vend une table ou un fauteuil sur un plan de salle. La formule (dîner, spectacle, boissons) est répartie entre les taux de TVA. Le billet porte un code à scanner. La caisse du bar et l'export comptable sont dans le même outil.
-- Qui le propose : PRESTISCENE (éditeur Prestilogic), KABAO (éditeur e-Obs Technologies). Ce n'est pas de l'IA : c'est un logiciel de métier.
-- Sources : https://www.prestilogic.fr (articles du 2 février et du 21 juin 2026) · https://www.e-obs.fr/references/music-hall-bergerac.html et https://www.e-obs.fr/references/cesar-palace-paris.html (non datées, consultées le 9 novembre 2026).
-- Témoignage : références d'éditeur chez KABAO, le Music-hall de Bergerac et le César Palace à Paris. Pas de témoignage indépendant trouvé.
+- Qui le propose : PRESTISCENE (éditeur Prestilogic) : tout ce qui précède figure sur sa page d'accueil. KABAO (éditeur e-Obs Technologies) : réservation, billetterie, formules avec leurs taux de TVA et exports sont confirmés ; plan de salle, code à scanner et caisse du bar : **non vérifié** chez cet éditeur. Ce n'est pas de l'IA : c'est un logiciel de métier. Rien n'a été essayé : ce sont des descriptions d'éditeurs.
+- Sources : https://www.prestilogic.fr (page d'accueil consultée le 9 novembre 2026 ; les dates des articles du 2 février et du 21 juin 2026 n'ont pas été relues) · https://www.e-obs.fr/references/music-hall-bergerac.html et https://www.e-obs.fr/references/cesar-palace-paris.html (non datées, consultées le 9 novembre 2026).
+- Témoignage : références d'éditeur chez KABAO, le Music-hall de Bergerac et le César Palace à Paris. Ces pages ne sont pas datées et citent encore le « CNV », nom d'un organisme d'avant 2020 : elles sont sans doute anciennes. Ne pas présenter ces lieux comme des clients actuels. Pas de témoignage indépendant trouvé.
 
 **2. Un assistant vocal qui prend les réservations au téléphone — disponible**
 - Ce que fait l'outil : il décroche, prend, modifie ou annule une réservation, confirme par SMS. Il transfère à l'équipe ce qu'il ne sait pas traiter. Chaque appel est transcrit et résumé.
