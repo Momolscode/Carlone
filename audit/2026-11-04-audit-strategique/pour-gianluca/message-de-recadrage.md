@@ -1,6 +1,6 @@
 # Message de recadrage à GianLuca Carlone
 
-Audit Marwin Tech × GianLuca Carlone · livrable 13 sur 15 · 4 novembre 2026
+Audit Marwin Tech × GianLuca Carlone · projet destiné au client, rattaché au livrable 13 sur 15 (13-preparation-rendez-vous.md) · 4 novembre 2026
 
 Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider et signer par Morgan Olsen et Mathys Couet. Avant tout envoi, retirer les lignes « Audit… », « Statut… » et « Sources principales… », ainsi que tout ce qui suit la signature (note interne et encadré).
 

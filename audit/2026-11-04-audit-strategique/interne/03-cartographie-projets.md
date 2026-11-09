@@ -54,7 +54,7 @@ Codes : [FV] fait vérifié ; [DR] déclaration rapportée ; [PR] proposition ; 
 
 ### 1.3 Verdict et test
 
-**Verdict [HY].** Un besoin de coordination est plausible. Un pilotage global n'est pas démontré. La solvabilité est inconnue. Un patrimoine déclaré n'est pas une trésorerie : l'audit du laboratoire le notait déjà, « L'investissement immobilier rapporté de John-Lucas [sic, lire GianLuca] ne prouve ni son budget d'innovation, ni le rendement de nos services » (`interne/laboratoire/audit-ia-robotique-2026-10-31.pdf` p. 2).
+**Verdict [HY].** Un besoin de coordination est plausible. Un pilotage global n'est pas démontré. La solvabilité est inconnue. Un patrimoine déclaré n'est pas une trésorerie : l'audit du laboratoire le notait déjà, « L'investissement immobilier rapporté de John-Lucas ne prouve ni son budget d'innovation, ni le rendement de nos services » [sic, lire GianLuca] (`interne/laboratoire/audit-ia-robotique-2026-10-31.pdf` p. 2).
 
 **Test [PR].** Le cadrage au forfait de 6 500 € HT, vendu à une entité identifiée (`travaux/strategie-retenue.md:42`). Son contenu est dans 04-catalogue-offres.md ; le déroulé du rendez-vous dans 13-preparation-rendez-vous.md.
 

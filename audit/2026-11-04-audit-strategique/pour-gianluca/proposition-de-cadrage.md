@@ -1,6 +1,6 @@
 # Proposition de cadrage
 
-Audit Marwin Tech × GianLuca Carlone · livrable 11 sur 15 · 4 novembre 2026
+Audit Marwin Tech × GianLuca Carlone · projet destiné au client, rattaché au livrable 11 sur 15 (11-proposition-commerciale-revisee.md) · 4 novembre 2026
 
 Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider par Morgan et Mathys. Avant tout envoi, retirer les lignes « Audit… », « Statut… » et « Sources principales… », ainsi que la note interne placée après la signature ; la phrase sur l'avis des professionnels peut rester.
 

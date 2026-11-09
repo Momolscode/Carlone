@@ -14,9 +14,9 @@ Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout
 
 - Le client s'appelle **GianLuca Carlone**. Morgan Olsen a demandé cette correction le 4 nov. 2026 [DR] (`travaux/DEMANDE.md:8` ; `travaux/note-point-4-novembre-et-activites.md:26`).
 - Les archives du dépôt portent **433 fois** un ancien prénom erroné, dans **28 fichiers** [FV] (recomptage de cette annexe, section 2 ; même total que `travaux/syn-sources.md:437`). Aucune archive n'emploie « GianLuca » [FV].
-- Ces 28 pièces restent **intactes**. Personne ne les réécrit (section 3).
+- Ces 28 pièces restent **intactes**. Personne ne les réécrit [PR] (section 3).
 - **Deux documents rédigés pour le client** portent l'erreur : le PDF des options du 30 oct. (p. 1 à 16) et la lettre de la page ChatGPT du 29 oct. On ne les corrige pas et on ne les renvoie pas : leur contenu est retiré. Ils sont remplacés par les deux projets du dossier `pour-gianluca/` [PR] (`travaux/strategie-retenue.md:211, 798` ; section 4).
-- Dans les nouveaux livrables de l'audit, l'ancien prénom n'apparaît que dans **5 citations exactes**, toutes suivies de [sic, lire GianLuca]. Les deux documents destinés à GianLuca : **0 occurrence** [FV] (section 6).
+- Dans les nouveaux livrables de l'audit, l'ancien prénom n'apparaît que dans **6 citations exactes**, toutes suivies de [sic, lire GianLuca]. Les deux documents destinés à GianLuca : **0 occurrence** [FV] (section 6).
 - Le diaporama interne « Projet Carlone — tout le contexte » a été corrigé le 4 nov. [DR]. Sa version en ligne écrit bien « GianLuca Carlone » [FV] (section 7).
 
 **Écart avec la stratégie retenue : aucun.** Cette annexe applique `travaux/strategie-retenue.md:21, 798, 802, 812`.
@@ -156,7 +156,7 @@ L'index et la note de collecte du 4 nov. ont été écrits par des assistants le
 
 | Document | Où est l'erreur [FV] | Remis au client ? | Sort retenu | Nouvelle version |
 | --- | --- | --- | --- | --- |
-| **PDF des options du 30 oct.**, p. 1 à 16 (`interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf`). En-tête « PROPOSITION CARLONE \| À FINALISER », « Version de travail du 30 octobre 2026 » (p. 1) | p. 1 : « Proposition d’accompagnement pour John-Lucas Carlone » [sic, lire GianLuca] ; p. 5 : « John-Lucas, nous vous proposons… » [sic, lire GianLuca] ; p. 12 : « John-Lucas / entité cliente » [sic, lire GianLuca] | Inconnu [IN] (`travaux/syn-sources.md:352` ; `travaux/ver-C2-offre.md:114`) | **Jamais transmis**, même corrigé : la formule de six mois et l'option laboratoire sont retirées [PR] (`travaux/strategie-retenue.md:211, 661`) | Pas de version corrigée de ce PDF. Il est remplacé par `pour-gianluca/proposition-de-cadrage.md` et `pour-gianluca/message-de-recadrage.md` (projets non envoyés) |
+| **PDF des options du 30 oct.**, p. 1 à 16 (`interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf`). En-tête « PROPOSITION CARLONE \| À FINALISER », « Version de travail du 30 octobre 2026 » (p. 1) | p. 1 : « Proposition d’accompagnement pour John-Lucas Carlone » [sic, lire GianLuca] ; p. 5 : « John-Lucas, nous vous proposons… » [sic, lire GianLuca] ; p. 12 : « John-Lucas / entité cliente » [sic, lire GianLuca] | Inconnu [IN] (`travaux/syn-sources.md:352` ; `travaux/ver-C2-offre.md:114`) | **Jamais transmis**, même corrigé : la formule de six mois et l'option laboratoire sont retirées [PR] (`travaux/strategie-retenue.md:211, 661, 808`) | Pas de version corrigée de ce PDF. Il est remplacé par `pour-gianluca/proposition-de-cadrage.md` et `pour-gianluca/message-de-recadrage.md` (projets non envoyés) |
 | **Lettre de la page ChatGPT du 29 oct.** (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:9-30`), signée « Morgan Olsen / Marwin Tech » (l. 29-30) | l. 9, titre : « Proposition à adresser à John Lucas » [sic, lire GianLuca] ; l. 11 : « Bonjour John-Lucas, » [sic, lire GianLuca] | Inconnu [IN] (`travaux/strategie-retenue.md:736`, question 9) | **Pas renvoyée** : son offre (six mois à 15 000 € HT par mois, l. 23) est retirée [PR] (`travaux/strategie-retenue.md:41, 798`) | Même remplacement |
 
 Les deux projets de remplacement écrivent « GianLuca » et ne contiennent **aucune** occurrence de l'ancien prénom [FV] (section 6).
@@ -167,7 +167,7 @@ La synthèse des sources proposait d'en faire des versions corrigées et datées
 
 ### 4.3 Si l'un des deux a déjà été remis
 
-Le message de recadrage prévoit une phrase facultative : « Une de nos lettres comportait une erreur sur votre prénom ; nous vous prions de nous en excuser. » (`pour-gianluca/message-de-recadrage.md:46` ; 13-preparation-rendez-vous.md, ligne 480). On la garde seulement si Morgan confirme qu'une pièce au prénom erroné a été remise ; sinon on la supprime [PR] (`travaux/strategie-retenue.md:812`). La phrase ne répète pas le prénom erroné.
+Le message de recadrage prévoit une phrase facultative : « Une de nos lettres comportait une erreur sur votre prénom ; nous vous prions de nous en excuser. » (`pour-gianluca/message-de-recadrage.md:44` ; 13-preparation-rendez-vous.md, ligne 480). On la garde seulement si Morgan confirme qu'une pièce au prénom erroné a été remise ; sinon on la supprime [PR] (`travaux/strategie-retenue.md:812`). La phrase ne répète pas le prénom erroné.
 
 ### 4.4 Autres documents pour le client : pas d'erreur de prénom
 
@@ -195,16 +195,16 @@ Le message de recadrage prévoit une phrase facultative : « Une de nos lettres 
 
 ## 6. État dans les nouveaux documents de l'audit
 
-Contrôle fait dans la nuit du 4 au 5 nov. 2026 sur le dossier `audit/2026-11-04-audit-strategique/` [FV].
+Contrôle fait dans la nuit du 4 au 5 nov. 2026 sur le dossier `audit/2026-11-04-audit-strategique/`, refait à la relecture de cette annexe (`grep -o`, occurrences et non lignes) [MM].
 
 | Ensemble | Occurrences de l'ancien prénom | Statut |
 | --- | ---: | --- |
-| Livrables internes 01-synthese-direction.md à 14-registre-risques-inconnues-decisions.md (14 fichiers) | 5 | Toutes sont des citations exactes suivies de [sic, lire GianLuca] : 4 dans 02-etat-des-sources.md (lignes 311 et 490), 1 dans 03-cartographie-projets.md (ligne 57). **0 hors citation** |
+| Livrables internes 01-synthese-direction.md à 15-contre-analyse.md (15 fichiers) | 6 | Toutes sont des citations exactes suivies de [sic, lire GianLuca] : 5 dans 02-etat-des-sources.md (1 à la ligne 311, 4 à la ligne 490), 1 dans 03-cartographie-projets.md (ligne 57). Dans 03, le marqueur a été replacé après le guillemet fermant (règle 2 de la section 5) lors de la mise en cohérence finale du dossier. **0 hors citation** |
 | `pour-gianluca/proposition-de-cadrage.md` et `pour-gianluca/message-de-recadrage.md` | **0** | Conforme à `travaux/strategie-retenue.md:798` |
 | `modele-financier/` (6 fichiers) | 0 | — |
-| 15-contre-analyse.md | — | Pas encore écrit au moment du contrôle : à contrôler avant diffusion [IN] |
+| 15-contre-analyse.md | 0 | Compris dans la première ligne. Fichier encore en relecture : à recontrôler avant diffusion |
 | Cette annexe | — | Les formes erronées n'y figurent que dans des citations exactes ou comme alias de recherche, chaque fois suivies du marqueur |
-| Travaux préparatoires (`travaux/`, 32 fichiers concernés) | 148 | 85 suivies du marqueur. Les 63 autres sont des alias de recherche, des tableaux de décompte ou l'énoncé de la règle (`travaux/DEMANDE.md:8` ; `travaux/BRIEF-AGENTS.md:14`), et quelques citations sans marqueur déjà signalées (`travaux/ver-C2-offre.md:76`, à propos de `travaux/ex-C2-offre.md:269-270`). Aucune ne désigne le client dans la rédaction propre d'un agent |
+| Travaux préparatoires (`travaux/`, 32 fichiers concernés) | 148 | 72 à 81 sont suivies du marqueur sur la même ligne, selon la façon de compter [MM]. Les autres sont des alias de recherche, des tableaux de décompte ou l'énoncé de la règle (`travaux/DEMANDE.md:8` ; `travaux/BRIEF-AGENTS.md:14`), et quelques citations sans marqueur déjà signalées (`travaux/ver-C2-offre.md:76`, à propos de `travaux/ex-C2-offre.md:269-270`). Aucune ne désigne le client dans la rédaction propre d'un agent |
 
 Autres constats [FV] :
 
@@ -217,14 +217,14 @@ Autres constats [FV] :
 
 ## 7. Diaporama interne « Projet Carlone — tout le contexte »
 
-- **Nature** : page claude.ai privée de Morgan, diaporama de 22 vues, interne. Sa couverture porte « À ne pas montrer à Carlone » [FV] (`travaux/note-point-4-novembre-et-activites.md:13`).
+- **Nature** : page claude.ai privée de Morgan, diaporama de 22 vues, interne. Sa couverture porte « Rien n’est signé. À ne pas montrer à Carlone. » [FV] (vue `cover` de la page citée plus bas). Le relevé des pages de Morgan du 4 nov. la liste sous un titre voisin, « Projet Carlone — le contexte réuni (4 nov.) » (`travaux/note-point-4-novembre-et-activites.md:13`) ; il s'agit sans doute de la même page [HY].
 - **Correction** : le prénom a été corrigé le 4 nov. 2026 [DR].
-- **Version vérifiée** [FV] : https://claude.ai/artifact/BKT5BhNLbHuuiY6srrcFoq, version mise à jour le 4 nov. 2026, lue le 5 nov. 2026.
+- **Version vérifiée** [FV] : https://claude.ai/artifact/BKT5BhNLbHuuiY6srrcFoq, version mise à jour le 4 nov. 2026, lue le 5 nov. 2026, puis relue pour cette relecture : titre « Projet Carlone — tout le contexte », 22 vues, mêmes textes dans les vues `cover`, `personnes` et `audit`.
   - Vue `personnes` : « GianLuca Carlone, marchand d’art venu de l’avenue Montaigne. »
   - Notes de la même vue : « Le client s’appelle GianLuca Carlone (correction de Morgan du 4 novembre) ». La suite de la note mentionne l'erreur des archives ChatGPT entre guillemets, avec les mots « par erreur ».
   - Les 21 autres vues disent « Carlone » ou « M. Carlone ». Aucune ne désigne le client par l'ancien prénom.
 - **Ce qu'on ne sait pas** : le texte d'avant la correction [IN]. La seule copie antérieure disponible est un index de 23 vues, sans le texte des vues.
-- **Limite** : la correction porte sur le prénom. Le reste de ce diaporama date d'avant la stratégie retenue : il présente par exemple « 750 € HT la journée » comme « Solide » (vue `audit`), ce que la stratégie abandonne (`travaux/strategie-retenue.md:41`). Il reste interne et ne va jamais au client (11-proposition-commerciale-revisee.md, ligne 267 ; 13-preparation-rendez-vous.md, ligne 298).
+- **Limite** : la correction porte sur le prénom. Le reste de ce diaporama date d'avant la stratégie retenue : il présente par exemple « 750 € HT la journée » comme « Solide » (vue `audit`), ce que la stratégie abandonne : le client ne voit aucun taux journalier (`travaux/strategie-retenue.md:133, 798`). Il reste interne et ne va jamais au client (11-proposition-commerciale-revisee.md, ligne 267 ; 13-preparation-rendez-vous.md, ligne 298).
 
 ---
 
@@ -232,7 +232,7 @@ Autres constats [FV] :
 
 | Recommandation [PR] | Preuve | Hypothèse | Limite | Décision correspondante |
 | --- | --- | --- | --- | --- |
-| 1. Ne renvoyer ni le PDF des options ni la lettre du 29 oct., même corrigés ; les remplacer par la proposition de cadrage et le message de recadrage | Erreur aux p. 1, 5 et 12 du PDF et aux l. 9 et 11 de la lettre [FV] ; contenu retiré (`travaux/strategie-retenue.md:211, 798`) | GianLuca a pu recevoir l'un des deux [HY] | Une copie déjà remise échappe à tout contrôle | Morgan dit ce que GianLuca a vu ou reçu (`travaux/strategie-retenue.md:736`, question 9) ; on garde ou on supprime la phrase de `pour-gianluca/message-de-recadrage.md:46` |
+| 1. Ne renvoyer ni le PDF des options ni la lettre du 29 oct., même corrigés ; les remplacer par la proposition de cadrage et le message de recadrage | Erreur aux p. 1, 5 et 12 du PDF et aux l. 9 et 11 de la lettre [FV] ; contenu retiré (`travaux/strategie-retenue.md:211, 798`) | GianLuca a pu recevoir l'un des deux [HY] | Une copie déjà remise échappe à tout contrôle | Morgan dit ce que GianLuca a vu ou reçu (`travaux/strategie-retenue.md:736`, question 9) ; on garde ou on supprime la phrase de `pour-gianluca/message-de-recadrage.md:44` |
 | 2. Contrôle « 0 occurrence » avant tout envoi au client (section 5, règle 7) | 433 occurrences dans les archives, surtout dans les pages ChatGPT dont les nouveaux textes s'inspirent [FV] | Des passages seront encore repris des archives [HY] | Le contrôle ne lit ni les images ni le texte inclus dans une image | Morgan, avant chaque envoi (`14-registre-risques-inconnues-decisions.md:148`) |
 | 3. Laisser les 28 pièces intactes ; cette annexe sert de registre de l'erreur | Règle de `travaux/DEMANDE.md:8` ; `travaux/strategie-retenue.md:802` | — | Qui ouvre une pièce sans lire cette annexe ne voit pas l'erreur signalée | Aucune décision nouvelle : application de la décision D01 (`14-registre-risques-inconnues-decisions.md:251`) |
 | 4. Obtenir le nom complet et l'état civil avant le bon de commande | Aucune pièce ne les donne [FV] | — | Sans eux, ni bon de commande ni contrat fiable | GianLuca, au bon de commande (`14-registre-risques-inconnues-decisions.md:220`) |
@@ -246,3 +246,5 @@ Autres constats [FV] :
 - Il ne couvre pas les e-mails, messages ou documents envoyés à GianLuca hors du dépôt : Gmail et Drive n'ont pas été consultés [IN] (`travaux/note-point-4-novembre-et-activites.md`, § C).
 - La collecte ChatGPT est incomplète : 169 conversations lues sur 219 (`travaux/DEMANDE.md`, § 1). D'autres occurrences peuvent exister hors du dépôt [IN].
 - Le dépôt public BOJART n'a pas été relu pour cette annexe. Le dernier état documenté donne 0 occurrence (`travaux/syn-sources.md:442`).
+
+Relu et contrôlé le 4 novembre 2026 : 17 vérifications, 9 corrections.

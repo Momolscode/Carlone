@@ -268,7 +268,7 @@ Toutes ces résistances sont des hypothèses [HY] : aucune pièce ne décrit les
 | Le prestataire garde ses outils | Quali Contact ne veut pas changer | Format d'échange écrit et validé par lui avant tout développement | `travaux/strategie-retenue.md:295` |
 | Trop de documents | Procédures non lues | 5 à 8 procédures au plus ; écrites pour des personnes, pas pour des agents | `travaux/strategie-retenue.md:327` ; `travaux/syn-capacite-ia.md:648` |
 | Glissement vers l'exécution par Marwin | « Faites-le, ce sera plus vite » | Marwin ne reprend pas l'exécution ; socle limité au pilotage | `travaux/strategie-retenue.md:337` |
-| Crainte de dépendre de Marwin | Hésitation à confier les outils | Comptes au nom de l'entité ; exercice de sortie à blanc au mois 6 | `travaux/strategie-retenue.md:189, 281` |
+| Crainte de dépendre de Marwin | Hésitation à confier les outils | Comptes au nom de l'entité ; exercice de sortie à blanc, d'abord sur les outils du pilote, puis complet au 6e mois du socle | `travaux/strategie-retenue.md:189, 281` |
 
 ### 10.3 Formation et procédures
 
@@ -287,7 +287,7 @@ Toutes ces résistances sont des hypothèses [HY] : aucune pièce ne décrit les
 
 ### 10.5 Accompagnement
 
-Point hebdomadaire et comité mensuel du socle ; 30 jours d'accompagnement de C6 ; bilan au troisième mois ; sortie à blanc au sixième mois [PR] (`travaux/strategie-retenue.md:256-259, 281, 332`). L'accompagnement au-delà, par exemple la formation d'un nouveau prestataire du client, est chiffré en avenant [PR, ce livrable].
+Point hebdomadaire et comité mensuel du socle ; 30 jours d'accompagnement de C6 ; bilan au troisième mois du socle ; sortie à blanc complète au sixième mois du socle, après une première sur les outils du pilote [PR] (`travaux/strategie-retenue.md:256-259, 281, 332`). L'accompagnement au-delà, par exemple la formation d'un nouveau prestataire du client, est chiffré en avenant [PR, ce livrable].
 
 ### 10.6 Livraison réussie
 
@@ -474,7 +474,7 @@ Pour chacun des seize points : le **principe** [PR] ; le **pourquoi** ; ce que l
 
 ### 11.16 Réversibilité et transmission
 
-- **Principe** (`travaux/strategie-retenue.md:560` ; `travaux/rj-R3-travail-contrats.md:443-449`) : comptes au nom du client dès le premier jour ; inventaire tenu à jour (données, documents, code, configurations, automatisations, comptes, clés, sauvegardes, procédures) ; formats ouverts et documentés ; restitution complète en 15 jours ouvrés au plus ; exercice de sortie à blanc au mois 6, puis test de restitution au moins une fois par an ; données personnelles supprimées ou restituées au choix du responsable, avec attestation ; licence sur les composants génériques maintenue après la fin.
+- **Principe** (`travaux/strategie-retenue.md:560` ; `travaux/rj-R3-travail-contrats.md:443-449`) : comptes au nom du client dès le premier jour ; inventaire tenu à jour (données, documents, code, configurations, automatisations, comptes, clés, sauvegardes, procédures) ; formats ouverts et documentés ; restitution complète en 15 jours ouvrés au plus ; exercice de sortie à blanc au 6e mois du socle (une première, limitée aux outils du pilote, avant le bilan du mois 6), puis test de restitution au moins une fois par an ; données personnelles supprimées ou restituées au choix du responsable, avec attestation ; licence sur les composants génériques maintenue après la fin.
 - **Transmission** : assistance au successeur du client (autre prestataire ou salarié) chiffrée en avenant au-delà de la restitution [PR, ce livrable] ; à la sortie, accès de Marwin révoqués et clés d'API renouvelées par le client [PR, ce livrable].
 - **RGPD** : à la fin, le sous-traitant « supprime toutes les données à caractère personnel ou les renvoie » au choix du responsable [FV] (art. 28.3 g, https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679, consulté le 4 nov. 2026 ; `travaux/ver-R3-travail-contrats.md:43`).
 - **Data Act**, si Marwin hébergeait et exploitait elle-même un service de données pour le client : clauses de changement de fournisseur (préavis de 2 mois au plus, transition de 30 jours au plus, au moins 30 jours pour récupérer les données), y compris pour un service sur mesure ; aucuns frais de changement à partir du 12 janv. 2027, règle dont les services sur mesure sont exemptés [FV] (règlement (UE) 2023/2854, art. 25, 29 et 31, https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32023R2854, consulté le 4 nov. 2026 ; `travaux/ver-R3-travail-contrats.md:43`). La parade reste la règle G6 : ne pas héberger.

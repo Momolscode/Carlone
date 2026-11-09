@@ -77,7 +77,7 @@ Remise en ordre (0), puis cadrage (A). Après la restitution, GianLuca choisit *
 | Voie | Besoin rapporté [DR] | Offres | Prix total HT [PR] | Préalables |
 | --- | --- | --- | --- | --- |
 | (a) Ventes d'œuvres | Vendre aux entreprises de la Nièvre (`sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:13`) | C2 | 6 000 € | Ceux de la fiche C2 |
-| (b) Pilotage | Une équipe qui relie les sujets et prépare les décisions (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:13`) | B0 (deux mois) et un lot, C1 ou C4 d'abord | ≈ 7 000 € + 3 500 à 6 500 € | Délégué nommé ; décisions sous 5 jours ouvrés |
+| (b) Pilotage | Une équipe qui relie les sujets et prépare les décisions (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:13`) | B0 (deux mois) et un lot, C1 ou C4 d'abord | ≈ 7 000 € + 2 700 à 6 400 €, soit ≈ 9 700 à 13 400 € (la stratégie écrit « 3 500 à 6 500 € » pour le lot ; correction expliquée dans l'encadré de 03-cartographie-projets.md, section 5.2) | Délégué nommé ; décisions sous 5 jours ouvrés |
 | (c) Organisation interne | « Ne pas gérer chaque détail », sans payer l'exécution au prix du conseil | C6 | 7 500 € | Décision de désigner ou de recruter une personne |
 
 Le socle récurrent B1 vient au plus tôt au mois 4, sur décision écrite. L'exploitation D vient au plus tôt au mois 7. Le calendrier est dans 08-feuille-de-route.md.
@@ -172,7 +172,7 @@ Alerte de capacité : au-delà de 90 % des JP réservées avant le 20 du mois, a
 | **Marge** [ES] | 16 à 49 % (12 JP) ; −1 à +39 % (10 JP) | 10 à 41 % (12 JP) ; −8 à +29 % (10 JP) à 5,5 JP ; à 6 JP : 2 à 41 % ; −18 à +29 % [ES, calculé ici] | 4 à 44 % (12 JP) ; −15 à +33 % (10 JP) |
 | **Réception** | Critères du pilote P1 : 100 % des décisions avec responsable, date et source ; compte rendu sous 24 h ouvrées dans ≥ 90 % des cas ; ≥ 80 % des comptes rendus commentés sous 3 jours ouvrés ; registre consulté chaque semaine | Rapport mensuel au 5e jour ouvré ; engagements de service (comptes rendus, registre, tableau de bord) ; **malus de 5 %** en avoir sur la facture suivante si deux engagements sont manqués dans le mois | Idem ; décisions préparées à temps ≥ 85 % |
 | **Paiement** | D'avance ; premier mois à la signature ; travail démarré à l'encaissement | D'avance : facture le 25 du mois précédent, échéance le 1er. Exposition ≤ 15 jours de socle (≈ 2 250 € HT) | Idem |
-| **Conditions de poursuite** | Critères tenus 4 semaines de suite ; aucune erreur critique ; paiements à l'heure ; demande écrite de poursuivre. **Abandon** : relecture et corrections > 50 % du temps de référence pendant 4 semaines, ou registre non consulté après 4 semaines | Bilan au 3e mois (maintien, passage à B2, réduction) ; **sortie à blanc** au 6e mois ; changement de palier sans pénalité si un associé est indisponible plus de 10 jours ouvrés | Idem |
+| **Conditions de poursuite** | Critères tenus 4 semaines de suite ; aucune erreur critique ; paiements à l'heure ; demande écrite de poursuivre. **Abandon** : relecture et corrections > 50 % du temps de référence pendant 4 semaines, ou registre non consulté après 4 semaines | Bilan au 3e mois (maintien, passage à B2, réduction) ; **sortie à blanc** complète au 6e mois du socle ; changement de palier sans pénalité si un associé est indisponible plus de 10 jours ouvrés | Idem |
 
 Sources du tableau, sauf mention : `travaux/strategie-retenue.md:266-281` ; marges : `travaux/calculs/arbitre-calc/verif.py` § 8.
 
