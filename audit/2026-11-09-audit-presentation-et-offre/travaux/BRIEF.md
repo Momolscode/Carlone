@@ -75,3 +75,25 @@ Dossier de sortie de ce travail : `/home/user/Carlone/audit/2026-11-09-audit-pre
 - Préserver les pièces historiques. Les nouveaux fichiers portent la date du 9 novembre 2026.
 - Les chemins cités dans vos fichiers sont relatifs à la racine du dépôt (pas de chemin absolu), sauf pour la copie de travail de la présentation, que l'on nomme « présentation v11, diapositive `<id>` ».
 - Écrire en français. Style direct : dire d'abord la conclusion, puis la preuve.
+
+---
+
+## Additif du 9 novembre 2026, fin de journée — précision de Morgan Olsen sur l'autre prestataire
+
+Cet additif complète le brief. En cas de contradiction avec le § 2 ou le § 4, **c'est l'additif qui vaut**. Le texte d'origine est conservé tel quel au-dessus.
+
+**Ce que Morgan Olsen a précisé (déclaration rapportée, non vérifiée auprès de GianLuca Carlone, aucune pièce écrite vue) :**
+
+1. L'autre prestataire est **le groupe Accor** (le groupe hôtelier). Ce n'est ni une société appelée « Accord », ni « un accord ».
+2. Le prix est de **6 000 € tous les trois mois**, soit **24 000 € par an** et **72 000 € sur trois ans**. La lecture « 6 000 € par mois » (72 000 € par an) est abandonnée. On ne sait pas si le montant est hors taxes ou toutes taxes comprises.
+3. Le service est décrit comme un **« service de gestion de propriété »**. Son contenu exact est inconnu : logiciel hôtelier seul, enseigne et réservations apportées par une marque, ou service de gestion assuré par des personnes. Dans l'hôtellerie, « property management » désigne d'abord le logiciel de gestion d'un hôtel.
+4. **GianLuca Carlone a lui-même demandé à Marwin Tech si elle pouvait lui créer un tel outil.** Le logiciel n'est donc plus une idée de Marwin Tech : c'est une demande du client.
+
+**Ce que cela change pour tous les textes :**
+
+- **Règle 3 maintenue et précisée.** Dans un texte destiné au client (diapositive, note de l'orateur, document `pour-carlone/`), on n'écrit jamais « Accor », ni son prix (6 000 €, 24 000 €, 72 000 €), ni une critique de son offre. On dit « l'autre proposition que vous avez reçue ». La comparaison passe par une grille de questions neutres, valable pour tout prestataire, Marwin Tech comprise.
+- **Le logiciel se présente comme sa demande** : « Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Voici comment nous le ferions. » Il reste l'une des priorités que le cadrage prépare ; il se construit ensuite par étapes, chacune commandée à part.
+- **Aucune promesse « mieux et moins cher ».** À 24 000 € par an, l'écart de prix avec la proposition de Marwin Tech est faible ou nul à périmètre égal, et le périmètre de l'autre offre n'est pas connu. Un logiciel ne remplace pas une enseigne qui apporte des clients, ni un service de gestion assuré par des personnes. La présentation dit donc ce que Marwin Tech fait, à quel rythme, ce qui reste à lui, et lui donne les questions à poser aux deux.
+- **Ce qui n'est jamais fait sur mesure reste vrai** : caisse, billetterie, logiciel hôtelier, facturation électronique, comptabilité, paiement. Si un hébergement est exploité, le logiciel hôtelier est un logiciel du marché, au nom de sa société, relié à l'outil commun.
+- **Prix du logiciel à l'écran** : inchangé. Seul le cadrage (6 500 € HT, 7 800 € TTC) est affiché, sauf décision écrite de Morgan Olsen et Mathys Couet.
+- Dans les documents internes, on peut écrire « le groupe Accor » avec la mention « d'après Morgan Olsen, 9 novembre 2026 ». Les pièces internes antérieures qui écrivent « Accord » et gardent deux lectures du prix sont des pièces historiques : on ne les réécrit pas, on les complète par une note datée.

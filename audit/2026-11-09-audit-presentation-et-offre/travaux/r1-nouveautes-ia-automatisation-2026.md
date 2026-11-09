@@ -7,7 +7,7 @@
 1. **Ce qui a changé.** En un an, les assistants sont passés de « répondre » à « préparer un travail entier » : lire les mails et les dossiers, remplir un tableau, rédiger un brouillon, puis attendre l'accord d'une personne. Au 9 novembre 2026, trois grands éditeurs le vendent ; leurs annonces officielles lues sont datées du 16 juin, du 7 juillet et du 9 juillet 2026.
 2. **Ce qui est solide.** La lecture de documents vers un tableau avec un indice de confiance ; les connecteurs officiels vers la comptabilité et la banque (lire et préparer ; une demande de virements s'approuve dans l'application de la banque) ; les points réguliers programmés.
 3. **Ce qui reste fragile.** L'assistant qui pilote seul l'écran (encore en bêta chez un éditeur), les agents sans validation, l'écriture manuscrite, l'accueil téléphonique automatisé (en vente, mais prouvé par les seuls vendeurs), la promesse « tout reste en Europe ».
-4. **Deux règles de 2026 touchent GianLuca Carlone.** Recevoir des factures électroniques est obligatoire depuis le 1er septembre 2026 ; en émettre le sera le 1er septembre 2027 pour les PME et les micro-entreprises. Depuis le 2 août 2026, une personne doit savoir qu'elle parle à un système automatisé, et un trucage réaliste fait par IA (image, son ou vidéo qui peut passer pour vrai) doit être signalé.
+4. **Deux règles de 2026 touchent GianLuca Carlone.** Recevoir des factures électroniques est obligatoire depuis le 1er septembre 2026 ; en émettre le sera le 1er septembre 2027 pour les PME et les micro-entreprises. Depuis le 2 août 2026, une personne doit savoir qu'elle parle à une IA (assistant en ligne, agent vocal), et un trucage réaliste fait par IA (image, son ou vidéo qui peut passer pour vrai) doit être signalé.
 5. **Les prix.** À l'unité, chez un grand éditeur, la gamme haute coûte près de quatre fois moins que le modèle en vente début novembre 2025 ; mais l'essentiel de cette baisse date du 24 novembre 2025, et depuis elle n'est que de 20 %. Le petit modèle coûte dix fois moins jusqu'à 100 000 unités de texte par demande, deux fois moins au-delà. Chez d'autres, le prix affiché a peu bougé ou monté. Ce constat dépend trop du point de départ pour aller sur une diapositive. L'abonnement par poste reste du même ordre : environ 14 à 28 € HT par personne et par mois pour une suite bureautique avec assistant, 30 à 50 € pour un poste très équipé, plus les outils partagés.
 
 ## Comment lire cette note
@@ -471,7 +471,7 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 | Modèle | Automne 2025 | 9 novembre 2026 | Évolution à l'unité |
 | --- | --- | --- | --- |
 | Gamme Opus (Anthropic) | Opus 4.1 : 15 $ / 75 $ jusqu'au 24 novembre 2025, puis Opus 4.5 : 5 $ / 25 $ | Opus 5.5 : 4 $ / 20 $ | près de quatre fois moins par rapport à Opus 4.1 ; 20 % de moins par rapport à Opus 4.5 |
-| Modèle le plus puissant (Anthropic) | Opus 4.1 : 15 $ / 75 $ | Fable 5.2 : 8 $ / 40 $ | environ deux fois moins |
+| Modèle le plus puissant (Anthropic) | Opus 4.1 : 15 $ / 75 $ jusqu'au 24 novembre 2025, puis Opus 4.5 : 5 $ / 25 $ | Fable 5.2 : 8 $ / 40 $ | environ deux fois moins par rapport à Opus 4.1 ; plus cher qu'Opus 4.5 |
 | Petit modèle (Anthropic) | Haiku 4.5 : 1 $ / 5 $ | Haiku 5.5 : 0,10 $ / 0,50 $ jusqu'à 100 000 unités par demande ; 0,50 $ / 2,50 $ au-delà | dix fois moins jusqu'à ce seuil ; deux fois moins au-delà |
 | Modèle courant (OpenAI) | GPT-5 : 1,25 $ / 10 $ | GPT-6.1 Sol : 2 $ / 10 $ | lecture plus chère |
 | Petit modèle (OpenAI) | GPT-5 nano : 0,05 $ / 0,40 $ | GPT-6 Luna : 0,10 $ / 0,50 $ | plus cher |
@@ -480,10 +480,10 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 
 Prix en dollars hors taxes par million d'unités de texte (« tokens »), lecture / écriture.
 
-- **Source.** Officielles, consultées le 9 novembre 2026 : https://platform.claude.com/docs/en/about-claude/pricing ; https://developers.openai.com/api/docs/pricing ; https://mistral.ai/pricing. Secondaire pour GPT-5 nano, Gemini et l'analyse d'ensemble : https://synthorai.io/fr/blog/llm-api-price-changes-2026/ (23 octobre 2026).
+- **Source.** Officielles, consultées le 9 novembre 2026 : https://platform.claude.com/docs/en/about-claude/pricing ; https://developers.openai.com/api/docs/pricing ; https://mistral.ai/pricing. Date et prix d'Opus 4.5 : https://www.anthropic.com/news/claude-opus-4-5 (24 novembre 2025). Le prix de GPT-5 nano figure aussi sur la page officielle d'OpenAI. Secondaire pour Gemini et l'analyse d'ensemble : https://synthorai.io/fr/blog/llm-api-price-changes-2026/ (23 octobre 2026).
 - **Chez GianLuca.** Ce coût reste petit devant les abonnements. Lire mille pages coûte quelques dollars (voir 4.1). Le prix de la machine n'est donc pas le sujet ; le temps de mise en place et de contrôle l'est.
 - **Niveau d'aide.** Sans objet.
-- **Limite.** Deux réserves. Les modèles récents d'Anthropic comptent environ 30 % d'unités en plus pour un même texte (page officielle) : pour un même texte, la baisse de la gamme Opus est plutôt de trois fois. Et les prix affichés ne baissent pas partout : selon l'analyse secondaire citée, ils ont monté dans 10 gammes sur 14 entre octobre 2025 et octobre 2026, alors qu'à capacité égale le modèle le moins cher coûte beaucoup moins. Un suivi de prix tiers donne Mistral Large à 0,70 $ / 2,10 $ depuis le 4 novembre 2026 : contradiction avec la page officielle, non tranchée.
+- **Limite.** Trois réserves. La baisse de la gamme Opus dépend du point de départ : Opus 4.5 est sorti le 24 novembre 2025 à 5 $ / 25 $, donc l'essentiel de la baisse a presque un an et, depuis, elle n'est que de 20 %. Les modèles récents d'Anthropic comptent environ 30 % d'unités en plus pour un même texte (page officielle) : pour un même texte, la baisse depuis Opus 4.1 est plutôt de trois fois. Et les prix affichés ne baissent pas partout : selon l'analyse secondaire citée, ils ont monté dans 10 gammes sur 14 entre octobre 2025 et octobre 2026, alors qu'à capacité égale le modèle le moins cher coûte beaucoup moins. Un suivi de prix tiers donne Mistral Large à 0,70 $ / 2,10 $ depuis le 4 novembre 2026 : contradiction avec la page officielle, non tranchée.
 
 ### 9.2 Les abonnements par poste
 
@@ -493,15 +493,15 @@ Prix en dollars hors taxes par million d'unités de texte (« tokens »), lectur
 
 | Offre | Prix relevé par personne et par mois | Nature de la source |
 | --- | --- | --- |
-| Microsoft 365 Copilot Business (en plus d'une suite) | 18,20 € HT, paiement annuel ; promotion à 15,60 € HT | Officielle (page française) |
-| Microsoft 365 Business Standard + Copilot Business | 20,36 € HT | Officielle (page française) |
-| Microsoft 365 Business Premium + Copilot Business | 27,73 € HT | Officielle (page française) |
+| Microsoft 365 Copilot Business (en plus d'une suite) | 18,20 € HT avec engagement annuel (21,84 € HT en paiement mensuel) ; promotion à 15,60 € HT du 1er juillet au 31 décembre 2026, la première année seulement | Officielle (page française) |
+| Microsoft 365 Business Standard + Copilot Business | 20,36 € HT (engagement annuel) | Officielle (page française) |
+| Microsoft 365 Business Premium + Copilot Business | 27,73 € HT (engagement annuel) | Officielle (page française) |
 | Google Workspace Business Standard, assistant inclus | 13,60 € (annuel) ou 16,20 € (sans engagement) | Secondaire ; à revérifier, la page officielle lue affichait des dollars |
 | Claude Pro | 17 $ (annuel) ou 20 $ ; offres Max à 100 $ et Ultra à 200 $ | Officielle, dollars hors taxes |
-| ChatGPT Plus ; Business | 20 $ ; 20 à 25 $ | Secondaire, prix américains ; euros non vérifiés |
+| ChatGPT Plus ; Business | 20 $ ; 20 à 25 $ | Secondaire, prix américains ; non vérifié sur la page officielle, qui n'affichait pas de montant à la lecture du 9 novembre 2026 ; euros non vérifiés |
 | Mistral Pro ; Team | 14,99 $ ; 24,99 $ | Officielle, dollars hors taxes |
 
-- **Source.** https://www.microsoft.com/fr-fr/copilot/pricing/business ; https://www.microsoft.com/fr-fr/microsoft-365/business ; https://workspace.google.com/intl/fr/pricing ; https://claude.com/pricing ; https://chatgpt.com/pricing/ ; https://mistral.ai/pricing (consultées le 9 novembre 2026). Durée de la promotion Microsoft (1er juillet au 31 décembre 2026, première année) : sources secondaires, dont https://lecoledelia.com/ressources/copilot-prix-entreprise (30 octobre 2026).
+- **Source.** https://www.microsoft.com/fr-fr/copilot/pricing/business ; https://www.microsoft.com/fr-fr/microsoft-365/business ; https://workspace.google.com/intl/fr/pricing ; https://claude.com/pricing ; https://chatgpt.com/pricing/ ; https://mistral.ai/pricing (consultées le 9 novembre 2026). Durée de la promotion Microsoft (1er juillet au 31 décembre 2026, première année) : confirmée sur la page officielle https://www.microsoft.com/fr-fr/microsoft-365-copilot/pricing (consultée le 9 novembre 2026).
 - **Chez GianLuca.** Deux étages suffisent : la suite pour tous, le second assistant pour l'administratrice et pour lui.
 - **Niveau d'aide.** Sans objet.
 - **Limite.** Les prix d'il y a un an n'ont pas été relus sur des pages datées : l'évolution des abonnements sur un an est non vérifiée. Constat prudent : rien n'indique qu'ils aient suivi la baisse du prix des modèles, et les fonctions « qui agissent » de Microsoft sont facturées à l'usage, en plus.
@@ -512,7 +512,7 @@ Prix en dollars hors taxes par million d'unités de texte (« tokens »), lectur
 - **Depuis quand.** Calcul du 9 novembre 2026.
 - **Maturité.** Disponible.
 - **Source.** Les prix de 9.2 et de 9.4. Calcul : un dollar compté pour un euro, par simplification.
-- **Chez GianLuca.** Poste courant : environ 14 à 28 € HT par mois (suite bureautique avec assistant). Poste très équipé : environ 30 à 50 € par mois (suite, plus un second assistant à 15 à 25 $). Exemple pour cinq personnes dont deux très équipées, avec un outil d'enchaînements partagé : environ 120 à 240 € par mois. Avec un accueil téléphonique automatisé : environ 200 à 640 € par mois.
+- **Chez GianLuca.** Poste courant : environ 14 à 28 € HT par mois (suite bureautique avec assistant). Poste très équipé : environ 30 à 50 € par mois (suite, plus un second assistant à 15 à 25 $). Exemple pour cinq personnes dont deux très équipées, avec un outil d'enchaînements partagé : environ 120 à 240 € par mois. Avec un accueil téléphonique automatisé : environ 200 à 590 € par mois (plus haut abonnement lu : 349 € par mois pour 1 000 appels, HT ou TTC non précisé, hors frais d'installation).
 - **Niveau d'aide.** Sans objet.
 - **Limite.** L'effectif réel n'est pas connu : l'exemple à cinq personnes est une illustration. Le temps de mise en place, de formation et de suivi n'est pas compté. Ces montants ne vont sur aucune diapositive sans validation de Morgan et de Mathys (brief, § 5, règle 12).
 
@@ -521,7 +521,7 @@ Prix en dollars hors taxes par million d'unités de texte (« tokens »), lectur
 - **Ce que c'est.** Certains coûts ne dépendent pas du nombre de personnes : l'outil d'enchaînements, l'accueil téléphonique, la lecture de documents. D'autres se paient à l'usage et peuvent grimper.
 - **Depuis quand.** Prix relevés le 9 novembre 2026.
 - **Maturité.** Disponible.
-- **Source.** https://n8n.io/pricing/ (20 € et 50 € par mois) ; pages des vendeurs d'accueil téléphonique citées en 3.1 (79 à 399 € HT par mois, ou environ 0,29 € la minute) ; https://mistral.ai/news/ocr-4/ (4 $ les 1 000 pages) ; https://www.microsoft.com/en-us/copilot/blog/2026/06/16/copilot-cowork-is-now-generally-available/ (crédits à 0,01 $ l'unité).
+- **Source.** https://n8n.io/pricing/ (20 € et 50 € par mois, en paiement annuel) ; pages des vendeurs d'accueil téléphonique citées en 3.1 (de 79 € HT à 349 € par mois selon le vendeur et le volume, ou 0,29 € la minute) ; https://mistral.ai/news/ocr-4/ (4 $ les 1 000 pages) ; https://www.microsoft.com/en-us/copilot/blog/2026/06/16/copilot-cowork-is-now-generally-available/ (crédits à 0,01 $ l'unité).
 - **Chez GianLuca.** Un outil d'enchaînements pour toutes les activités. Une ligne d'accueil pour le cabaret, si l'essai le justifie. La lecture de documents payée au volume.
 - **Niveau d'aide.** Sans objet.
 - **Limite.** Tout ce qui se paie à l'usage reçoit un plafond de dépense et une alerte. Les agents consomment plus que prévu quand ils recommencent une tâche.
@@ -536,7 +536,7 @@ Classement : l'effet sur lui d'abord, la solidité de la preuve ensuite. Les phr
 
 - **Maturité et niveau.** Disponible · Assistée. Fiches 1.1 à 1.3.
 - **Effet sur lui.** Fort : c'est le travail quotidien de l'administratrice sur les bâtiments et les projets.
-- **Preuve.** Solide : trois éditeurs le vendent, pages officielles datées du 16 juin, du 7 juillet et du 9 juillet 2026.
+- **Preuve.** Solide : trois éditeurs le vendent, pages officielles datées du 16 juin, du 7 juillet (extension au web et au mobile, en bêta) et du 9 juillet 2026.
 - **Phrase de diapositive (23 mots).** « Un assistant peut préparer le dossier d'un bâtiment à partir de vos messages et de vos fichiers. Rien ne part sans votre accord. »
 - **Démonstration.** Un dossier fictif de dix pièces pour un bâtiment. On demande le tableau des échéances et un courrier au locataire. On montre le tableau, le brouillon, puis l'écran d'accord : rien n'est parti.
 
@@ -551,7 +551,7 @@ Classement : l'effet sur lui d'abord, la solidité de la preuve ensuite. Les phr
 ### 3. La facture électronique
 
 - **Maturité et niveau.** En vigueur pour la réception ; à venir pour l'émission · Préparée. Fiche 8.1.
-- **Effet sur lui.** Fort et daté : chaque structure est concernée, chaque nouvelle société aussi.
+- **Effet sur lui.** Fort et daté : chaque structure assujettie à la TVA est concernée, chaque nouvelle société aussi. Le cas d'une société dont les loyers sont exonérés de TVA est à faire trancher par l'expert-comptable (fiche 8.1).
 - **Preuve.** Très solide : pages officielles du ministère de l'Économie et de l'administration fiscale, consultées le 9 novembre 2026.
 - **Phrase de diapositive (25 mots).** « Recevoir des factures électroniques est obligatoire depuis le 1er septembre 2026. En émettre le sera le 1er septembre 2027 pour les PME et les micro-entreprises. »
 - **Démonstration.** La page officielle à l'écran. Puis une liste de contrôle par structure : plateforme de réception choisie ? logiciel de facturation prêt pour 2027 ? qui s'en occupe ?
@@ -569,7 +569,7 @@ Classement : l'effet sur lui d'abord, la solidité de la preuve ensuite. Les phr
 - **Maturité et niveau.** Disponible, si ses logiciels sont compatibles · Assistée, puis Préparée pour l'expert-comptable. Fiches 2.3 et 2.4.
 - **Effet sur lui.** Fort si sa comptabilité et sa banque sont chez des éditeurs qui ont ouvert cet accès. Inconnu à ce jour.
 - **Preuve.** Solide sur le principe : pages officielles des deux éditeurs. À ne montrer qu'après avoir confirmé ses logiciels.
-- **Phrase de diapositive (22 mots).** « Selon vos logiciels, vous interrogez vos comptes en français. Les virements sont préparés, jamais signés : une personne habilitée valide dans la banque. »
+- **Phrase de diapositive (24 mots).** « Selon vos logiciels, vous interrogez vos comptes en français. Un lot de virements peut être préparé ; une personne habilitée le valide dans la banque. »
 - **Démonstration.** Sur un jeu de données fictif : « quelles factures de fournisseurs restent à payer ce mois-ci ? ». Puis le lot de virements préparé, et l'écran de la banque où une personne signe.
 
 ### 6. L'accueil téléphonique du cabaret
@@ -585,7 +585,7 @@ Classement : l'effet sur lui d'abord, la solidité de la preuve ensuite. Les phr
 - **Maturité et niveau.** Disponible pour les outils (sources secondaires) ; en vigueur pour la règle (sources officielles) · Assistée. Fiches 5.1, 5.2, 5.5 et 8.3.
 - **Effet sur lui.** Moyen à fort : communication de la galerie, du cabaret et des commerces.
 - **Preuve.** Solide pour la règle ; à consolider pour les outils, à lire sur les pages des éditeurs avant le rendez-vous.
-- **Phrase de diapositive (25 mots).** « Affiches et courtes vidéos peuvent être préparées par IA ; vous choisissez. Depuis le 2 août 2026, une image qui imite le réel doit être signalée. »
+- **Phrase de diapositive (25 mots).** « Affiches et courtes vidéos peuvent être préparées par IA ; vous choisissez. Depuis le 2 août 2026, un trucage réaliste fait par IA doit être signalé. »
 - **Démonstration.** Trois pistes d'affiche pour une soirée fictive, avec la mention prévue. Jamais d'œuvre ni d'artiste réels dans la démonstration.
 
 ### 8. L'option européenne
@@ -602,26 +602,26 @@ En réserve, si une place se libère : le compte rendu de réunion (fiche 3.4), 
 
 ## Ce qui a changé en un an
 
-Cinq phrases simples pour dire « c'est possible aujourd'hui, ça ne l'était pas il y a un an ».
+Quatre phrases simples (la quatrième des cinq d'origine a été retirée à la vérification du 9 novembre 2026) pour dire « c'est possible aujourd'hui, ça ne l'était pas il y a un an ».
 
-1. **Un assistant peut maintenant préparer un travail entier dans vos messages et vos dossiers, puis attendre votre accord.** Il y a un an, ces produits n'étaient pas en vente. Sources : Microsoft, 16 juin 2026 (https://www.microsoft.com/en-us/copilot/blog/2026/06/16/copilot-cowork-is-now-generally-available/) ; Anthropic, 7 juillet 2026 (https://claude.com/fr/resources/articles/cowork-web-mobile) ; OpenAI, 9 juillet 2026 (https://openai.com/index/chatgpt-for-your-most-ambitious-work).
-2. **Des logiciels français de comptabilité et de banque ont ouvert un accès officiel aux assistants : lire et préparer, jamais payer.** Sources : Pennylane, article mis à jour le 13 octobre 2026 (https://www.pennylane.com/fr/blog/produit/mcp-pennylane) ; Qonto, pages consultées le 9 novembre 2026 (https://qonto.com/fr/ai/mcp). Les dates exactes de lancement sont non vérifiées.
+1. **Un assistant peut maintenant préparer un travail entier dans vos messages et vos dossiers, puis attendre votre accord.** Il y a un an, ces produits n'étaient pas en vente (annonces officielles de juin et de juillet 2026 ; pour l'un d'eux, la date de première mise en vente, avril 2026, vient d'une source secondaire). Sources : Microsoft, 16 juin 2026 (https://www.microsoft.com/en-us/copilot/blog/2026/06/16/copilot-cowork-is-now-generally-available/) ; Anthropic, 7 juillet 2026, extension au web et au mobile (https://claude.com/fr/resources/articles/cowork-web-mobile) ; OpenAI, 9 juillet 2026 (https://openai.com/index/chatgpt-for-your-most-ambitious-work).
+2. **Des logiciels français de comptabilité et de banque ont ouvert un accès officiel aux assistants : lire et préparer ; une demande de virements s'approuve dans la banque.** Sources : Pennylane, article mis à jour le 13 octobre 2026 (https://www.pennylane.com/fr/blog/produit/mcp-pennylane) ; Qonto, pages consultées le 9 novembre 2026 (https://qonto.com/fr/ai/mcp). Les dates exactes de lancement sont non vérifiées. Réserve : le connecteur bancaire sait aussi créer des cartes et envoyer des factures ; « jamais payer » est un réglage à imposer, pas une propriété de l'outil (fiche 2.4).
 3. **La lecture d'un document rend un indice de confiance pour chaque mot : on sait quelles lignes relire.** Source : Mistral, 23 juin 2026 (https://mistral.ai/news/ocr-4/).
-4. **Le travail de la machine coûte moins cher : chez un grand éditeur, la gamme haute coûte près de quatre fois moins à l'unité, et le petit modèle dix fois moins.** Source : tableau officiel des prix d'Anthropic, consulté le 9 novembre 2026 (https://platform.claude.com/docs/en/about-claude/pricing). Réserve : cela ne vaut pas pour tous les éditeurs ni pour les abonnements (fiches 9.1 et 9.2).
-5. **Deux règles sont entrées en vigueur : recevoir des factures électroniques (1er septembre 2026) et dire qu'un accueil ou un contenu vient d'une IA (2 août 2026).** Sources : https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises (consultée le 9 novembre 2026) ; https://digital-strategy.ec.europa.eu/fr/policies/code-practice-ai-generated-content (consultée le 9 novembre 2026).
+4. **Retiré le 9 novembre 2026 (vérification) : la phrase sur la baisse des prix ne va pas sur une diapositive.** Fait vérifié : chez Anthropic, la gamme Opus est passée de 15 $ / 75 $ (Opus 4.1) à 5 $ / 25 $ le 24 novembre 2025 (Opus 4.5), puis à 4 $ / 20 $ (Opus 5.5) ; le petit modèle coûte dix fois moins jusqu'à 100 000 unités par demande seulement. « Près de quatre fois moins en un an » dépend donc du jour de départ, et d'autres éditeurs ont monté leurs prix (fiches 9.1 et 9.2). Sources : https://platform.claude.com/docs/en/about-claude/pricing (consultée le 9 novembre 2026) ; https://www.anthropic.com/news/claude-opus-4-5 (24 novembre 2025).
+5. **Deux règles sont entrées en vigueur : recevoir des factures électroniques (1er septembre 2026) ; faire savoir qu'un accueil est tenu par une IA et signaler un trucage réaliste fait par IA (2 août 2026).** Sources : https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises (consultée le 9 novembre 2026) ; https://digital-strategy.ec.europa.eu/fr/policies/code-practice-ai-generated-content (consultée le 9 novembre 2026) ; https://digital-strategy.ec.europa.eu/fr/factpages/quick-facts-transparency-rules-ai-systems (consultée le 9 novembre 2026). Précision : la première règle vise les entreprises assujetties à la TVA (fiche 8.1).
 
 ---
 
 ## Ce qu'il ne faut pas promettre
 
-1. **L'assistant qui pilote seul l'ordinateur.** Encore en bêta chez un éditeur, qui écrit lui-même que les tâches complexes demandent parfois un second essai. Près d'une tâche sur cinq échoue sur le meilleur banc d'essai publié (fiche 1.4).
+1. **L'assistant qui pilote seul l'ordinateur.** Encore en bêta chez un éditeur, qui écrit lui-même que les tâches complexes demandent parfois un second essai et qui déconseille de lui ouvrir les applications de banque, de santé et d'administration. Près d'une tâche sur cinq échoue sur le meilleur banc d'essai publié (fiche 1.4).
 2. **L'agent personnel de Google.** Il n'est pas ouvert en France (fiche 1.6).
 3. **La vidéo spectaculaire « comme au cinéma ».** L'outil le plus commenté de 2025 a fermé ; les autres font des plans de quelques secondes (fiches 5.2 et 5.4).
 4. **L'accueil téléphonique qui traite tout.** Les vendeurs eux-mêmes renvoient à un humain les réclamations, les groupes et les privatisations. Aucun essai indépendant lu (fiche 3.1).
 5. **La lecture parfaite du manuscrit et des plans.** Aucune mesure indépendante ; à essayer sur ses propres pièces (fiche 4.3).
 6. **« Tout reste en Europe. »** Sous-traitants, appels d'outils et pointes de charge font exception, y compris chez l'éditeur français (fiches 7.1 à 7.4).
-7. **L'IA qui paie, envoie ou signe.** Le connecteur bancaire prépare ; une personne habilitée approuve dans la banque (fiche 2.4).
-8. **Des agents sans validation humaine.** La fonction est encore en aperçu dans un outil clé, et la CNIL met en avant la validation humaine pour les décisions critiques (fiches 6.1 et 8.4).
+7. **L'IA qui paie, envoie ou signe.** Le connecteur bancaire prépare une demande de virements ; une personne habilitée approuve dans la banque. Il sait aussi créer des cartes et envoyer des factures : ces fonctions sont à bloquer ou à soumettre à validation (fiche 2.4).
+8. **Des agents sans validation humaine.** La fonction est encore en aperçu dans un outil clé, et une note publiée sur le site de la CNIL met en avant la validation humaine pour les décisions critiques (fiches 6.1 et 8.4).
 9. **Des prix qui baissent toujours.** Les prix affichés ont monté dans plusieurs gammes, rien n'indique que les abonnements par poste aient baissé, et certaines fonctions se paient à l'usage (fiches 9.1, 9.2 et 9.4).
 10. **Un pourcentage de temps gagné.** Aucune étude nommée, datée et lue ne permet d'en donner un. Le gain se mesure pendant l'essai, à partir de la mesure de départ.
 11. **Les grands projets d'infrastructure annoncés** (par exemple un gigawatt de calcul européen d'ici 2030) : ce sont des objectifs d'éditeur, pas des faits.
@@ -633,7 +633,7 @@ Cinq phrases simples pour dire « c'est possible aujourd'hui, ça ne l'était pa
 
 Aucun de ces points ne sert de preuve dans les trois listes ci-dessus. Là où une nouveauté recommandée garde une part non vérifiée (fiabilité de l'accueil téléphonique, outils d'image lus dans des sources secondaires, logiciels de GianLuca), c'est dit dans sa fiche.
 
-- Publication au Journal officiel de l'Union et date d'entrée en vigueur du texte de simplification du règlement sur l'IA ; sort de l'obligation de formation des équipes.
+- Publication au Journal officiel de l'Union (24 juillet 2026) et date d'entrée en vigueur (27 juillet 2026) du texte de simplification du règlement sur l'IA : sources secondaires seulement ; sort de l'obligation de formation des équipes.
 - Mention explicite de la France pour Claude Cowork et ChatGPT Work ; prix en euros de Claude et de ChatGPT.
 - Fonctions précises du mode Work de Mistral ; statut exact des « Regional Endpoints » (disponible ou aperçu).
 - Dates de lancement des connecteurs de Pennylane et de Qonto ; connecteur Agicap ; transfert du protocole MCP à une fondation.
@@ -643,14 +643,137 @@ Aucun de ces points ne sert de preuve dans les trois listes ci-dessus. Là où u
 - Durées de conservation des appels enregistrés attribuées à la CNIL ; objet des lignes directrices européennes du 9 juillet 2026.
 - Prix officiels de Power Automate ; prix en euros de Google Workspace ; prix des abonnements il y a un an.
 - Qualification SecNumCloud des hébergeurs.
+- Ajouts de la vérification du 9 novembre 2026 :
+  - date de première mise en vente de Claude Cowork (9 avril 2026), premier aperçu (janvier 2026) et arrivée du pilotage de l'écran (23 mars 2026) : sources secondaires seulement ;
+  - prix de ChatGPT Plus et Business : aucun montant sur la page officielle lue ;
+  - montants des sanctions de la facture électronique : absents des deux pages officielles relues ;
+  - régime adapté de l'article 50 pour les œuvres artistiques ou de fiction : contours non vérifiés ;
+  - 399 € par mois pour un accueil téléphonique : retrouvé sur aucune page, retiré.
 - Chez GianLuca : suite bureautique, logiciel de comptabilité, banque, expert-comptable, effectif. Tout usage proposé ici est une hypothèse à valider au cadrage.
 
 ## Écarts relevés entre sources
 
 - Règlement sur l'IA, bacs à sable réglementaires : 2 août 2027 dans le communiqué du Conseil, 2 décembre 2027 sur une autre page du Conseil.
 - Claude Cowork, premier aperçu : 13 ou 30 janvier 2026 selon les sources secondaires.
-- Voxtral 3 : 20 ou 22 octobre 2026 selon la page de l'éditeur.
+- Voxtral 3 : écart levé à la vérification du 9 novembre 2026 ; la page de l'éditeur est datée du 22 octobre 2026.
 - Make, agents sur le plan de travail : 2 ou 11 février 2026.
 - Mistral, « Regional Endpoints » : « disponible » sur le site, « aperçu public » dans un message de l'éditeur.
 - Mistral Large : 0,5 $ / 1,5 $ sur la page officielle, 0,70 $ / 2,10 $ selon un suivi de prix tiers.
 - Google Workspace : prix en euros dans des sources secondaires, mention « tous les prix sont en $USD » sur la page officielle lue.
+
+---
+
+## Vérification du 9 novembre 2026
+
+**Conclusion.** La note tient sur l'essentiel : toutes les dates d'obligations légales sont confirmées sur des pages officielles, et la plupart des prix aussi. Treize points étaient faux, trop larges ou trop flatteurs : ils sont corrigés dans le texte. Une phrase de la liste « Ce qui a changé en un an » est retirée. Quatre points restent « non vérifié ».
+
+**Méthode.** Les sources citées ont été rouvertes le 9 novembre 2026, pages officielles d'abord. Quand la source ne disait pas ce que la note affirmait, une source de première main a été cherchée. Aucun compte, aucun formulaire, aucun achat, aucun contact. Seul ce fichier a été modifié.
+
+### Nombre d'affirmations vérifiées
+
+42 groupes d'affirmations relus : 25 confirmés tels quels, 13 corrigés ou précisés, 4 laissés « non vérifié ». Les listes finales, les dates d'obligations légales et les prix ont été relus en premier.
+
+Confirmés tels quels (25) :
+
+1. Facture électronique : réception obligatoire depuis le 1er septembre 2026.
+2. Facture électronique : émission le 1er septembre 2026 pour les grandes entreprises et les entreprises de taille intermédiaire, le 1er septembre 2027 pour les PME et les micro-entreprises.
+3. Règlement sur l'IA : vote du Parlement le 16 juin 2026, feu vert final du Conseil le 29 juin 2026.
+4. Règlement sur l'IA : échéances du 2 décembre 2026 (contenus intimes sans consentement ; fin du délai de marquage pour les systèmes déjà sur le marché).
+5. Règlement sur l'IA : systèmes à haut risque le 2 décembre 2027 et le 2 août 2028.
+6. Article 50 : applicable depuis le 2 août 2026.
+7. Code de bonnes pratiques du 10 juin 2026 ; lignes directrices de la Commission du 20 juillet 2026.
+8. Copilot Cowork : disponibilité générale le 16 juin 2026, désactivé par défaut, citation « You approve each action before it happens. »
+9. Copilot : crédits à 0,01 $ l'unité, en plus de la licence.
+10. Microsoft en Europe : modèles d'Anthropic hors de la « frontière de données de l'UE » et désactivés par défaut ; intégration annoncée pour fin 2026 (annonce du 6 novembre 2026).
+11. ChatGPT Work : annonce officielle du 9 juillet 2026.
+12. Claude : Pro à 17 $ (annuel) ou 20 $, Max à 100 $, Ultra à 200 $.
+13. Opus 5.5 : 22 septembre 2026 ; score de 81,8 % contre 74,0 % sur le banc d'essai cité.
+14. Copilot Studio : pilotage de l'ordinateur en disponibilité générale le 13 mai 2026.
+15. Prix OpenAI à l'unité : GPT-5 à 1,25 $ / 10 $, GPT-6.1 Sol à 2 $ / 10 $, GPT-5 nano à 0,05 $ / 0,40 $, GPT-6 Luna à 0,10 $ / 0,50 $.
+16. Prix Anthropic à l'unité au 9 novembre 2026 : Opus 5.5 à 4 $ / 20 $, Fable 5.2 à 8 $ / 40 $, Haiku 4.5 à 1 $ / 5 $ ; environ 30 % d'unités en plus pour un même texte avec les modèles récents.
+17. Prix Mistral : Pro à 14,99 $, Team à 24,99 $, Mistral Large à 0,5 $ / 1,5 $.
+18. Pennylane : connecteur officiel en lecture seule, à partir de l'offre Essentiel.
+19. Mistral OCR 4 : 23 juin 2026, indice de confiance par page et par mot, 4 $ les 1 000 pages (2 $ en traitement par lots).
+20. Mistral « Regional Endpoints » : 11 août 2026, avec la réserve sur les sous-traitants.
+21. n8n : 20 € et 50 € par mois en paiement annuel ; agents encore en aperçu (25 septembre 2026).
+22. Zapier : page du 6 octobre 2026, plus de 9 000 applications, pause à 75 tâches.
+23. CNIL : programme de travail du 7 avril 2026.
+24. Claude : tâches programmées sur toutes les offres payantes.
+25. Google : Workspace Studio et Google Vids dans les offres Business Starter, Standard et Plus.
+
+### Corrections (13)
+
+1. **Facture électronique, champ.** L'obligation vise les entreprises assujetties à la TVA. L'administration écrit que les opérations exonérées de TVA n'y sont pas soumises : le cas d'une société à loyers exonérés est renvoyé à l'expert-comptable (fiche 8.1, huit nouveautés n° 3, « Ce qui a changé » n° 5).
+2. **Article 50, qui doit quoi.** « Une image qui imite le réel doit être signalée » était plus large que le texte. Écrit maintenant : un trucage réaliste (image, son ou vidéo créés ou modifiés par IA, qui ressemblent à des personnes, des objets, des lieux ou des événements réels et peuvent passer pour vrais) est signalé par celui qui le diffuse ; informer la personne qu'elle parle à une machine est une obligation du fournisseur de l'outil (conclusion, fiches 5.2, 5.3, 5.5 et 8.3, phrase de diapositive n° 7).
+3. **Contenus d'avant le 2 août 2026.** La note disait qu'ils n'ont pas à être signalés après coup. La Commission écrit : « pas d'étiquetage rétroactif obligatoire mais encouragé » (fiche 5.5).
+4. **Prix Microsoft.** 18,20 € HT vaut avec engagement annuel ; 21,84 € HT en paiement mensuel. La promotion à 15,60 € HT (1er juillet au 31 décembre 2026, première année) est confirmée sur la page officielle, et non plus sur une source secondaire (fiches 1.3 et 9.2).
+5. **Claude Cowork.** Le 7 juillet 2026 est la date de l'extension au web et au mobile, en bêta et par étapes, non celle d'une première mise en vente. La date du 9 avril 2026 vient de sources secondaires (conclusion, fiche 1.1, huit nouveautés n° 1, « Ce qui a changé » n° 1).
+6. **Pilotage de l'écran.** Ajout de la mise en garde de l'éditeur : pas d'accès aux applications de banque, de santé et d'administration ; déconseillé pour les comptes financiers, les documents juridiques et les contrats. Fonction en bêta sur trois offres ; pas d'accès pour les offres Team et Enterprise. L'exemple du formulaire de mairie est retiré (fiche 1.4, « Ce qu'il ne faut pas promettre » n° 1).
+7. **Baisse des prix chez Anthropic.** La gamme Opus est passée à 5 $ / 25 $ dès le 24 novembre 2025 (Opus 4.5). « Près de quatre fois moins en un an » n'est vrai que par rapport au modèle en vente début novembre 2025 ; depuis le 24 novembre 2025, la baisse est de 20 %. Par rapport à Opus 4.5, le modèle le plus puissant est plus cher (conclusion, fiche 9.1).
+8. **Petit modèle.** Le prix de 0,10 $ / 0,50 $ vaut jusqu'à 100 000 unités par demande ; au-delà, 0,50 $ / 2,50 $. « Dix fois moins » ne vaut que sous ce seuil (conclusion, fiche 9.1).
+9. **Gemini Spark.** Premiers déploiements à partir du 17 juin 2026, extension le 14 juillet 2026, toujours sans l'Espace économique européen. La date d'annonce du 19 mai 2026 n'a pas été revérifiée (fiche 1.6).
+10. **Connecteur bancaire.** Il prépare des demandes de virements groupés, approuvées par lien dans l'application de la banque ; le virement simple vers un bénéficiaire n'est pas encore couvert. Il sait aussi créer des cartes, changer leurs plafonds, envoyer des factures et marquer une facture comme payée. « Jamais payer » devient « un réglage à imposer » (conclusion, fiche 2.4, phrase de diapositive n° 5, « Ce qui a changé » n° 2, « Ce qu'il ne faut pas promettre » n° 7).
+11. **Voxtral 3.** La page de l'éditeur est datée du 22 octobre 2026 : l'écart « 20 ou 22 octobre » est levé (fiche 3.3, « Écarts relevés entre sources »).
+12. **Note sur les assistants qui agissent.** C'est une note d'exploration signée « CIANum - CNIL », publiée sur le site de la CNIL. Ce n'est pas une recommandation de la CNIL (fiche 8.4, « Ce qu'il ne faut pas promettre » n° 8).
+13. **Accueil téléphonique, prix.** Prix relus sur les pages des vendeurs : à partir de 79 € HT ou de 99 € HT par mois, 349 € par mois pour 1 000 appels, ou 0,29 € la minute. Le plafond de 399 € n'existe sur aucune page lue. L'estimation « 200 à 640 € » devient « 200 à 590 € » (fiches 3.1, 9.3 et 9.4).
+
+Précisions ajoutées sans changer le fond : le prix de GPT-5 nano figure sur la page officielle d'OpenAI (fiche 9.1) ; les prix de n8n valent en paiement annuel (fiche 9.4) ; le passage dans le nuage du 6 octobre 2026 n'est vérifié que pour les tâches programmées (fiche 1.1) ; le communiqué du Parlement du 16 juin 2026 est ajouté comme source (fiche 8.2).
+
+### Retiré
+
+1. La phrase « Le travail de la machine coûte moins cher : […] près de quatre fois moins […] dix fois moins », retirée de la liste « Ce qui a changé en un an » (n° 4). Le fait vérifié reste dans la fiche 9.1, avec ses réserves.
+2. « Lire et préparer, jamais payer », retiré de la conclusion, de la liste « Ce qui a changé en un an » et de la phrase de diapositive n° 5.
+3. « Une image qui imite le réel doit être signalée », retiré de la conclusion, des fiches 5.5 et 8.3, de la phrase de diapositive n° 7 et de la liste « Ce qui a changé en un an ».
+4. « Trois grands éditeurs l'ont mis en vente entre avril et juillet 2026 », retiré de la conclusion.
+5. « Les contenus créés avant le 2 août 2026 n'ont pas à être signalés après coup », retiré de la fiche 5.5.
+6. Le plafond de 399 € par mois et l'estimation « 200 à 640 € par mois » pour l'accueil téléphonique.
+7. L'exemple du formulaire de mairie rempli par l'assistant qui pilote l'écran (fiche 1.4).
+8. L'écart « 20 ou 22 octobre 2026 » sur Voxtral 3.
+
+### Laissé « non vérifié » (4)
+
+1. Montants des sanctions de la facture électronique : absents des deux pages officielles relues.
+2. Publication au Journal officiel de l'Union (24 juillet 2026) et entrée en vigueur (27 juillet 2026) du texte de simplification : sources secondaires seulement.
+3. Claude Cowork : disponibilité générale du 9 avril 2026, aperçu de janvier 2026, pilotage de l'écran du 23 mars 2026 : sources secondaires seulement.
+4. Prix de ChatGPT Plus et Business : aucun montant sur la page officielle lue.
+
+Non revérifié le 9 novembre 2026, faute de temps ; à relire avant toute reprise : date de GPT-6.1 Terra (26 octobre 2026) ; dates et plafonds de Workspace Studio ; lot de 25 000 crédits Copilot à 173,30 € ; dates de fermeture de Sora ; dates des annonces de Mistral autres que celles citées plus haut ; dates de Make ; prix de Zapier ; prix en euros de Google Workspace ; prix à l'unité de Gemini et analyse « 10 gammes sur 14 » ; pages des outils d'image et de vidéo (5.1, 5.2) ; pages des plateformes sur l'étiquette IA (5.6) ; régime des œuvres artistiques dans l'article 50 ; détail des pistes de la note publiée par la CNIL (seules la citation et la signature ont été relues) ; citation de n8n sur l'aperçu ; offres qui incluent la prise de notes de réunion chez Google.
+
+### Sûr pour une diapositive
+
+Dix phrases. Chacune tient en 25 mots au plus, sans marque et sans promesse. Elles peuvent être posées telles quelles.
+
+1. « Un assistant peut préparer le dossier d'un bâtiment à partir de vos messages et de vos fichiers. Rien ne part sans votre accord. »
+2. « Vos factures, baux et diagnostics peuvent être lus et rangés dans un tableau. Les lignes douteuses sont signalées. Une personne vérifie. »
+3. « Recevoir des factures électroniques est obligatoire depuis le 1er septembre 2026. En émettre le sera le 1er septembre 2027 pour les PME et les micro-entreprises. »
+4. « Chaque lundi, votre administratrice peut recevoir la liste des échéances de la semaine, tirée de l'agenda et des dossiers. Elle garde la main. »
+5. « Selon vos logiciels, vous interrogez vos comptes en français. Un lot de virements peut être préparé ; une personne habilitée le valide dans la banque. »
+6. « Un accueil automatisé peut répondre au téléphone en français, noter une réservation et passer la main à votre équipe. Il se présente comme tel. »
+7. « Affiches et courtes vidéos peuvent être préparées par IA ; vous choisissez. Depuis le 2 août 2026, un trucage réaliste fait par IA doit être signalé. »
+8. « Des modèles et un hébergement européens existent. Le lieu de traitement de vos données se choisit, s'écrit au contrat et se vérifie. »
+9. « Depuis le 1er septembre 2026, toute entreprise soumise à la TVA doit pouvoir recevoir des factures électroniques. »
+10. « Depuis le 2 août 2026, une personne doit savoir qu'elle parle à une IA, et non à un humain. »
+
+Conditions d'emploi :
+
+- Phrase 3 : dire à l'oral « pour les entreprises soumises à la TVA », ou lui préférer la phrase 9.
+- Phrase 5 : seulement après avoir confirmé son logiciel de comptabilité et sa banque. Sinon, s'arrêter à « vous interrogez vos comptes en français ».
+- Phrase 6 : la fiabilité n'est prouvée que par les vendeurs. La dire comme une possibilité à essayer, pas comme un résultat.
+- Phrase 7 : « trucage réaliste » veut dire une image, un son ou une vidéo qui peut passer pour vrai. Une affiche dessinée n'en est pas un.
+- Toutes : la source datée figure dans la fiche citée ; elle se met en note de l'orateur, pas sur la diapositive.
+
+### À ne pas reprendre sur une diapositive
+
+1. **Toute phrase sur la baisse des prix** (« quatre fois moins », « dix fois moins »). Elle dépend du jour de départ, du seuil de 100 000 unités et du comptage des unités ; d'autres éditeurs ont monté leurs prix.
+2. **Les noms de marque, les prix des éditeurs et les estimations par poste** (14 à 28 €, 30 à 50 €, 120 à 240 €, 200 à 590 €). Ce sont des calculs internes, à valider par Morgan et Mathys (brief, § 5, règle 12).
+3. **« Jamais payer ».** L'outil bancaire sait créer des cartes et envoyer des factures. La limite vient du réglage et de la validation, pas de l'outil.
+4. **« Mis en vente entre avril et juillet 2026 ».** La date d'avril vient d'une source secondaire.
+5. **L'assistant qui pilote seul l'écran.** En bêta ; l'éditeur le déconseille pour la banque, la santé, l'administration et les documents juridiques.
+6. **L'agent personnel non ouvert en France** (fiche 1.6).
+7. **« Tout reste en Europe ».** Des exceptions existent chez chaque éditeur ; chez l'un d'eux, le traitement en Europe n'est qu'annoncé pour fin 2026.
+8. **« Une image qui imite le réel doit être signalée ».** Plus large que la loi, qui vise le trucage réaliste.
+9. **La fiabilité et le prix de l'accueil téléphonique.** Affirmations de vendeurs seulement.
+10. **Les montants des sanctions de la facture électronique.** Absents des pages officielles relues.
+11. **Les dates non vérifiées** : 9 avril 2026, 23 mars 2026, 24 et 27 juillet 2026, dates de Sora et de Workspace Studio.
+12. **La note publiée sur le site de la CNIL présentée comme une recommandation de la CNIL.**
+13. **Tout pourcentage de temps gagné.** Aucune étude lue ne le permet.
