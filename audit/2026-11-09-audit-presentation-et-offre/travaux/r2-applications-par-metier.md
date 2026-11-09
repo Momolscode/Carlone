@@ -566,3 +566,101 @@ Ajouts de la vérification du 9 novembre 2026 (sources non rouvertes, ou source 
 3. L'activité principale du cabaret sera-t-elle le spectacle ou la restauration ? Quelle licence de boissons est visée ?
 4. Quelle suite bureautique l'administratrice utilise-t-elle déjà ? Quel logiciel utilise l'expert-comptable ?
 5. Combien de commerces, et combien de fiches d'établissement en ligne ?
+
+---
+
+## Vérification du 9 novembre 2026
+
+Relecture contradictoire de cette note. Les sources ont été rouvertes le 9 novembre 2026. Aucun compte créé, aucun formulaire rempli, aucun éditeur contacté.
+
+**Conclusion.** Le fond tient : les outils existent et les règles citées sont justes. Trois points ne tenaient pas et sont corrigés. Un : « partout, l'outil prépare et une personne valide » est faux, car les mêmes éditeurs vendent des modes automatiques. Deux : l'assistant vocal de réservation ne traite pas une formule dîner-spectacle. Trois : plusieurs prix et dates venaient d'un site relais et non de l'éditeur. Pour une diapositive, ne reprendre que la liste « sûr pour une diapositive » ci-dessous.
+
+### Nombre d'affirmations vérifiées
+
+- **66 affirmations rouvertes sur une source.** 36 sont confirmées telles quelles. 30 sont corrigées, nuancées ou complétées.
+- Règles et dates d'obligations légales : 28 rouvertes, 16 confirmées, 12 corrigées ou complétées.
+- Outils, maturité et prix : 38 rouverts, 20 confirmés, 18 corrigés.
+- Ce qui n'a pas pu être rouvert porte la mention « non vérifié » dans le texte et figure dans la section « Ce qui n'a pas pu être vérifié ».
+
+### Dates d'obligations légales : état après relecture
+
+| Date | Obligation | État |
+|---|---|---|
+| 1er septembre 2026 | Réception des factures électroniques pour les entreprises assujetties à la TVA ; émission pour les grandes entreprises et les entreprises de taille intermédiaire | Confirmé |
+| 1er septembre 2027 | Émission des factures électroniques pour les PME et les micro-entreprises | Confirmé |
+| 2 août 2026 | Dire à une personne qu'elle parle à une IA | Confirmé |
+| 2 décembre 2027 | Usages d'IA à haut risque (recrutement, gestion des salariés) | Confirmé |
+| 2 février 2025 | Formation des utilisateurs d'IA | Règle allégée par le texte du 27 juillet 2026 ; rédaction actuelle non vérifiée |
+| 21 février 2026 | Caisse : attestation de l'éditeur de nouveau admise ; amende de 7 500 € par logiciel | Confirmé |
+| 28 mai 2026 | Baux commerciaux : clause d'indexation encadrée | Lu sur une fiche officielle ; à confirmer bail par bail |
+| 30 septembre de chaque année | Déclaration des consommations d'énergie (1 000 m² et plus) | Confirmé |
+| Octobre 2019 | Récépissé d'entrepreneur de spectacles | Confirmé |
+| 1er septembre 2026 | Nouveau code pour les règles de TVA de la billetterie | Non vérifié |
+| Juin 2023 à juin 2026 | Logiciel de détection des faux avis, autorisé pour trois ans | Suite après juin 2026 non vérifiée |
+
+### Corrections apportées
+
+1. **Conclusion, point 2.** « Partout » est retiré. Des modes automatiques existent : ils ne s'activent qu'après essai et accord écrit.
+2. **Galerie, registre.** « Datée à la seconde » devient « horodatée ». La valeur de preuve de l'application d'INTERPOL est limitée à ce que dit la page. Les avis reproduits par un éditeur ne viennent d'aucune galerie.
+3. **Galerie, règles.** La sanction pèse sur les dirigeants quand l'exploitant est une société. Le seuil de 10 000 € et les mentions d'attribution sont confirmés sur les textes, avec leur adresse. Le champ exact du registre reste à confirmer avec l'avocat.
+4. **Galerie, prix.** ArtProMac : 150 € par mois pour une galerie, non 80 €. Marmalade : 89 et 189 € HT par mois. Artprice et Artlogic : non vérifiés.
+5. **Bâtiments.** Brik Pro : taille visée et baux commerciaux non vérifiés ; les actions internes s'exécutent sans confirmation ; l'IA consomme des crédits payants. Factures : « assujettie à la TVA » remplace « toute entreprise ». Prix de Rentila, Talok, G'ma et Fiix précisés (HT, TTC, dollars).
+6. **Cabaret, téléphone.** L'assistant vérifié ne traite ni les formules ni les groupes de restaurants. L'annonce « je suis un assistant automatique » est une exigence de la loi, pas une fonction lue chez l'éditeur.
+7. **Cabaret, logiciels de métier.** Ce qui est confirmé chez chaque éditeur est séparé. Les pages de références d'un des deux éditeurs sont anciennes.
+8. **Cabaret, règles.** Billetterie : la durée de conservation n'est pas « 6 ans » sans nuance. SACEM : l'autorisation immédiate et la remise du programme sont non vérifiées ; la réduction de 20 % a des conditions. SACD : formulation ramenée à ce que dit la page.
+9. **Cabaret, prix.** Billetweb, Weezevent et Yurplan relus chez l'éditeur ; PRESTISCENE : forfait mensuel, montant non affiché.
+10. **Commerces, avis.** Les deux éditeurs vendent aussi une publication automatique : elle ne s'active pas. La règle prêtée à Google est non vérifiée.
+11. **Commerces, règles.** Amende de caisse : 7 500 € par logiciel, 60 jours pour se mettre en conformité. Faux avis : les peines montent à 5 ans et 750 000 € en ligne. Le logiciel de détection de l'administration n'était autorisé que jusqu'en juin 2026.
+12. **Commerces, prix.** SumUp, Tactill et Lightspeed relus chez l'éditeur. Inpulse et le matériel de caisse : non vérifiés.
+13. **Administration, suites bureautiques.** Microsoft : prix confirmé, avec un prix de lancement jusqu'au 31 décembre 2026. Google : prix en euros et dates non vérifiés ; choix de la région de stockage lu pour une seule édition. Mistral : prix lus en dollars ; hébergement et ancien nom non vérifiés.
+14. **Administration, factures.** La formule autonome de Pennylane n'est pas réservée aux cabinets : elle envoie seule des relances. La date d'immatriculation de sa plateforme vient de sources secondaires.
+15. **Administration, règles.** Formation à l'IA : ne plus la présenter comme une obligation ferme. Recommandations de la CNIL : ramenées à ce que dit la page. Baromètre France Num : seul le chiffre de 40 % est à citer.
+16. **Dix usages.** Phrases des rangs 1, 6 et 7 réécrites. Rang 8 retiré.
+
+### Retiré
+
+- Le rang 8 des dix usages : « téléphone des réservations » pour le cabaret.
+- Le mot « partout » dans la conclusion.
+- « Datée à la seconde » pour le registre.
+- « La SACEM délivre l'autorisation tout de suite ».
+- « ArtProMac à partir de 80 € par mois » comme prix d'une galerie.
+- Le Music-hall de Bergerac et le César Palace comme clients actuels d'un éditeur.
+- « Région de stockage au choix à partir de Standard » chez Google.
+- « Toute entreprise » pour la facture électronique.
+- « L'IA est déjà incluse dans les suites bureautiques » : vrai pour une seule des deux.
+- « Aucun appel perdu » comme résultat d'une démonstration.
+- « L'administration utilise un logiciel de détection depuis 2023 », au présent.
+- « Tri par société et par lieu » comme fonction prête à l'achat.
+
+### Sûr pour une diapositive
+
+Douze phrases. Aucune marque, aucun prix, aucune promesse. La source entre crochets reste dans les notes internes.
+
+1. « Des outils savent aujourd'hui lire un document, préparer un texte et rappeler une échéance. Une personne relit et valide. » [sections A à E]
+2. « Rien n'est envoyé, payé, signé ou supprimé sans la validation d'une personne habilitée. » [règle de l'offre]
+3. « À partir de photos, un outil peut préparer la fiche d'une œuvre. L'attribution, le prix et la signature du certificat restent les vôtres. » [A.1]
+4. « Le registre des objets mobiliers, ou livre de police, peut être tenu sur écran, si l'outil garantit l'intégrité, l'intangibilité et la sécurité des données. » [code pénal, art. R. 321-1 et suivants]
+5. « Un outil peut lire un bail et proposer ses dates clés. Vous confirmez chaque donnée. La révision du loyer reste votre décision. » [B.1]
+6. « Le registre de sécurité d'un lieu ouvert au public peut être tenu sur papier ou sur écran. » [fiche officielle F31684]
+7. « Depuis le 1er septembre 2026, une entreprise soumise à la TVA doit pouvoir recevoir ses factures électroniques par une plateforme agréée. » [impots.gouv.fr]
+8. « Depuis le 2 août 2026, une personne qui parle à une IA doit en être informée. » [règlement européen sur l'IA, art. 50]
+9. « Pour un spectacle, les autorisations et les déclarations restent au nom de l'exploitant. L'outil prépare la liste et rappelle les dates. » [C.3]
+10. « Un outil peut préparer un projet de réponse à chaque avis. Vous relisez, vous publiez. Aucun avis n'est écrit à votre place. » [D.1]
+11. « 40 % des TPE et PME françaises interrogées déclarent utiliser au moins une solution d'IA. » [Baromètre France Num 2026, publié le 17 septembre 2026 : la source se montre avec le chiffre]
+12. « Les gains ne sont pas promis. Ils se mesurent pendant l'essai de huit semaines, à partir d'une mesure de départ. » [offre]
+
+### À ne pas reprendre devant le client, et pourquoi
+
+- **Toute marque de logiciel et tout prix de logiciel.** Plusieurs prix sont en dollars ou sans mention HT ou TTC. Un prix change. Seul le prix du cadrage se montre.
+- **« Partout, l'outil prépare et une personne valide ».** Des modes automatiques existent chez les mêmes éditeurs.
+- **L'assistant vocal pour les réservations du cabaret.** L'outil vérifié exclut les formules. Le cabaret n'est pas ouvert.
+- **« Une table vendue, tout est à jour ».** C'est une description d'éditeur, non essayée. Au présent, elle se lit comme une promesse.
+- **Les absolus : « aucun appel perdu », « aucune déclaration oubliée », « plus de décision perdue ».** Ce sont des résultats. Ils se mesurent.
+- **Les phrases au présent du tableau des dix usages (« chaque facture est lue », « vos baux sont lus une fois »).** Elles décrivent la cible de l'essai, pas un état acquis. Préférer « peut ».
+- **Les chiffres d'éditeurs.** Restaurants équipés, part des appels traités, heures gagnées, 9 % et 49 % des galeries : aucun n'est vérifié par un tiers.
+- **Les clients cités par les éditeurs.** Ce ne sont pas des témoignages. Deux d'entre eux figurent sur des pages anciennes.
+- **Les peines et les seuils (prison, amendes, 10 000 €).** Ils sont exacts, mais convaincre par la peur n'est pas notre règle. Ils restent dans les notes.
+- **« Former les utilisateurs est obligatoire ».** La règle a été allégée en juillet 2026.
+- **« Chaque matin, vos messages sont triés par société et par lieu ».** Ce n'est pas une fonction prête : c'est un réglage à essayer.
+- **Le registre de la galerie comme obligation certaine.** Il ne vaut que si la galerie achète d'occasion ou prend des œuvres en dépôt. La question est à poser d'abord.
+- **Tout ce qui porte « non vérifié » dans cette note.**
