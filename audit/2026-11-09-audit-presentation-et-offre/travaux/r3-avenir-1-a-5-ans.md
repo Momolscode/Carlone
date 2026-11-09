@@ -285,7 +285,7 @@ Trois précisions de lecture.
 
 - **Les dates fixées ne sont pas des paris.** Dans les colonnes du milieu et de droite, une date vient d'un texte. Ce qui est incertain, c'est son application aux bâtiments et aux sociétés de GianLuca Carlone, faute de mesures.
 - **La déclaration du 30 septembre 2027** relève d'une règle déjà en vigueur (classée « déjà possible » au tableau de la section 3). Elle est placée au milieu parce que l'échéance tombe dans les deux ans.
-- **La robotique n'apparaît qu'une fois à gauche** : le robot roulant de salle, sans achat conseillé à ce stade. Tout le reste est « plus tard, sous conditions » (financement, sécurité, partenaires), sans date.
+- **La robotique n'apparaît qu'une fois à gauche** : le robot roulant de salle, sans achat ni location conseillés à ce stade. Tout le reste est « plus tard, sous conditions » (financement, sécurité, partenaires), sans date.
 
 ## 10. Projet de texte pour une diapositive « Dans un an, deux ans, cinq ans »
 
@@ -414,3 +414,68 @@ Les prévisions trop incertaines, sujet par sujet. Les listes sont reprises des 
 - **Un allègement de l'obligation de former le personnel à l'IA** : lu sur un seul blog privé, non vérifié. Même réserve pour les plafonds d'amende du règlement sur l'IA.
 - **L'accessibilité des locaux** (rampe, sanitaires) : hors de cette recherche.
 - **Une « conformité garantie ».** Marwin Tech prépare des dossiers et règle des outils ; un juriste ou un expert-comptable confirme.
+
+## 14. Ce qui n'a pas pu être vérifié
+
+La conclusion d'abord : les règles et les dates sont sourcées ; ce qui manque, ce sont les mesures des lieux et des sociétés de GianLuca Carlone, et plusieurs prix. Tant que ces points restent ouverts, aucune phrase de la présentation ne doit dire qu'une règle s'applique à lui, ni qu'elle ne s'applique pas.
+
+### 14.1 Sur GianLuca Carlone, ses lieux et ses sociétés
+
+- **Les bâtiments rachetés, les commerces et le cabaret-spectacle** ne sont connus que par Morgan (déclarations du 9 novembre 2026, non vérifiées, d'après le brief). Aucune date d'ouverture ne figure dans les parties.
+- **Aucune surface, aucune puissance de chauffage ou de climatisation, aucune étiquette énergie** n'est connue. Ces trois mesures décident des seuils de 1 000 m², de 70 et 290 kW, et de l'interdiction de louer un logement classé F.
+- **On ignore s'il loue des logements** comme résidence principale.
+- **La galerie et le cabaret voisin se cumulent-ils** pour le seuil de 1 000 m² ? Non vérifié. Le déclarant (propriétaire ou locataire) dépend du bail.
+- **L'effectif et le chiffre d'affaires de chaque société** ne sont pas connus. On ne sait donc ni si la dispense d'accessibilité joue, ni quelle est la situation de chaque structure pour la facture électronique. La date du 1er septembre 2027 est fixée ; c'est son application société par société qui reste à établir au cadrage.
+
+### 14.2 Agents, coûts, métiers
+
+- **Une durée de travail « sans aide » pour un poste d'administration** : aucune mesure trouvée. La mesure publiée porte sur du logiciel.
+- **Le chiffre d'OpenAI sur l'aide humaine** (6 septembre 2026) : chiffre d'éditeur, non audité, lu dans la presse (adresse en section 1).
+- **Le tarif phare remonté de 8 à 50 dollars** par million d'unités de texte : non vérifié chez l'éditeur.
+- **La fin de la tension sur la mémoire** : date inconnue.
+- **Des heures gagnées ou des postes supprimés dans une petite entreprise française** : aucune étude lue ne le mesure. Sont écartés : les sites sans source (monjobendanger.fr) et le « 15 % des petites entreprises utilisent l'IA » (source première non vérifiée).
+
+### 14.3 Robotique
+
+- **Tous les prix sont des prix publiés, souvent « à partir de ».** Chaque vendeur ne s'engage qu'après une visite du lieu. Ce ne sont pas des devis : le brief interdit tout contact avec un fournisseur.
+- **Robot de nettoyage des sols** : un seul distributeur relevé. **Humanoïde loué pour un événement** : un seul loueur relevé.
+- **Robot d'accueil, « 433 à 499 € par mois »** : la partie cite deux adresses pour cette fourchette sans dire laquelle porte la borne de 499 €.
+- **Les gains chiffrés** (« rentable en 18 à 24 mois », « utile dès 80 à 100 couverts ») : paroles de vendeur, sans étude nommée.
+- **La vente d'un portrait peint par le robot Ai-Da, environ 1,1 million de dollars** : chiffre du site du projet (https://www.ai-darobot.com/sothebysauction), non vérifié auprès de la maison de vente.
+- **Un humanoïde au milieu du public** : règles des lieux ouverts au public et assurance, non vérifié.
+- **Le 2 août 2028 et les machines : deux parties ne disent pas la même chose.** La partie « règles » donne le 2 août 2028 pour l'IA dans des produits réglementés (page du Parlement européen et CNIL, adresses en section 6, confiance moyenne), et précise que les machines suivent le règlement « machines ». La partie « robotique » juge non vérifiée cette même date pour de nouvelles exigences sur l'IA dans les machines : une seule source secondaire, sans date (https://laconformiter.com/reglementations/reglement-machines). À retenir : la date est sourcée pour les produits ; son effet exact sur les machines ne l'est pas. Ne pas la dire dans la présentation.
+
+### 14.4 Bâtiments
+
+- **Les outils de suivi de l'énergie** n'ont pas été essayés. Leurs prix sont des prix publics, pas des devis.
+- **Les exemptions** au décret sur l'automatisation et le contrôle des bâtiments (« BACS ») et à l'obligation de réglage de la température par pièce : non vérifiées.
+- **La directive (UE) 2024/1275** : les seuils français ne sont pas écrits (projet de loi en première lecture au 9 novembre 2026). Les bâtiments concernés ne sont donc pas vérifiés.
+- **Le jumeau numérique** : aucun cas chiffré trouvé chez un petit propriétaire privé. L'exemple cité porte sur les bâtiments d'une commune.
+- **Le prix d'une automatisation du chauffage** (15 à 45 € par m²) vient d'un blog marchand (12 juin 2026, adresse en section 3).
+
+### 14.5 Art et spectacle
+
+- **L'analyse d'authenticité par IA** : service non essayé ; prix non vérifié.
+- **Prix non trouvés, donc non vérifiés** : passeport numérique d'une œuvre, lunettes de surtitrage, suivi automatique de la lumière et du son, décor généré.
+- **La proposition de loi française sur l'IA et les œuvres** : suite après juillet 2026 non vérifiée ; issue inconnue.
+- **L'affaire C-250/25** : la date de l'arrêt est inconnue ; la Cour n'est pas liée par les conclusions du 3 novembre 2026. L'affaire porte sur la presse, pas sur les œuvres d'art.
+- **La traduction en direct** : résultats des essais non vérifiés.
+- **Le prix variable des billets** : enquête de la répression des fraudes ouverte en avril 2026, aucune conclusion publique trouvée (source commerciale, adresse en section 5). La proposition européenne n'est pas publiée.
+- **Le droit d'auteur sur une image générée** : le point repose sur l'analyse d'un cabinet d'avocats (13 juillet 2026, adresse en section 4), confiance moyenne. Pour une affiche du cabaret-spectacle, un juriste confirme.
+
+### 14.6 Règles
+
+- **Prix des plateformes agréées et sanctions de la facture électronique** : non vérifié.
+- **Qui répond de l'accessibilité d'une billetterie de spectacle** (la salle ou l'éditeur du logiciel) : non vérifié. Aucun texte français lu ne nomme la billetterie de spectacle.
+- **L'allègement de l'obligation de former le personnel à l'IA** et **les plafonds d'amende du règlement sur l'IA** : lus sur un seul blog privé, non vérifiés.
+- **L'amende pour défaut d'accessibilité** (7 500 €, 15 000 € en cas de récidive) : chiffre de la FEVAD, fédération professionnelle, pas un texte officiel (10 février 2025, adresse en section 6).
+- **L'accessibilité des locaux** (rampe, sanitaires) : hors de cette recherche.
+- **Le calendrier de l'IA** a déjà été reporté une fois ; dix normes sont encore en rédaction. Une date peut encore bouger.
+
+### 14.7 Limites de cette note
+
+- **Assemblage sans nouvelle recherche.** Aucun fait n'a été ajouté aux cinq parties. Aucune adresse n'a été rouverte au moment de l'assemblage : chaque date de consultation est celle de la partie d'origine.
+- **Les lignes des tableaux sont reprises telles quelles.** Seule la casse de trois colonnes a été harmonisée.
+- **Les deux projets de texte (sections 10 et 11)** sont des propositions. Morgan et Mathys les valident avant tout usage. Les comptes de mots ont été faits par commande, pas à la main.
+- **Aucun prix de marché** ne passe sur une diapositive sans l'accord de Morgan et Mathys (règle 12 du brief). Seul le prix du cadrage peut être montré.
+- **Ce qui lèverait la plupart de ces réserves** : le relevé du cadrage, bâtiment par bâtiment et société par société (surfaces, puissances, étiquettes, effectifs, chiffres d'affaires, baux, dates d'ouverture prévues), puis une confirmation par son comptable et par un juriste.
