@@ -55,7 +55,7 @@ Sans liste partagée de vos sociétés, lieux, priorités, budgets et accès, pe
 | Moitié à la commande ; le travail démarre à l'encaissement | 3 250 € | 650 € | 3 900 € |
 | Moitié à la réception, payable sous 8 jours | 3 250 € | 650 € | 3 900 € |
 
-Marwin Tech est en cours de constitution : le bon de commande peut être signé au nom de la société en formation, mais aucune facture n'est émise avant son immatriculation. Si un délai légal de rétractation s'applique, aucun paiement n'est demandé et aucun travail ne commence avant son terme. Si votre société ne récupère pas la TVA, retenez le montant TTC. En cas de retard, les pénalités légales et l'indemnité forfaitaire de 40 € s'appliquent, et le travail est suspendu huit jours après une relance restée sans effet.
+Marwin Tech est en cours de constitution : le bon de commande peut être signé au nom de la société en formation, mais aucune facture n'est émise avant son immatriculation. Si la règle légale de rétractation s'applique à votre société, aucun paiement n'est demandé et aucun travail ne commence dans les sept jours qui suivent la signature. Si votre société ne récupère pas la TVA, retenez le montant TTC. En cas de retard, les pénalités légales et l'indemnité forfaitaire de 40 € s'appliquent, et le travail est suspendu huit jours après une relance restée sans effet.
 
 **Réception.** Nous vous demandons une réception écrite des livrables 1, 2 et 4. Vous avez 10 jours ouvrés pour formuler des réserves motivées ; nous les corrigeons une fois. Sans réserve motivée, le solde devient exigible au plus tard 30 jours après la remise. Cette règle ne sert qu'à la facturation : elle ne vaut jamais accord sur une suite ni sur une dépense.
 
@@ -67,7 +67,7 @@ Vous décidez s'il y a une suite dans les 30 jours qui suivent la restitution. U
 
 | Voie | Ce que nous ferions | Ce qu'il faut de votre côté |
 | --- | --- | --- |
-| **(a) Ventes d'œuvres** | Un essai sur 20 entreprises : fiches vérifiées et sourcées, script et e-mail validés par votre conseil, outil de suivi des appels, bilan mesuré. Appels, vente et encaissement restent à vous ou à vos prestataires | La société qui vend ; cinq à dix œuvres réellement disponibles, avec leur prix ; l'avis écrit de votre conseil fiscal ; la personne qui appelle ; la société responsable des données |
+| **(a) Ventes d'œuvres** | Un essai sur 20 entreprises : fiches vérifiées et sourcées, script et e-mail validés par votre conseil, outil de suivi des appels, bilan mesuré. Appels, vente et encaissement restent à vous ou à vos prestataires | La société qui vend ; cinq à dix œuvres d'artistes vivants, réellement disponibles, avec leur prix ; l'avis écrit de votre conseil fiscal ; la personne qui appelle ; la société responsable des données |
 | **(b) Pilotage** | Pendant deux mois : point hebdomadaire, compte rendu sous 24 h ouvrées, registre et tableau de bord à jour, comité mensuel, dossiers de décision ; et un premier travail concret, par exemple le catalogue privé de vos œuvres ou le tableau de vos lieux et de leurs obligations | Un interlocuteur nommé ; des réponses aux demandes de décision sous 5 jours ouvrés |
 | **(c) Organisation interne** | Nous outillons une personne que vous désignez ou recrutez : registre, tableau de bord, procédures écrites, comptes à votre nom, fiche de poste, formation. L'exécution se fait ensuite chez vous | La décision de désigner ou de recruter cette personne |
 
@@ -104,7 +104,7 @@ Un pilotage régulier ne vient qu'après un essai concluant et à votre demande 
 ## 7. Prochaines étapes
 
 1. Un premier rendez-vous d'une heure à une heure et demie, chez vous ou à distance, pour corriger ce résumé et relire le cadrage : [date à fixer, au plus tard le vendredi 11 décembre 2026].
-2. Signature du bon de commande par votre société, au nom de Marwin Tech, société en formation.
+2. Signature du bon de commande par votre société. Il est établi au nom de Marwin Tech, société en formation.
 3. Immatriculation de Marwin Tech ; remise de son extrait K-bis et de son attestation de vigilance ; facture d'acompte.
 4. Démarrage à l'encaissement de l'acompte et à la réception des pièces : début janvier 2027 si la commande est signée avant la mi-décembre.
 5. Remise du dossier et restitution 3 à 4 semaines plus tard ; réception ; solde ; votre décision sur une suite dans les 30 jours.
@@ -120,15 +120,15 @@ Marwin Tech (société en cours de constitution)
 ## Note interne — à retirer avant envoi
 
 **Conditions d'envoi.**
-- Ce document part avec le message de recadrage, jamais avant lui, aux conditions de la note interne de pour-gianluca/message-de-recadrage.md : signature le jeudi 19 nov. 2026, envoi au plus tard le vendredi 27 nov. (08-feuille-de-route.md, section 3.2, livrable 9 ; section 7.1, jalon 3). Les écrits séparés prévus par cette note partent avant ce document ou avec lui.
-- Accord écrit de Morgan et de Mathys sur le texte ; prix et remises décidés à deux (`travaux/strategie-retenue.md:614` ; 11-proposition-commerciale-revisee.md, section 4.2).
+- Ce document part avec le message de recadrage, jamais avant lui, aux conditions de la note interne de pour-gianluca/message-de-recadrage.md : signature le jeudi 19 nov. 2026, envoi au plus tard le vendredi 27 nov. (08-feuille-de-route.md, section 3.2, livrable 9 ; section 7.1, jalon 3).
+- Accord écrit de Morgan et de Mathys sur le texte (`travaux/strategie-retenue.md:614`).
 - Aucun ancien support joint, en particulier le diaporama non corrigé (11-proposition-commerciale-revisee.md, section 6.3).
-- Si la réponse de Morgan sur ce que GianLuca a déjà vu change le prix, appliquer 11-proposition-commerciale-revisee.md, section 3.2, et corriger les trois lignes du tableau de prix (HT, TVA, TTC).
+- Toute modification du prix suit 11-proposition-commerciale-revisee.md ; elle impose de corriger les trois lignes du tableau (HT, TVA, TTC).
 
 **Points à trancher avant envoi.**
 - Crochets : date du rendez-vous, coordonnées. Une date de validité de l'offre peut être ajoutée ; elle doit rester compatible avec les jalons 4 à 6 de 08-feuille-de-route.md, section 7.1.
-- « L'un de nous mène le travail, l'autre le relit » : à garder seulement si la fiche des disponibilités des deux associés est signée (11-proposition-commerciale-revisee.md, section 4.1).
-- Phrase sur la rétractation : à faire relire par l'avocat ; la règle elle-même n'est pas tranchée (`travaux/strategie-retenue.md:466`).
+- « L'un de nous mène le travail, l'autre le relit » : à garder seulement si les deux associés ont confirmé par écrit leur disponibilité (11-proposition-commerciale-revisee.md, section 4.1).
+- Phrase sur la rétractation : à faire relire par l'avocat ; la règle elle-même n'est pas tranchée. Le délai de sept jours suit `travaux/strategie-retenue.md:466, 667` et 12-gouvernance-contrat-sortie.md, section 11.6.
 - Section 1 : chaque ligne est une déclaration rapportée par Morgan, jamais confirmée par GianLuca ; aucune pièce ne contient sa parole directe (`travaux/syn-portefeuille.md:88-90`). Le statut du M est contradictoire : « souhaite racheter » (`sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:15`) contre « nous reprenons le Vieux Relais et le M » (`sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` p. 32, modèle de message du dossier de Mathys du 21 oct.) ; d'où la formule neutre « changent de main ».
 - Lieu des rendez-vous : le prix comprend les déplacements des deux rendez-vous ; le lieu de résidence des associés et celui de GianLuca ne sont pas documentés (`travaux/strategie-retenue.md:233`).
 
@@ -138,17 +138,14 @@ Marwin Tech (société en cours de constitution)
 | --- | --- | --- |
 | 1. Projets | `sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:7, 13-16, 65` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:13` ; `interne/offres-de-carlone-catalogue-crm.md:9` ; `sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` p. 1 et 32 | Déclarations rapportées par Morgan ou rédigées par Marwin ; non confirmées par GianLuca |
 | 2. Cadrage | `travaux/strategie-retenue.md:219-239` (offre A), `:440` (échéancier), `:449-458` (ordre des opérations), `:462-466` (TVA, retard, rétractation) | Proposition |
-| 3. Suites | `travaux/strategie-retenue.md:241-251` (trois voies), `:253-283` (socle), `:291, 294` (lots C1 et C4), `:302-337` (fiches C2 et C6) ; 11-proposition-commerciale-revisee.md, section 2.3 (prix des voies donnés seulement sur demande) | Proposition |
+| 3. Suites | `travaux/strategie-retenue.md:241-251` (trois voies), `:253-283` (socle), `:291, 294` (lots C1 et C4), `:302-337` (fiches C2 et C6) ; 11-proposition-commerciale-revisee.md, section 2.3 | Proposition |
 | 4. Façon de travailler | `travaux/strategie-retenue.md:182-190, 380-391, 560, 580, 589, 599-606, 619, 669` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:100-103` | Proposition |
 | 5. Exclusions | `travaux/strategie-retenue.md:187, 639-656` | Proposition |
-| 6. Besoins | `travaux/strategie-retenue.md:223, 228, 664-668, 726-730` | Proposition |
+| 6. Besoins | `travaux/strategie-retenue.md:223, 228, 665, 668, 726-730` | Proposition |
 | 7. Étapes | `travaux/strategie-retenue.md:449-458` ; 08-feuille-de-route.md, section 3.2 (livrables 9, 12 et 13) et section 7.1 (jalons 3 à 6) | Proposition ; dates conditionnelles |
 
-**Deux choix de ce projet.**
-
-| Choix | Preuve | Hypothèse | Limite | Décision |
-| --- | --- | --- | --- | --- |
-| Présenter les trois voies sans leur prix | Prix des voies donnés seulement si GianLuca le demande (11-proposition-commerciale-revisee.md, section 2.3) ; une seule chose vendue au rendez-vous | Un seul prix à juger facilite la décision | GianLuca peut vouloir un ordre de grandeur avant de payer un cadrage | Morgan et Mathys préparent la réponse orale (même section) |
-| Ne rien promettre ici sur les mesures de sécurité des données (seul l'usage des informations est limité, section 4) | Ce sujet passe par un écrit séparé, validé par un conseil (`travaux/strategie-retenue.md:794`) | Un engagement écrit ici, avant cet écrit, pourrait être contredit | Le document paraît moins complet sur la confidentialité | Clause de confidentialité au bon de commande, après relecture du contrat-cadre par l'avocat (`travaux/strategie-retenue.md:556-560`) |
+**Choix de présentation.** Les voies sont présentées sans leur prix ; la justification est dans 11-proposition-commerciale-revisee.md, section 2.3. La confidentialité figure au bon de commande, après relecture du contrat-cadre par l'avocat (`travaux/strategie-retenue.md:556-560`).
 
 **Contrôles faits pour ce livrable.** 6 500 × 1,2 = 7 800 € ; 3 250 × 1,2 = 3 900 € ; le 11 déc. 2026 est un vendredi. Recherche dans ce fichier : aucune occurrence des termes exclus des documents client (`travaux/strategie-retenue.md:661, 798`) ni de l'ancien prénom.
+
+Relu et contrôlé le 4 novembre 2026 : 12 vérifications, 8 corrections.

@@ -2,13 +2,11 @@
 
 Audit Marwin Tech × GianLuca Carlone · livrable 13 sur 15 · 4 novembre 2026
 
-Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider et signer par Morgan Olsen et Mathys Couet.
+Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider et signer par Morgan Olsen et Mathys Couet. Avant tout envoi, retirer les lignes « Audit… », « Statut… » et « Sources principales… », ainsi que tout ce qui suit la signature (note interne et encadré).
 
-Sources principales : `travaux/strategie-retenue.md:804-812` (contenu du message), `travaux/strategie-retenue.md:219-237` (cadrage), `travaux/strategie-retenue.md:723-730` (questions) ; `travaux/ex-C2-offre.md` (versions de l'offre et ce que le client a pu voir) ; `interne/offre-marwin-tech-remuneration-et-collaboration.md:9-22` et `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:7-30` (documents remplacés) ; 11-proposition-commerciale-revisee.md, sections 5.2 et 6.1.
+Sources principales : `travaux/strategie-retenue.md:804-812` (contenu du message), `travaux/strategie-retenue.md:219-237` (cadrage), `travaux/strategie-retenue.md:723-730` (questions) ; `travaux/ex-C2-offre.md` (versions de l'offre et ce que le client a pu voir) ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:7-30` (documents remplacés) ; 11-proposition-commerciale-revisee.md, sections 5.2 et 6.1 ; 13-preparation-rendez-vous.md, section 2.1.
 
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
-
-*Codes : tout le texte du message est une proposition [PR] de ce livrable, tirée de `travaux/strategie-retenue.md:804-812`. Seul fait affirmé : l'offre précédente partait d'un volume de 20 ou 40 journées-personnes par mois [FV] (`interne/offre-marwin-tech-remuneration-et-collaboration.md:13-16`). Ce que GianLuca a reçu ou vu reste inconnu [IN] (`travaux/syn-sources.md:352`).*
 
 ## Texte du message
 
@@ -31,7 +29,7 @@ Nous vous proposons donc de commencer par un cadrage court, de trois à quatre s
 
 Ce dossier vous reste acquis, même si vous décidez de vous arrêter là. Le contenu, le prix hors taxes et toutes taxes comprises et les modalités de paiement figurent dans la proposition jointe.
 
-Cette proposition remplace tous nos documents précédents sur l'accompagnement : présentations, lettres, formules et options. La formule de six mois est retirée. Les documents préparés pour vous restent à votre disposition ; nous vous proposerons une règle écrite sur ce qui vous revient. D'ici notre rendez-vous, nous n'engageons pas de nouveaux travaux sans votre accord.
+Cette proposition remplace tous nos documents précédents sur l'accompagnement : présentations, lettres, formules et options. La formule de six mois est retirée. Les documents et données qui vous concernent vous reviennent : nous vous proposerons une règle écrite pour vous les remettre. D'ici notre rendez-vous, nous n'engageons aucun nouveau travail sans commande écrite de votre part.
 
 Nous vous proposons un premier rendez-vous pour préparer ce cadrage, d'une heure à une heure et demie, dans vos locaux ou à distance : [trois créneaux, le dernier au plus tard le vendredi 11 décembre 2026]. Pour qu'il soit utile, pourriez-vous préparer :
 
@@ -54,18 +52,20 @@ Marwin Tech (société en cours de constitution)
 
 **Note interne — ne pas envoyer**
 
-- **Quand l'envoyer** : signé le jeudi 19 nov. 2026, envoyé au plus tard le vendredi 27 nov., avec la proposition de cadrage (pour-gianluca/proposition-de-cadrage.md) et jamais avant le message séparé sur l'incident ; sans rendez-vous tenu au 15 déc., report sans production [PR] (`travaux/strategie-retenue.md:697, 716` ; 08-feuille-de-route.md, jalon 9).
-- **Qui le valide** : Morgan et Mathys, par écrit, avant leur signature commune ; Morgan l'envoie ; l'avocat ou le DPD valide le message séparé sur l'incident, pas celui-ci [PR] (`travaux/strategie-retenue.md:785, 794`).
-- **Ce qui doit être réglé avant** : fuite traitée et texte sur l'incident validé ; accord écrit de Mathys (stratégie, retrait de Medhi, SAS) et message à Medhi envoyé ; anciens documents marqués « historique » ; réponse de Morgan sur ce que GianLuca a vu ou reçu, qui décide de la phrase sur le prénom et du prix de la proposition jointe [IN] (`travaux/strategie-retenue.md:660-662, 736` ; `travaux/syn-sources.md:352`).
+- **Quand l'envoyer** : signé le jeudi 19 nov. 2026, envoyé au plus tard le vendredi 27 nov., avec la proposition de cadrage (pour-gianluca/proposition-de-cadrage.md) ; sans rendez-vous avant le 15 déc., report à janvier sans production (`travaux/strategie-retenue.md:697, 716` ; 08-feuille-de-route.md, jalon 9).
+- **Qui le valide** : Morgan et Mathys, par écrit, avant leur signature commune ; Morgan l'envoie (`travaux/strategie-retenue.md:716, 785, 804`).
+- **Ce qui doit être réglé avant** : prérequis 1 à 6 de 13-preparation-rendez-vous.md, section 2.1 (`travaux/strategie-retenue.md:660-662`) ; réponse écrite de Morgan sur ce que GianLuca a vu ou reçu, qui décide de la phrase sur le prénom et de celle sur les documents remplacés (`travaux/strategie-retenue.md:736` ; `travaux/syn-sources.md:352`).
 
 > **Écart avec la stratégie retenue**
 >
-> *Ce que dit la stratégie.* Le message doit aussi citer la création avec Medhi et BOJ.ART et l'option laboratoire parmi ce qui est retiré, informer GianLuca de l'incident de données et déclarer le lien de Morgan avec BOJ.ART (`travaux/strategie-retenue.md:807, 809, 810`). 11-proposition-commerciale-revisee.md (section 5.2, écart n° 2) et 08-feuille-de-route.md (jalon 9) placent cette déclaration dans ce message.
+> *Ce que dit la stratégie.* Le message de recadrage doit contenir sept points (`travaux/strategie-retenue.md:804-812`). Ce projet n'en reprend que quatre en entier (points 1, 3, 6 et 7) et une partie du point 2. Il s'écarte aussi de 11-proposition-commerciale-revisee.md (section 5.2, écart n° 2).
 >
-> *Ce que fait ce projet.* Il ne nomme ni Medhi, ni BOJ.ART, ni le laboratoire, ni l'incident, comme l'exige la règle « 0 mention » des documents remis (`travaux/strategie-retenue.md:175, 661`). L'incident passe par un message séparé validé par l'avocat ou le DPD. La déclaration sur BOJ.ART passe par un court écrit séparé, une fois Medhi prévenu [PR].
+> *Ce que fait ce projet.* Les points 4 et 5, et la partie retirée du point 2, passent par des écrits séparés, envoyés avant ce message ou avec lui, comme prévu dans 13-preparation-rendez-vous.md, section 2.1, prérequis 2 et 5. Ce texte reste ainsi conforme à la règle des documents remis (`travaux/strategie-retenue.md:175, 661`).
 >
-> *Pourquoi.* Un texte sur l'incident peut engager la responsabilité des associés : il ne doit pas être mêlé à une proposition commerciale ni écrit sans conseil (`travaux/juge-J1-client.md:192`). GianLuca connaît Medhi [DR] (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:21`), et le retrait n'est ni écrit ni annoncé à Medhi [DR] (`travaux/note-point-4-novembre-et-activites.md:25`) : écrire d'abord au client exposerait Medhi à l'apprendre par lui [HY].
+> *Pourquoi.* L'un de ces sujets demande un texte validé par un conseil et ne doit pas être mêlé à une proposition commerciale (`travaux/juge-J1-client.md:192`). Un autre concerne un tiers qui doit être prévenu avant le client (`travaux/note-point-4-novembre-et-activites.md:25`).
 >
-> *Limite.* La déclaration doit rester « proactive dès le premier document remis » (`travaux/strategie-retenue.md:115, 635`). Elle n'est tenue que si les deux écrits séparés partent avant ce message ou avec lui. Trois écrits au lieu d'un peuvent paraître lourds [HY].
+> *Limite.* L'engagement d'information « dès le premier document remis » (`travaux/strategie-retenue.md:115, 635`) n'est tenu que si les écrits séparés partent avant ce message ou le même jour. Plusieurs écrits au lieu d'un peuvent paraître lourds.
 >
-> *Décision.* Morgan et Mathys choisissent avant le 19 nov. : envoyer les trois écrits ensemble, le même jour (recommandé [PR]), ou ajouter ici les deux ou trois phrases de déclaration prévues par 11-proposition-commerciale-revisee.md, section 5.2.
+> *Décision.* Morgan et Mathys choisissent avant le 19 nov. : envoyer les écrits séparés le même jour que ce message (recommandé), ou ajouter ici les deux ou trois phrases prévues par 11-proposition-commerciale-revisee.md, section 5.2.
+
+Relu et contrôlé le 4 novembre 2026 : 11 vérifications, 7 corrections.
