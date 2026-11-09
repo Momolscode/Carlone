@@ -5,7 +5,7 @@
 ## Conclusion en cinq lignes
 
 1. Dans les cinq domaines, des outils existent et sont utilisables aujourd'hui en France. Ils font surtout trois choses : lire un document, préparer un texte, rappeler une échéance.
-2. Partout, l'outil prépare et une personne valide. Les éditeurs sérieux l'écrivent eux-mêmes (Antiks, Brik Pro, Pennylane). C'est notre niveau « Assistée ».
+2. Le mode à retenir : l'outil prépare et une personne valide. Plusieurs éditeurs l'écrivent eux-mêmes (Antiks, Brik Pro, Pennylane). C'est notre niveau « Assistée ». Ce n'est pas vrai « partout » : les mêmes éditeurs vendent aussi des modes automatiques (relances envoyées seules, réponses aux avis publiées seules, réservation confirmée par un assistant vocal). Ces modes ne s'activent qu'après essai et accord écrit.
 3. La preuve la plus solide n'est pas un gain chiffré. C'est une règle respectée : registre de la galerie, billetterie, caisse, facture électronique. Un gain, lui, se mesure pendant l'essai de huit semaines.
 4. Presque aucun lieu nommé et indépendant ne témoigne en public. On trouve des références d'éditeurs. Rien de cela ne doit être présenté à GianLuca comme un témoignage.
 5. Les trois démonstrations les plus parlantes : la fiche d'œuvre préparée depuis des photos, le bail lu avec ses échéances, la journée de son administratrice avant et après.
@@ -34,11 +34,11 @@ Fiche client liée : n° 13 (inventaire des œuvres et registres de la galerie).
 - Ce que fait l'outil : il regarde les photos et propose un titre, une description et un cartel. Il peut traduire la fiche.
 - Qui le propose : Antiks (logiciel français) écrit : « Vous relisez et validez : rien n'est publié sans votre accord ». ArtProMac v10 rédige notices et cartels avec une IA qui tourne sur le Mac ou sur le serveur de l'éditeur. Artfolio catalogue depuis une photo.
 - Sources : https://antiks.fr/logiciel-galerie-art · https://artpromac.com/intelligence-artificielle · https://artfolio.ai/products/ai (pages non datées, consultées le 9 novembre 2026).
-- Témoignage : un témoignage anonyme chez Antiks. Pas de témoignage public nommé trouvé.
+- Témoignage : la page d'accueil d'Antiks reproduit trois avis nommés (un antiquaire, un atelier de mobilier, une entreprise de débarras). Ce sont des références d'éditeur ; aucun ne vient d'une galerie d'art. À ne pas reprendre. Pas de témoignage indépendant trouvé.
 
 **2. Le registre des objets mobiliers tenu sur écran — disponible**
-- Ce que fait l'outil : chaque entrée est datée à la seconde. Une ligne ne se modifie pas : on l'annule et on en crée une autre. Le registre s'exporte pour un contrôle. Il est gardé dix ans.
-- Qui le propose : Antiks, hébergé en France.
+- Ce que fait l'outil : chaque entrée est horodatée (la page ne dit pas « à la seconde »). Une ligne ne se modifie pas : on l'annule et on en crée une autre. Le registre s'exporte pour un contrôle. Il est gardé dix ans.
+- Qui le propose : Antiks, hébergé en France (selon l'éditeur).
 - Source : https://antiks.fr/livre-de-police-antiquaire (non datée, consultée le 9 novembre 2026).
 - Témoignage : pas de témoignage public trouvé.
 
@@ -50,18 +50,18 @@ Fiche client liée : n° 13 (inventaire des œuvres et registres de la galerie).
 
 **4. Une seule fiche pour le catalogue, les envois privés et le certificat — disponible**
 - Ce que fait l'outil : la fiche de l'œuvre alimente l'inventaire, l'envoi privé à un collectionneur, la facture et le certificat d'authenticité. Un catalogue PDF ou un tableur existant est repris par l'IA. L'œuvre se montre sur un mur à taille réelle.
-- Qui le propose : Marmalade (quatre langues). Artlogic propose en version d'essai le suivi des certificats, la traduction et la vue sur un mur : **en déploiement**.
+- Qui le propose : Marmalade (quatre langues). Artlogic propose en version d'essai le suivi des certificats, la traduction et la vue sur un mur : **en déploiement** (note de l'éditeur non rouverte le 9 novembre 2026 : **non vérifié**).
 - Sources : https://marmalade.art/fr/blog/art-gallery-software-2027 (4 novembre 2026) · https://support.artlogic.net (note du 7 août 2026).
 - Témoignage : pas de témoignage public trouvé.
 
 **5. La vérification d'une œuvre dans la base des œuvres volées — disponible**
-- Ce que fait l'outil : on photographie l'œuvre, l'application cherche dans la base d'INTERPOL (environ 57 000 objets). La recherche est datée et sert de preuve de diligence.
+- Ce que fait l'outil : on photographie l'œuvre, l'application cherche dans la base d'INTERPOL (environ 57 000 objets). Une recherche manuelle enregistrée dans l'application est datée et « peut servir de preuve » de diligence, selon INTERPOL. La page ne le dit pas pour toute recherche par photo.
 - Qui le propose : INTERPOL, application gratuite ID-Art.
 - Source : https://www.interpol.int/fr/Infractions/Atteintes-au-patrimoine-culturel/Application-mobile-ID-Art (consultée le 9 novembre 2026).
 - Témoignage : sans objet (service public international).
 
 **Hors liste, à ne pas recommander pour l'instant**
-- Estimation par IA : Artprice vend des abonnements « enrichis par l'IA » (489 à 799 € par an, depuis le 9 janvier 2025). Le ton est promotionnel. Capacité de prévision : **non vérifié**.
+- Estimation par IA : Artprice vend des abonnements « enrichis par l'IA » (489 à 799 € par an, depuis le 9 janvier 2025 : prix et date **non vérifiés**, source non rouverte le 9 novembre 2026). Le ton est promotionnel. Capacité de prévision : **non vérifié**.
 - Détourage et retouche des photos, traduction par un outil spécialisé : **non vérifié** (pas de source de première main lue).
 
 **Repère d'adoption.** Enquête d'un éditeur, Artlogic, « Gallery Report 2026 », galeries de 57 pays : 9 % déclarent déployer l'IA à l'échelle, 49 % sont en recherche ou en essai. C'est du déclaratif. Cela s'applique aux galeries interrogées par Artlogic, pas à la France seule. Source : https://artlogic.net/gallery-report-2026 (consultée le 9 novembre 2026).
@@ -79,10 +79,10 @@ Fiche client liée : n° 13 (inventaire des œuvres et registres de la galerie).
 | Règle | Ce qu'elle impose | Source |
 |---|---|---|
 | Registre des objets mobiliers (« livre de police ») | Déclaration préalable en préfecture. Registre papier coté et paraphé, gardé 5 ans. Un registre informatique est admis s'il « garantit l'intégrité, l'intangibilité et la sécurité des données enregistrées » ; il est gardé 10 ans. | Code pénal, art. R321-1 à R321-8 : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006181789/ (consulté le 9 novembre 2026) |
-| Sanction | Défaut de tenue du registre : 6 mois d'emprisonnement et 30 000 € d'amende. | Code pénal, art. 321-7 ; rappelé par fournol-associes.com (8 octobre 2026) |
-| Champ du registre | Il vise les objets achetés d'occasion ou reçus en dépôt. Il ne vise pas les œuvres reçues directement des artistes. | https://www.debaecque-avocats.com/livre-de-police-marche-art/ (7 juin 2023) · https://fournol-associes.com/marche-de-lart/livre-de-police-antiquaire-brocanteur/ (8 octobre 2026) |
-| Mentions d'attribution | Le vendeur remet sur demande une facture qui précise nature, composition, origine et ancienneté. « Par » ou « de » vaut garantie d'auteur. « Attribué à », « atelier de », « école de » ont chacun un sens légal. « Dans le goût de » ne garantit rien. | Décret n° 81-255 du 3 mars 1981 ; https://csedt.org/deontologie/ (consulté le 9 novembre 2026) ; chauffray-avocat.com (19 septembre 2025) |
-| Lutte contre le blanchiment | Le marchand d'art est assujetti pour les transactions de 10 000 € et plus : identifier le client, évaluer le risque, garder les pièces. Contrôle par la douane. | Code monétaire et financier, art. L. 561-2 10° ; lignes directrices de novembre 2020 : https://www.douane.gouv.fr/sites/default/files/uploads/files/TRACFIN/lignes-directrices-tracfin-dgddi-marchands-d-art-novembre-2020.pdf ; fiche pratique de juillet 2025 : https://www.douane.gouv.fr/sites/default/files/2025-07/18/Vf-Fiche-pratique-Procedure-interne-LCB-FT-Juillet-2025.pdf |
+| Sanction | Omettre de tenir le registre : 6 mois d'emprisonnement et 30 000 € d'amende. Quand l'exploitant est une société, l'obligation pèse sur ses dirigeants. | Code pénal, art. 321-7 (texte en vigueur depuis le 16 mars 2011, relu le 9 novembre 2026 sur trois reprises de la base officielle ; la page Légifrance de l'article n'a pas pu être ouverte) ; rappelé par fournol-associes.com (8 octobre 2026, non rouvert) |
+| Champ du registre | Il vise les objets achetés d'occasion ou reçus en dépôt. Il ne vise pas les œuvres reçues directement des artistes. Les deux pages d'avocats n'ont pas été rouvertes le 9 novembre 2026 : à confirmer avec l'avocat avant de l'affirmer. | https://www.debaecque-avocats.com/livre-de-police-marche-art/ (7 juin 2023) · https://fournol-associes.com/marche-de-lart/livre-de-police-antiquaire-brocanteur/ (8 octobre 2026) |
+| Mentions d'attribution | Le vendeur remet sur demande une facture qui précise nature, composition, origine et ancienneté. « Par » ou « de » vaut garantie d'auteur. « Attribué à », « atelier de », « école de » ont chacun un sens légal. « Dans le goût de » ne garantit rien. Textes non rouverts le 9 novembre 2026 : à faire confirmer avant tout usage. | Décret n° 81-255 du 3 mars 1981 ; https://csedt.org/deontologie/ (consulté le 9 novembre 2026) ; chauffray-avocat.com (19 septembre 2025) |
+| Lutte contre le blanchiment | Le marchand d'art est assujetti pour les transactions de 10 000 € et plus : identifier le client, évaluer le risque, garder les pièces. Contrôle par la douane. Seuil de 10 000 € **non vérifié** sur une source de première main le 9 novembre 2026 (pages de la douane et de Tracfin non lisibles ce jour-là). | Code monétaire et financier, art. L. 561-2 10° ; lignes directrices de novembre 2020 : https://www.douane.gouv.fr/sites/default/files/uploads/files/TRACFIN/lignes-directrices-tracfin-dgddi-marchands-d-art-novembre-2020.pdf ; fiche pratique de juillet 2025 : https://www.douane.gouv.fr/sites/default/files/2025-07/18/Vf-Fiche-pratique-Procedure-interne-LCB-FT-Juillet-2025.pdf |
 | Invitations par courriel ou SMS | Particuliers : accord préalable, sauf clients existants pour des offres analogues. Professionnels : information et droit de refuser. Chaque message dit qui écrit et comment se désinscrire. | CNIL : https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel (10 juin 2026) |
 | Droit de suite | **Non vérifié** dans cette recherche (code de la propriété intellectuelle, art. L. 122-8). À voir avec l'expert-comptable. | — |
 
@@ -114,7 +114,7 @@ Fiches clients liées : n° 3 (échéances), 6 (baux et loyers), 7 (carnet d'ent
 
 **1. Le bail lu par l'assistant, ses dates extraites — disponible**
 - Ce que fait l'outil : on dépose le bail, l'avis de taxe foncière, un diagnostic ou une facture. L'assistant en tire les données utiles et les propose. L'éditeur écrit : « il prépare, vous confirmez sur une carte » et « l'argent et les envois à un tiers passent toujours par la carte ».
-- Qui le propose : Brik Pro (20 à 5 000 lots ; baux d'habitation et baux commerciaux ; plusieurs sociétés).
+- Qui le propose : Brik Pro. Taille visée (20 à 5 000 lots), baux commerciaux et gestion de plusieurs sociétés : **non vérifié** dans l'extrait relu le 9 novembre 2026. À savoir : selon la page, les actions internes et réversibles s'exécutent directement, sans carte de confirmation, et les demandes consomment des crédits d'IA payants.
 - Source : https://pro.brik.com/fonctionnalites/agent-ia-gestion-patrimoine (mise à jour du 8 novembre 2026).
 - Témoignage : pas de témoignage public trouvé.
 
@@ -154,11 +154,11 @@ Fiches clients liées : n° 3 (échéances), 6 (baux et loyers), 7 (carnet d'ent
 |---|---|---|
 | Indices des baux commerciaux | ILC et ILAT, publiés par l'Insee chaque trimestre. La clause d'indexation prévue au bail s'applique seule à la date prévue. | https://entreprendre.service-public.gouv.fr/vosdroits/F20564 (consulté le 9 novembre 2026) |
 | Révision triennale | Droit exercé sur demande, par acte de commissaire de justice ou lettre recommandée. Hausse plafonnée à la variation de l'indice. | https://entreprendre.service-public.gouv.fr/vosdroits/F31925 (consulté le 9 novembre 2026) ; code de commerce, art. L. 145-34 et L. 145-38 ; biot-avocat.com (23 octobre 2026) |
-| Baux conclus ou renouvelés depuis le 28 mai 2026 | Une clause d'indexation encadrée (variation limitée à 3 % ou 5 %) est possible. À confirmer bail par bail avec l'avocat. | https://entreprendre.service-public.gouv.fr/vosdroits/F20564 et F31925 (consultés le 9 novembre 2026) ; biot-avocat.com (23 octobre 2026) |
+| Baux conclus ou renouvelés depuis le 28 mai 2026 | Une clause d'indexation encadrée (variation limitée à 3 % ou 5 %) est possible. À confirmer bail par bail avec l'avocat. | https://entreprendre.service-public.gouv.fr/vosdroits/F31925 (consulté le 9 novembre 2026 ; la fiche F20564 relue ne porte pas ce point) ; biot-avocat.com (23 octobre 2026, non rouvert) |
 | Registre de sécurité d'un lieu ouvert au public | Il note les travaux, le personnel de sécurité, les consignes, les dates des contrôles avec leurs observations, les dates des exercices. | Code de la construction et de l'habitation, art. R143-44, version en vigueur depuis le 1er juillet 2026 : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819037 |
 | Forme du registre | « Le registre peut se présenter sous forme papier ou dématérialisée ». Il est présenté à la commission de sécurité. Visites tous les 3 ou 5 ans selon le type et la catégorie. | https://entreprendre.service-public.gouv.fr/vosdroits/F31684 (consulté le 9 novembre 2026) |
 | Énergie (dispositif Éco Énergie Tertiaire) | Bâtiments ou ensembles sur un même site avec au moins 1 000 m² d'activités tertiaires : déclaration annuelle des consommations sur la plateforme OPERAT de l'ADEME, au plus tard le 30 septembre. Objectifs de baisse fixés pour 2030, 2040 et 2050. | https://entreprendre.service-public.gouv.fr/vosdroits/F38065 (consulté le 9 novembre 2026) ; décret n° 2019-771 du 23 juillet 2019 |
-| Factures reçues | Depuis le 1er septembre 2026, toute entreprise doit pouvoir recevoir des factures électroniques par une plateforme agréée. | https://www.impots.gouv.fr et https://www.economie.gouv.fr (consultés le 9 novembre 2026) |
+| Factures reçues | Depuis le 1er septembre 2026, toute entreprise assujettie à la TVA doit pouvoir recevoir des factures électroniques par une plateforme agréée. Le cas de chaque société de GianLuca (société civile, loyers sans TVA) est à voir avec l'expert-comptable. | https://www.impots.gouv.fr et https://www.economie.gouv.fr (consultés le 9 novembre 2026) |
 | Diagnostics obligatoires et assurances | **Non vérifié** dans cette recherche. À traiter dans le cadrage avec l'assureur et le notaire. | — |
 
 Point à lever dans le cadrage : on ne connaît ni les surfaces ni la nature des baux. On ne sait donc pas si le dispositif sur l'énergie s'applique.
