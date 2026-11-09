@@ -1,0 +1,20 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-11-09T18:40:00Z"},
+  "lists": "css",
+  "title": "L’IA au service de vos projets — Marwin Tech",
+  "cover": "cover",
+  "order": ["cover", "compris", "idee", "avancees", "ia-aujourdhui", "administratrice", "domaines", "modes", "cat-admin", "cat-batiments", "cat-galerie", "cat-cabaret", "cat-finance", "cat-marketing", "crm", "logiciels", "robotique", "apports", "regles", "methode", "societe", "pour-dautres", "trajectoire", "etapes", "premier-pas", "echange"],
+  "sections": {
+    "s1": {"description": "Vos projets, les avancées de l’IA et ce qu’elle sait faire aujourd’hui.", "start": "cover"},
+    "s2": {"description": "Toutes les aides que nous pouvons apporter, autour de votre administratrice, domaine par domaine.", "start": "administratrice"},
+    "s3": {"description": "Les enjeux : ce que l’IA apporte, les règles à respecter, notre méthode.", "start": "apports"},
+    "s4": {"description": "Notre société, ce qu’elle apportera à d’autres, et sa trajectoire à un, deux et cinq ans.", "start": "societe"},
+    "s5": {"description": "Pour commencer.", "start": "premier-pas"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"},
+    "dm-sans": {"family": "DM Sans", "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap"}
+  },
+  "designSystems": []
+}
