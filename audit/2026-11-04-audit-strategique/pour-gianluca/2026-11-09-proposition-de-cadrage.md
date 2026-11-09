@@ -191,7 +191,7 @@ Codes : [FV] fait vérifié ; [DR] déclaration rapportée ; [PR] proposition ; 
 
 La version du 4 nov. reste intacte (`pour-gianluca/proposition-de-cadrage.md`). Celle-ci garde sa structure (sept sections), son prix, son échéancier, ses huit livrables, ses exclusions et ses garanties [FV, comparaison ligne à ligne faite le 9 nov.], et ajoute ce que la relecture contradictoire du 9 nov. a demandé. La mise en cohérence du 9 nov. (section 9) l'a alignée sur l'option A de la note de mise à jour (`interne/2026-11-09-mise-a-jour-faits-nouveaux.md`, section 8 ; D51, à confirmer par écrit des deux associés).
 
-| Section | 4 nov. | 9 nov., corrigé après relecture | Raison |
+| Section | 4 nov. | 9 nov., après relecture et mise en cohérence | Raison |
 | --- | --- | --- | --- |
 | Introduction | — | Administratrice proposée comme interlocutrice habituelle, au conditionnel ; date de validité ; plus de renvoi à la présentation | Faits nouveaux 1 et 5 ; relecture F13, L2, L7, L12 |
 | 1. Projets | Cinq lignes | Sept lignes ; le Vieux Relais et le M passent dans les inconnues ; aucun montant | Faits nouveaux 1 à 3 ; relecture L19 |
@@ -277,7 +277,7 @@ La liste complète reste le tableau 7.3 de `interne/2026-11-09-mise-a-jour-faits
 > | Contrôle et corrections | 1 | 1 à 1,25 | 1 | Inchangé |
 > | **Total** | **8,5** | **9 à 10,5** | **8,5** | |
 >
-> *Conséquence* [ES]. À 6 500 € HT, ≈ 765 € par JP : au-dessus du plancher, sans exception à accepter. Avec l'écart toléré de 25 %, les JP réelles peuvent aller jusqu'à ≈ 10,6. Les 8,5 JP estimées tiennent sous le plafond de 10 JP facturables par mois, même si le cadrage tient en un mois, sans rien d'autre pour ce client (`interne/04-catalogue-offres.md:89`). La lettre de la présentation (cinq automatisations, deux séances avec l'administratrice) demanderait 9 à 10,5 JP, soit ≈ 620 à 720 € par JP à 6 500 € HT : sous le plancher.
+> *Conséquence* [ES]. À 6 500 € HT, ≈ 765 € par JP : au-dessus du plancher, sans dérogation. Avec l'écart toléré de 25 %, les JP réelles peuvent aller jusqu'à ≈ 10,6. Les 8,5 JP estimées tiennent sous le plafond de 10 JP facturables par mois, même si le cadrage tient en un mois, sans rien d'autre pour ce client (`interne/04-catalogue-offres.md:89`). La lettre de la présentation (cinq automatisations, deux séances avec l'administratrice) demanderait 9 à 10,5 JP, soit ≈ 620 à 720 € par JP à 6 500 € HT : sous le plancher.
 > *Options pour Morgan et Mathys* (D51, note de mise à jour, section 8.3). **(A, recommandée par la note, appliquée dans ce texte)** Les huit livrables de la stratégie, regroupés en quatre résultats, sous plafond écrit ; au plus trois tâches à essayer ; 6 500 € HT pour 8,5 JP. **(B)** Suivre la lettre de la présentation : 9 à 10,5 JP. Il faut alors soit resserrer jusqu'à 8,5 JP au plus, soit fixer un prix d'au moins 750 € par JP recalculée, ≈ 6 750 à 7 875 € HT, contre l'idée écartée d'un cadrage à 7 500 € (`:130`). Avec B, ce texte serait à reprendre dans une nouvelle version datée, ainsi que `interne/11-proposition-commerciale-revisee.md` (section 3) et `interne/13-preparation-rendez-vous.md` (section 3.1). Jamais en invoquant le montant des rachats. La version de ce texte d'avant mise en cohérence (cinq tâches au plus, une séance de 2 h, carte des rôles limitée aux priorités, mandat reporté, 8,25 à 8,5 JP) tenait aussi le forfait, mais retirait une partie des livrables 3 et 4 de la stratégie : elle n'est plus proposée, pour garder une seule description (D46).
 > *Exception à 6 000 € HT*, si GianLuca a déjà vu le taux de 750 € (`:231, 401`) : à 8,5 JP, ≈ 706 € par JP, sous le plancher. Elle reste possible seulement avec le retrait de 0,5 JP déjà prévu : la mesure de départ (registre et tâches à essayer) passe aux deux premières semaines de l'essai (`interne/04-catalogue-offres.md:149` ; `interne/11-proposition-commerciale-revisee.md`, section 3.2, rang 2). On revient alors à 8 JP, soit 750 € par JP. Les livrables 11 et 13 n'ont pas à changer sur ce point.
 > *Recommandation* [PR, note de mise à jour]. Option A ; JP réelles du cadrage relevées et comparées à 8,5 (risque R60). Si le rendez-vous révèle un ensemble bien plus vaste que prévu, le surplus passe par une proposition séparée, comme le texte client le prévoit, pas par une hausse du cadrage.
@@ -355,7 +355,7 @@ Deux relecteurs : « fond » (F1 à F16) et « lecteur » (L1 à L20). Chaque co
 | F5 | Important | :111, licence de boissons attribuée à « votre société » | Fondé : F22379 et F22365 lus ; `annexes/travaux/rj-R5-art-lieux.md:429-430` | Appliqué : section 5 ; encadré n° 3 |
 | F6 | Important | Option A acceptait ≈ 250 € sous le plancher, dite « conforme » | Fondé : `:119, 234, 396` ; `interne/04-catalogue-offres.md:148-149` | Appliqué : périmètre ramené à 8,25-8,5 JP dans le texte ; encadré n° 1 réécrit ; 11 et 13 à mettre à jour |
 | F7 | Important | Citation coupée (« l'ancienne affaire de Medhi ») ; écrits séparés absents des conditions d'envoi | Fondé : dépôt `interne/contexte-projet-carlone.md:24` ; `:635` ; `interne/08-feuille-de-route.md:94` | Appliqué : note, sections 2 (U58) et 4 |
-| F8 | Important | Contradiction avec la note de mise à jour (`premier-pas`, D46) ; option C ; « domaine par domaine » | Fondé : `interne/2026-11-09-mise-a-jour-faits-nouveaux.md:251, 286-287` | Appliqué : résultats 3 et 4 réécrits ; option C sans l'argument de la présentation ; « À réconcilier » complété |
+| F8 | Important | Contradiction avec la note de mise à jour (`premier-pas`, D46) ; option C ; « domaine par domaine » | Fondé : note de mise à jour, section 7.3 (`premier-pas`) et section 10 (D45, D46) | Appliqué : résultats 3 et 4 réécrits ; option C sans l'argument de la présentation ; « À réconcilier » complété |
 | F9 | Important | « Cohérence vérifiée » trop large ; cinq contradictions omises | Fondé : diapositives relues | Appliqué : note, section 2 (tableau, renvoi au 7.3) ; phrase entre crochets retirée ; `administratrice.html:37` retiré des sources de la section 4 |
 | F10 | Mineur | « prix de chaque suite » contre prix de la seule suite recommandée | Fondé : `:225`, point 8 | Appliqué : prix des trois suites (point 4 ; section 3) |
 | F11 | Mineur | Plafond de 10 JP dit « à la limite » à 10,5 JP | Fondé | Appliqué : encadré n° 1, « Conséquence » |
@@ -371,9 +371,9 @@ Deux relecteurs : « fond » (F1 à F16) et « lecteur » (L1 à L20). Chaque co
 | L5 | Important | Rétractation floue et incomplète | Fondé (même fond que F2) | Appliqué avec F2 ; formulaire joint |
 | L6 | Important | Cession de tout ; « vous » ambigu | Fondé : `:287, 560` | Appliqué : section 4 et « Ce que vous en retirez » (« votre société ») ; correction de la présentation listée en section 2 |
 | L7 | Important | Administratrice : affirmations, temps engagé, invitation tardive | Fondé : 25 occurrences [MM] | Appliqué : conditionnel ; « habituelle » ; temps « à confirmer avec elle » ; invitation à tout ou partie du rendez-vous (D48) |
-| L8 | Important | Pourquoi payer en plus de l'administratrice | Fondé : `interne/2026-11-09-mise-a-jour-faits-nouveaux.md:108, 254` ; `:378` | Appliqué : paragraphe en section 2 ; comparaisons réécrites |
+| L8 | Important | Pourquoi payer en plus de l'administratrice | Fondé : note de mise à jour, R53 (section 3.3) et section 7.3 ; `annexes/travaux/strategie-retenue.md:378` | Appliqué : paragraphe en section 2 ; comparaisons réécrites |
 | L9 | Important | Inventaire sans plafond | Fondé | Appliqué : une ligne par élément ; dix fiches complètes au plus [ES] ; au-delà, proposition séparée |
-| L10 | Important | « Cinq premières automatisations » trompeur | Fondé : `interne/2026-11-09-mise-a-jour-faits-nouveaux.md:251` | Appliqué : « premières tâches à outiller, cinq au plus » ; « jusqu'à cinq tâches à outiller avec leur plan d'essai » |
+| L10 | Important | « Cinq premières automatisations » trompeur | Fondé : note de mise à jour, section 7.3 (`premier-pas`) | Appliqué : « premières tâches à outiller, cinq au plus » ; « jusqu'à cinq tâches à outiller avec leur plan d'essai » |
 | L11 | Important | Aucune limite de capacité lisible | Fondé : D47 ; même note, ligne 254 | Appliqué : « Ce que nous pouvons tenir » (section 3), sans renvoi à la présentation |
 | L12 | Important | Texte client et note sensible dans un même fichier | Fondé : « 750 » aux lignes 205 à 279 ; `README.md:160` | Appliqué en partie : séparation inscrite comme condition avant validation (elle sort du seul fichier modifiable ici) ; phrase entre crochets retirée ; date de validité ; recherche refaite |
 | L13 | Important | « Assistée » laissait Marwin valider seule un envoi | Fondé : `:583` | Appliqué : niveau « Assistée » ; message « validé un par un […] jamais par nous seuls » (section 4) |
@@ -385,6 +385,23 @@ Deux relecteurs : « fond » (F1 à F16) et « lecteur » (L1 à L20). Chaque co
 | L19 | Mineur | Vieux Relais et le M présentés comme à lui | Fondé : dépôt `crm/PASSATION.md:41` | Appliqué : question dans la colonne des inconnues |
 | L20 | Mineur | Copie de la présentation non versionnée | Fondé | Appliqué en partie : empreintes notées (section 2) ; copie datée à archiver par les associés, hors de ce fichier |
 
+### 9. Mise en cohérence du 9 novembre (note de mise à jour, stratégie, présentation)
+
+Le texte client et cette note ont été comparés à `interne/2026-11-09-mise-a-jour-faits-nouveaux.md`, à `annexes/travaux/strategie-retenue.md` et aux 26 diapositives de la présentation (empreintes inchangées, section 2). Ce que la section 8 disait des « cinq tâches au plus », des « dix fiches complètes » et d'une charge de 8,25 à 8,5 JP est remplacé par ce qui suit.
+
+| Écart constaté | Correction | Où |
+| --- | --- | --- |
+| La note de mise à jour recommandait l'option A (huit livrables, trois tâches au plus, 8,5 JP) ; ce texte appliquait une autre version, appelée elle aussi « option A » (cinq tâches, carte des rôles et mandat réduits, 8,25 à 8,5 JP) | Texte client aligné sur l'option A de la note : huit livrables en quatre résultats ; trois tâches à essayer au plus, avec leur mesure de départ ; carte des rôles et projet de mandat rétablis ; administratrice invitée au premier entretien. Prix de la stratégie inchangé ; option à confirmer (D51) | Section 2 ; section 6 ; encadrés n° 1 et 2 |
+| Plafond de l'inventaire : « dix fiches complètes » ici, « trois entités et douze éléments » dans la note | Un seul plafond, celui de la note : douze fiches courtes, trois sociétés, une quinzaine de pièces ; chiffres à ajuster par les associés | Section 2 ; section 5 de cette note |
+| Version réduite à 4 800 € HT : « à redéfinir » ici, « inchangée » dans la note | Inchangée, sans tâches à essayer | Section 5 de cette note |
+| Exception à 6 000 € HT : « fermée » ici, absente de la note | Possible avec le retrait de 0,5 JP prévu par `interne/04-catalogue-offres.md:149` ; 11 et 13 inchangés sur ce point | Encadré n° 1 ; note de mise à jour, section 8.3 |
+| Message de recadrage : « ne correspond plus » ici, « le reste tient » dans la note | Deux points à reprendre (question 3, comparaison avec l'embauche d'un coordinateur) ; le reste tient | Section 4 de cette note ; note de mise à jour, section 9 |
+| Renvois à des lignes périmées de la note de mise à jour | Renvois par section, ou par numéro R, U ou D | Sections 2 à 6 et 8 de cette note |
+
+Aucun prix, aucune date et aucune condition de paiement n'ont changé. Les recherches automatiques ont été refaites (section 7).
+
 Relu et contrôlé le 9 novembre 2026 : 16 vérifications, 5 corrections.
 
 Relecture contradictoire : 36 constats reçus, 36 appliqués, 0 écartés — 9 novembre 2026
+
+Mise en cohérence du 9 novembre 2026 : 3 fichiers comparés (note de mise à jour, stratégie, présentation), 6 écarts corrigés.

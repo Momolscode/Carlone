@@ -52,8 +52,10 @@ En cas de désaccord entre un livrable et `travaux/strategie-retenue.md`, le liv
 | `interne/13-preparation-rendez-vous.md` | Prérequis, ordre du jour, questions, lignes rouges, déroulé | Interne |
 | `interne/14-registre-risques-inconnues-decisions.md` | Risques, inconnues, 44 décisions suivies | Interne |
 | `interne/15-contre-analyse.md` | Raisons d'échec, alternatives, conditions de refus | Interne |
+| `interne/2026-11-09-mise-a-jour-faits-nouveaux.md` | Faits nouveaux du 9 nov. 2026 : administratrice, bâtiments, commerces et cabaret, « tout gérer avec l'IA », présentation du 9 nov. ; corrections de la présentation, option du cadrage, décisions D45 à D55 | Interne (note de mise à jour, hors des 15 livrables) |
 | `pour-gianluca/proposition-de-cadrage.md` | Proposition de cadrage : livrables, exclusions, prix HT et TTC, paiement, suites possibles | **Destiné à GianLuca Carlone** ; projet non envoyé, note interne à retirer avant envoi |
 | `pour-gianluca/message-de-recadrage.md` | Message d'une page, signé des deux associés | **Destiné à GianLuca Carlone** ; projet non envoyé, note interne à retirer avant envoi |
+| `pour-gianluca/2026-11-09-proposition-de-cadrage.md` | Proposition de cadrage mise à jour le 9 nov. : même prix, administratrice, huit livrables en quatre résultats | **Destiné à GianLuca Carlone** ; projet non envoyé, note interne à retirer avant validation ; remplace pour l'envoi la version du 4 nov., qui reste conservée |
 | `annexes/correction-identite.md` | Erreur de prénom dans les archives, pièces concernées, règles de citation | Interne |
 
 Annexes de travail : `annexes/travaux/` (abrégé `travaux/` dans les livrables) et `annexes/modele-financier/` (abrégé `modele-financier/`). Elles sont internes.
@@ -160,3 +162,10 @@ Les 18 fichiers ont été comparés entre eux, avec `travaux/strategie-retenue.m
 **Contrôles automatiques faits après correction** [MM] : aucune occurrence de l'ancien prénom hors citation suivie de [sic, lire GianLuca] ; aucun chemin local de machine ; aucune abréviation interne non définie ; dans `pour-gianluca/`, aucun montant interne et aucune occurrence de « 750 », « 15 000 », « 30 000 », « Medhi », « BOJ », « STRATES », « laboratoire » ou « fuite ».
 
 **Principaux écarts maintenus**, signalés en encadré dans les livrables : capacité réaliste de 6, 10 ou 18 JP (06) ; capacité du cadrage et de B1 (04) ; réception du cadrage tolérée jusqu'au 31 mars 2027 (08) ; envoi du message de recadrage au plus tard le 27 nov. 2026 au lieu du 19 nov. (08) ; revenus et réserve du mois 12 (09) ; message de recadrage limité à quatre des sept points (`pour-gianluca/message-de-recadrage.md`) ; trois écarts de 15-contre-analyse.md. D'autres encadrés, plus limités, figurent dans 02, 03, 05, 06, 07, 10, 11, 12, 13 et 14. Chacun attend une décision de Morgan et de Mathys.
+
+## 14. Mise à jour du 9 novembre 2026
+
+Le 9 nov., Morgan a rapporté des faits nouveaux, non vérifiés [DR] : une « administrative centrale » engagée par GianLuca Carlone pour gérer ses projets ; 1,5 M€ de bâtiments rachetés ; plusieurs commerces prévus, dont un cabaret-spectacle à côté de la galerie ; la position « tout gérer avec l'IA aujourd'hui ». Une présentation de 26 diapositives a aussi été préparée pour GianLuca, non envoyée à notre connaissance [DR].
+- Verdict, prix du cadrage (6 500 € HT), dates de report et plafond de 10 JP : inchangés [PR]. La présentation ne part pas en l'état (D45).
+- Analyse, corrections de la présentation et décisions D45 à D55 : `interne/2026-11-09-mise-a-jour-faits-nouveaux.md`.
+- Proposition à envoyer : `pour-gianluca/2026-11-09-proposition-de-cadrage.md`, alignée sur l'option A du cadrage, à confirmer par écrit (D51). Sa note interne est à retirer avant validation ; la version du 4 nov. reste conservée.
