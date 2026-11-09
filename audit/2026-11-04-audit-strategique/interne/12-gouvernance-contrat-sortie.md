@@ -1,7 +1,7 @@
 # Gouvernance, contrat et sortie
 
 Audit Marwin Tech × GianLuca Carlone · livrable 12 sur 15 · 4 novembre 2026
-Statut : interne (contient des prix internes, des planchers, des points juridiques non tranchés et la stratégie des associés ; ne pas transmettre à GianLuca Carlone). Les principes des sections 2 à 9 peuvent passer dans un document qui lui est destiné, sous la forme prévue par `travaux/strategie-retenue.md:792` et déjà reprise dans `pour-gianluca/proposition-de-cadrage.md` (section 5).
+Statut : interne (contient des prix internes, des planchers, des points juridiques non tranchés et la stratégie des associés ; ne pas transmettre à GianLuca Carlone). Les principes des sections 2 à 9 peuvent passer dans un document qui lui est destiné, sous la forme prévue par `travaux/strategie-retenue.md:792` et déjà reprise dans `pour-gianluca/proposition-de-cadrage.md` (section 5), **sauf** ce que `travaux/strategie-retenue.md:787-791` classe comme interne : plafonds internes et capacité des associés (sections 5.4 et 5.5), prix interne de l'avenant (section 6), lignes de la section 9 sur les associés et sur Medhi, colonnes « Qui décide » de la section 15.
 Sources principales : `travaux/strategie-retenue.md` (sections 4, 5, 7, 8, 10, 11 et 12) ; `travaux/syn-droit.md` (sections 3, 4, 5, 6 et 9) ; `travaux/rj-R3-travail-contrats.md` (sections e à j) et son contrôle `travaux/ver-R3-travail-contrats.md` ; `travaux/syn-capacite-ia.md` (sections 4, 6 et 8) ; pièces d'origine rouvertes en lecture seule dans le dépôt Momolscode/Carlone (commit 7b46602) : `interne/offre-marwin-tech-remuneration-et-collaboration.md`, `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md`, `crm/docs/rapport/rapport-crm-hermes360.md`, `interne/contexte-projet-carlone.md`, `interne/audit-marwin-tech-carlone.md` ; copie du 4 nov. du diaporama client « Offre Marwin Tech pour Carlone » (11 vues, hors dépôt).
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 
@@ -17,7 +17,7 @@ Conventions. JP : journée-personne de 7 h. Montants hors taxes (HT) sauf mentio
 ## En bref
 
 1. **Rien n'est signé, et les clauses écrites jusqu'ici se contredisent** [FV]. L'offre du 2 nov. dit qu'un livrable sans réponse est « réputé accepté » (`interne/offre-marwin-tech-remuneration-et-collaboration.md:206`). L'offre du 29 oct. dit qu'« une absence de réponse ne vaut pas approbation » (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:103`). La grille de délégation détaillée du 29 oct. (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:94-101`) a été réduite à une ligne le 2 nov. (`interne/offre-marwin-tech-remuneration-et-collaboration.md:208`).
-2. **GianLuca décide ; Marwin prépare, organise, coordonne et produit ses livrables ; l'entité de GianLuca signe, commande et paie** [PR] (`travaux/strategie-retenue.md:187-189`). Le tableau de la section 3 dit, pour dix-sept types d'actes, qui propose, autorise, exécute, contrôle, valide et assume.
+2. **GianLuca décide ; Marwin prépare, organise, coordonne et produit ses livrables ; l'entité de GianLuca signe, commande et paie** [PR] (`travaux/strategie-retenue.md:187-189, 574-585`). Le tableau de la section 3 dit, pour dix-sept types d'actes, qui propose, autorise, exécute, contrôle, valide et assume.
 3. **« S'occuper de tout » ne veut pas dire agir au nom du client.** Sur les quinze demandes relevées dans les archives, Marwin n'agit au nom de l'entité que dans deux cas, toujours plafonnés : des achats courants sous mandat et les urgences. Tout le reste est l'exécution de ses propres livrables, de la coordination ou de la préparation de décisions (section 4) [PR, ce livrable].
 4. **Mandat de dépense à 0 € pendant le cadrage et le pilote.** Ensuite seulement, avec un socle récurrent : 500 € HT par acte et 1 500 € HT par mois et par entité, sur une liste fermée. Contrats, recrutements, emprunts, baux et travaux ne sont jamais délégués [PR] (`travaux/strategie-retenue.md:589-591`).
 5. **Le silence ne vaut jamais autorisation.** Il ne déclenche qu'une chose : l'exigibilité du solde d'un livrable remis sans réserve motivée, pour la facturation seulement [PR] (`travaux/strategie-retenue.md:603-606`).
@@ -100,7 +100,7 @@ Le tableau reprend `travaux/strategie-retenue.md:574-585` et y ajoute la colonne
 
 ### 4.1 D'où vient la formule
 
-Morgan l'emploie dans sa demande (`travaux/DEMANDE.md:46`). Les archives la déclinent en trois volets, « Cadrer », « Produire », « Piloter », dont le dernier comprend le « suivi centralisé des établissements (encaissements, dépenses, trésorerie, factures) », la « gestion administrative déléguée », la « coordination des prestataires locaux », les « séjours des invités » et les « événements » [PR] (`interne/offre-marwin-tech-remuneration-et-collaboration.md:9, 52`). Plusieurs de ces actes touchent des activités réservées ; un agent d'IA qui les ferait les ferait exercer par Marwin [HY fondée sur des textes FV] (`travaux/rj-R3-travail-contrats.md:349-358, 363`).
+Morgan l'emploie dans sa demande (`travaux/DEMANDE.md:46`). Les archives la déclinent en trois volets, « Cadrer », « Produire », « Piloter », dont le dernier comprend le « suivi centralisé des établissements (encaissements, dépenses, trésorerie, factures, points d'attention) », la « gestion administrative déléguée », la « coordination des prestataires locaux », les « séjours des invités » et les « événements art et restauration » [PR] (`interne/offre-marwin-tech-remuneration-et-collaboration.md:9, 52`). Plusieurs de ces actes touchent des activités réservées ; un agent d'IA qui les ferait les ferait exercer par Marwin [HY fondée sur des textes FV] (`travaux/rj-R3-travail-contrats.md:349-358, 363`).
 
 ### 4.2 Ce que Marwin fait, et ce qu'elle ne fait pas
 
@@ -167,7 +167,7 @@ Toute dépense de plus de 300 € HT, ou tout abonnement : accord des deux assoc
 
 ### 5.5 La capacité est aussi un plafond
 
-Au-delà de 90 % des JP réservées avant le 20 du mois, les travaux non urgents s'arrêtent ; au-delà de 100 %, avenant écrit ou report, jamais de travail gratuit [PR] (`travaux/strategie-retenue.md:593` ; `travaux/syn-capacite-ia.md:298`). La capacité non consommée du socle se reporte d'au plus 20 %, pour du pilotage seulement ; elle ne se convertit jamais en production (`travaux/strategie-retenue.md:283`). Le plafond interne de 10 JP facturables par mois la première année ne figure pas au contrat ; le contrat montre des paliers de périmètre (`travaux/strategie-retenue.md:43, 787`).
+Au-delà de 90 % des JP réservées avant le 20 du mois, les travaux non urgents s'arrêtent ; au-delà de 100 %, avenant écrit ou report, jamais de travail gratuit [PR] (`travaux/strategie-retenue.md:593` ; `travaux/syn-capacite-ia.md:298`). La capacité non consommée du socle se reporte d'au plus 20 %, pour du pilotage seulement ; elle ne se convertit jamais en production (`travaux/strategie-retenue.md:283`). Le plafond interne de 10 JP facturables par mois la première année ne figure pas au contrat ; le contrat montre des paliers de périmètre (`travaux/strategie-retenue.md:43, 788`).
 
 ---
 
@@ -586,7 +586,7 @@ Rien ne s'encaisse avant l'immatriculation, ni sur un compte personnel, ni par l
 | Activité exclue | Commission sur les ventes, encaissement pour la galerie, robot au contact du public | **Refuser** | Les deux | `travaux/strategie-retenue.md:685` |
 | Besoin trop large et non cadré | 20 à 40 JP par mois sans entité, mandat ni accès | **Refuser** sous cette forme ; proposer le cadrage | Les deux | `travaux/strategie-retenue.md:702` |
 | Personne côté client | Aucune personne désignée et glissement vers l'exécution | **Réduire** le socle au pilotage ; pas de reprise de l'exécution | Les deux | `travaux/strategie-retenue.md:337` |
-| Absence d'engagement | Aucune entité au 15 déc. 2026 ; cadrage non payé au 31 janv. 2027 | **Reporter** sans production | Les deux | `travaux/strategie-retenue.md:697-698` |
+| Absence d'engagement | Aucune entité nommée ou aucun rendez-vous au 15 déc. 2026 ; cadrage non commandé et payé au 31 janv. 2027 | Au 15 déc. : **reporter** à janvier, sans production ; au 31 janv. : **reporter sans date** et réorienter le temps vers d'autres clients | Les deux | `travaux/strategie-retenue.md:697-698` |
 | Désaccord entre associés | Sur une décision de la liste d'unanimité | **Rien n'est proposé** au client tant qu'il dure | Les deux | `travaux/strategie-retenue.md:614` |
 
 La liste complète des réponses « réduire, reporter, refuser » est dans `travaux/strategie-retenue.md:691-705` ; elle n'est pas recopiée ici. Les seuils internes de saturation sont dans 06-fonctionnement-a-deux.md, section 8.
@@ -606,7 +606,7 @@ La liste complète des réponses « réduire, reporter, refuser » est dans `tra
 | Délai de 7 jours appliqué par prudence | L221-3 C. consom. [FV] | Le contrat de Marwin peut être hors établissement [HY] | Définition non relue par l'audit | Écart, section 11.6 |
 | Aucune rétention technique en cas d'impayé | Comptes au nom du client [PR] ; données toujours restituables [PR] | Les recours contractuels suffisent | Exposition ≤ 6 000 € HT environ [ES] | Contrat-cadre (section 12.1) |
 | Remettre sans céder ; licence qui permet la maintenance par un tiers | Art. L131-1 à L131-3 CPI [FV] ; promesse du diaporama inexacte [FV] | Les composants génériques se distinguent au bon de commande | Propriété du CRM non réglée [IN] | Annexe des droits ; pacte avant tout lot CRM |
-| Démarrage par étapes, chacune avec sa preuve | Dix conditions de la stratégie [PR] ; fuite non traitée [ES] | Un rendez-vous peut être obtenu avant le 15 déc. | Aucun rendez-vous fixé [FV] (`travaux/note-point-4-novembre-et-activites.md:5`) | Décisions n° 1 à 5 (`travaux/strategie-retenue.md:713-719`) |
+| Démarrage par étapes, chacune avec sa preuve | Dix conditions de la stratégie [PR] ; dépôt du CRM encore public le 4 nov. à 16 h 19 [DR] (`interne/contexte-projet-carlone.md:5`) | Un rendez-vous peut être obtenu avant le 15 déc. | Aucun rendez-vous avec GianLuca dans l'agenda de Morgan lu le 4 nov. [FV] (`travaux/note-point-4-novembre-et-activites.md:5`) ; aucun autre rendez-vous connu [IN] | Décisions n° 1 à 5 (`travaux/strategie-retenue.md:713-719`) |
 
 ---
 
@@ -644,3 +644,5 @@ Les questions déjà posées dans 10-structures-et-relations.md (section 19) ne 
 - **La visibilité actuelle du dépôt FinanceScope/CRM-Carlone** et la date exacte de connaissance de la fuite n'ont pas été revérifiées par l'audit (`travaux/strategie-retenue.md:836`).
 - **La collecte est incomplète** : 169 conversations ChatGPT lues sur 219 ; une promesse faite au client sur la délégation, le paiement ou la réversibilité peut exister hors du corpus (`travaux/strategie-retenue.md:835`).
 - **Les seuils et délais proposés** (5, 10 et 15 jours ouvrés ; 500 et 1 500 € HT ; 24 h) sont des choix de gouvernance, pas des règles légales. Ils seront à ajuster après la mesure du pilote.
+
+Relu et contrôlé le 4 novembre 2026 : 24 vérifications, 6 corrections.
