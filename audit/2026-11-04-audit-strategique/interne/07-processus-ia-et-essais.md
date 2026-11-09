@@ -1,7 +1,7 @@
 # Processus IA prioritaires et protocoles d'essai
 
 Audit Marwin Tech × GianLuca Carlone · livrable 7 sur 15 · 4 novembre 2026
-Statut : interne (ne pas transmettre à GianLuca Carlone). Les protocoles d'essai (section 6), la grille de sécurité (section 8) et la liste de restitution (section 11) peuvent servir de base à une annexe contractuelle, sans les coûts, les seuils de rentabilité ni les marges.
+Statut : interne (ne pas transmettre à GianLuca Carlone). Les protocoles d'essai (section 6), la grille de sécurité (section 8) et la liste de restitution (section 11) peuvent servir de base à une annexe contractuelle, après accord écrit des deux associés et après retrait des coûts, des JP, des seuils de rentabilité, des marges, des démonstrateurs internes et de toute mention de Medhi, BOJ.ART, STRATES, du laboratoire ou de l'incident de données hors des termes validés par le conseil (`travaux/strategie-retenue.md:783-797`).
 Sources principales : `travaux/syn-capacite-ia.md` (sections 5, 6 et 8) ; `travaux/rj-R4-donnees-ia.md` et `travaux/ver-R4-donnees-ia.md` ; `travaux/rj-R6-marche.md` (partie d) et `travaux/ver-R6-marche.md` ; `travaux/strategie-retenue.md` (sections 4.7, 4.13 et 9) ; `modele-financier/stress-tests.md` ; pièces d'origine du dépôt Momolscode/Carlone (commit 7b46602), rouvertes en lecture seule.
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 
@@ -17,8 +17,8 @@ Codes : [FV] fait vérifié ; [DR] déclaration rapportée ; [PR] proposition ; 
 
 ## 0. L'essentiel
 
-1. **Aucun gain de l'IA n'est mesuré aujourd'hui** [IN]. Les pièces montrent du volume produit, pas des résultats acceptés : un CRM de 500 fiches dont 283 numéros sur 471 restent « à confirmer », une seule date de vérification et aucun appel [FV] (`travaux/ex-C5-crm.md:39-40`) ; une cible de −30 % de temps jamais mesurée (`sources/chatgpt-pages/2026-11-04-complement/marwin-structure-et-offres.md:122`).
-2. **Aucun des onze processus ne justifie un développement spécifique.** Neuf relèvent d'une organisation simple et d'outils existants bien configurés, avec l'IA en assistance contrôlée. Deux admettent une intégration légère, après essai seulement : la recherche documentaire et la détection des incohérences [PR] (`travaux/syn-capacite-ia.md:654-666`).
+1. **Aucun gain de l'IA n'est mesuré aujourd'hui** [IN]. Les pièces montrent du volume produit, pas des résultats acceptés : un CRM de 500 fiches dont 283 numéros sur 471 restent « à confirmer », une seule date de vérification et aucun appel [FV] (`travaux/ex-C5-crm.md:39-40, 49`) ; une cible de −30 % de temps jamais mesurée (`sources/chatgpt-pages/2026-11-04-complement/marwin-structure-et-offres.md:122`).
+2. **Aucun des onze processus ne justifie un développement spécifique.** Tous partent d'une organisation simple et d'outils existants bien configurés, avec l'IA en assistance contrôlée. Une intégration légère n'est envisagée qu'après essai, sur une partie étroite : surtout la recherche documentaire et la détection des incohérences (essais P3 et P4), puis le résumé hebdomadaire du registre et l'échange de fichiers du CRM si Quali Contact est engagé (tableau 3.0) [PR] (`travaux/syn-capacite-ia.md:654-666`).
 3. **Rien n'est automatisé au départ.** Seuls les rappels internes, le résumé hebdomadaire et les contrôles déterministes (dates, montants, doublons) peuvent l'être après essais. Toute action vers l'extérieur (envoi, appel, modification du CRM, dépense) reste soumise à une approbation humaine [PR].
 4. **Le coût réel est le temps humain, pas l'abonnement.** Les outils coûtent 150 à 400 € par mois à Marwin dans le scénario central (`travaux/strategie-retenue.md:505`). Le registre des décisions, par exemple, coûte environ 4 000 à 10 500 € sur douze mois en conception, maintenance, restauration, formation et sortie [ES] : il faudrait gagner 0,5 à 0,9 JP par mois pour le rembourser en temps. **La première année, il se justifie par la qualité et la traçabilité, pas par une économie de temps** (section 5).
 5. **Quatre essais, financés différemment** [PR] : démonstrateurs internes (registre, recherche documentaire, en option contrôle des incohérences) payés par Marwin, plafonnés à 8 JP avant le 2 février 2027 ; un seul pilote client, dans la voie choisie par GianLuca après le cadrage : registre et comptes rendus dans le socle pilote (voie b) ou l'outillage (voie c), qualification du CRM dans le pilote commercial (voie a) (section 6.0).
@@ -66,7 +66,7 @@ Le CRM a pourtant été construit avant tout contrat et sans ces règles. Ce liv
 | Offres d'IA | Professionnelles seulement (API, Team, Business, Enterprise), entraînement désactivé, comptes au nom de Marwin ou de l'entité cliente, jamais sur un compte personnel | `travaux/rj-R4-donnees-ia.md:350, 405` |
 | Classement des actions | **Autonome** : lire, chercher, résumer, proposer. **Approbation humaine** : envoyer, appeler, modifier le CRM, publier, engager une dépense. **Interdit** : payer, supprimer en masse, changer des droits | `travaux/rj-R4-donnees-ia.md:479` (ANSSI, principe 3) |
 | Documents = données | Toute instruction trouvée dans un document est signalée, jamais exécutée | `travaux/rj-R4-donnees-ia.md:478` ; exemples réels : `crm/PASSATION.md:32, 34, 38` |
-| Calculs | Montants, sommes et dates calculés par formule, jamais par le modèle de langage. Toute formule fiscale est validée par un professionnel : le simulateur du CRM applique un taux d'IS fixe de 25 % sans limite par le bénéfice (`crm/art_merge.py:19, 129`) [FV] ; pour une entreprise, il affiche 1 043 750 € d'« économie max » sur cinq ans, alors que l'impôt en moins ne peut guère dépasser 32 500 € par an [ES] | `travaux/ver-C5-crm.md:19` |
+| Calculs | Montants, sommes et dates calculés par formule, jamais par le modèle de langage. Toute formule fiscale est validée par un professionnel : le simulateur du CRM applique un taux d'IS fixe de 25 % sans limite par le bénéfice (`crm/art_merge.py:19, 129`) [FV] ; pour une entreprise qui fait 130 000 € de bénéfice, il affiche 1 043 750 € d'« économie max » sur cinq ans, alors que l'impôt en moins ne peut guère dépasser 32 500 € par an pour elle [ES] | `travaux/ver-C5-crm.md:19` |
 | Mesure | Temps humain total (préparation, exécution, contrôle, corrections, reprises) ; erreurs restantes ; coût par résultat accepté ; cas d'échec conservés ; essais refaits à chaque changement d'outil, de modèle ou de source | `sources/chatgpt-pages/2026-11-04-complement/marwin-methode-consulting-audits.md:69` |
 | Comptes et coûts | Outils du client ouverts à son nom et payés par lui ; Marwin n'avance aucun achat ni abonnement | `travaux/strategie-retenue.md:188-189` |
 | Responsable | Chaque processus a un responsable, un suppléant et une fiche de secours manuel testée | `travaux/syn-capacite-ia.md:862` |
@@ -224,7 +224,7 @@ L'option 2 est un **préalable** aux options 3 à 5 : un outil ne corrige pas un
 | Données autorisées | Œuvres et images dont les droits sont acquis ; aucune image de personne sans accord |
 | Traitement | Brouillons de textes ; visuels d'intention générés ; montage |
 | Intervention humaine | Relecture ; vérification des droits ; artiste consulté pour ses œuvres ; photographe professionnel pour les reproductions d'œuvres, payé par le client |
-| Contrôle | Mention « image générée par IA » pour tout visuel réaliste (AI Act, art. 50, § 4, applicable depuis le 2 août 2026, `travaux/syn-droit.md:659`) ; aucun personnage protégé |
+| Contrôle | Mention « image générée par IA » pour tout visuel réaliste (AI Act, art. 50, § 4, applicable depuis le 2 août 2026, `travaux/syn-droit.md:652, 659`) ; aucun personnage protégé |
 | Sortie | Contenus validés et datés |
 | Résultat à mesurer | Validation au premier passage ; délai ; incidents de droits (cible : 0) |
 | Mode | (b) ; (c) pour la photographie d'œuvres |
@@ -377,7 +377,7 @@ Calcul : (mise en place + 12 × maintenance mensuelle) × 700 à 900 € + 12 ×
 | Formation | 0,5 à 1 JP (délégué, personne désignée) | 0,25 JP | 0,25 à 0,5 JP | 0,5 JP | 0,5 JP (appelant) | — |
 | Changement de fournisseur, s'il survient | 1 à 2 JP | 1 à 2 JP | 0,5 à 1 JP | 0,5 à 1 JP | 0,5 à 1 JP | 0,5 JP |
 | Support et sortie | 0,25 à 0,5 JP | 0,25 JP | 0,25 JP | 0,5 à 1 JP | 0,5 JP (export, purge attestée) | — (outil de Marwin) |
-| **Total, hors contrôle et hors changement de fournisseur** | **≈ 5,5 à 11 JP**, soit ≈ 4 000 à 10 500 €, plus 200 à 600 € d'outils | **≈ 3,5 à 7 JP**, soit ≈ 2 500 à 6 500 €, plus ≈ 150 € | **≈ 6 à 8,5 JP**, soit ≈ 4 000 à 8 000 €, plus 0 à 550 € | **≈ 18,5 à 24,5 JP**, soit ≈ 13 000 à 23 000 €, plus 100 à 1 200 € | **≈ 6 à 10,5 JP**, soit ≈ 4 500 à 10 000 €, plus 0 à 600 € | **≈ 6,5 à 11 JP**, soit ≈ 4 500 à 10 000 €, plus 150 à 400 € |
+| **Total, hors contrôle et hors changement de fournisseur** (euros : JP × 700 à 900 €, outils compris, arrondi) | **≈ 5,5 à 11 JP**, soit ≈ 4 000 à 10 500 €, dont 200 à 600 € d'outils | **≈ 3,5 à 7 JP**, soit ≈ 2 500 à 6 500 €, dont ≈ 150 € d'outils | **≈ 6 à 8,5 JP**, soit ≈ 4 000 à 8 000 €, dont 0 à 550 € d'outils | **≈ 18,5 à 24,5 JP**, soit ≈ 13 000 à 23 000 €, dont 100 à 1 200 € d'outils | **≈ 6 à 10,5 JP**, soit ≈ 4 500 à 10 000 €, dont 0 à 600 € d'outils | **≈ 6,5 à 10,5 JP**, soit ≈ 4 500 à 10 000 €, dont 150 à 400 € d'outils |
 | **Temps à gagner par mois pour couvrir ces coûts** | ≈ 0,5 à 0,9 JP | ≈ 0,6 à 1,2 JP | ≈ 0,5 à 0,7 JP | ≈ 1,5 à 2 JP | ≈ 0,5 à 0,9 JP | ≈ 0,5 à 0,9 JP |
 | **Lecture** | Ne se rembourse probablement pas en temps la première année ; se justifie par la qualité (décisions complètes, traçabilité) et par le socle qu'il rend possible | Seulement si le résumé manuel mesuré dépasse ≈ 1 JP par mois ; sinon, résumé assisté (option 3) | Raisonnable si l'outil sert plusieurs fois par jour | Peu probable à notre échelle ; ne passe pas le seuil de maintenance d'une exploitation | Conception payée par le pilote commercial ; l'exploitation reste à prouver | Sert d'abord à éviter une erreur de prix ou de paiement, pas à gagner du temps |
 
@@ -528,7 +528,7 @@ Les fiches sont conservées avec le jeu d'essai. Sans référence mesurée **ava
 - **Capacité libérée** la première année : 0,9 JP moins les coûts propres de l'outil (≈ 0,5 à 0,9 JP par mois, section 5.2), soit **0 à 0,4 JP par mois**. La deuxième année, une fois la mise en place payée, environ 0,6 à 0,8 JP.
 - **Économie réelle** : pour GianLuca, 0 € pendant le contrat, car le prix du socle ne baisse pas quand le temps baisse (`travaux/strategie-retenue.md:419`). Pour Marwin, 0 à 350 € par mois environ, et seulement si ce temps est vendu à un autre travail ou sert la prospection.
 
-**Partage** [PR] (`travaux/strategie-retenue.md:418-423`) : la première année, le gain reste à Marwin ; au renouvellement, un tiers du gain mesuré revient au client ; une prime sur économie réelle n'est possible qu'à 12 mois, sur une dépense que GianLuca payait vraiment, mesurée et validée par écrit. Au client, on publie l'indicateur « équivalent temps humain évité », jamais des heures fictives (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:66`). Le mécanisme de prix est détaillé dans 04-catalogue-offres.md (section 7).
+**Partage** [PR] (`travaux/strategie-retenue.md:418-423`) : la première année, le gain reste à Marwin ; au renouvellement, un tiers du gain mesuré revient au client ; une prime sur économie réelle n'est possible qu'à 12 mois, sur une dépense que GianLuca payait vraiment, mesurée et validée par écrit. Au client, on publie l'indicateur « équivalent temps humain évité », jamais des heures fictives (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:66` ; `travaux/syn-capacite-ia.md:811`). Le mécanisme de prix est détaillé dans 04-catalogue-offres.md (section 7).
 
 ---
 
@@ -563,7 +563,7 @@ Dérivée du guide de l'ANSSI « Sécuriser un système IA agentique » (https:/
 
 ### 8.2 Plafonds de coût proposés [PR]
 
-- **Marwin, usage interne** : API ≤ 100 € par mois, dans l'enveloppe d'outils et d'IA de 150 à 400 € du scénario central (`travaux/strategie-retenue.md:505`) ; plafond journalier égal au dixième du plafond mensuel ; tout dépassement ou tout nouvel abonnement au-delà de 300 € HT demande l'accord des deux associés (`travaux/strategie-retenue.md:592`).
+- **Marwin, usage interne** : API ≤ 100 € par mois, dans l'enveloppe d'outils et d'IA de 150 à 400 € du scénario central (`travaux/strategie-retenue.md:505`) ; plafond journalier égal au dixième du plafond mensuel ; toute dépense de plus de 300 € HT et tout abonnement, quel que soit son montant, demandent l'accord des deux associés ; au-delà de 1 000 € HT ou de 3 mois, décision à l'unanimité prévue par le pacte (`travaux/strategie-retenue.md:592`).
 - **Client, en exploitation** : plafond mensuel écrit dans la fiche de l'offre D, sur les comptes de l'entité, payé par elle ; modèle le moins cher par défaut ; revue sous 30 jours si un fournisseur augmente ses prix ou change ses conditions (entraînement, lieu de stockage).
 - **Par tâche** : plafond fixé dans la fiche du processus avant l'essai, mesuré pendant le démonstrateur.
 
@@ -600,7 +600,7 @@ Dérivée du guide de l'ANSSI « Sécuriser un système IA agentique » (https:/
 | Fournisseur européen (par exemple Mistral) | Repli pour les données sensibles | Sans objet si le traitement reste dans l'Union | — | Offre professionnelle | Lieu d'hébergement et sous-traitants [IN] |
 | Quali Contact | Appels, si l'entité le choisit | Sans objet (société française, `travaux/rj-R6-marche.md:202`) | — | Contrat entre l'entité et Quali Contact | Existence et contenu du contrat [IN] |
 
-Les offres grand public (Claude Free, Pro ou Max ; ChatGPT Plus ou Pro) ne conviennent pas aux données du client : les conversations peuvent servir à l'entraînement et sont conservées cinq ans chez Anthropic si l'option est activée [FV] (`travaux/rj-R4-donnees-ia.md:350`). Morgan a un abonnement ChatGPT Pro, aujourd'hui en échec de prélèvement [DR] (`travaux/note-point-4-novembre-et-activites.md:8`).
+Les offres grand public (Claude Free, Pro ou Max ; ChatGPT Plus ou Pro) ne conviennent pas aux données du client : les conversations peuvent servir à l'entraînement et sont conservées cinq ans chez Anthropic si l'option est activée [FV] (`travaux/rj-R4-donnees-ia.md:350`). Un abonnement ChatGPT Pro figure parmi les abonnements en échec de prélèvement relevés dans les outils de Morgan [DR] (`travaux/note-point-4-novembre-et-activites.md:8`).
 
 ### 9.3 Liste de contrôle avant toute donnée réelle [PR]
 
@@ -625,7 +625,7 @@ Les offres grand public (Claude Free, Pro ou Max ; ChatGPT Plus ou Pro) ne convi
 | Fréquence | Export quotidien du CRM et du registre (CSV et JSON, avec la description des champs) ; sauvegarde complète hebdomadaire | `travaux/syn-capacite-ia.md:854` |
 | Copies | Trois copies, sur deux supports, dont une hors du fournisseur principal ; copies chiffrées ; **jamais dans un dépôt de code public** ; sauvegardes du client sur un espace à son nom | `travaux/syn-capacite-ia.md:855, 858` |
 | Objectifs | Perte de données maximale de 24 h ; reprise du registre et du CRM en un jour ouvré | `travaux/syn-capacite-ia.md:856` |
-| Restauration testée | Une fois par mois les trois premiers mois, puis chaque trimestre, dans un espace neuf, sans rejouer les actions déjà faites. Morgan sait le faire : restauration réussie sur BOJART [MM] | `travaux/syn-capacite-ia.md:857` ; `travaux/ex-C7-jarvis.md:47` |
+| Restauration testée | Une fois par mois les trois premiers mois, puis chaque trimestre, dans un espace neuf, sans rejouer les actions déjà faites. Une restauration dans un dossier neuf a déjà réussi sur la mémoire documentaire de BOJART, dans l'environnement d'un assistant [MM] ; la capacité des associés à la refaire seuls sur les outils du client n'est pas démontrée [IN] | `travaux/syn-capacite-ia.md:857` ; `travaux/ex-C7-jarvis.md:47` |
 | Journal | Inaltérable par l'agent ; chaîne demande → autorisation → action → résultat → auteur humain | Section 8.1 |
 | Arrêt | Bouton d'arrêt documenté (désactivation des automatismes, révocation des jetons), que peuvent déclencher Morgan, Mathys ou le délégué de GianLuca ; testé chaque trimestre ; aucun accord préalable n'est nécessaire pour arrêter | `travaux/syn-capacite-ia.md:845` ; `travaux/strategie-retenue.md:597` |
 | Reprise manuelle | Chaque processus a sa fiche de secours (section 3) ; « mode dégradé » testé une fois par trimestre | `travaux/syn-capacite-ia.md:862` |
@@ -719,3 +719,5 @@ Les associés peuvent utiliser des agents pour leur propre travail sur des donn�
 - **Les rôles RGPD, la qualification de Marwin au sens de l'AI Act et le traitement des entreprises opposées** sont des hypothèses à soumettre à l'avocat ou au DPD.
 - **La visibilité actuelle du dépôt FinanceScope/CRM-Carlone n'a pas été revérifiée** ; le dernier état documenté est « public » le 4 nov. (`interne/contexte-projet-carlone.md:11`).
 - **Les compétences et la disponibilité de Mathys**, qui porte l'essentiel des responsabilités techniques de ce livrable, ne sont documentées nulle part [IN] (`travaux/syn-capacite-ia.md:68`).
+
+Relu et contrôlé le 4 novembre 2026 : 32 vérifications, 10 corrections.

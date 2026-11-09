@@ -7,7 +7,7 @@ Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout
 
 Codes : [FV] fait vérifié ; [DR] déclaration rapportée ; [PR] proposition ; [HY] hypothèse ; [ES] estimation ou simulation ; [MM] résultat mesuré ; [IN] inconnu. Sauf mention, [PR] désigne une proposition de la stratégie retenue ; « [PR, précision] » signale une règle ajoutée par ce livrable. JP : journée-personne de 7 h ; deux associés présents une journée consomment 2 JP. Prix hors taxes (HT) ; TTC = HT × 1,2, la TVA étant facturée dès la première facture (`travaux/strategie-retenue.md:462`). Coûts, planchers dérivés et marges sont des [ES]. Les chemins `slides/…` renvoient à la copie du 4 nov. du diaporama client « Offre Marwin Tech pour Carlone », hors dépôt (11 vues).
 
-**Ce que ce livrable ajoute** : une fiche complète par offre, y compris pour chaque lot ; les planchers tirés de la règle des 750 € ; les marges recalculées ; la compatibilité des offres avec le plafond de 10 JP par mois ; trois écarts de calcul signalés en encadré. **Ce qu'il ne refait pas** : les chantiers et les acheteurs (03-cartographie-projets.md), la charge et la saturation (06-fonctionnement-a-deux.md), les protocoles d'essai (07-processus-ia-et-essais.md), la trésorerie (09-modele-economique-tresorerie.md), le texte commercial (11-proposition-commerciale-revisee.md ; pour-gianluca/proposition-de-cadrage.md), les clauses du contrat (12-gouvernance-contrat-sortie.md).
+**Ce que ce livrable ajoute** : une fiche complète par offre, y compris pour chaque lot ; les planchers tirés de la règle des 750 € ; les marges recalculées ; la compatibilité des offres avec le plafond de 10 JP par mois ; trois écarts avec la stratégie (deux de calcul, un de présentation) signalés en encadré. **Ce qu'il ne refait pas** : les chantiers et les acheteurs (03-cartographie-projets.md), la charge et la saturation (06-fonctionnement-a-deux.md), les protocoles d'essai (07-processus-ia-et-essais.md), la trésorerie (09-modele-economique-tresorerie.md), le texte commercial (11-proposition-commerciale-revisee.md ; pour-gianluca/proposition-de-cadrage.md), les clauses du contrat (12-gouvernance-contrat-sortie.md).
 
 ---
 
@@ -18,7 +18,7 @@ Codes : [FV] fait vérifié ; [DR] déclaration rapportée ; [PR] proposition ; 
 3. **Le temps sert à mesurer, pas à vendre.** Le taux de 750 € HT devient un plancher interne, jamais montré ni remisé. Le prix cible est de 800 à 950 € par JP estimée (`travaux/strategie-retenue.md:393-401`).
 4. **Les marges de la première année sont minces.** Avec au plus 10 JP facturées par mois, une JP coûte 710 à 885 € [ES]. La plupart des offres vont d'une marge un peu négative à environ 30 %. Le cadrage est peu rentable par choix ; les offres récurrentes sont révisées au mois 6 sur le coût mesuré.
 5. **Sont retirés** : les formules à 15 000 et 30 000 € HT, l'acompte de 7 500 €, l'engagement de six mois, l'« ancre » de 46 JP, les options laboratoire et création (section 6).
-6. **Trois écarts de calcul avec la stratégie** (encadrés des sections 3.2, 3.3 et 3.6) : le détail du cadrage fait 8,5 JP et non 8 ; le socle B1 peut demander 6 JP et non 5,5 ; l'avenant E montre un prix au temps alors que les documents client n'en montrent aucun. Aucun ne change un prix. Chacun change une règle de contrôle.
+6. **Trois écarts avec la stratégie, deux de calcul et un de présentation** (encadrés des sections 3.2, 3.3 et 3.6) : le détail du cadrage fait 8,5 JP et non 8 ; le socle B1 peut demander 6 JP et non 5,5 ; l'avenant E montre un prix au temps alors que les documents client n'en montrent aucun. Aucun ne change un prix. Chacun change une règle de contrôle.
 
 ---
 
@@ -48,7 +48,7 @@ Codes : [FV] fait vérifié ; [DR] déclaration rapportée ; [PR] proposition ; 
 | **Central, plafond de la première année** | **10** | **710 à 885 €** |
 | Haut (90 % chacun) | ≈ 20 | 508 à 614 € |
 
-- **Marge** = (prix − JP × coût complet) ÷ prix. À marge nulle, l'offre paie les associés 2 500 € nets par ETP, les frais fixes et la réserve, sans rien de plus. Une marge négative veut dire que les associés gagnent moins que ce repère. C'est le cas attendu de la première année : ≈ 1 100 à 1 500 € nets par associé et par mois en régime central (`modele-financier/scenarios.md:67`).
+- **Marge** = (prix − JP × coût complet) ÷ prix. À marge nulle, l'offre paie les associés 2 500 € nets par ETP, les frais fixes et la réserve, sans rien de plus. Une marge négative veut dire que les associés gagnent moins que ce repère. C'est le cas attendu de la première année : ≈ 1 100 à 1 500 € nets par associé et par mois en régime central, à partir du mois 4 et avant impôt sur le revenu [ES] (`modele-financier/scenarios.md:67`). La stratégie retenue indiquait 1 350 à 1 550 € ; le modèle financier est plus bas parce qu'il compte l'impôt sur les sociétés et les délais d'encaissement (`modele-financier/scenarios.md:21`).
 - **La colonne « 10 JP » est la plus réaliste la première année**, puisque la capacité engagée est plafonnée à 10 JP facturables par mois (`travaux/strategie-retenue.md:485`).
 - Une marge suppose que l'estimation en JP tient. Un dépassement de 50 % sur un lot de 6 000 € coûte ≈ 2 000 à 2 750 € de temps non payé (`travaux/strategie-retenue.md:531`).
 
@@ -113,7 +113,7 @@ Alerte de capacité : au-delà de 90 % des JP réservées avant le 20 du mois, a
 | **Dépendances** | Avocat ou DPD ; expert-comptable ; accord de Mathys |
 | **Capacité** | 9 à 17 JP sur les mois 0 à 2, dont 3 à 6 pour la fuite et la conformité minimale [ES] (`travaux/syn-capacite-ia.md:216-220`) |
 | **Durée** | Fuite : immédiat. Documents : au 13 nov. Message : au 19 nov. (`travaux/strategie-retenue.md:716`) |
-| **Prix** | 0 €. L'exposition des données est de notre fait (`travaux/syn-portefeuille.md:353`) |
+| **Prix** | 0 €. L'exposition des données est de notre fait (`travaux/syn-portefeuille.md:115, 353`) |
 | **Coûts** | Temps non rémunéré : ≈ 5 300 à 15 000 € au coût complet [ES, calculé ici : 9 × 591 à 17 × 885 €]. Sorties d'argent, payées sur l'apport des associés : conseil sur la fuite 1 000 à 3 000 € [HY] ; statuts et pacte 2 000 à 5 000 € HT [ES] ; formalités ; RC professionnelle [IN] (`travaux/strategie-retenue.md:214`) |
 | **Marge** | Négative par construction |
 | **Réception** | Dépôt privé vérifié ; fiche de violation ouverte ; décision datée et motivée ; documents conformes à la liste de `travaux/strategie-retenue.md:816-828` |
@@ -141,7 +141,7 @@ Alerte de capacité : au-delà de 90 % des JP réservées avant le 20 du mois, a
 | **Paiement** | 50 % à la commande (le travail démarre à l'encaissement) ; 50 % à la réception, sous 8 jours. Exposition maximale ≤ 3 250 € HT (`travaux/strategie-retenue.md:440`) | 50 % / 50 % ; exposition ≤ 2 400 € HT |
 | **Conditions de poursuite** | Cadrage payé à l'échéance ; inventaire validé par écrit ; au moins une priorité confiée avec un budget ; accès réellement fournis ; demande écrite d'une suite dans les 30 jours ; occupation de chaque associé ≤ 85 %. À défaut : arrêt propre, GianLuca garde le dossier (`travaux/strategie-retenue.md:237`) | Idem. Si GianLuca veut ensuite les livrables manquants, ils se vendent pour la différence, 1 700 € HT, jamais au prix d'un nouveau cadrage [PR, précision] |
 
-**Aide régionale au conseil.** L'offre du 2 nov. la décrit ainsi : « 50 % jusqu'à 15 000 € sur deux ans, dépôt avant signature du devis. Échéance annoncée : 31 décembre 2026, dans la limite des crédits » [DR] (`interne/offre-marwin-tech-remuneration-et-collaboration.md:175`). L'éligibilité d'un prestataire nouveau est [IN]. Ordre : dépôt, puis signature, puis acompte. On ne retarde pas le cadrage pour une aide incertaine (`travaux/strategie-retenue.md:239`).
+**Aide régionale au conseil.** L'offre du 2 nov. la décrit ainsi : « 50 % jusqu'à 15 000 € sur deux ans, dépôt avant signature du devis », puis « Échéance annoncée : 31 décembre 2026, dans la limite des crédits » [DR] (`interne/offre-marwin-tech-remuneration-et-collaboration.md:175`). L'éligibilité d'un prestataire nouveau est [IN]. Ordre : dépôt, puis signature, puis acompte. On ne retarde pas le cadrage pour une aide incertaine (`travaux/strategie-retenue.md:239`).
 
 > **Écart avec la stratégie retenue : capacité du cadrage.**
 > La stratégie annonce 8 JP, mais son propre détail additionne 1 + 1,5 + 2 + 1 + 1,5 + 0,5 + 1 = **8,5 JP** (`travaux/strategie-retenue.md:229`). Ce détail vient de `travaux/strat-S1-progressif.md:170`, qui annonçait d'ailleurs « 7 à 9 JP » ; le chiffre de 8 JP vient de la répartition « Morgan 5, Mathys 3 » (`travaux/strat-S2-pilotage.md:176`).
@@ -179,7 +179,7 @@ Sources du tableau, sauf mention : `travaux/strategie-retenue.md:266-281` ; marg
 **Règles propres au socle** [PR] (`travaux/strategie-retenue.md:283, 464`) : la capacité non consommée se reporte d'au plus 20 %, pour du pilotage seulement, et ne se convertit jamais en production ; pas de reconduction tacite ; le paiement en fin de mois (sous 7 jours) n'est concédé qu'après trois échéances payées à l'heure, avec suspension automatique 8 jours après l'échéance.
 
 > **Écart avec la stratégie retenue : capacité de B1.**
-> La stratégie calcule B1 comme « socle 2,5 à 3 JP + 1 à 1,5 JP par projet actif » (`travaux/strategie-retenue.md:273`). Avec deux projets, cela donne **4,5 à 6 JP**, et non 4,5 à 5,5. B2 utilise bien la fourchette complète (2,5 + 4 × 1 = 6,5 ; 3 + 4 × 1,5 = 9). La source de la formule est `travaux/syn-capacite-ia.md:245-246`.
+> La stratégie calcule B1 comme « socle 2,5 à 3 JP + 1 à 1,5 JP par projet actif » (`travaux/strategie-retenue.md:273`). Avec deux projets, cela donne **4,5 à 6 JP**, et non 4,5 à 5,5. B2 utilise bien la fourchette complète (2,5 + 4 × 1 = 6,5 ; 3 + 4 × 1,5 = 9). La source de la formule est `travaux/syn-capacite-ia.md:245-246`, qui donne même 2 à 3 JP pour le socle ; la stratégie retient 2,5 à 3. La borne haute (6 JP) est la même dans les deux cas.
 > *Conséquence.* À 6 JP, B1 vaut exactement 750 € par JP : le prix est au plancher, et la marge peut descendre à −18 % au coût de la première année.
 > *Ce que ce livrable retient.* Prix inchangé (4 500 €). La fiche de mission fixe une capacité de référence de 5,5 JP. Si le relevé montre plus de 5,5 JP consommées sur le socle deux mois de suite, le bilan trimestriel choisit entre réduire le périmètre (moins de dossiers de décision, un projet en veille de moins) et relever le prix au renouvellement à au moins 750 € × JP mesurées. Aucun travail gratuit entre-temps.
 > *Décision* : Morgan et Mathys valident ce déclencheur ; il est rappelé dans 06-fonctionnement-a-deux.md.
@@ -214,14 +214,14 @@ Sources du tableau, sauf mention : `travaux/strategie-retenue.md:266-281` ; marg
 | **Marge** | Marge type des lots |
 | **Réception** | *Livraison* : N fiches complètes (chaque champ rempli, ou marqué « inconnu » avec sa raison) et export remis (`travaux/syn-portefeuille.md:443`). *Adoption* : le catalogue sert à présenter des œuvres |
 | **Paiement** | 40 % / 60 % |
-| **Conditions de poursuite** | Un second lot d'œuvres se vend au prix unitaire du premier (section 7). Si 5 à 10 œuvres sont disponibles à la vente, avec prix et artiste vivant, un préalable de C2 est rempli (`travaux/strategie-retenue.md:311`) |
+| **Conditions de poursuite** | Un second lot d'œuvres se vend au prix unitaire du premier [PR, précision ; règle 1 de la section 7]. Si 5 à 10 œuvres sont disponibles à la vente, avec prix et artiste vivant, un préalable de C2 est rempli (`travaux/strategie-retenue.md:311`) |
 
 #### C2 : pilote commercial sur 20 comptes
 
 | Rubrique | Contenu |
 | --- | --- |
 | **Client** | La structure qui vend les œuvres, nommée dans chaque message ; elle est aussi responsable du traitement. Son existence est [IN] : son nom reste « à compléter » dans les mails du CRM (`travaux/syn-portefeuille.md:264`) |
-| **Problème** | GianLuca veut vendre des œuvres aux entreprises de la Nièvre [DR] (`sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:13`). Le fichier existe mais n'est ni fiable (283 numéros sur 471 « à confirmer »), ni conforme, ni utilisé [FV] (`travaux/syn-portefeuille.md:334-335`). On ignore si la cible achète |
+| **Problème** | GianLuca veut vendre des œuvres aux entreprises de la Nièvre [DR] (`sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:13`). Le fichier existe mais n'est ni fiable (283 numéros sur 471 « à confirmer »), ni conforme [FV] (`travaux/syn-portefeuille.md:334`). Aucun appel, rendez-vous ni vente n'est rapporté [DR] (`travaux/syn-portefeuille.md:335`). On ignore si la cible achète |
 | **Résultat** | 20 comptes qualifiés (source et date pour chaque champ) ; script et e-mail validés par le conseil de GianLuca ; outil de réimport des résultats d'appel ; rapport mesuré (joignabilité, rendez-vous, refus, oppositions, temps humain par fiche) [MM à produire] ; recommandation d'extension ou d'arrêt |
 | **Périmètre** | 2 semaines de préparation ; appui pendant 4 semaines d'appels (réimport hebdomadaire, ajustement du script) ; bilan. Comptes tirés des 37 cibles et des 57 fiches de priorité haute |
 | **Exclusions** | Les appels et les rendez-vous ; la vente ; toute commission ; tout encaissement ; le conseil fiscal ; tout agent vocal sortant ; tout connecteur Quali Contact sans modèle de fichier réel |
@@ -255,7 +255,7 @@ Source du tableau, sauf mention : `travaux/strategie-retenue.md:302-319`.
 | **Marge** | Marge type des lots |
 | **Réception** | *Livraison* : dossier complet, chaque autorisation avec son autorité et sa date limite de dépôt. *Adoption* : GianLuca décide par écrit de tenir ou d'abandonner l'événement (`travaux/syn-portefeuille.md:461`) |
 | **Paiement** | 40 % / 60 % |
-| **Conditions de poursuite** | Si l'événement est décidé : coordination sous mandat dans le socle, s'il est actif, ou nouveau lot. Marwin n'est jamais l'organisateur légal (`travaux/strategie-retenue.md:646`) |
+| **Conditions de poursuite** | Si l'événement est décidé : coordination sous mandat dans le socle, s'il est actif, ou nouveau lot. Marwin n'est jamais l'organisateur légal (`travaux/strategie-retenue.md:187, 646`) |
 
 #### C4 : tableau des lieux et de leurs obligations
 
@@ -310,7 +310,7 @@ Source du tableau, sauf mention : `travaux/strategie-retenue.md:302-319`.
 | **Prix** | **7 500 € HT** (9 000 € TTC), ≈ 830 à 940 € par JP ; plancher 6 750 € (9 × 750 €) ; au-delà de 8 JP, paiement 40 / 30 / 30 |
 | **Justification** | *Valeur* : GianLuca paie ensuite l'exécution au coût d'un assistant (≈ 27 000 à 34 000 € par an [ES]), pas au prix d'une prestation. *Coût* : 8 à 9 × 591 à 737 € ≈ 4 700 à 6 650 € |
 | **Coûts directs** | Négligeables ; outils au nom et à la charge de l'entité |
-| **Marge** [ES] | 11 à 37 % (12 JP) ; −6 à +24 % (10 JP) (`travaux/calculs/arbitre-calc/verif.py` § 11) |
+| **Marge** [ES] | ≈ 12 à 37 % (12 JP) ; −6 à +24 % (10 JP) (`travaux/calculs/arbitre-calc/verif.py` § 11 : 11,6 à 37,0 % ; la stratégie arrondit à 11 %) |
 | **Réception** | *Livraison* (déclenche le solde) : outils en service sur les comptes du client, procédures et fiches de secours remises, deux formations tenues, restauration réussie, exports remis. *Adoption* (décide de la suite) : la personne désignée utilise le registre quatre semaines de suite et traite au moins 80 % des comptes rendus. Si personne n'est désigné 15 jours ouvrés après la livraison, la livraison est prononcée et la mesure d'adoption devient un lot optionnel. **[PR, précision]** Ce lot ne refacture pas l'accompagnement de 30 jours déjà compris dans C6 |
 | **Paiement** | 40 % / 30 % / 30 % avec un jalon intermédiaire écrit |
 | **Conditions de poursuite** | Si personne n'est désigné, Marwin **ne reprend pas** l'exécution ; un socle éventuel reste limité au pilotage |
@@ -401,7 +401,7 @@ Source du tableau, sauf mention : `travaux/strategie-retenue.md:341-349`. Le mod
 > **Écart avec la stratégie retenue : un prix au temps visible du client.**
 > La stratégie dit que « le client ne voit aucun taux journalier » (`travaux/strategie-retenue.md:133`) et interdit tout taux journalier dans les documents client (`travaux/strategie-retenue.md:798`). Elle vend pourtant l'avenant E « 900 € HT par JP » (`travaux/strategie-retenue.md:203, 353`) et range le « taux d'avenant » parmi les éléments internes (`travaux/strategie-retenue.md:787`). Un avenant signé montre forcément son prix.
 > *Ce que ce livrable retient.* Le contrat-cadre et les documents client disent : « Travaux hors périmètre : devis forfaitaire écrit avant tout travail » et « Intervention urgente de la liste fermée : par demi-journée, 450 € HT (540 € TTC) ». Le chiffre de 900 € par JP reste la base interne de calcul des devis d'avenant. C'est un prix au temps, mais limité aux urgences, et il ne sert de base à aucune autre offre.
-> *Décision* : Morgan et Mathys valident cette formulation ; 11-proposition-commerciale-revisee.md et pour-gianluca/proposition-de-cadrage.md la reprennent.
+> *Décision* : Morgan et Mathys valident cette formulation. 11-proposition-commerciale-revisee.md la reprend ; pour-gianluca/proposition-de-cadrage.md ne porte que sur le cadrage et ne mentionne pas les urgences, ce qui est cohérent.
 
 ---
 
@@ -438,7 +438,7 @@ Les dix règles de la stratégie [PR] (`travaux/strategie-retenue.md:382-391`) :
 
 ## 5. Sort du taux de 750 € HT
 
-**Où il apparaît** [FV] : « Taux de référence : 750 € HT la journée-personne. On ajuste le périmètre et le nombre de jours, pas le taux » (`interne/offre-marwin-tech-remuneration-et-collaboration.md:18`) ; « Taux unique : 750 € HT la journée-personne » (diaporama client, copie du 4 nov., hors dépôt, `slides/formules.html:30`) ; « Hypothèse interne : vingt journées-personnes × 750 € HT = 15 000 € HT par mois. Ce calcul constitue une base de négociation » (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:64`) ; « Le repère de chiffrage est de 750 € HT par journée-personne » (`interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf` p. 3). Son origine n'est pas documentée [HY] (`travaux/syn-portefeuille.md:633`).
+**Où il apparaît** [FV] : « Taux de référence : 750 € HT la journée-personne. On ajuste le périmètre et le nombre de jours, pas le taux » (`interne/offre-marwin-tech-remuneration-et-collaboration.md:18`) ; « Taux unique : 750 € HT la journée-personne » (diaporama client, copie du 4 nov., hors dépôt, `slides/formules.html:30`) ; « Hypothèse interne : vingt journées-personnes × 750 € HT = 15 000 € HT par mois. Ce calcul constitue une base de négociation, à confirmer selon les compétences mobilisées, les coûts, le budget du client et le mandat réel » (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:64`) ; « Le repère de chiffrage est de 750 € HT par journée-personne » (`interne/archives-marwin-tech/options-structure-remuneration-v5-2026-10-30.pdf` p. 3). Son origine n'est pas documentée [IN] ; l'idée d'un calcul à rebours reste une hypothèse non prouvée [HY] (`travaux/syn-portefeuille.md:633`).
 
 **Ce qu'il vaut** [ES] :
 
@@ -469,7 +469,7 @@ Sources : `travaux/strategie-retenue.md:361-368`.
 | --- | --- | --- | --- | --- |
 | Formule de base : 15 000 € HT par mois, 20 JP, « environ un mi-temps » | `interne/offre-marwin-tech-remuneration-et-collaboration.md:13-15` ; diaporama, `slides/formules.html:9` | **Retirée** comme offre d'entrée | 78 à 83 % du temps disponible des deux associés, pas un mi-temps [ES] (`travaux/syn-capacite-ia.md:228`) ; aucune demande directe du client [FV négatif] | Jamais comme abonnement. Un chiffre d'affaires de cet ordre ne revient que comme somme d'un socle, de lots et d'une exploitation, après un pilote réussi, avec une sous-traitance financée |
 | Renforcement : 30 000 € HT par mois, 40 JP | `interne/offre-marwin-tech-remuneration-et-collaboration.md:13-15` ; diaporama, `slides/formules.html:20` | **Retiré** de toute présentation | 140 à 145 % du temps disponible [ES] (`travaux/syn-capacite-ia.md:229`) | Seulement avec un recrutement financé par un contrat renouvelé |
-| « Ancre » : renforcement plus laboratoire, 46 JP | `interne/offre-marwin-tech-remuneration-et-collaboration.md:246` | **Retirée** | Au-delà du plafond théorique de 35 JP bruts | Non |
+| « Ancre » : renforcement plus laboratoire, ≈ 46 JP par mois [ES : 40 JP plus 18 JP de R&D sur trois mois] | `interne/offre-marwin-tech-remuneration-et-collaboration.md:65, 246` | **Retirée** | Au-delà du plafond théorique de 35 JP bruts | Non |
 | Plancher de négociation : ≈ 10 300 € HT pour ≈ 14 JP | `interne/offre-marwin-tech-remuneration-et-collaboration.md:248` | **Retiré** | Remplacé par les planchers par offre (section 2) | Non |
 | Acompte de 7 500 € HT, six mois d'engagement | `interne/offre-marwin-tech-remuneration-et-collaboration.md:19, 193` ; diaporama, `slides/paiement.html:9-10` | **Retirés** | Ils accompagnaient la formule de six mois | Remplacés par l'acompte du cadrage (3 250 € HT), celui des lots (40 %) et le premier mois du socle payé à la signature. Le principe demeure : un acompte n'est ni du capital ni un prêt (`interne/offre-marwin-tech-remuneration-et-collaboration.md:142`) |
 | Mois 2 à 6 payés d'avance, contre « sous sept jours après facture de fin de mois » | `interne/offre-marwin-tech-remuneration-et-collaboration.md:19` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:57` | **Contradiction tranchée** | Le paiement suit la nature de la prestation | Fin de mois seulement pour la consommation variable, ou pour le socle après trois échéances payées à l'heure |
@@ -483,7 +483,7 @@ Sources : `travaux/strategie-retenue.md:361-368`.
 | Livrable « réputé accepté » sans réponse | `interne/offre-marwin-tech-remuneration-et-collaboration.md:206` | **Retiré** | Contredit « une absence de réponse ne vaut pas approbation » (`sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:103`) | Remplacé par le principe 10 |
 | CRM « offert à ce jour » | `interne/offre-marwin-tech-remuneration-et-collaboration.md:227` | **Jamais facturé** | Règle 4 de la section 4 | Régime écrit avant tout lot CRM |
 
-**Ce que le découpage change en montant** [ES] : l'offre des archives demandait 90 000 € HT sur six mois. Le scénario central du catalogue facture ≈ 41 400 € HT sur les six premiers mois et ≈ 89 400 € HT sur douze (`modele-financier/scenarios.md:131-136, 41`). L'ambition n'est pas divisée. Elle est étalée et soumise à une réception à chaque palier. Le « contrat certain » reste de 0 € (`modele-financier/scenarios.md:46`).
+**Ce que le découpage change en montant** [ES] : l'offre des archives demandait 90 000 € HT sur six mois. Le scénario central du modèle financier facture ≈ 41 400 € HT sur les six premiers mois et ≈ 89 400 € HT sur douze (`modele-financier/scenarios.md:131-136, 41`). L'ambition n'est pas divisée. Elle est étalée et soumise à une réception à chaque palier. Le « contrat certain » reste de 0 € (`modele-financier/scenarios.md:46`).
 
 ---
 
@@ -587,3 +587,5 @@ Sources : `travaux/strategie-retenue.md:361-368`.
 - Version commerciale du catalogue : 11-proposition-commerciale-revisee.md ; pour-gianluca/proposition-de-cadrage.md.
 - Clauses de réception, de paiement, de droits et de sortie : 12-gouvernance-contrat-sortie.md.
 - Risques et décisions : 14-registre-risques-inconnues-decisions.md.
+
+Relu et contrôlé le 4 novembre 2026 : 32 vérifications, 15 corrections.

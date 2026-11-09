@@ -1,131 +1,154 @@
 # Proposition de cadrage
 
 Audit Marwin Tech × GianLuca Carlone · livrable 11 sur 15 · 4 novembre 2026
-Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider par Morgan et Mathys
-Sources principales : `travaux/strategie-retenue.md` (sections 4.3, 4.4, 5, 8, 9, 10 et 17) ; `sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md` ; `interne/contexte-projet-carlone.md` ; `sources/propositions-de-collaboration.pdf` ; dépôt Momolscode/Carlone, commit 7b46602.
+
+Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider par Morgan et Mathys. Avant tout envoi, retirer les lignes « Audit… », « Statut… » et « Sources principales… », ainsi que la note interne placée après la signature ; la phrase sur l'avis des professionnels peut rester.
+
+Sources principales : `travaux/strategie-retenue.md:182-190, 219-251, 427-468, 599-606, 639-669, 781-798` ; pièces d'origine relues le 4 nov. 2026 : `sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:7-16, 65`, `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:13, 100-105`, `interne/offres-de-carlone-catalogue-crm.md:9`, `sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` p. 1 et 32, `sources/propositions-de-collaboration.pdf` p. 1 ; 11-proposition-commerciale-revisee.md (sections 2.3, 2.5, 3.4) ; pour-gianluca/message-de-recadrage.md.
+
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
-
-**Projet du 4 novembre 2026 — non envoyé**
-
-> **Note aux associés, à retirer avant envoi** (avec les lignes d'en-tête de l'audit ; garder la phrase sur l'avis des professionnels).
->
-> - **Quand l'envoyer.** Après le message de recadrage (pour-gianluca/message-de-recadrage.md) et l'accord écrit des deux associés, jalon 3 de 08-feuille-de-route.md. La commande ne se signe qu'aux conditions de `travaux/strategie-retenue.md:658-669`.
-> - **Ce qui n'y figure pas, volontairement.** Le prix des suites possibles : il se donne à l'oral, et seulement si GianLuca le demande (11-proposition-commerciale-revisee.md, section 2.3). Les éléments de négociation restent dans 11-proposition-commerciale-revisee.md, section 3.
-> - **Ajout de ce livrable, à valider.** Validité de la proposition au 31 janvier 2027, alignée sur la date d'arrêt de `travaux/strategie-retenue.md:698`.
-> - **À vérifier avant envoi.** Ce que GianLuca a déjà vu ou reçu (`travaux/strategie-retenue.md:736`) ; le paragraphe sur la rétractation, avec l'avocat (`travaux/strategie-retenue.md:466`) ; l'orthographe « GianLuca Carlone » partout.
->
-> **Sources des points déterminants** (relues le 4 nov. 2026). Toutes les informations de la section 1 sont des déclarations rapportées par Morgan : aucune pièce ne contient une parole directe de GianLuca (`travaux/syn-sources.md:38`).
->
-> | Point du texte | Source |
-> | --- | --- |
-> | Vente d'œuvres aux entreprises de la Nièvre ; prestataire d'appels envisagé | `sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:7, 13` ; `interne/contexte-projet-carlone.md:24` |
-> | Lieux : bar-restaurant, ancien hôtel-restaurant destiné à une galerie, projet de cabaret, événement avec des artistes | `sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf p. 1` ; `sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:14-16` ; `interne/contexte-projet-carlone.md:24` |
-> | « Sans avoir à en gérer chaque détail » | `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:13` |
-> | Pistes présentées en octobre | `sources/propositions-de-collaboration.pdf p. 1` |
-> | Cadrage : objet, livrables, durée, prix, paiement, réception, exclusions, dépendances, suite sous 30 jours | `travaux/strategie-retenue.md:223-237, 440` |
-> | Trois voies et leurs préalables | `travaux/strategie-retenue.md:243-251, 302-337` |
-> | Façon de travailler | `travaux/strategie-retenue.md:184-189, 572-606, 560, 625-629` |
-> | Ce que nous ne faisons pas | `travaux/strategie-retenue.md:187, 639-656` |
-> | Étapes, TVA, retard, rétractation, aide régionale | `travaux/strategie-retenue.md:449-467, 239` ; `interne/offre-marwin-tech-remuneration-et-collaboration.md:175` |
-> | Questions du rendez-vous | `travaux/strategie-retenue.md:726-730` |
->
-> **Écart avec la stratégie retenue : une sous-question retirée.** La stratégie destine au client les questions 1 à 5 (`travaux/strategie-retenue.md:796`). La question 2 demande aussi si les « vingt jours par mois » viennent de lui (`travaux/strategie-retenue.md:727`). Ce texte retire cette sous-question. Elle renvoie à la formule de six mois, retirée, que ce document ne doit pas évoquer ; GianLuca ne l'a peut-être jamais vue (`travaux/syn-sources.md:352`) ; et les pièces attribuent ce chiffre tantôt à lui, tantôt à Morgan (`sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:65` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:7`). *Décision* : Morgan la pose à l'oral, si le sujet vient au rendez-vous (13-preparation-rendez-vous.md).
 
 ---
 
-**À l'attention de GianLuca Carlone**
-**De la part de Morgan Olsen et Mathys Couet, Marwin Tech (société en cours de constitution)**
+**Projet du 4 novembre 2026 — non envoyé**
 
-Cette proposition porte sur une seule prestation : un cadrage court, au forfait. Elle remplace les versions antérieures de notre offre. Ce qui viendrait ensuite, s'il y a une suite, sera décidé par vous, sur pièces, à la fin du cadrage.
+**Marwin Tech · Proposition à M. GianLuca Carlone**
+
+Nous vous proposons de commencer par un cadrage court, à prix fixe. Il vous permet de décider sur pièces, avant tout engagement plus long. Cette proposition remplace nos propositions précédentes d'accompagnement.
 
 ## 1. Ce que nous avons compris de vos projets
 
-Ce qui suit vient de nos échanges. Nous ne l'avons pas encore vérifié avec vous point par point : c'est le premier objet du cadrage.
+Ce résumé vient de nos échanges. Il est à corriger avec vous : rien n'est tenu pour acquis.
 
-- Vous êtes marchand d'art. Vous souhaitez vendre des œuvres à des entreprises de la Nièvre, en vous appuyant sur le dispositif fiscal prévu pour les entreprises qui achètent des œuvres d'artistes vivants. Ce dispositif devra être validé par votre conseil fiscal.
-- Vous envisagez de confier les appels à un prestataire spécialisé (Quali Contact).
-- Vous possédez ou projetez d'acquérir plusieurs lieux : un bar-restaurant, un ancien hôtel-restaurant avec cour destiné à accueillir une galerie en 2027, et un établissement que vous aimeriez transformer en cabaret.
-- Vous souhaitez organiser des événements qui réunissent des artistes.
-- Vous voulez faire avancer ces projets « sans avoir à en gérer chaque détail », avec une équipe qui relie les sujets, prépare vos décisions et suit les réalisations.
+| Sujet | Ce que nous avons compris | Ce que nous ignorons encore |
+| --- | --- | --- |
+| Vente d'œuvres | Vous souhaitez vendre des œuvres à des entreprises de la Nièvre, avec un centre d'appels (Quali Contact) que vous prévoyez d'engager. Un premier fichier de prospection existe | La société qui vend, les œuvres disponibles, qui appelle, le conseil qui valide les arguments fiscaux |
+| Galerie | Une galerie est prévue pour 2027 dans un ancien bar-restaurant-hôtel avec cour | Calendrier, budget, artistes, société exploitante |
+| Établissements | Vous avez acquis plusieurs bâtiments ; à Cosne-Cours-sur-Loire, le Vieux Relais et le M changent de main ; un cabaret est envisagé | Pour chaque lieu : propriétaire, exploitant, avancement, autorisations |
+| Événements | Vous souhaitez réunir des artistes et des peintres | Public, lieu, date, budget |
+| Organisation | Vous voulez avancer sans gérer chaque détail et déléguer une partie du suivi quotidien | Ce que vous déléguez, ce que vous gardez, qui travaille déjà avec vous |
 
-Les pistes que nous vous avons présentées en octobre (suivi de vos établissements, études de rentabilité, coordination des prestataires, catalogue privé de vos œuvres, événements) restent des pistes. Le cadrage dira lesquelles comptent vraiment pour vous.
-
-Ce que nous ne savons pas encore : quelle société porte chaque projet ; vos priorités ; vos budgets ; ce que la situation actuelle vous coûte en temps et en occasions manquées ; qui, chez vous, travaillera avec nous. Sans ces éléments, nous ne pouvons ni dimensionner un accompagnement, ni vous en donner un prix sérieux.
+Nous ne connaissons ni l'ordre de vos priorités, ni ce que chaque sujet vous prend aujourd'hui en temps, en argent ou en occasions manquées. C'est l'objet du cadrage.
 
 ## 2. Ce que nous proposons d'abord : un cadrage au forfait
 
-| Rubrique | Contenu |
-| --- | --- |
-| **Objet** | Faire avec vous l'inventaire de vos projets, choisir trois priorités et fixer les règles de délégation, pour que vous décidiez de la suite en connaissance de cause |
-| **Déroulement** | Un entretien de 2 à 3 heures sur place ; l'analyse des pièces que vous nous confiez (15 au plus) ; la remise d'un dossier écrit ; une restitution d'1 h 30 ; un aller-retour de corrections. L'un de nous mène le travail et reste votre interlocuteur ; l'autre relit et contrôle chaque livrable avant de vous le remettre |
-| **Livrables** | 1. L'inventaire de vos entités, lieux, projets, interlocuteurs et accès, à valider par écrit. 2. Trois priorités à 90 jours, choisies par vous. Pour chacune : un objectif mesurable, un budget indicatif, un responsable de votre côté, ce qu'elle vous coûte aujourd'hui (estimé avec vous) et le seuil à partir duquel une aide extérieure devient rentable pour vous. 3. La carte des rôles par projet : qui exploite le lieu, qui organise, qui vend, qui répond des données personnelles ; les professionnels à consulter. 4. Une grille de délégation et un projet de mandat par entité : actes délégués, plafonds, personne déléguée. 5. Une décision écrite sur le fichier de prospection préparé en octobre : l'utiliser ou non, au nom de quelle structure, et qui appelle. 6. Votre canal de travail et les personnes qui utiliseront les outils. 7. Un registre des décisions ouvert sur un compte au nom de votre entité, et une première mesure du temps que demande aujourd'hui le suivi de vos projets. 8. Une comparaison chiffrée des suites possibles (section 4), y compris le recrutement d'un coordinateur salarié |
-| **Durée** | 3 à 4 semaines à partir du paiement de l'acompte et de la réception des pièces. Les congés de fin d'année ne sont pas comptés |
-| **Prix** | **6 500 € HT, soit 7 800 € TTC** (TVA 20 %), forfaitaire, deux déplacements sur place compris |
-| **Paiement** | **Moitié à la commande** : 3 250 € HT (3 900 € TTC) ; le travail démarre à l'encaissement. **Moitié à la réception** : 3 250 € HT (3 900 € TTC), payables sous 8 jours |
-| **Réception** | Vous recevez le dossier, puis la restitution. Nous vous demandons une validation écrite des livrables 1, 2 et 4. Vous disposez de 10 jours ouvrés pour formuler des réserves motivées par écrit ; nous les corrigeons une fois. Sans réserve motivée, le solde devient exigible au plus tard 30 jours après la remise. Cette règle vaut pour la facturation seulement : elle ne vaut ni accord sur une suite, ni autorisation d'une dépense |
-| **Hors cadrage** | Conseil juridique ou fiscal ; étude détaillée de rentabilité d'un établissement ; tout contact avec des tiers ; toute utilisation du fichier de prospection ; production de supports, de catalogue ou d'outils ; visites de plus d'une journée |
+Sans liste partagée de vos sociétés, lieux, priorités, budgets et accès, personne ne peut dimensionner un accompagnement. Le cadrage la construit avec vous.
 
-**Ce que vous en retirez, même si vous vous arrêtez là.** Une vue complète et validée de vos projets. Trois priorités chiffrées. Des règles pour déléguer sans perdre la main. Une comparaison des options (nous, un recrutement, d'autres prestataires) établie à partir de vos propres chiffres. Une fois le cadrage réglé, le dossier est à vous : vous l'utilisez librement, avec nous, avec d'autres ou en interne. Vous décidez d'un engagement plus long sur pièces, et non sur une promesse.
+**Ce que vous recevez**
 
-## 3. Ce dont nous avons besoin de votre part
+1. Un inventaire de vos sociétés, lieux, projets, interlocuteurs et accès, validé par vous par écrit.
+2. Trois priorités à 90 jours, choisies par vous, chacune avec un objectif mesurable, un budget indicatif, un responsable chez vous, ce qu'elle vous fait perdre aujourd'hui et le seuil où une aide extérieure devient rentable pour vous.
+3. Une carte des rôles par projet (qui exploite, organise, vend, répond des données) et la liste des professionnels à consulter.
+4. Une grille de délégation et un projet de mandat par société : ce que vous pourriez confier, avec quels plafonds, et ce que vous gardez.
+5. Une décision écrite sur le fichier de prospection : l'exploiter ou non, au nom de quelle société, et qui appelle.
+6. Le moyen d'échange que vous utilisez vraiment, et les personnes qui se serviraient des outils.
+7. Un registre des décisions ouvert sur un compte de votre société, avec un relevé de départ de la façon dont vos décisions se prennent aujourd'hui.
+8. Une comparaison chiffrée des trois suites possibles (section 3), y compris l'embauche d'un coordinateur salarié.
 
-- **L'entité qui signe, paie et valide** : dénomination, SIREN, personne habilitée à signer, nombre de salariés. Une entité chef de file ; si d'autres sociétés sont concernées, elle les désigne par écrit.
-- **Un interlocuteur** : vous ou une personne que vous désignez, disponible pendant les trois à quatre semaines du cadrage pour répondre à nos questions et valider les livrables.
-- **Les pièces et les accès, sous 10 jours ouvrés après la commande**, dans un espace de partage ouvert au nom de votre entité. Par exemple : la liste de vos sociétés et de vos lieux, avec leur exploitant ; les budgets et devis en cours ; les contrats avec vos prestataires, dont celui d'appels s'il existe ; la liste des œuvres disponibles à la vente et la structure qui les vend.
-- **Deux rendez-vous** : l'entretien de départ et la restitution.
-- **Les coordonnées de votre expert-comptable et de votre conseil**, à qui nous transmettrons les points qui relèvent d'eux.
+**Déroulé.** Un entretien de 2 à 3 heures chez vous ; l'analyse des documents que vous nous confiez (une quinzaine au plus) ; la remise du dossier ; une restitution d'1 h 30, chez vous ou à distance ; un aller-retour de corrections. L'un de nous mène le travail, l'autre le relit avant toute remise. **Durée** : 3 à 4 semaines à partir de l'encaissement de l'acompte et de la réception des pièces, congés de fin d'année non comptés. **Hors cadrage** : conseil juridique ou fiscal, étude détaillée de rentabilité d'un établissement, prise de contact avec des tiers en votre nom, usage du fichier de prospection sur des données réelles, production de supports, de catalogue ou d'outils.
 
-## 4. Les suites possibles, décidées par vous après le cadrage
+**Prix et paiement**
 
-Après la restitution, vous choisissez une voie, ou aucune. Chaque voie est un essai de huit semaines au plus, sans reconduction tacite. La mesure de départ et les critères de réussite ou d'abandon sont fixés avec vous avant l'essai. Une seule voie à la fois : une deuxième ne s'ouvre qu'après la réception de la première. Chacune fait l'objet d'un devis séparé. Vous ne vous engagez aujourd'hui sur aucune d'elles.
-
-| Voie | Pour quel besoin | Ce que nous ferions | Ce qu'il faut de votre côté |
+| Échéance | HT | TVA 20 % | TTC |
 | --- | --- | --- | --- |
-| **(a) Ventes d'œuvres** | Vendre des œuvres à des entreprises de la Nièvre | Préparer 20 entreprises qualifiées, avec la source et la date de chaque information ; un script et un e-mail validés par votre conseil ; un outil pour suivre les résultats des appels ; un bilan mesuré, avec une recommandation de poursuivre ou d'arrêter. Les appels sont passés par vous, votre équipe ou votre prestataire | La structure qui vend, nommée ; 5 à 10 œuvres réellement disponibles, avec leur prix ; l'avis écrit de votre conseil fiscal ; la personne qui appelle ; un cadre écrit pour les données personnelles |
-| **(b) Pilotage** | Une équipe qui relie vos sujets et prépare vos décisions | Pendant deux mois : un point par semaine, un compte rendu sous 24 h ouvrées, un registre des décisions et un tableau de bord à votre nom, un comité mensuel. Et un premier travail concret, chiffré à part : le catalogue privé de 20 à 30 œuvres, ou le tableau de vos lieux et de leurs obligations | Un délégué nommé ; des décisions rendues sous 5 jours ouvrés ; les accès |
-| **(c) Organisation interne** | Ne plus gérer chaque détail, sans payer l'exécution au prix du conseil | Mettre en place le registre, le tableau de bord et 5 à 8 procédures écrites, sur des comptes à votre nom ; aider à rédiger la fiche de poste ; former la personne que vous désignez ou recrutez ; l'accompagner un mois | Votre décision de désigner ou de recruter cette personne |
+| Cadrage au forfait, déplacements des deux rendez-vous compris | 6 500 € | 1 300 € | 7 800 € |
+| Moitié à la commande ; le travail démarre à l'encaissement | 3 250 € | 650 € | 3 900 € |
+| Moitié à la réception, payable sous 8 jours | 3 250 € | 650 € | 3 900 € |
 
-Si l'essai est concluant, et seulement si vous le demandez par écrit, un suivi régulier pourra suivre : limité à un périmètre défini, renouvelable tous les trois mois, avec des travaux ponctuels chiffrés à part. Il n'est pas proposé aujourd'hui. Les ventes, les rendez-vous et les décisions dépendent de vous : nous les suivons, nous ne les promettons pas.
+Marwin Tech est en cours de constitution : le bon de commande peut être signé au nom de la société en formation, mais aucune facture n'est émise avant son immatriculation. Si un délai légal de rétractation s'applique, aucun paiement n'est demandé et aucun travail ne commence avant son terme. Si votre société ne récupère pas la TVA, retenez le montant TTC. En cas de retard, les pénalités légales et l'indemnité forfaitaire de 40 € s'appliquent, et le travail est suspendu huit jours après une relance restée sans effet.
 
-## 5. Notre façon de travailler
+**Réception.** Nous vous demandons une réception écrite des livrables 1, 2 et 4. Vous avez 10 jours ouvrés pour formuler des réserves motivées ; nous les corrigeons une fois. Sans réserve motivée, le solde devient exigible au plus tard 30 jours après la remise. Cette règle ne sert qu'à la facturation : elle ne vaut jamais accord sur une suite ni sur une dépense.
 
-- **Vous décidez.** Nous préparons chaque décision (options, risques, sources) ; vous ou votre délégué tranchez. Contrats, recrutements, emprunts, baux et travaux sont toujours signés par vous ou par la personne habilitée.
-- **Un registre des décisions.** Chaque décision y est notée avec son responsable, sa date et sa source, sur un compte de votre entité.
-- **Des comptes à votre nom dès le premier jour.** Outils, abonnements et espaces de travail sont ouverts au nom de votre entité ; nous y intervenons comme collaborateurs.
-- **Aucune dépense en votre nom** pendant le cadrage et pendant un éventuel essai. Achats et prestataires sont commandés et payés par votre entité. Nous n'avançons pas d'argent pour vous.
-- **Une réception écrite.** Chaque travail a ses critères de réception, écrits avant de commencer. Aucun travail n'est facturé deux fois ; tout travail hors périmètre fait l'objet d'un devis écrit avant de démarrer.
-- **Le silence ne vaut pas accord.** Sans réponse de votre part, le sujet attend ; nous relançons.
-- **La réversibilité.** Vos documents, vos données, les exports et les accès vous sont remis à tout moment ; une restitution complète se fait en 15 jours ouvrés au plus.
-- **La confidentialité.** Vos informations servent à vos projets, et à rien d'autre : ni à d'autres clients, ni à notre propre prospection.
-- **L'intelligence artificielle** n'est qu'un outil : offres professionnelles, travail relu par l'un de nous, aucune donnée personnelle traitée sans un cadre écrit avec votre entité.
-- **Un sujet, un accord.** Ce cadrage ne dépend d'aucun autre accord (locaux, emploi, participation) et n'en crée aucun.
+**Ce que vous en retirez, même si vous vous arrêtez là.** Une vue d'ensemble validée de vos projets, trois priorités chiffrées avec leurs responsables, des règles pour déléguer, un registre sur votre propre compte, et une comparaison qui vous laisse libre : nous, un salarié, un autre prestataire, ou aucune suite. Ces documents vous appartiennent au paiement du solde ; vous les utilisez avec qui vous voulez.
 
-## 6. Ce que nous ne faisons pas
+## 3. Après le cadrage : trois suites possibles, sans engagement
 
-- Le conseil juridique, fiscal ou comptable, et la tenue de la comptabilité : nous préparons les dossiers pour vos professionnels.
-- L'exécution administrative courante : factures, démarches, relances.
-- L'exploitation de vos lieux : licences, sécurité du public et rôle d'organisateur restent à votre entité ou à l'exploitant.
-- L'encaissement, la commission, l'intermédiation, la garde ou le transport dans la vente d'œuvres.
-- La réservation de séjours ou de voyages pour vos invités.
-- Une présence ou une astreinte 24 heures sur 24.
+Vous décidez s'il y a une suite dans les 30 jours qui suivent la restitution. Une seule voie à la fois, sous la forme d'un essai de huit semaines au plus, sans reconduction automatique. Le point de départ et les critères pour continuer ou arrêter sont fixés avec vous avant l'essai. Le prix de chaque voie figure dans la comparaison remise avec le cadrage.
+
+| Voie | Ce que nous ferions | Ce qu'il faut de votre côté |
+| --- | --- | --- |
+| **(a) Ventes d'œuvres** | Un essai sur 20 entreprises : fiches vérifiées et sourcées, script et e-mail validés par votre conseil, outil de suivi des appels, bilan mesuré. Appels, vente et encaissement restent à vous ou à vos prestataires | La société qui vend ; cinq à dix œuvres réellement disponibles, avec leur prix ; l'avis écrit de votre conseil fiscal ; la personne qui appelle ; la société responsable des données |
+| **(b) Pilotage** | Pendant deux mois : point hebdomadaire, compte rendu sous 24 h ouvrées, registre et tableau de bord à jour, comité mensuel, dossiers de décision ; et un premier travail concret, par exemple le catalogue privé de vos œuvres ou le tableau de vos lieux et de leurs obligations | Un interlocuteur nommé ; des réponses aux demandes de décision sous 5 jours ouvrés |
+| **(c) Organisation interne** | Nous outillons une personne que vous désignez ou recrutez : registre, tableau de bord, procédures écrites, comptes à votre nom, fiche de poste, formation. L'exécution se fait ensuite chez vous | La décision de désigner ou de recruter cette personne |
+
+Un pilotage régulier ne vient qu'après un essai concluant et à votre demande écrite : un nombre de projets fixé, par périodes de trois mois renouvelables par écrit.
+
+## 4. Notre façon de travailler
+
+- **Vous décidez.** Contrats, recrutements, emprunts, investissements, baux, travaux et dépenses restent à vous ou à la personne habilitée. Nous préparons et comparons.
+- **Aucune dépense engagée par nous** pendant le cadrage et l'essai. Achats et prestataires sont commandés et payés par votre société ; vos prestataires vous facturent directement.
+- **Un registre des décisions** (décision, responsable, date, source) et **des comptes à votre nom** dès le premier jour : nous y intervenons comme collaborateurs, vous gardez la main sur les accès.
+- **Une réception écrite** pour chaque livrable, sur des critères fixés avant de commencer. Le silence ne vaut jamais accord : sans réponse, l'engagement attend.
+- **La réversibilité.** À la fin, quelle qu'en soit la raison, nous remettons sous 15 jours ouvrés documents, exports, configurations et accès. Ce qui est produit pour vous vous est cédé au paiement complet.
+- **Vos informations** servent à vos projets, à rien d'autre. Les outils d'intelligence artificielle nous aident à préparer ; tout ce qui vous est remis est relu par l'un de nous.
+- **Un sujet, un accord.** Chaque prestation a son bon de commande, son prix et sa réception ; aucun travail n'est facturé deux fois. Toute autre relation (locaux, emploi, participation) ferait l'objet d'un accord séparé, sans lien avec nos honoraires.
+
+## 5. Ce que nous ne faisons pas
+
+- **Conseil juridique, fiscal ou comptable** : nous préparons les dossiers pour votre avocat et votre expert-comptable, qui décident. Aucun argument fiscal sans leur avis écrit.
+- **Exécution administrative courante** (paiements, déclarations, paie, classement) : elle peut revenir à une personne de votre équipe, que nous pouvons outiller.
+- **Exploitation des lieux** : licences, autorisations, sécurité du public et organisation légale des événements restent au nom de l'exploitant ou de l'organisateur, c'est-à-dire de votre société.
+- **Encaissement ou intermédiation de vente d'œuvres** : ni vente pour votre compte, ni encaissement, ni commission, ni garde ou transport d'œuvres.
+- **Promesse de ventes ou de rendez-vous** : nous les suivons, nous ne les promettons pas. Pas non plus d'organisation de séjours, ni d'astreinte le soir ou le week-end.
+
+## 6. Ce dont nous avons besoin de votre part
+
+| Besoin | Détail | Quand |
+| --- | --- | --- |
+| La société qui signe et paie | Dénomination, SIREN, personne habilitée, nombre de salariés ; elle paie et valide, ou désigne par écrit celles qui le font | Avant la commande |
+| Un interlocuteur | La personne qui travaille avec nous et répond aux demandes de décision | Avant la commande |
+| Pièces et accès | Liste des sociétés et des lieux ; actes, baux, contrats de prestataires, budgets ; œuvres disponibles si la vente est une priorité ; un compte de votre société pour le registre ; votre moyen d'échange préféré | Sous 10 jours ouvrés après la commande |
+| Vos conseils | Coordonnées de votre expert-comptable et de votre avocat | Avant la commande |
+| Deux précisions | Vos habitudes de paiement et la récupération de la TVA ; votre intérêt pour une aide publique au conseil, car certaines exigent un dépôt avant toute signature | Avant la commande |
 
 ## 7. Prochaines étapes
 
-1. **Un rendez-vous d'environ une heure**, à la date qui vous convient, pour corriger ce que nous avons compris et répondre à cinq questions :
-   - Quelle entité signe, paie et valide nos travaux ? Une seule, ou une par projet ?
-   - Quelles sont vos trois priorités pour les 90 prochains jours, et que vous coûte chacune aujourd'hui ?
-   - Quels sont le mode et le délai de paiement de votre entité ? Récupère-t-elle la TVA ?
-   - Qui, chez vous, travaillera avec nous au quotidien ? Quels accès pourrez-vous ouvrir, et par quel canal préférez-vous travailler ?
-   - Pour la vente d'œuvres : au nom de quelle structure vendez-vous, quelles œuvres sont disponibles, quel conseil fiscal vous suit, et qui passerait les appels ?
-2. **Aide régionale.** D'après nos informations, une aide régionale au conseil peut exister pour certaines entreprises ; le dossier doit alors être déposé avant toute signature. Nous n'en garantissons ni l'accès, ni le montant. Dites-nous avant de signer si vous souhaitez l'étudier.
-3. **Signature du bon de commande** par votre entité, avec nos conditions générales relues par notre avocat. Il peut être signé au nom de Marwin Tech, société en formation.
-4. **Immatriculation de Marwin Tech**, puis remise de l'extrait K-bis et de l'attestation de vigilance. Aucune facture et aucun paiement avant cette étape.
-5. **Facture d'acompte.** Le cadrage démarre à son encaissement. Si votre entité compte cinq salariés au plus et que le bon de commande est signé lors d'une rencontre en dehors de nos locaux, la loi peut lui ouvrir un délai de rétractation de 14 jours et interdire tout paiement pendant 7 jours : l'acompte serait alors demandé après ce délai. Nous le vérifierons avec notre avocat avant la signature.
-6. **Remise du dossier et restitution**, 3 à 4 semaines plus tard. Si vous souhaitez une suite, dites-le-nous par écrit dans les 30 jours ; sinon, le cadrage s'arrête là et vous gardez le dossier.
+1. Un premier rendez-vous d'une heure à une heure et demie, chez vous ou à distance, pour corriger ce résumé et relire le cadrage : [date à fixer, au plus tard le vendredi 11 décembre 2026].
+2. Signature du bon de commande par votre société, au nom de Marwin Tech, société en formation.
+3. Immatriculation de Marwin Tech ; remise de son extrait K-bis et de son attestation de vigilance ; facture d'acompte.
+4. Démarrage à l'encaissement de l'acompte et à la réception des pièces : début janvier 2027 si la commande est signée avant la mi-décembre.
+5. Remise du dossier et restitution 3 à 4 semaines plus tard ; réception ; solde ; votre décision sur une suite dans les 30 jours.
 
-À titre indicatif, un bon de commande signé en décembre permet de démarrer début janvier 2027. Cette proposition est valable jusqu'au 31 janvier 2027. Les montants sont indiqués hors taxes, sauf mention TTC. En cas de retard de paiement, les pénalités légales et l'indemnité forfaitaire de 40 € s'appliquent, et les travaux sont suspendus 8 jours après une relance restée sans effet.
+Restent à confirmer avec vous : notre compréhension de vos projets, la société qui signera, le lieu des rendez-vous, et l'application éventuelle d'un délai de rétractation ou d'une aide publique ; aucun engagement n'existe, de part ni d'autre, avant la signature du bon de commande.
 
-Morgan Olsen · Mathys Couet
+Morgan Olsen et Mathys Couet
 Marwin Tech (société en cours de constitution)
+[coordonnées]
 
-*Ce qui reste à confirmer avec vous : notre compréhension de vos projets et de vos lieux (section 1), l'entité qui signera et son nombre de salariés, la liste des pièces et des accès, la date du rendez-vous, votre intérêt pour l'aide régionale et, avec notre avocat, l'application éventuelle du délai de rétractation.*
+---
+
+## Note interne — à retirer avant envoi
+
+**Conditions d'envoi.**
+- Ce document part avec le message de recadrage, jamais avant lui, aux conditions de la note interne de pour-gianluca/message-de-recadrage.md : signature le jeudi 19 nov. 2026, envoi au plus tard le vendredi 27 nov. (08-feuille-de-route.md, section 3.2, livrable 9 ; section 7.1, jalon 3). Les écrits séparés prévus par cette note partent avant ce document ou avec lui.
+- Accord écrit de Morgan et de Mathys sur le texte ; prix et remises décidés à deux (`travaux/strategie-retenue.md:614` ; 11-proposition-commerciale-revisee.md, section 4.2).
+- Aucun ancien support joint, en particulier le diaporama non corrigé (11-proposition-commerciale-revisee.md, section 6.3).
+- Si la réponse de Morgan sur ce que GianLuca a déjà vu change le prix, appliquer 11-proposition-commerciale-revisee.md, section 3.2, et corriger les trois lignes du tableau de prix (HT, TVA, TTC).
+
+**Points à trancher avant envoi.**
+- Crochets : date du rendez-vous, coordonnées. Une date de validité de l'offre peut être ajoutée ; elle doit rester compatible avec les jalons 4 à 6 de 08-feuille-de-route.md, section 7.1.
+- « L'un de nous mène le travail, l'autre le relit » : à garder seulement si la fiche des disponibilités des deux associés est signée (11-proposition-commerciale-revisee.md, section 4.1).
+- Phrase sur la rétractation : à faire relire par l'avocat ; la règle elle-même n'est pas tranchée (`travaux/strategie-retenue.md:466`).
+- Section 1 : chaque ligne est une déclaration rapportée par Morgan, jamais confirmée par GianLuca ; aucune pièce ne contient sa parole directe (`travaux/syn-portefeuille.md:88-90`). Le statut du M est contradictoire : « souhaite racheter » (`sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:15`) contre « nous reprenons le Vieux Relais et le M » (`sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` p. 32, modèle de message du dossier de Mathys du 21 oct.) ; d'où la formule neutre « changent de main ».
+- Lieu des rendez-vous : le prix comprend les déplacements des deux rendez-vous ; le lieu de résidence des associés et celui de GianLuca ne sont pas documentés (`travaux/strategie-retenue.md:233`).
+
+**Sources par section.**
+
+| Section | Sources | Nature |
+| --- | --- | --- |
+| 1. Projets | `sources/chatgpt-pages/2026-11-04/carlone-offres-et-projets.md:7, 13-16, 65` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:13` ; `interne/offres-de-carlone-catalogue-crm.md:9` ; `sources/dossier-partenariats-vieux-relais-et-le-m-2026-10-21.pdf` p. 1 et 32 | Déclarations rapportées par Morgan ou rédigées par Marwin ; non confirmées par GianLuca |
+| 2. Cadrage | `travaux/strategie-retenue.md:219-239` (offre A), `:440` (échéancier), `:449-458` (ordre des opérations), `:462-466` (TVA, retard, rétractation) | Proposition |
+| 3. Suites | `travaux/strategie-retenue.md:241-251` (trois voies), `:253-283` (socle), `:291, 294` (lots C1 et C4), `:302-337` (fiches C2 et C6) ; 11-proposition-commerciale-revisee.md, section 2.3 (prix des voies donnés seulement sur demande) | Proposition |
+| 4. Façon de travailler | `travaux/strategie-retenue.md:182-190, 380-391, 560, 580, 589, 599-606, 619, 669` ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:100-103` | Proposition |
+| 5. Exclusions | `travaux/strategie-retenue.md:187, 639-656` | Proposition |
+| 6. Besoins | `travaux/strategie-retenue.md:223, 228, 664-668, 726-730` | Proposition |
+| 7. Étapes | `travaux/strategie-retenue.md:449-458` ; 08-feuille-de-route.md, section 3.2 (livrables 9, 12 et 13) et section 7.1 (jalons 3 à 6) | Proposition ; dates conditionnelles |
+
+**Deux choix de ce projet.**
+
+| Choix | Preuve | Hypothèse | Limite | Décision |
+| --- | --- | --- | --- | --- |
+| Présenter les trois voies sans leur prix | Prix des voies donnés seulement si GianLuca le demande (11-proposition-commerciale-revisee.md, section 2.3) ; une seule chose vendue au rendez-vous | Un seul prix à juger facilite la décision | GianLuca peut vouloir un ordre de grandeur avant de payer un cadrage | Morgan et Mathys préparent la réponse orale (même section) |
+| Ne rien promettre ici sur les mesures de sécurité des données (seul l'usage des informations est limité, section 4) | Ce sujet passe par un écrit séparé, validé par un conseil (`travaux/strategie-retenue.md:794`) | Un engagement écrit ici, avant cet écrit, pourrait être contredit | Le document paraît moins complet sur la confidentialité | Clause de confidentialité au bon de commande, après relecture du contrat-cadre par l'avocat (`travaux/strategie-retenue.md:556-560`) |
+
+**Contrôles faits pour ce livrable.** 6 500 × 1,2 = 7 800 € ; 3 250 × 1,2 = 3 900 € ; le 11 déc. 2026 est un vendredi. Recherche dans ce fichier : aucune occurrence des termes exclus des documents client (`travaux/strategie-retenue.md:661, 798`) ni de l'ancien prénom.
