@@ -4,11 +4,11 @@
 
 ## Conclusion en cinq lignes
 
-1. **Ce qui a changé.** En un an, les assistants sont passés de « répondre » à « préparer un travail entier » : lire les mails et les dossiers, remplir un tableau, rédiger un brouillon, puis attendre l'accord d'une personne. Trois grands éditeurs l'ont mis en vente entre avril et juillet 2026.
-2. **Ce qui est solide.** La lecture de documents vers un tableau avec un indice de confiance ; les connecteurs officiels vers la comptabilité et la banque (lire, préparer, jamais payer) ; les points réguliers programmés.
+1. **Ce qui a changé.** En un an, les assistants sont passés de « répondre » à « préparer un travail entier » : lire les mails et les dossiers, remplir un tableau, rédiger un brouillon, puis attendre l'accord d'une personne. Au 9 novembre 2026, trois grands éditeurs le vendent ; leurs annonces officielles lues sont datées du 16 juin, du 7 juillet et du 9 juillet 2026.
+2. **Ce qui est solide.** La lecture de documents vers un tableau avec un indice de confiance ; les connecteurs officiels vers la comptabilité et la banque (lire et préparer ; une demande de virements s'approuve dans l'application de la banque) ; les points réguliers programmés.
 3. **Ce qui reste fragile.** L'assistant qui pilote seul l'écran (encore en bêta chez un éditeur), les agents sans validation, l'écriture manuscrite, l'accueil téléphonique automatisé (en vente, mais prouvé par les seuls vendeurs), la promesse « tout reste en Europe ».
-4. **Deux règles de 2026 touchent GianLuca Carlone.** Recevoir des factures électroniques est obligatoire depuis le 1er septembre 2026 ; en émettre le sera le 1er septembre 2027 pour les PME et les micro-entreprises. Depuis le 2 août 2026, il faut dire qu'un accueil est automatisé et signaler une image qui imite le réel.
-5. **Les prix.** À l'unité, chez un grand éditeur, la gamme haute coûte près de quatre fois moins qu'à l'automne 2025 et le petit modèle dix fois moins ; chez d'autres, le prix affiché a peu bougé ou monté. L'abonnement par poste reste du même ordre : environ 14 à 28 € HT par personne et par mois pour une suite bureautique avec assistant, 30 à 50 € pour un poste très équipé, plus les outils partagés.
+4. **Deux règles de 2026 touchent GianLuca Carlone.** Recevoir des factures électroniques est obligatoire depuis le 1er septembre 2026 ; en émettre le sera le 1er septembre 2027 pour les PME et les micro-entreprises. Depuis le 2 août 2026, une personne doit savoir qu'elle parle à un système automatisé, et un trucage réaliste fait par IA (image, son ou vidéo qui peut passer pour vrai) doit être signalé.
+5. **Les prix.** À l'unité, chez un grand éditeur, la gamme haute coûte près de quatre fois moins que le modèle en vente début novembre 2025 ; mais l'essentiel de cette baisse date du 24 novembre 2025, et depuis elle n'est que de 20 %. Le petit modèle coûte dix fois moins jusqu'à 100 000 unités de texte par demande, deux fois moins au-delà. Chez d'autres, le prix affiché a peu bougé ou monté. Ce constat dépend trop du point de départ pour aller sur une diapositive. L'abonnement par poste reste du même ordre : environ 14 à 28 € HT par personne et par mois pour une suite bureautique avec assistant, 30 à 50 € pour un poste très équipé, plus les outils partagés.
 
 ## Comment lire cette note
 
@@ -27,7 +27,7 @@
 ### 1.1 L'assistant de bureau qui prépare un travail entier — Claude Cowork (Anthropic)
 
 - **Ce que c'est.** On lui confie une tâche longue : il lit un dossier, ouvre des sites, remplit un tableau avec ses formules, prépare un document. Il présente son travail et attend l'accord d'une personne avant toute action sensible.
-- **Depuis quand.** Aperçu en janvier 2026 et disponibilité générale sur ordinateur le 9 avril 2026 (sources secondaires). Web et mobile en bêta depuis le 7 juillet 2026. Depuis le 6 octobre 2026, les nouvelles tâches des offres payantes tournent dans le nuage.
+- **Depuis quand.** Aperçu en janvier 2026 et disponibilité générale sur ordinateur le 9 avril 2026 : sources secondaires, dates non vérifiées sur une page de l'éditeur. Web et mobile : ouverture progressive en bêta à partir du 7 juillet 2026, d'abord pour une seule offre ; au 9 novembre 2026, l'aide en ligne les indique pour les offres Pro, Max, Ultra et Team (bêta sur Team). Depuis le 6 octobre 2026, les nouvelles tâches programmées des offres payantes tournent dans le nuage (vérifié pour les tâches programmées ; non revérifié pour les autres tâches).
 - **Maturité.** Disponible, sur offre payante. Mention explicite de la France : non vérifiée (la page de présentation existe en français).
 - **Source.** Officielle : https://claude.com/fr/resources/articles/cowork-web-mobile (7 juillet 2026) ; aide en ligne https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile et https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork (consultées le 9 novembre 2026).
 - **Chez GianLuca.** Administration centrale, pour l'administratrice. Elle dépose les pièces d'un bâtiment : bail, factures, diagnostics. L'assistant rend le tableau des échéances et un brouillon de courrier. Elle relit et valide.
@@ -52,7 +52,7 @@
 - **Source.** Officielles : https://www.microsoft.com/en-us/copilot/blog/2026/06/16/copilot-cowork-is-now-generally-available/ (16 juin 2026) ; https://learn.microsoft.com/en-us/copilot/cowork/ ; prix https://www.microsoft.com/fr-fr/copilot/pricing/business ; lieu de traitement https://learn.microsoft.com/en-gb/microsoft-365/copilot/connect-to-ai-subprocessor (consultées le 9 novembre 2026) ; annonce du 6 novembre 2026 : https://news.microsoft.com/source/emea/2026/11/microsoft-ermoeglicht-mit-copilot-die-nutzung-von-anthropic-claude-innerhalb-der-eu-data-boundary/?lang=de
 - **Chez GianLuca.** Seulement si sa société travaille déjà avec Microsoft 365. Préparer les convocations, les relances et les documents d'un projet de commerce.
 - **Niveau d'aide.** Assistée.
-- **Limite.** Il faut la licence Copilot (18,20 € HT par personne et par mois, page officielle), puis l'usage est facturé à part, en crédits : fixer un plafond de dépense. Il fonctionne avec des modèles d'Anthropic. Microsoft les désactive par défaut en Europe et les place aujourd'hui hors de sa « frontière de données de l'UE ».
+- **Limite.** Il faut la licence Copilot (18,20 € HT par personne et par mois avec engagement annuel, 21,84 € en paiement mensuel, page officielle), puis l'usage est facturé à part, en crédits : fixer un plafond de dépense. Il fonctionne avec des modèles d'Anthropic. Microsoft les désactive par défaut en Europe et les place aujourd'hui hors de sa « frontière de données de l'UE ».
 
 ### 1.4 L'assistant qui pilote l'écran et le navigateur
 
@@ -60,9 +60,9 @@
 - **Depuis quand.** Dans Claude Cowork depuis le 23 mars 2026 (source secondaire), toujours en bêta au 9 novembre 2026. Dans Copilot Studio (Microsoft) : disponibilité générale le 13 mai 2026. Chez OpenAI, le modèle GPT-6.1 Terra du 26 octobre 2026 met en avant une « utilisation précise de l'ordinateur ».
 - **Maturité.** En déploiement pour le grand public (bêta). Disponible chez Microsoft, mais c'est un outil à faire configurer par un technicien.
 - **Source.** Officielles : https://support.claude.com/en/articles/14128542-let-claude-use-your-computer-in-cowork (consultée le 9 novembre 2026) ; https://techcommunity.microsoft.com/blog/copilot-studio-blog/computer-using-agents-in-microsoft-copilot-studio-are-now-generally-available/4519427 (13 mai 2026) ; https://www.anthropic.com/news/claude-opus-5-5 (22 septembre 2026).
-- **Chez GianLuca.** Saisir une demande dans un portail sans connecteur : fournisseur d'énergie d'un bâtiment, formulaire d'une mairie. L'assistant remplit, une personne vérifie et envoie elle-même.
+- **Chez GianLuca.** Saisir une demande dans un portail sans connecteur, par exemple celui du fournisseur d'énergie d'un bâtiment. L'assistant remplit, une personne vérifie et envoie elle-même. Les sites de banque et d'administration (mairie, impôts) sont à écarter : l'éditeur le déconseille (voir Limite).
 - **Niveau d'aide.** Assistée. Jamais Automatique à ce stade.
-- **Limite.** L'éditeur l'écrit lui-même : « Complex tasks sometimes need a second try » et « This capability comes with risks ». Le meilleur score publié sur un banc d'essai est de 81,8 % (contre 74,0 % pour le modèle précédent) : près d'une tâche sur cinq y échoue encore. Une page web peut contenir des instructions cachées qui détournent l'assistant.
+- **Limite.** L'éditeur l'écrit lui-même : « Complex tasks sometimes need a second try » et « This capability comes with risks ». Il demande de ne pas ouvrir cet accès aux applications sensibles (« such as banking, healthcare, government ») et déconseille de s'en servir pour gérer des comptes financiers ou traiter des documents juridiques et des contrats. La fonction est en bêta sur les offres Pro, Max et Ultra ; les offres Team et Enterprise n'y ont pas accès à ce jour. Le meilleur score publié sur un banc d'essai est de 81,8 % (contre 74,0 % pour le modèle précédent) : près d'une tâche sur cinq y échoue encore. Une page web peut contenir des instructions cachées qui détournent l'assistant.
 
 ### 1.5 Les enchaînements dans la messagerie — Workspace Studio (Google)
 
@@ -77,7 +77,7 @@
 ### 1.6 L'agent personnel de Google — Gemini Spark
 
 - **Ce que c'est.** Un agent personnel qui agit dans les services Google pour le compte de l'utilisateur. Il a été présenté en mai 2026.
-- **Depuis quand.** Annonce le 19 mai 2026 ; déploiement le 14 juillet 2026, sauf dans l'Espace économique européen, en Suisse, au Royaume-Uni et au Nigeria.
+- **Depuis quand.** Annonce le 19 mai 2026 (date non revérifiée) ; premiers déploiements à partir du 17 juin 2026 dans une liste de pays plus courte ; extension le 14 juillet 2026, toujours sans l'Espace économique européen, la Suisse, le Royaume-Uni et le Nigeria.
 - **Maturité.** Annoncé : pas utilisable en France.
 - **Source.** Officielle : https://support.google.com/gemini/answer/17171264 (consultée le 9 novembre 2026).
 - **Chez GianLuca.** Aucun usage aujourd'hui.
@@ -150,13 +150,13 @@
 
 ### 2.4 Banque — connecteur officiel de Qonto
 
-- **Ce que c'est.** L'assistant lit les mouvements, les relevés et les justificatifs. Il prépare des virements et renvoie un lien : la personne habilitée approuve dans l'application de la banque.
+- **Ce que c'est.** L'assistant lit les mouvements, les relevés et les justificatifs. Il prépare des demandes de virements groupés et renvoie un lien : la personne habilitée approuve dans l'application de la banque. Le virement simple vers un bénéficiaire n'est pas encore couvert (« It does not (yet) cover SEPA transfers from a beneficiary, international transfers »).
 - **Depuis quand.** Annonce publique en juin 2026 (source secondaire) ; pages officielles non datées.
 - **Maturité.** Disponible.
 - **Source.** Officielles : https://qonto.com/fr/ai/mcp ; https://docs.qonto.com/mcp/overview (consultées le 9 novembre 2026). Secondaire : https://augea.fr/blog/integration-de-chatgpt-ou-claude-avec-agicap-pennylane-et-qonto-opportunites-et/ (21 octobre 2026).
 - **Chez GianLuca.** Préparer le lot de virements aux fournisseurs de la semaine à partir des factures validées. GianLuca ou la personne habilitée signe dans l'application bancaire.
 - **Niveau d'aide.** Assistée.
-- **Limite.** La banque prévient : relier un assistant partage les données du compte avec un outil tiers et lève le secret professionnel sur ce point. Le connecteur peut aussi envoyer des factures et des devis aux clients : à bloquer ou à soumettre à validation. Utile seulement si sa banque est celle-ci : inconnu.
+- **Limite.** La banque prévient : relier un assistant partage les données du compte avec un outil tiers et lève le secret professionnel sur ce point. Le connecteur peut aussi créer des cartes et changer leurs plafonds, envoyer aux clients des factures, des devis et des avoirs, et marquer une facture comme payée : à bloquer ou à soumettre à validation. « Jamais payer » est donc un réglage à imposer, pas une propriété de l'outil. Utile seulement si sa banque est celle-ci : inconnu.
 
 ### 2.5 Ce que permettent Google Workspace et Microsoft 365
 
@@ -182,7 +182,7 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 - **Source.** Pages de vendeurs (discours commercial) : https://eliocall.com/restaurant/ (5 novembre 2026) ; https://yumcall.app/fonctionnalites/agent-vocal-ia (3 novembre 2026) ; https://www.voxaoneai.com/guides/standard-telephonique-ia-restaurant (1er novembre 2026) ; https://leetcall.ai/solutions/restaurants (22 septembre 2026) ; https://le-standard.fr/ (22 avril 2026) ; https://phonevoice.ai/fr/restaurant.
 - **Chez GianLuca.** Cabaret-spectacle. Répondre le soir et le dimanche aux questions pratiques et noter les demandes de réservation. Les groupes, les privatisations et les réclamations vont à l'équipe.
 - **Niveau d'aide.** Assistée : l'agent note et propose, l'équipe confirme ce qui sort de l'ordinaire. Ce n'est pas une aide Automatique au sens du brief, car elle parle au public.
-- **Limite.** Depuis le 2 août 2026, l'appelant doit savoir qu'il parle à un système automatisé (voir 8.3). Noms propres, accents et bruit de salle sont des causes d'erreur. Prix relevés : de 79 à 399 € HT par mois, ou environ 0,29 € la minute. Le lien avec une billetterie de spectacle est non vérifié.
+- **Limite.** Depuis le 2 août 2026, l'appelant doit savoir qu'il parle à un système automatisé (voir 8.3). Noms propres, accents et bruit de salle sont des causes d'erreur. Prix relevés sur les pages des vendeurs le 9 novembre 2026 : à partir de 79 € HT ou de 99 € HT par mois selon le vendeur ; 349 € par mois pour 1 000 appels chez un autre (HT ou TTC non précisé, plus 199 € d'installation) ; ou 0,29 € la minute sans abonnement. Le plafond de 399 € écrit dans la première version de cette note n'a été retrouvé sur aucune page : retiré. Le lien avec une billetterie de spectacle est non vérifié.
 
 ### 3.2 Le rappel de rendez-vous par appel automatique
 
@@ -197,7 +197,7 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 ### 3.3 Les briques vocales européennes — Voxtral 3 (Mistral)
 
 - **Ce que c'est.** Un ensemble pour transcrire la parole, la produire et tenir une conversation en temps réel. Il couvre 50 langues, dont les 24 langues officielles de l'Union.
-- **Depuis quand.** Octobre 2026 (20 ou 22 octobre selon la page). La synthèse vocale seule date du 23 mars 2026.
+- **Depuis quand.** 22 octobre 2026 (date de la page de l'éditeur). La synthèse vocale seule date du 23 mars 2026 (date non revérifiée).
 - **Maturité.** Disponible pour les développeurs. Ce n'est pas un standard téléphonique prêt à l'emploi.
 - **Source.** Officielle : https://mistral.ai/news/voxtral-3 (22 octobre 2026).
 - **Chez GianLuca.** Plus tard : dictée de comptes rendus de visite, ou ligne d'accueil construite sur mesure avec un traitement en Europe.
@@ -270,7 +270,7 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 - **Source.** Officielle pour Google Vids : https://knowledge.workspace.google.com/admin/getting-started/editions/compare-business-editions?hl=fr (consultée le 9 novembre 2026). Secondaires pour Veo 3.1 : https://www.dixie.consulting/article/meilleurs-generateurs-video-ia-2026-tpe-pme (12 septembre 2026) ; https://communicant.info/creer-des-pubs-video-avec-lia-google/ (5 mars 2026).
 - **Chez GianLuca.** Une annonce de quelques secondes pour la programmation du cabaret. Un plan d'ambiance pour l'ouverture d'un commerce.
 - **Niveau d'aide.** Assistée.
-- **Limite.** Les plans durent 4, 6 ou 8 secondes : ce n'est pas un film. Une vraie captation du spectacle reste plus forte et plus honnête. Toute scène réaliste créée par IA doit être signalée (voir 5.5 et 5.6).
+- **Limite.** Les plans durent 4, 6 ou 8 secondes : ce n'est pas un film. Une vraie captation du spectacle reste plus forte et plus honnête. Toute scène réaliste créée par IA est à signaler : la loi l'impose pour un trucage qui peut passer pour vrai, et les plateformes le demandent (voir 5.5 et 5.6).
 
 ### 5.3 Les voix de synthèse
 
@@ -280,7 +280,7 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 - **Source.** Officielles : https://mistral.ai/news (annonce du 23 mars 2026) ; https://mistral.ai/news/voxtral-3 (22 octobre 2026). Secondaire : https://www.office1.cloud/fr/guide/generateur-images-videos-ia-comparatif-fournisseurs (14 juillet 2026).
 - **Chez GianLuca.** Message d'accueil téléphonique du cabaret. Voix off d'une courte vidéo. Commentaire audio d'une exposition à la galerie.
 - **Niveau d'aide.** Assistée.
-- **Limite.** Ne jamais imiter la voix d'une personne réelle sans son accord écrit. Une voix de synthèse qui peut passer pour une vraie personne doit être signalée.
+- **Limite.** Ne jamais imiter la voix d'une personne réelle sans son accord écrit. Une voix de synthèse qui peut passer pour une vraie personne est à signaler : la loi l'impose si elle imite une personne existante ; sinon, c'est une règle de prudence.
 
 ### 5.4 Un outil vedette a fermé — Sora (OpenAI)
 
@@ -294,13 +294,13 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 
 ### 5.5 Ce que la loi demande pour les contenus créés par IA
 
-- **Ce que c'est.** Celui qui diffuse une image, un son ou une vidéo créés par IA et qui imitent le réel doit le dire clairement. Les œuvres artistiques, créatives, satiriques ou de fiction ont un régime adapté.
+- **Ce que c'est.** Celui qui diffuse un trucage réaliste (« deepfake ») doit le dire clairement : il s'agit d'une image, d'un son ou d'une vidéo créés ou modifiés par IA, qui ressemblent à des personnes, des objets, des lieux ou des événements réels et peuvent passer pour vrais. Les œuvres artistiques, créatives, satiriques ou de fiction ont un régime adapté.
 - **Depuis quand.** 2 août 2026 (article 50 du règlement européen sur l'IA). Lignes directrices de la Commission : 20 juillet 2026.
 - **Maturité.** Disponible (en vigueur).
 - **Source.** Officielles : https://digital-strategy.ec.europa.eu/fr/factpages/quick-facts-transparency-rules-ai-systems ; https://digital-strategy.ec.europa.eu/fr/faqs/code-practice-transparency-ai-generated-content (consultées le 9 novembre 2026). Détail en 8.3.
-- **Chez GianLuca.** Une affiche dessinée par IA pour le cabaret est une œuvre de création : la mention peut rester discrète. Une « photo » réaliste d'une salle qui n'existe pas encore doit être signalée clairement.
+- **Chez GianLuca.** Une affiche dessinée par IA pour le cabaret est une œuvre de création : la mention peut rester discrète. Une « photo » réaliste d'une salle qui n'existe pas encore : par prudence, la signaler clairement. Savoir si la loi l'impose se juge au cas par cas, car le texte vise ce qui ressemble à des personnes, des lieux ou des événements réels : à confirmer par un juriste.
 - **Niveau d'aide.** Assistée, avec une règle écrite : qui signale, où, avec quels mots.
-- **Limite.** Les contenus créés avant le 2 août 2026 n'ont pas à être signalés après coup. Les retouches courantes ne sont pas visées. La frontière entre création et imitation du réel se juge au cas par cas : à faire valider par un juriste pour les cas sensibles.
+- **Limite.** Pour les trucages réalistes créés avant le 2 août 2026, la Commission écrit : « pas d'étiquetage rétroactif obligatoire mais encouragé ». Les retouches courantes ne sont pas visées. Le régime adapté des œuvres n'est pas détaillé sur la fiche de la Commission lue, qui renvoie aux lignes directrices : contours non vérifiés. La frontière entre création et imitation du réel se juge au cas par cas : à faire valider par un juriste pour les cas sensibles.
 
 ### 5.6 Ce que les plateformes demandent
 
@@ -414,37 +414,37 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 - **Depuis quand.** Depuis le 1er septembre 2026 : toutes les entreprises, quelle que soit leur taille, doivent pouvoir recevoir des factures électroniques ; les grandes entreprises et les entreprises de taille intermédiaire doivent en émettre et transmettre leurs données. Au 1er septembre 2027 : les PME et les micro-entreprises doivent émettre et transmettre à leur tour.
 - **Maturité.** Disponible (en vigueur) pour la réception. Annoncé (1er septembre 2027) pour l'émission par les PME et les micro-entreprises. Aucun nouveau report trouvé au 9 novembre 2026.
 - **Source.** Officielles : https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises ; https://www.impots.gouv.fr/facturation-electronique-et-plateformes-agreees (consultées le 9 novembre 2026).
-- **Chez GianLuca.** Chaque structure (galerie, société qui porte les bâtiments, cabaret-spectacle, commerces) doit déjà avoir choisi sa plateforme de réception. Chaque société créée pour un nouveau commerce devra le faire dès sa création. L'émission se prépare avant septembre 2027.
+- **Chez GianLuca.** Chaque structure assujettie à la TVA (galerie, société qui porte les bâtiments, cabaret-spectacle, commerces) doit déjà avoir choisi sa plateforme de réception. Chaque société créée pour un nouveau commerce devra le faire dès sa création. L'émission se prépare avant septembre 2027.
 - **Niveau d'aide.** Préparée : la liste des structures, de leurs plateformes et de leurs logiciels est remise à l'expert-comptable. Ensuite, Automatique pour le rangement des factures reçues.
-- **Limite.** L'administration parle d'une période de démarrage avec « bienveillance et tolérance » : ce n'est pas une dispense. Les entreprises en franchise de TVA sont concernées. Sanctions reprises de `interne/logiciels-et-automatisations/travaux/r2-cadre-reglementaire-et-technique.md`, non revérifiées ici : 50 € par facture, plafonnés à 15 000 € par an ; sans plateforme de réception, 500 € puis 1 000 € par trimestre après mise en demeure. Le cas de chaque structure (location, billetterie, vente d'œuvres) relève de l'expert-comptable.
+- **Limite.** L'administration parle d'une période de démarrage avec « bienveillance et tolérance » : ce n'est pas une dispense. Les entreprises en franchise de TVA sont concernées. En revanche, l'administration écrit : « Les opérations bénéficiant d'une exonération de TVA ne sont pas soumises à la facturation électronique » ; le cas d'une société dont les loyers sont exonérés de TVA est donc à faire trancher par l'expert-comptable. Sanctions reprises de `interne/logiciels-et-automatisations/travaux/r2-cadre-reglementaire-et-technique.md`, non revérifiées ici et absentes des deux pages officielles relues le 9 novembre 2026 : 50 € par facture, plafonnés à 15 000 € par an ; sans plateforme de réception, 500 € puis 1 000 € par trimestre après mise en demeure. Ces montants ne vont sur aucune diapositive. Le cas de chaque structure (location, billetterie, vente d'œuvres) relève de l'expert-comptable.
 
 ### 8.2 Le règlement européen sur l'IA — calendrier après la simplification de 2026
 
 - **Ce que c'est.** Le règlement européen sur l'IA s'applique par étapes. Un texte de simplification, adopté à l'été 2026, a repoussé les obligations des systèmes « à haut risque ».
 - **Depuis quand.** Déjà applicable : les pratiques interdites depuis le 2 février 2025 ; les obligations des fournisseurs de grands modèles depuis le 2 août 2025 ; la transparence depuis le 2 août 2026 (voir 8.3). Vote du Parlement le 16 juin 2026 ; feu vert final du Conseil le 29 juin 2026.
 - **Maturité.** Disponible (en vigueur) pour les interdictions et la transparence. Annoncé pour la suite : 2 décembre 2026, interdiction des IA qui produisent des contenus intimes sans consentement, et fin du délai accordé aux fournisseurs pour marquer les contenus ; 2 décembre 2027, systèmes à haut risque autonomes (emploi, crédit, etc.) ; 2 août 2028, systèmes à haut risque intégrés à des produits.
-- **Source.** Officielle : https://www.consilium.europa.eu/fr/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/ (29 juin 2026) ; texte : https://data.consilium.europa.eu/doc/document/PE-30-2026-INIT/fr/pdf. Publication au Journal officiel de l'Union et date d'entrée en vigueur (27 juillet 2026 selon une source secondaire) : non vérifiées.
+- **Source.** Officielle : https://www.consilium.europa.eu/fr/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/ (29 juin 2026) ; texte : https://data.consilium.europa.eu/doc/document/PE-30-2026-INIT/fr/pdf. Vote du Parlement et échéances du 2 décembre 2026 : communiqué officiel https://www.europarl.europa.eu/news/fr/press-room/20260611IPR45207/ia-mesures-de-simplification-interdiction-des-applications-de-nudification (16 juin 2026). Publication au Journal officiel de l'Union (24 juillet 2026 selon une source secondaire) et date d'entrée en vigueur (27 juillet 2026 selon une source secondaire) : non vérifiées sur une source officielle.
 - **Chez GianLuca.** Sa société utilise des outils d'IA ; elle n'en fabrique pas. Le principal cas de « haut risque » qui pourrait la toucher est le tri ou la notation de candidats et de salariés par une IA : le projet l'exclut déjà.
 - **Niveau d'aide.** Sans objet. Toute question de droit va à un juriste (Préparée).
 - **Limite.** Les dates des deux premières étapes (2025) viennent de la connaissance antérieure du règlement, non relues ici. Le sort de l'obligation de formation des équipes à l'IA après la simplification est non vérifié. Cette fiche n'est pas un avis juridique.
 
 ### 8.3 Dire quand c'est une IA — l'article 50
 
-- **Ce que c'est.** Une personne doit savoir qu'elle parle à une machine (assistant en ligne, agent vocal). Une image, un son ou une vidéo créés par IA et qui imitent le réel doivent être signalés par celui qui les diffuse.
+- **Ce que c'est.** Une personne doit savoir qu'elle parle à une machine (assistant en ligne, agent vocal) : la loi met cette obligation sur le fournisseur de l'outil, qui doit le concevoir ainsi ; celui qui l'achète vérifie que l'outil le fait. Un trucage réaliste (image, son ou vidéo créés ou modifiés par IA, qui ressemblent à des personnes, des objets, des lieux ou des événements réels et peuvent passer pour vrais) doit être signalé par celui qui le diffuse.
 - **Depuis quand.** Applicable depuis le 2 août 2026. Code de bonnes pratiques publié le 10 juin 2026 ; lignes directrices de la Commission le 20 juillet 2026. Les systèmes déjà sur le marché avant le 2 août 2026 ont jusqu'au 2 décembre 2026 pour le marquage technique.
 - **Maturité.** Disponible (en vigueur).
-- **Source.** Officielles : https://digital-strategy.ec.europa.eu/fr/policies/code-practice-ai-generated-content ; https://digital-strategy.ec.europa.eu/fr/faqs/code-practice-transparency-ai-generated-content ; https://digital-strategy.ec.europa.eu/fr/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems (20 juillet 2026) ; https://france.representation.ec.europa.eu/informations-et-evenements/informations/la-commission-publie-ses-lignes-directrices-sur-la-transparence-des-systemes-dia-2026-07-20_fr (20 juillet 2026).
+- **Source.** Officielles : https://digital-strategy.ec.europa.eu/fr/policies/code-practice-ai-generated-content ; https://digital-strategy.ec.europa.eu/fr/faqs/code-practice-transparency-ai-generated-content ; https://digital-strategy.ec.europa.eu/fr/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems (20 juillet 2026) ; https://france.representation.ec.europa.eu/informations-et-evenements/informations/la-commission-publie-ses-lignes-directrices-sur-la-transparence-des-systemes-dia-2026-07-20_fr (20 juillet 2026) ; fiche de la Commission sur qui doit quoi : https://digital-strategy.ec.europa.eu/fr/factpages/quick-facts-transparency-rules-ai-systems (consultée le 9 novembre 2026).
 - **Chez GianLuca.** L'accueil téléphonique du cabaret commence par « accueil automatisé ». Les visuels réalistes créés par IA portent une mention. Une règle d'une page suffit.
 - **Niveau d'aide.** Assistée.
 - **Limite.** Le code est volontaire, mais l'article 50 est une obligation légale. L'icône européenne est facultative. Les œuvres artistiques ou de fiction ont un régime adapté, dont les contours se jugent au cas par cas.
 
 ### 8.4 La CNIL et les assistants qui agissent
 
-- **Ce que c'est.** La CNIL a publié une note d'exploration sur les assistants qui agissent seuls. Elle y voit plus de risques pour la sécurité et pour les données personnelles, et note que le règlement européen « ne prévoit pas de règles spécifiques pour les agents IA ».
+- **Ce que c'est.** Le site de la CNIL publie une note d'exploration sur les assistants qui agissent seuls, signée « CIANum - CNIL » : ce n'est pas une recommandation de la CNIL. La note voit plus de risques pour la sécurité et pour les données personnelles, et relève que le règlement européen « ne prévoit pas de règles spécifiques pour les agents IA ».
 - **Depuis quand.** Juillet 2026.
 - **Maturité.** Disponible (publiée). Ce n'est pas une recommandation contraignante.
 - **Source.** Officielle : https://www.cnil.fr/sites/default/files/2026-07/ia-cianum-cnil.pdf (juillet 2026) ; page d'ensemble : https://www.cnil.fr/fr/intelligence-artificielle (consultée le 9 novembre 2026).
-- **Chez GianLuca.** Les pistes de la CNIL deviennent nos règles : validation humaine obligatoire pour les décisions les plus critiques, journal de ce que fait l'assistant, mémoire cloisonnée par activité, bouton d'arrêt entre les mains de l'utilisateur.
+- **Chez GianLuca.** Les pistes de cette note deviennent nos règles : validation humaine obligatoire pour les décisions les plus critiques, journal de ce que fait l'assistant, mémoire cloisonnée par activité, bouton d'arrêt entre les mains de l'utilisateur.
 - **Niveau d'aide.** Sans objet. C'est ce qui justifie le niveau Assistée par défaut.
 - **Limite.** Les lignes directrices européennes du 9 juillet 2026 citées sur la page de la CNIL n'ont pas été lues : objet non vérifié. Les recommandations de la CNIL du 22 juillet 2025 visent ceux qui développent des systèmes d'IA, pas les simples utilisateurs.
 
@@ -470,9 +470,9 @@ Sources officielles, consultées le 9 novembre 2026 : https://knowledge.workspac
 
 | Modèle | Automne 2025 | 9 novembre 2026 | Évolution à l'unité |
 | --- | --- | --- | --- |
-| Gamme Opus (Anthropic) | Opus 4.1 : 15 $ / 75 $ | Opus 5.5 : 4 $ / 20 $ | près de quatre fois moins |
+| Gamme Opus (Anthropic) | Opus 4.1 : 15 $ / 75 $ jusqu'au 24 novembre 2025, puis Opus 4.5 : 5 $ / 25 $ | Opus 5.5 : 4 $ / 20 $ | près de quatre fois moins par rapport à Opus 4.1 ; 20 % de moins par rapport à Opus 4.5 |
 | Modèle le plus puissant (Anthropic) | Opus 4.1 : 15 $ / 75 $ | Fable 5.2 : 8 $ / 40 $ | environ deux fois moins |
-| Petit modèle (Anthropic) | Haiku 4.5 : 1 $ / 5 $ | Haiku 5.5 : 0,10 $ / 0,50 $ (demandes courtes) | dix fois moins |
+| Petit modèle (Anthropic) | Haiku 4.5 : 1 $ / 5 $ | Haiku 5.5 : 0,10 $ / 0,50 $ jusqu'à 100 000 unités par demande ; 0,50 $ / 2,50 $ au-delà | dix fois moins jusqu'à ce seuil ; deux fois moins au-delà |
 | Modèle courant (OpenAI) | GPT-5 : 1,25 $ / 10 $ | GPT-6.1 Sol : 2 $ / 10 $ | lecture plus chère |
 | Petit modèle (OpenAI) | GPT-5 nano : 0,05 $ / 0,40 $ | GPT-6 Luna : 0,10 $ / 0,50 $ | plus cher |
 | Modèle courant (Google) | Gemini 2.5 Pro : 1,25 $ / 10 $ | Gemini 4 Argon : 2 $ / 10 $ | lecture plus chère |

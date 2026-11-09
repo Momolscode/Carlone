@@ -81,8 +81,8 @@ Fiche client liée : n° 13 (inventaire des œuvres et registres de la galerie).
 | Registre des objets mobiliers (« livre de police ») | Déclaration préalable en préfecture. Registre papier coté et paraphé, gardé 5 ans. Un registre informatique est admis s'il « garantit l'intégrité, l'intangibilité et la sécurité des données enregistrées » ; il est gardé 10 ans. | Code pénal, art. R321-1 à R321-8 : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006181789/ (consulté le 9 novembre 2026) |
 | Sanction | Omettre de tenir le registre : 6 mois d'emprisonnement et 30 000 € d'amende. Quand l'exploitant est une société, l'obligation pèse sur ses dirigeants. | Code pénal, art. 321-7 (texte en vigueur depuis le 16 mars 2011, relu le 9 novembre 2026 sur trois reprises de la base officielle ; la page Légifrance de l'article n'a pas pu être ouverte) ; rappelé par fournol-associes.com (8 octobre 2026, non rouvert) |
 | Champ du registre | Il vise les objets achetés d'occasion ou reçus en dépôt. Il ne vise pas les œuvres reçues directement des artistes. Les deux pages d'avocats n'ont pas été rouvertes le 9 novembre 2026 : à confirmer avec l'avocat avant de l'affirmer. | https://www.debaecque-avocats.com/livre-de-police-marche-art/ (7 juin 2023) · https://fournol-associes.com/marche-de-lart/livre-de-police-antiquaire-brocanteur/ (8 octobre 2026) |
-| Mentions d'attribution | Le vendeur remet sur demande une facture qui précise nature, composition, origine et ancienneté. « Par » ou « de » vaut garantie d'auteur. « Attribué à », « atelier de », « école de » ont chacun un sens légal. « Dans le goût de » ne garantit rien. Textes non rouverts le 9 novembre 2026 : à faire confirmer avant tout usage. | Décret n° 81-255 du 3 mars 1981 ; https://csedt.org/deontologie/ (consulté le 9 novembre 2026) ; chauffray-avocat.com (19 septembre 2025) |
-| Lutte contre le blanchiment | Le marchand d'art est assujetti pour les transactions de 10 000 € et plus : identifier le client, évaluer le risque, garder les pièces. Contrôle par la douane. Seuil de 10 000 € **non vérifié** sur une source de première main le 9 novembre 2026 (pages de la douane et de Tracfin non lisibles ce jour-là). | Code monétaire et financier, art. L. 561-2 10° ; lignes directrices de novembre 2020 : https://www.douane.gouv.fr/sites/default/files/uploads/files/TRACFIN/lignes-directrices-tracfin-dgddi-marchands-d-art-novembre-2020.pdf ; fiche pratique de juillet 2025 : https://www.douane.gouv.fr/sites/default/files/2025-07/18/Vf-Fiche-pratique-Procedure-interne-LCB-FT-Juillet-2025.pdf |
+| Mentions d'attribution | Le vendeur remet sur demande une facture qui précise nature, composition, origine et ancienneté. « Par » ou « de » vaut garantie d'auteur. « Attribué à », « atelier de », « école de » ont chacun un sens légal. « Dans le goût de » ne garantit rien. Confirmé le 9 novembre 2026 sur le texte du décret (articles 1 et 3 à 7, en vigueur depuis le 20 mars 1981), lu sur deux reprises de la base officielle. | Décret n° 81-255 du 3 mars 1981 : https://juriblio.fr/decrets/decret-no-81-255-du-3-mars-1981/134902603 et https://lawplayer.com/fr/act/LEGITEXT000006063458 (consultés le 9 novembre 2026) ; https://csedt.org/deontologie/ et chauffray-avocat.com (19 septembre 2025) : non rouverts |
+| Lutte contre le blanchiment | Le marchand d'art est assujetti pour les transactions de 10 000 € et plus : identifier le client, évaluer le risque, garder les pièces. Contrôle par la douane. Seuil confirmé le 9 novembre 2026 : le texte vise les galeries d'art « lorsque la valeur de la transaction ou d'une série de transactions liées est d'un montant égal ou supérieur à 10 000 euros ». | Code monétaire et financier, art. L. 561-2, 10° (version en vigueur depuis le 5 août 2026) : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054616568 (consulté le 9 novembre 2026) ; lignes directrices de novembre 2020 : https://www.douane.gouv.fr/sites/default/files/uploads/files/TRACFIN/lignes-directrices-tracfin-dgddi-marchands-d-art-novembre-2020.pdf ; fiche pratique de juillet 2025 : https://www.douane.gouv.fr/sites/default/files/2025-07/18/Vf-Fiche-pratique-Procedure-interne-LCB-FT-Juillet-2025.pdf |
 | Invitations par courriel ou SMS | Particuliers : accord préalable, sauf clients existants pour des offres analogues. Professionnels : information et droit de refuser. Chaque message dit qui écrit et comment se désinscrire. | CNIL : https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel (10 juin 2026) |
 | Droit de suite | **Non vérifié** dans cette recherche (code de la propriété intellectuelle, art. L. 122-8). À voir avec l'expert-comptable. | — |
 
@@ -191,26 +191,28 @@ Fiches clients liées : n° 11 (autorisations des lieux), 12 (caisse et ventes),
 - Ce que fait l'outil : on vend une table ou un fauteuil sur un plan de salle. La formule (dîner, spectacle, boissons) est répartie entre les taux de TVA. Le billet porte un code à scanner. La caisse du bar et l'export comptable sont dans le même outil.
 - Qui le propose : PRESTISCENE (éditeur Prestilogic) : tout ce qui précède figure sur sa page d'accueil. KABAO (éditeur e-Obs Technologies) : réservation, billetterie, formules avec leurs taux de TVA et exports sont confirmés ; plan de salle, code à scanner et caisse du bar : **non vérifié** chez cet éditeur. Ce n'est pas de l'IA : c'est un logiciel de métier. Rien n'a été essayé : ce sont des descriptions d'éditeurs.
 - Sources : https://www.prestilogic.fr (page d'accueil consultée le 9 novembre 2026 ; les dates des articles du 2 février et du 21 juin 2026 n'ont pas été relues) · https://www.e-obs.fr/references/music-hall-bergerac.html et https://www.e-obs.fr/references/cesar-palace-paris.html (non datées, consultées le 9 novembre 2026).
-- Témoignage : références d'éditeur chez KABAO, le Music-hall de Bergerac et le César Palace à Paris. Ces pages ne sont pas datées et citent encore le « CNV », nom d'un organisme d'avant 2020 : elles sont sans doute anciennes. Ne pas présenter ces lieux comme des clients actuels. Pas de témoignage indépendant trouvé.
+- Témoignage : références d'éditeur chez KABAO, le Music-hall de Bergerac et le César Palace à Paris. Ces pages ne sont pas datées et citent encore le « CNV », alors que l'autre éditeur parle du Centre national de la musique : elles sont sans doute anciennes. Ne pas présenter ces lieux comme des clients actuels. Pas de témoignage indépendant trouvé.
 
-**2. Un assistant vocal qui prend les réservations au téléphone — disponible**
+**2. Un assistant vocal qui prend les réservations au téléphone — disponible pour un restaurant simple ; formule dîner-spectacle : non vérifié**
 - Ce que fait l'outil : il décroche, prend, modifie ou annule une réservation, confirme par SMS. Il transfère à l'équipe ce qu'il ne sait pas traiter. Chaque appel est transcrit et résumé.
+- Limites écrites par l'éditeur (page d'aide relue le 9 novembre 2026) : il ne traite pas les réservations liées à une « expérience » (menu ou formule à réserver), ni les commandes à emporter. Il est réservé aux restaurants à un seul établissement. Il ne fait que la voix. Pour un cabaret qui vend des formules dîner-spectacle, l'usage est donc **non vérifié**.
+- Annonce « je suis un assistant automatique » : la page n'en dit rien. C'est une exigence du règlement européen (voir C.3) à poser à l'éditeur, pas une fonction vérifiée.
 - Qui le propose : Zenchef, « Concierge IA », en France et en Belgique. Donnée d'éditeur : 188 restaurants équipés, dont 111 en France ; environ la moitié des appels traités sans intervention. Cela s'applique aux restaurants déjà équipés ; ce n'est pas un gain promis.
-- À venir chez le même éditeur : version par messagerie WhatsApp, **en déploiement** (essai) ; assistant d'analyse, **en déploiement** (test) ; « brigade d'agents » à partir de 2027, **annoncé**.
+- À venir chez le même éditeur : version par messagerie WhatsApp, **en déploiement** (essai) ; assistant d'analyse, **en déploiement** (essai ouvert depuis août 2026 aux groupes de restaurants) ; « brigade d'agents » à partir de 2027, **annoncé**.
 - Sources : https://help.zenchef.com/hc/fr/articles/32270919614493 (consultée le 9 novembre 2026) · https://aucoeurduchr.fr/article/foodtech/zenchef-etend-outils-ia-back-office/ (4 novembre 2026).
 - Témoignage : pas de restaurant nommé trouvé.
 
 **3. Le planning de l'équipe proposé par l'outil — disponible**
-- Ce que fait l'outil : il propose les horaires selon les besoins, les disponibilités et les compétences. Il alerte sur les durées maximales et les repos. Il suggère un remplaçant. Il gère les extras.
-- Qui le propose : Skello (convention des hôtels, cafés, restaurants), Combo. Chez Combo, la commande en langage courant est ouverte « pour quelques premiers clients » : **en déploiement**. Le planning entièrement créé par l'IA est « bientôt disponible » : **annoncé**.
+- Ce que fait l'outil : il propose les horaires selon les besoins, les disponibilités et les compétences. Il applique les règles de la convention collective. Il suggère un remplaçant. La gestion des extras : **non vérifié** sur la page relue.
+- Qui le propose : Skello (la page dit « votre convention collective » ; celle des hôtels, cafés, restaurants n'y est pas nommée : **non vérifié**), Combo. Chez Combo, au 9 septembre 2026, la commande en langage courant était ouverte « pour quelques premiers clients » : **en déploiement**. Le planning entièrement créé par l'IA était « bientôt disponible » : **annoncé**. État en novembre 2026 : **non vérifié** (la page des offres cite un « assistant IA intégré », sans date).
 - Sources : https://www.skello.io/fonctionnalites/planification/planning-intelligent (consultée le 9 novembre 2026) · https://combohr.com/fr/nos-offres · https://combohr.com/fr/blog/combo-2026-nouveautes (9 septembre 2026).
 - Les gains affichés par Skello (heures gagnées, euros économisés) sont des données d'éditeur, non vérifiées. Ne pas les reprendre.
 - Témoignage : pas de témoignage public nommé relevé.
 
 **4. Les états pour les droits d'auteur sortis de la billetterie — disponible**
-- Ce que fait l'outil : il exporte les recettes par séance pour préparer la déclaration à la SACEM. La SACEM, elle, reçoit la déclaration en ligne et délivre l'autorisation tout de suite pour un évènement ponctuel.
-- Qui le propose : KABAO annonce un « module d'export Excel pour déclaration CNV et SACEM ». Déclaration en ligne : SACEM.
-- Sources : pages e-obs.fr ci-dessus · https://clients.sacem.fr (consulté le 9 novembre 2026).
+- Ce que fait l'outil : il exporte les recettes pour préparer la déclaration à la SACEM. La SACEM, elle, reçoit la déclaration en ligne. Délivrance immédiate de l'autorisation pour un évènement ponctuel : **non vérifié** (le site de la SACEM n'a pas pu être relu en entier le 9 novembre 2026).
+- Qui le propose : KABAO annonce un « module d'export Excel pour déclaration CNV et SACEM » (page non datée, sans doute ancienne). PRESTISCENE annonce des documents pour les déclarations au Centre national de la musique et à la SACEM. Déclaration en ligne : SACEM.
+- Sources : pages e-obs.fr et prestilogic.fr ci-dessus · https://clients.sacem.fr (consulté le 9 novembre 2026, lecture partielle).
 - Témoignage : pas de témoignage public trouvé.
 
 **Hors liste**
@@ -231,10 +233,10 @@ Fiches clients liées : n° 11 (autorisations des lieux), 12 (caisse et ventes),
 | Règle | Ce qu'elle impose | Source |
 |---|---|---|
 | Récépissé d'entrepreneur de spectacles (il remplace la licence depuis octobre 2019) | Trois catégories : exploitant de lieu, producteur, diffuseur. Obligatoire si le spectacle est l'activité principale ; sinon à partir de 7 représentations par an. Déclaration en ligne, valable 5 ans. Le numéro figure sur les affiches et les billets. Sans récépissé : amende et fermeture possible jusqu'à un an. | https://entreprendre.service-public.gouv.fr/vosdroits/F22365 (consulté le 9 novembre 2026) |
-| Billetterie | Un billet pour chaque spectateur, ou une entrée enregistrée dans un système informatisé avant l'accès. Le système est déclaré aux finances publiques. Les données sont gardées 6 ans. | Code général des impôts, art. 290 quater ; https://bofip.impots.gouv.fr/bofip/1054-PGP.html/identifiant%3DBOI-TVA-DECLA-20-30-20-30-20120912 (12 septembre 2012) |
+| Billetterie | Un billet pour chaque spectateur, ou une entrée enregistrée dans un système informatisé avant l'accès. Le système est déclaré à la direction départementale des finances publiques, au plus tard à sa première utilisation. Conservation : la règle générale est de 6 ans ; le même texte admet un délai plus court pour les coupons et les souches, et demande de garder les données informatiques au moins 3 ans sous forme informatique. Durée exacte à confirmer avec l'expert-comptable. | Code général des impôts, art. 290 quater ; https://bofip.impots.gouv.fr/bofip/1054-PGP.html/identifiant%3DBOI-TVA-DECLA-20-30-20-30-20120912 (12 septembre 2012) |
 | Billetterie : numérotation des textes | Les règles de TVA sont passées dans un nouveau code le 1er septembre 2026 (ordonnance n° 2025-1247 du 17 décembre 2025). L'obligation ne change pas sur le fond. **La référence exacte est à confirmer avec l'expert-comptable** (non vérifiée article par article). | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053091516 ; source secondaire : advizexperts.fr (8 octobre 2026) |
-| Musique (SACEM) | Déclaration par évènement, en ligne, avant la date (tarif réduit de 20 % si la déclaration est faite avant). Programme des œuvres à remettre. Une salle à programmation régulière relève d'un autre tarif. | https://clients.sacem.fr (consulté le 9 novembre 2026) ; code de la propriété intellectuelle, art. L. 122-4 et L. 132-18 |
-| Théâtre, humour, chorégraphie (SACD) | Autorisation préalable de l'auteur, demandée de préférence 6 mois avant. Calendrier des représentations à transmettre 3 mois avant la première (lieux, jauges, dates, prix). Recettes déclarées en ligne. | https://www.sacd.fr/fr/producteur-de-spectacles-demander-une-autorisation (non datée, consultée le 9 novembre 2026) |
+| Musique (SACEM) | Déclaration par évènement, en ligne, avant la date. La SACEM affiche « une réduction de 20 % en déclarant votre évènement à l'avance » ; selon une source secondaire, il faut aussi signer le contrat dans les 15 jours. Programme des œuvres à remettre : **non vérifié**. Une salle à programmation régulière relève d'un autre tarif (source secondaire). | https://clients.sacem.fr (consulté le 9 novembre 2026, lecture partielle) ; source secondaire : bizouk.com (2 novembre 2026) ; code de la propriété intellectuelle, art. L. 122-4 et L. 132-18 (non rouverts) |
+| Théâtre, humour, chorégraphie (SACD) | Autorisation préalable de l'auteur : « il est conseillé de demander l'autorisation 6 mois avant le début des représentations ». Calendrier des représentations à transmettre 3 mois avant la première. Détail du calendrier (lieux, jauges, dates, prix) et déclaration en ligne des recettes : non relus le 9 novembre 2026, **non vérifié**. | https://www.sacd.fr/fr/producteur-de-spectacles-demander-une-autorisation (non datée, consultée le 9 novembre 2026) |
 | Guichet unique du spectacle occasionnel (GUSO) | Réservé aux employeurs dont le spectacle n'est pas l'activité principale. **Si le cabaret a le spectacle pour activité principale, il n'en relève pas.** Utile pour une soirée ponctuelle à la galerie ou dans un commerce. À confirmer avec l'expert-comptable. | https://www.guso.fr · https://entreprendre.service-public.gouv.fr/vosdroits/F1928 (consultés le 9 novembre 2026) |
 | Débit de boissons | Licence III ou IV, ou licence restaurant. Permis d'exploitation obligatoire (formation d'au moins 20 heures, valable 10 ans). Déclaration en mairie au moins 15 jours avant l'ouverture. Pas de création de licence IV : elle s'achète. | https://entreprendre.service-public.gouv.fr/vosdroits/F22379 (consulté le 9 novembre 2026) |
 | Assistant qui parle au public | Depuis le 2 août 2026, une personne doit savoir qu'elle parle à une IA. | Règlement européen sur l'IA, art. 50 : https://ai-act-service-desk.ec.europa.eu/fr/ai-act/timeline/calendrier-de-mise-en-oeuvre-de-la-legislation-de-lue-sur-lia (consulté le 9 novembre 2026) |
@@ -252,7 +254,8 @@ Toutes portent la mention « Maquette — données fictives ». Aucun compte n'e
    - Ce que cela prouve : une seule saisie sert la salle, la caisse et la comptabilité.
 2. **« Le téléphone pendant le service ».**
    - À l'écran : le déroulé écrit d'un appel fictif. L'assistant dit qu'il est un assistant automatique. Il note quatre couverts pour samedi et envoie un SMS. Au second appel, un groupe de vingt personnes : il passe la main et laisse un résumé à l'équipe.
-   - Ce que cela prouve : aucun appel perdu, et les cas délicats restent à l'équipe.
+   - Ce que cela montre : un appel peut être pris pendant le service, et les cas délicats restent à l'équipe.
+   - Réserve (vérification du 9 novembre 2026) : l'assistant vocal vérifié ne traite pas les réservations liées à une formule. Cette maquette montre une possibilité à essayer, pas un produit prêt pour le cabaret. Ne pas dire « aucun appel perdu » au client : c'est un résultat, il se mesure.
 3. **« Le dossier d'une date de spectacle ».**
    - À l'écran : on crée une date fictive, « revue du 14 mars ». Une liste apparaît, avec les dates comptées à rebours : calendrier pour les auteurs, déclaration de la musique, contrats des artistes, planning de l'équipe, contrôle de sécurité. Chaque ligne porte un responsable.
    - Ce que cela prouve : aucune déclaration oubliée. Les démarches restent au nom de l'exploitant.
@@ -274,14 +277,15 @@ Fiches clients liées : n° 12 (caisse et ventes), 14 (tableau de bord par lieu)
 - Témoignage : pas de témoignage public relevé.
 
 **2. Les réponses aux avis préparées par l'IA — disponible**
-- Ce que fait l'outil : il rassemble les avis de plusieurs sites. Pour chacun, il propose une réponse dans la langue du client : « un clic pour valider ou ajuster ». Il classe les avis par thème.
-- Qui le propose : Partoo (pour les réseaux, sur devis). Ma Belle Note affiche 29 € HT par mois et par établissement.
-- Sources : https://www.partoo.co/fr/entreprises/review-management/ (consultée le 9 novembre 2026) · https://mabellenote.com (16 septembre 2026).
+- Ce que fait l'outil : il rassemble les avis de plusieurs sites. Pour chaque avis avec commentaire, il propose une réponse dans la langue du client : « Un clic pour valider ou ajuster, et votre réponse est envoyée. » Il classe les avis par thème.
+- Attention : les deux éditeurs vendent aussi une publication automatique (réponse aux avis sans commentaire chez l'un, « autopilote » pour les avis à 4 et 5 étoiles chez l'autre). Elle ne s'active pas : une personne relit avant toute publication.
+- Qui le propose : Partoo (pour les réseaux, sur devis). Ma Belle Note affiche 29 € HT par mois et par établissement (formule Standard ; formule Pro à 49 € HT).
+- Sources : https://www.partoo.co/fr/entreprises/review-management/ (consultée le 9 novembre 2026) · https://mabellenote.com/fr/ (page non datée, consultée le 9 novembre 2026).
 - Témoignage : pas de témoignage public nommé relevé.
 
 **3. La prévision des ventes et la proposition de commande — disponible, mais taillée pour des chaînes**
 - Ce que fait l'outil : il prévoit les ventes par jour et par produit (historique, météo, calendrier) et propose la commande au fournisseur. Il se branche sur plus de 40 caisses.
-- Qui le propose : Inpulse. Prix non public. Références d'éditeur : Smart Kitchen, Côté Sushi, Blend Hamburger, Wasabi Corner. Les gains affichés sont des données d'éditeur, non vérifiées.
+- Qui le propose : Inpulse. Prix non public. Références d'éditeur : Smart Kitchen, Côté Sushi, Blend Hamburger, Wasabi Corner. Les gains affichés sont des données d'éditeur, non vérifiées. Pages non rouvertes lors de la vérification du 9 novembre 2026 : tout ce paragraphe est **non vérifié**.
 - Sources : https://www.inpulse.ai/logiciel-restaurant-intelligence-artificielle · https://www.laddition.com/fr/partenaire-laddition-inpulse (consultées le 9 novembre 2026).
 - Avis : trop lourd pour un commerce seul. À revoir quand plusieurs commerces tourneront.
 
@@ -304,11 +308,11 @@ Fiches clients liées : n° 12 (caisse et ventes), 14 (tableau de bord par lieu)
 | Règle | Ce qu'elle impose | Source |
 |---|---|---|
 | Logiciel de caisse | Données inaltérables, sécurisées, conservées et archivées. Preuve à présenter : certificat d'un organisme accrédité, ou attestation de l'éditeur (rétablie par la loi de finances pour 2026, applicable depuis le 21 février 2026). | Code général des impôts, art. 286, I, 3° bis ; https://bofip.impots.gouv.fr/bofip/15035-PGP.html/ACTU-2026-00073 ; https://entreprendre.service-public.gouv.fr/actualites/A18087 (24 février 2026) |
-| Sanction caisse | 7 500 € d'amende par logiciel sans justificatif. | Code général des impôts, art. 1770 duodecies (mêmes sources) |
+| Sanction caisse | 7 500 € d'amende par logiciel ou système de caisse sans justificatif. L'exploitant a 60 jours pour se mettre en conformité ; passé ce délai, l'amende est de nouveau due. | Code général des impôts, art. 1770 duodecies, version en vigueur depuis le 21 février 2026 : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037100434 (consulté le 9 novembre 2026) |
 | Avis en ligne : transparence | Qui collecte, modère ou diffuse des avis doit dire s'ils sont contrôlés et donner leur date. | Code de la consommation, art. L. 111-7-2 : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049571119 (en vigueur depuis le 17 février 2024) |
-| Faux avis | Pratique commerciale trompeuse : jusqu'à 2 ans d'emprisonnement et 300 000 € d'amende. L'administration utilise un logiciel de détection depuis 2023. | Code de la consommation, art. L. 132-2 ; décret n° 2023-428 du 1er juin 2023 ; haas-avocats.com (20 décembre 2023) |
-| Réponses automatiques aux avis | Selon un éditeur, Google exige l'accord exprès de l'utilisateur avant toute publication automatique par un outil tiers. **Non vérifié** sur une page de Google. | mabellenote.com (16 septembre 2026) |
-| Factures reçues | Réception électronique obligatoire depuis le 1er septembre 2026 : voir E.3. | — |
+| Faux avis | Pratique commerciale trompeuse : 2 ans d'emprisonnement et 300 000 € d'amende. Peines portées à 5 ans et 750 000 € quand l'infraction est commise par un service en ligne ou un support numérique. L'amende peut aller jusqu'à 10 % du chiffre d'affaires. Peines confirmées le 9 novembre 2026. Logiciel de détection de l'administration (« Polygraphe ») : autorisé par décret pour trois ans à compter de juin 2023. Cette autorisation a donc pris fin en juin 2026, sauf renouvellement : état en novembre 2026 **non vérifié**. Ne pas écrire « l'administration utilise un logiciel de détection ». | Code de la consommation, art. L. 132-2 (version en vigueur depuis le 12 mai 2024) : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227120/ (consulté le 9 novembre 2026) ; décret n° 2023-428 du 1er juin 2023, présenté sur https://entreprendre.service-public.gouv.fr/actualites/A16625 (7 juin 2023) ; haas-avocats.com (20 décembre 2023, non rouvert) |
+| Réponses automatiques aux avis | Selon un éditeur, Google exige l'accord exprès de l'utilisateur avant toute publication automatique par un outil tiers. **Non vérifié** sur une page de Google, et non retrouvé sur la page d'accueil de l'éditeur le 9 novembre 2026. | mabellenote.com (16 septembre 2026, article non rouvert) |
+| Factures reçues | Réception électronique obligatoire depuis le 1er septembre 2026 pour les entreprises assujetties à la TVA : voir E.3. | — |
 
 Conséquence pratique : l'IA aide à répondre aux avis. Elle ne sert jamais à en écrire.
 
@@ -330,7 +334,7 @@ Toutes portent la mention « Maquette — données fictives ».
 
 ## E. Administration centrale (le poste de l'administratrice)
 
-**En une phrase.** C'est ici que l'IA est la plus mûre et la moins chère : elle est déjà incluse dans les suites bureautiques. Elle trie, résume et prépare. L'administratrice valide tout ce qui sort.
+**En une phrase.** C'est ici que l'IA est la plus mûre. Elle est incluse dans une suite bureautique (Google) et vendue en supplément dans l'autre (Microsoft, 18,20 € HT par utilisateur et par mois). Elle résume et prépare ; le tri par société et par lieu reste à régler et à essayer. L'administratrice valide tout ce qui sort.
 
 Fiches clients liées : n° 1 (tri des e-mails et courriers), 2 (comptes rendus), 3 (échéances), 4 (recherche dans les documents), 5 (factures et pièces du mois), 14 et 15 (tableau de bord, trésorerie).
 
@@ -338,33 +342,33 @@ Fiches clients liées : n° 1 (tri des e-mails et courriers), 2 (comptes rendus)
 
 **1. Un assistant dans la messagerie et les documents — disponible**
 - Ce que fait l'outil : il résume un long échange de courriels, prépare une réponse, retrouve une pièce, met un tableau en forme.
-- Qui le propose : Microsoft 365 Copilot Business (18,20 € HT par utilisateur et par mois en engagement annuel, en plus de l'abonnement Microsoft 365). Google Workspace : Gemini est inclus dans les éditions Business depuis le 15 janvier 2025 (6,80 à 21,10 € HT par utilisateur et par mois). Mistral, assistant « Vibe » (ex-« Le Chat »), offre Team à 24,99 € HT par utilisateur et par mois, données hébergées dans l'Union européenne par défaut.
+- Qui le propose : Microsoft 365 Copilot Business (18,20 € HT par utilisateur et par mois en engagement annuel, en plus d'un abonnement Microsoft 365 Business ; prix confirmé sur la page officielle, qui affiche aussi un prix de lancement de 15,60 € HT la première année, du 1er juillet au 31 décembre 2026). Google Workspace : Gemini est inclus dans les éditions Business ; la date du 15 janvier 2025 et les prix en euros (6,80 à 21,10 € HT par utilisateur et par mois) sont **non vérifiés** sur la page officielle, qui n'a montré que des prix en dollars ou aucun montant (source secondaire seulement). Mistral, assistant « Vibe » : la page officielle affiche 24,99 par utilisateur et par mois pour l'offre Team, en dollars lors de la consultation ; le prix en euros HT, le nom « ex-Le Chat » et l'hébergement dans l'Union européenne par défaut sont **non vérifiés** sur cette page.
 - Sources : https://www.microsoft.com/fr-fr/copilot/pricing/business · lecoledelia.com/ressources/copilot-prix-entreprise (30 octobre 2026) · https://workspace.google.fr/pricing · oversales.fr (7 septembre 2026, grille revue le 4 novembre 2026) · https://mistral.ai/fr/pricing · nextstart.ai (24 octobre 2026).
 - Témoignage : pas de témoignage public trouvé pour une petite structure comparable.
 
 **2. Le compte rendu de réunion préparé — disponible**
 - Ce que fait l'outil : il prend des notes pendant la réunion en ligne et propose un compte rendu avec les décisions.
-- Qui le propose : Google Meet (notes automatiques, en français depuis mars 2025, à partir de l'édition Business Standard) ; Microsoft Teams avec Copilot.
+- Qui le propose : Google Meet (notes automatiques à partir de l'édition Business Standard ; « en français depuis mars 2025 » : **non vérifié**) ; Microsoft Teams avec Copilot.
 - Sources : mêmes pages que ci-dessus.
 - Limite : pour une réunion en salle, il faut un enregistrement. Les participants doivent en être informés (voir E.3).
 
 **3. Les factures lues et les relances préparées — disponible**
 - Ce que fait l'outil : il lit la facture reçue, propose le compte et le rapprochement avec la banque. Il prépare la relance d'un client en retard.
-- Qui le propose : Pennylane (7 à 79 € HT par mois ; relances automatisées à partir de l'offre à 24 €). L'éditeur résume : « Copilot propose, vous validez ». Sa formule plus autonome pour les cabinets comptables (« Autopilot exécute, vous supervisez ») est **en déploiement**. Autres lecteurs de factures : Dext, Tiime, Yooz.
-- Sources : https://www.pennylane.com/fr/tarifs (consultée le 9 novembre 2026) · ecriturecomptable.fr (9 juillet 2026), qui rappelle que la lecture automatique « ne garantit pas la justesse de l'écriture ».
+- Qui le propose : Pennylane (7 à 79 € HT par mois ; relances automatisées à partir de l'offre à 24 €). L'éditeur résume : « Copilot propose, vous validez ». Sa formule plus autonome (« Autopilot exécute, vous supervisez ») est **en déploiement** : selon son centre d'aide, elle est ouverte aux cabinets et aux PME inscrits à un essai, et elle envoie seule des demandes et des relances. Elle ne s'active pas sans essai ni accord écrit. Autres lecteurs de factures : Dext, Tiime, Yooz (non rouverts).
+- Sources : https://www.pennylane.com/fr/tarifs pour les prix · https://www.pennylane.com/fr/intelligence-artificielle pour les deux citations (consultées le 9 novembre 2026) · ecriturecomptable.fr (9 juillet 2026, non rouvert), qui rappelle que la lecture automatique « ne garantit pas la justesse de l'écriture ».
 - Témoignage : pas de témoignage public relevé.
 
 **4. La réception des factures électroniques — disponible et obligatoire**
 - Ce que fait l'outil : les factures des fournisseurs arrivent dans un format lisible par machine, par une plateforme agréée. Plus de ressaisie.
-- Qui le propose : les plateformes agréées par l'État ; Pennylane se dit agréée « à titre définitif depuis décembre 2025 ».
-- Sources : https://www.impots.gouv.fr · https://www.economie.gouv.fr (consultés le 9 novembre 2026).
+- Qui le propose : les plateformes agréées par l'État. Pennylane : immatriculation définitive le 11 décembre 2025, selon trois sites qui reprennent le fichier de l'administration fiscale ; la liste officielle n'a pas été rouverte, et la page des prix de l'éditeur dit seulement que tous ses plans sont « conformes à la facturation électronique ».
+- Sources : https://www.impots.gouv.fr · https://www.economie.gouv.fr (consultés le 9 novembre 2026) · sources secondaires : https://www.devis-factures.com/plateformes-agreees/pennylane/ (non datée), guidefacturation.com (6 juin 2026), logicielcomptable.net (20 août 2026).
 
 **5. La recherche dans ses propres documents — disponible**
 - Ce que fait l'outil : on pose une question (« quelle est la date d'échéance de l'assurance du bâtiment B ? »), il répond en citant le document.
-- Qui le propose : NotebookLM, inclus dans Google Workspace Business Standard ; Copilot dans Microsoft 365 ; Mistral avec ses connecteurs.
+- Qui le propose : l'outil de carnets de Google (la page des prix le nomme « Gemini Notebook » ; accès de base dès l'édition Starter, accès étendu à partir de Standard) ; Copilot dans Microsoft 365 ; Mistral avec ses connecteurs.
 - Sources : mêmes pages que l'usage 1.
 
-**Repère d'adoption (étude nommée, datée, lue).** Baromètre France Num 2026, Direction générale des entreprises, réalisé par le Crédoc : 9 655 petites entreprises interrogées du 23 mars au 18 avril 2026. 40 % déclarent utiliser au moins une solution d'IA (26 % en 2025, 13 % en 2024). Premier usage : la génération de contenus (34 %). C'est du déclaratif. Cela s'applique aux TPE et PME françaises, tous secteurs. Ce n'est pas une mesure de temps gagné. Source : https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comprendre-le-numerique/barometre-france-num-2026-le (17 septembre 2026). Réserve : sur trois usages, la page officielle et le rapport détaillé ne donnent pas les mêmes chiffres ; ne citer que le chiffre de 40 %.
+**Repère d'adoption (étude nommée, datée, lue).** Baromètre France Num 2026, Direction générale des entreprises, réalisé par le Crédoc : 9 655 TPE et PME interrogées (dates d'enquête, du 23 mars au 18 avril 2026 : **non vérifié** sur la page relue). 40 % déclarent utiliser au moins une solution d'IA (26 % en 2025, 13 % en 2024). Premier usage : la génération de contenus (34 %). C'est du déclaratif. Cela s'applique aux TPE et PME françaises, tous secteurs. Ce n'est pas une mesure de temps gagné. Source : https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comprendre-le-numerique/barometre-france-num-2026-le (17 septembre 2026). Réserve : sur trois usages, la page officielle et le rapport détaillé ne donnent pas les mêmes chiffres ; ne citer que le chiffre de 40 %.
 
 ### E.2 Ce qui reste humain, et pourquoi
 
@@ -378,11 +382,11 @@ Fiches clients liées : n° 1 (tri des e-mails et courriers), 2 (comptes rendus)
 
 | Règle | Ce qu'elle impose | Source |
 |---|---|---|
-| Facturation électronique | Depuis le 1er septembre 2026 : toute entreprise doit pouvoir recevoir des factures électroniques par une plateforme agréée. Émission obligatoire pour les grandes entreprises ; pour les petites et moyennes, le 1er septembre 2027. | https://www.impots.gouv.fr · https://www.economie.gouv.fr (consultés le 9 novembre 2026) |
-| Données personnelles et IA | Recommandations de la CNIL sur l'IA : informer les personnes, limiter les données, garder la maîtrise. | https://www.cnil.fr/fr/ia-et-rgpd-la-cnil-publie-ses-nouvelles-recommandations-pour-accompagner-une-innovation-responsable (7 février 2025) |
+| Facturation électronique | Depuis le 1er septembre 2026 : toute entreprise assujettie à la TVA doit pouvoir recevoir des factures électroniques par une plateforme agréée. Émission obligatoire depuis la même date pour les grandes entreprises et les entreprises de taille intermédiaire ; pour les PME et les micro-entreprises, le 1er septembre 2027. Le cas de chaque société de GianLuca est à voir avec l'expert-comptable. | https://www.impots.gouv.fr · https://www.economie.gouv.fr (consultés le 9 novembre 2026) |
+| Données personnelles et IA | Recommandations de la CNIL sur l'IA (date confirmée). La page relue vise surtout ceux qui conçoivent ou entraînent un modèle : informer les personnes, leur permettre d'exercer leurs droits. « Limiter les données, garder la maîtrise » n'y a pas été retrouvé : **non vérifié**. | https://www.cnil.fr/fr/ia-et-rgpd-la-cnil-publie-ses-nouvelles-recommandations-pour-accompagner-une-innovation-responsable (7 février 2025) |
 | Enregistrement et transcription des réunions | Prévenir tous les participants avant d'enregistrer, obtenir l'accord des personnes extérieures, fixer une durée de conservation. **Non vérifié sur le site de la CNIL** (source secondaire : morphaius.com, 3 juillet 2026). À valider avant tout essai. | — |
-| Règlement européen sur l'IA | Former les utilisateurs (depuis le 2 février 2025). Dire qu'on parle à une IA (depuis le 2 août 2026). Les usages à haut risque, dont le recrutement et la gestion des salariés, sont encadrés à partir du 2 décembre 2027. | https://ai-act-service-desk.ec.europa.eu/fr/ai-act/timeline/calendrier-de-mise-en-oeuvre-de-la-legislation-de-lue-sur-lia · https://digital-strategy.ec.europa.eu/fr/news/ai-omnibus-enters-force (27 juillet 2026) |
-| Choix de l'offre | Dans les offres gratuites ou individuelles, les échanges peuvent servir à entraîner le modèle (c'est le cas chez Mistral tant qu'on ne le désactive pas). Prendre une offre professionnelle, au nom de la société. | https://mistral.ai/fr/pricing ; nextstart.ai (24 octobre 2026) |
+| Règlement européen sur l'IA | Dire qu'on parle à une IA (depuis le 2 août 2026). Les usages à haut risque, dont le recrutement et la gestion des salariés, sont encadrés à partir du 2 décembre 2027. Former les utilisateurs : règle applicable depuis le 2 février 2025, mais allégée par le texte de simplification entré en vigueur le 27 juillet 2026 ; sa rédaction actuelle est **non vérifiée**. Ne pas la présenter comme une obligation ferme. | https://ai-act-service-desk.ec.europa.eu/fr/ai-act/timeline/calendrier-de-mise-en-oeuvre-de-la-legislation-de-lue-sur-lia · https://digital-strategy.ec.europa.eu/fr/news/ai-omnibus-enters-force (27 juillet 2026) |
+| Choix de l'offre | Dans les offres gratuites ou individuelles, les échanges peuvent servir à entraîner le modèle. Chez Mistral, la page des prix affiche une option de refus de l'entraînement, y compris pour les offres payantes : le réglage est à vérifier quelle que soit l'offre. Prendre une offre professionnelle, au nom de la société. | https://mistral.ai/fr/pricing (consultée le 9 novembre 2026) ; nextstart.ai (24 octobre 2026, non rouvert) |
 
 Conséquence pratique : pas de compte personnel ni d'offre gratuite pour les documents des sociétés. L'IA ne note ni candidats ni salariés.
 
@@ -427,62 +431,62 @@ Aucun achat, aucune prise de contact. Prix publics relevés le 9 novembre 2026, 
 
 | Nom | Ce qu'il fait | Ordre de prix public (source) | Hébergement |
 |---|---|---|---|
-| Antiks | Inventaire, registre numérique, fiche rédigée depuis les photos, factures | À partir de 29 € TTC par mois (antiks.fr) | France (selon l'éditeur) |
-| ArtProMac v10 | Gestion de galerie sur Mac, IA privée, lecture des pièces | À partir de 80 € par mois (artpromac.com) | Sur le Mac de la galerie ou serveur de l'éditeur |
-| Marmalade | Fiche unique, envois privés, certificats, quatre langues | Non relevé (marmalade.art, 4 novembre 2026) | Non relevé |
+| Antiks | Inventaire, registre numérique, fiche rédigée depuis les photos, factures | À partir de 29 € TTC par mois (antiks.fr, consultée le 9 novembre 2026) | France (selon l'éditeur) |
+| ArtProMac v10 | Gestion de galerie sur Mac, IA privée, lecture des pièces | Pour une galerie : à partir de 150 € par mois, en facturation annuelle (formules à 150, 200 et 290 € ; 50 € par mois par utilisateur en plus ; HT ou TTC non précisé). Les 80 € par mois sont la formule pour un collectionneur, sur un seul poste. Module d'IA en option, en supplément (artpromac.com, consultée le 9 novembre 2026) | Sur le Mac de la galerie ou serveur de l'éditeur |
+| Marmalade | Fiche unique, envois privés, certificats, quatre langues | 89 € HT par mois (formule Gallery) ; 189 € HT par mois (formule Business) (marmalade.art, consultée le 9 novembre 2026) | Europe (selon l'éditeur) |
 | Artlogic | Gestion de galerie internationale | Non trouvé | Non relevé |
 | Artfolio | Catalogage depuis une photo, traduction | À partir de 55 € par mois (artfolio.ai) | Non relevé |
 | ID-Art (INTERPOL) | Recherche d'œuvres volées par photo | Gratuit (interpol.int) | INTERPOL |
 
 ### B. Bâtiments
 
-Prix repris de `interne/logiciels-et-automatisations/travaux/r1-marche-et-offre-accord.md`.
+Prix repris de `interne/logiciels-et-automatisations/travaux/r1-marche-et-offre-accord.md`. Les six pages d'éditeurs ont été rouvertes le 9 novembre 2026. Pour G'ma, la page de l'éditeur affiche bien 790 € HT par an ; « jusqu'à 5 utilisateurs » vient de deux sites relais.
 
 | Nom | Ce qu'il fait | Ordre de prix public (source) | Hébergement |
 |---|---|---|---|
-| Rentila | Gestion locative, locaux commerciaux, assistant IA inclus | Gratuit pour 1 lot ; 11,90 € par mois en illimité (rentila.com/tarifs) | Non relevé |
-| Qalimo | Gestion locative, bail commercial, révision ILC et ILAT | 4,90 € par bien et par mois ; 34,30 € par mois de 7 à 40 biens, TTC (qalimo.fr/tarif, 25 octobre 2026) | Non relevé |
+| Rentila | Gestion locative, locaux commerciaux, assistant IA inclus | Gratuit pour 1 lot ; 11,90 € HT par mois en illimité (rentila.com/tarifs) | Non relevé |
+| Qalimo | Gestion locative, bail commercial, révision ILC et ILAT | 4,90 € par bien et par mois ; 34,30 € par mois de 7 à 40 biens, TTC (qalimo.fr/tarif, 25 octobre 2026) | France (selon l'éditeur) |
 | Brik Pro | Gestion de patrimoine, assistant IA qui lit les documents | Non relevé (pro.brik.com, 8 novembre 2026) | Non relevé |
-| Talok | Gestion locative multi-sociétés | 69 € HT par mois pour 50 biens et 5 entités (talok.fr/pricing) | Non relevé |
-| G'ma GMAO | Calendrier des entretiens et contrôles | 790 € HT par an jusqu'à 5 utilisateurs (industrie-du-futur.com, 24 septembre 2026) | Non relevé |
-| Fiix | Calendrier des entretiens | Gratuit jusqu'à 25 entretiens planifiés ; puis 45 $ par utilisateur et par mois (fiixsoftware.com/cmms/pricing) | Non relevé |
+| Talok | Gestion locative multi-sociétés | 69 € HT par mois (82,80 € TTC) pour 50 biens et jusqu'à 5 entités juridiques (talok.fr/pricing, consultée le 9 novembre 2026) | Non relevé |
+| G'ma GMAO | Calendrier des entretiens et contrôles | 790 € HT par an (gmagmao.fr/tarifs-gmao, « forfaits 2026 », consultée le 9 novembre 2026) ; jusqu'à 5 utilisateurs selon industrie-du-futur.com (24 septembre 2026) | Chez l'hébergeur Infomaniak (selon l'éditeur) |
+| Fiix | Calendrier des entretiens | Gratuit jusqu'à 25 entretiens planifiés actifs ; puis 45 $ par utilisateur et par mois, prix en dollars (fiixsoftware.com/cmms/pricing, consultée le 9 novembre 2026) | Non relevé |
 
 ### C. Cabaret-spectacle et restauration
 
 | Nom | Ce qu'il fait | Ordre de prix public (source) | Hébergement |
 |---|---|---|---|
-| PRESTISCENE (Prestilogic) | Billetterie, plan de salle, formules, caisse du bar | Non relevé (prestilogic.fr, 21 juin 2026) | Non relevé |
-| KABAO (e-Obs) | Réservation, billetterie, formules, exports SACEM | Non relevé (e-obs.fr) | Non relevé |
-| Billetweb | Billetterie en ligne | 0,29 € + 1 % par billet payé (billetweb.fr/fr-fr/tarifs) | Non relevé |
-| Weezevent | Billetterie en ligne et guichet | 2,5 % par billet, minimum 0,99 € (weezevent.com, août 2026) | Non relevé |
-| Yurplan | Billetterie en ligne | 0,39 € + 1 % par billet (yurplan.com/tarifs) | Non relevé |
+| PRESTISCENE (Prestilogic) | Billetterie, plan de salle, formules, caisse du bar (selon l'éditeur, non essayé) | Forfait mensuel sans engagement et sans commission, montant non affiché (prestilogic.fr, consultée le 9 novembre 2026) | Non relevé |
+| KABAO (e-Obs) | Réservation, billetterie, formules, exports pour la SACEM (pages non datées, sans doute anciennes) | Non relevé (e-obs.fr) | Non relevé |
+| Billetweb | Billetterie en ligne | 0,29 € + 1 % par billet payé en ligne ; HT ou TTC non précisé (billetweb.fr/fr-fr/tarifs, consultée le 9 novembre 2026) | Non relevé |
+| Weezevent | Billetterie en ligne et guichet | 2,5 % par billet vendu en ligne, minimum 0,99 € TTC (weezevent.com/fr/tarifs, consultée le 9 novembre 2026) | Non relevé |
+| Yurplan | Billetterie en ligne | 0,39 € HT + 1 % par billet ; placement numéroté : 0,42 € HT de plus par billet (yurplan.com/tarifs, consultée le 9 novembre 2026) | Non relevé |
 | Zenchef | Réservations, assistant vocal | Non relevé (help.zenchef.com) | Non relevé |
 | Skello | Planning de l'équipe | Non relevé (skello.io) | Non relevé |
-| Combo | Planning de l'équipe | À partir de 68 € par établissement et par mois (combohr.com/fr/nos-offres) | Non relevé |
+| Combo | Planning de l'équipe | À partir de 68 € par établissement et par mois ; HT ou TTC non précisé (combohr.com/fr/nos-offres) | Non relevé |
 
-Les prix de billetterie viennent de `interne/logiciels-et-automatisations/travaux/r1-marche-et-offre-accord.md`.
+Les prix de billetterie viennent de `interne/logiciels-et-automatisations/travaux/r1-marche-et-offre-accord.md`. Billetweb, Weezevent et Yurplan ont été relus sur la page de l'éditeur le 9 novembre 2026.
 
 ### D. Commerces
 
 | Nom | Ce qu'il fait | Ordre de prix public (source) | Hébergement |
 |---|---|---|---|
-| SumUp | Caisse et paiement par carte | Caisse gratuite, 1,75 % par paiement ; ou 49 € par mois (étude interne r1) | Non relevé |
-| Tactill | Caisse pour boutique | 29, 49 ou 69 € HT par mois (lejournaldelatech.fr, 14 septembre 2026) | Non relevé |
-| Lightspeed Restaurant | Caisse pour restaurant | 89, 159 ou 249 € par mois (lightspeedhq.com/fr/caisse/restaurant/pricing) | Non relevé |
+| SumUp | Caisse et paiement par carte | Caisse incluse sans frais, 1,75 % par paiement en personne ; ou formule à 49 € HT par mois (sumup.com/fr-fr/tarifs, consultée le 9 novembre 2026 ; la page porte des blocs qui ne concordent pas tous) | Non relevé |
+| Tactill | Caisse pour boutique | 348, 588 ou 828 € HT par an en paiement annuel, soit 29, 49 ou 69 € HT par mois ; prix du paiement mensuel non lu (tactill.com/prix-caisse-enregistreuse, consultée le 9 novembre 2026) | Non relevé |
+| Lightspeed Restaurant | Caisse pour restaurant | 89, 159 ou 249 € par mois ; HT ou TTC non précisé ; 49 € par caisse en plus (lightspeedhq.com/fr/caisse/restaurant/pricing, consultée le 9 novembre 2026) | Non relevé |
 | Partoo | Avis et fiches d'établissement, réponses proposées par IA | Sur devis (partoo.co/fr/tarifs) | Non relevé |
-| Ma Belle Note | Réponses aux avis | 29 € HT par mois et par établissement (mabellenote.com, 16 septembre 2026) | Non relevé |
-| Inpulse | Prévision des ventes et commandes | Non public (inpulse.ai) | Non relevé |
+| Ma Belle Note | Réponses aux avis | 29 € HT par mois et par établissement (mabellenote.com/fr/, page non datée, consultée le 9 novembre 2026) | Non relevé |
+| Inpulse | Prévision des ventes et commandes | Non public (inpulse.ai, non rouvert) | Non relevé |
 
-Matériel de caisse : 1 000 à 3 000 € par poste selon l'étude interne r1.
+Matériel de caisse : 1 000 à 3 000 € par poste selon l'étude interne r1 (non revérifié le 9 novembre 2026).
 
 ### E. Administration centrale
 
 | Nom | Ce qu'il fait | Ordre de prix public (source) | Hébergement |
 |---|---|---|---|
 | Microsoft 365 Copilot Business | Assistant dans Outlook, Word, Excel, Teams | 18,20 € HT par utilisateur et par mois en engagement annuel, en plus de Microsoft 365 (microsoft.com/fr-fr/copilot/pricing/business ; lecoledelia.com, 30 octobre 2026) | Non relevé |
-| Google Workspace Business | Messagerie, documents, Gemini inclus, notes de réunion | 6,80 € (Starter), 13,60 € (Standard), 21,10 € (Plus) HT par utilisateur et par mois (workspace.google.fr/pricing ; oversales.fr, 4 novembre 2026) | Région de stockage au choix à partir de Standard |
-| Mistral « Vibe » | Assistant généraliste français, connecteurs | Pro 14,99 € HT par mois ; Team 24,99 € HT par utilisateur et par mois (mistral.ai/fr/pricing) | Union européenne par défaut |
-| Pennylane | Factures, banque, relances, plateforme agréée | 7, 14, 24 ou 79 € HT par mois (pennylane.com/fr/tarifs) | Union européenne (selon l'éditeur) |
+| Google Workspace Business | Messagerie, documents, Gemini inclus, notes de réunion | 6,80 € (Starter), 13,60 € (Standard), 21,10 € (Plus) HT par utilisateur et par mois selon oversales.fr (4 novembre 2026) : **non vérifié** sur la page officielle workspace.google.fr/pricing, qui n'a pas montré de montant en euros | Choix de la région de stockage : la page officielle ne le liste que pour l'édition Enterprise ; « à partir de Standard » n'est pas confirmé |
+| Mistral « Vibe » | Assistant généraliste français, connecteurs | Pro 14,99 par mois ; Team 24,99 par utilisateur et par mois : montants affichés en dollars lors de la consultation (mistral.ai/fr/pricing, 9 novembre 2026) ; prix en euros HT **non vérifié** | **Non vérifié** sur la page des prix |
+| Pennylane | Factures, banque, relances, plateforme agréée | 7, 14, 24 ou 79 € HT par mois (pennylane.com/fr/tarifs, consultée le 9 novembre 2026) | **Non vérifié** sur les pages relues |
 
 Avant tout choix : savoir quelle suite l'administratrice utilise déjà, et quel logiciel utilise l'expert-comptable.
 
@@ -492,16 +496,18 @@ Avant tout choix : savoir quelle suite l'administratrice utilise déjà, et quel
 
 Classement selon quatre critères : il sert tous les jours, il se voit à l'écran en trois minutes, il est disponible aujourd'hui, une personne garde la main. Les phrases de diapositive font 25 mots au plus, sans marque.
 
+Après la vérification du 9 novembre 2026 : neuf usages tiennent. Le rang 8 est retiré. Les phrases des rangs 1, 6 et 7 ont été corrigées. La liste à reprendre telle quelle est la liste « sûr pour une diapositive », en fin de note.
+
 | Rang | Usage | Domaine | Maturité | Niveau | Phrase pour la diapositive |
 |---|---|---|---|---|---|
-| 1 | Messagerie triée, réponses préparées | E | Disponible | Automatique puis Assistée | « Chaque matin, vos messages sont triés par société et par lieu. Les réponses sont préparées. Votre administratrice relit et envoie. » |
+| 1 | Échanges résumés, réponses préparées | E | Disponible pour le résumé et le projet de réponse. Tri par société et par lieu : à régler et à essayer, **non vérifié** comme fonction prête | Assistée (tri interne : Automatique après essai et accord écrit) | « Un assistant résume vos longs échanges et prépare un projet de réponse. Votre administratrice relit et envoie elle-même. » |
 | 2 | Bail lu, échéances au calendrier | B | Disponible | Assistée | « Vos baux sont lus une fois. Chaque échéance arrive dans un seul calendrier, avec un rappel. Vous décidez de la suite. » |
 | 3 | Fiche d'œuvre depuis les photos | A | Disponible | Assistée | « Trois photos, et la fiche de l'œuvre est préparée, en français et en anglais. L'attribution et le prix restent les vôtres. » |
 | 4 | Factures lues et rangées | E | Disponible | Assistée | « Chaque facture est lue, classée par société et rapprochée. Votre administratrice valide. Aucun paiement ne part seul. » |
 | 5 | Compte rendu et décisions | E | Disponible | Assistée | « À la fin de la réunion, le compte rendu et la liste des décisions sont prêts. Vous relisez, vous diffusez. » |
-| 6 | Registre de la galerie sur écran | A | Disponible | Automatique (tenue), validée par le marchand | « Chaque entrée d'œuvre est inscrite, datée, et ne peut plus être modifiée. Le registre se présente en un geste lors d'un contrôle. » |
-| 7 | Soirée dîner-spectacle en une saisie | C | Disponible | Automatique | « Une table vendue, une seule saisie : le billet, le plan de salle, la caisse et la comptabilité sont à jour. » |
-| 8 | Téléphone des réservations | C | Disponible (messagerie : en déploiement) | Automatique, avec renvoi à l'équipe | « Pendant le service, un assistant répond au téléphone, dit qu'il est un assistant automatique, note la réservation et passe la main à l'équipe. » |
+| 6 | Registre de la galerie sur écran | A | Disponible (ne vaut que si la galerie achète d'occasion ou prend des œuvres en dépôt : question n° 1 du cadrage) | Automatique (tenue), validée par le marchand | « Chaque entrée au registre est datée et ne peut plus être modifiée : on l'annule et on la refait. Le registre s'exporte pour un contrôle. » |
+| 7 | Soirée dîner-spectacle en une saisie | C | Disponible selon l'éditeur, non essayé | Automatique | « Des logiciels de métier réunissent la vente de la table, le billet, le plan de salle, la caisse et l'export comptable. À choisir avant l'ouverture. » |
+| 8 | Téléphone des réservations | C | **Retiré le 9 novembre 2026.** Disponible pour un restaurant simple seulement ; l'assistant vérifié ne traite pas une réservation liée à une formule. Qu'il se présente lui-même comme un assistant automatique est une exigence de la loi, pas une fonction vérifiée | — | Aucune phrase à montrer. À garder comme piste à essayer après l'ouverture. |
 | 9 | Réponses aux avis | D | Disponible | Assistée | « Chaque avis reçoit un projet de réponse. Vous corrigez, vous publiez. Aucun avis n'est écrit à votre place. » |
 | 10 | Dossier d'une date de spectacle | C | Disponible (assemblage par l'outil commun, à construire) | Préparée | « Pour chaque date de spectacle, la liste des déclarations et des échéances est prête. Les démarches restent à votre nom. » |
 
@@ -509,7 +515,8 @@ Remarques d'emploi :
 
 - Les rangs 1, 4 et 5 forment « la journée de l'administratrice ». C'est le meilleur fil pour la présentation : GianLuca vient de l'engager.
 - Le rang 3 est le plus proche de son métier d'origine. À montrer en premier si l'on veut un effet immédiat.
-- Les rangs 7, 8 et 10 concernent un cabaret qui n'est pas ouvert. À présenter comme « ce qui existe pour le jour de l'ouverture », pas comme un essai immédiat.
+- Les rangs 7 et 10 concernent un cabaret qui n'est pas ouvert. À présenter comme « ce qui existe pour le jour de l'ouverture », pas comme un essai immédiat. Le rang 8 ne se montre pas.
+- Rang 1 : le rangement des messages par société et par lieu n'est pas une fonction prête à l'achat. C'est un réglage à construire et à essayer. La maquette « La boîte du lundi matin » (E.4) et le premier moment de la journée de l'administratrice se présentent donc comme une cible de l'essai, pas comme un acquis.
 - Le rang 10 n'est pas un produit du marché. C'est une liste d'échéances que l'outil commun peut tenir. Les règles sont vérifiées (C.3) ; l'assemblage reste à faire.
 - Aucune de ces phrases ne promet un gain. Le gain se mesure dans l'essai.
 
@@ -531,9 +538,26 @@ Remarques d'emploi :
 - Disponibilité en France de l'IA de caisse de Lightspeed.
 - Repères de la CNIL sur la transcription des réunions.
 - Vitrines numériques.
-- Prix de Brik Pro, PRESTISCENE, KABAO, Zenchef, Skello, Partoo, Marmalade, Artlogic.
+- Prix de Brik Pro, PRESTISCENE, KABAO, Zenchef, Skello, Partoo, Artlogic.
 - Lieu d'hébergement de la plupart des logiciels cités.
 - Tout témoignage indépendant et nommé : aucun trouvé dans les cinq domaines.
+
+Ajouts de la vérification du 9 novembre 2026 (sources non rouvertes, ou source qui ne dit pas ce que la note affirmait) :
+
+- Artprice : prix et date ; note d'aide d'Artlogic ; pages d'Inpulse.
+- Champ exact du registre des objets mobiliers (œuvres reçues directement des artistes).
+- Logiciel de détection des faux avis : autorisation de trois ans donnée en juin 2023 ; renouvellement après juin 2026 non trouvé.
+- SACEM : autorisation délivrée tout de suite en ligne ; obligation de remettre le programme des œuvres. SACD : détail du calendrier et déclaration des recettes en ligne.
+- Assistant vocal de réservation : prise en charge d'une formule dîner-spectacle ; annonce spontanée « je suis un assistant automatique ».
+- Planning : prise en compte des extras ; convention collective couverte par l'outil ; état d'un des deux outils en novembre 2026.
+- Google Workspace : prix en euros, date d'inclusion de l'assistant, date des notes de réunion en français, région de stockage à partir de Standard.
+- Mistral : prix en euros HT, hébergement dans l'Union européenne par défaut, ancien nom.
+- Pennylane : lieu d'hébergement ; immatriculation définitive lue sur trois sources secondaires seulement.
+- Règlement européen sur l'IA : rédaction actuelle de la règle de formation des utilisateurs après le texte de simplification du 27 juillet 2026.
+- CNIL et IA : « limiter les données, garder la maîtrise » pour une entreprise qui utilise un outil.
+- Baromètre France Num 2026 : dates de l'enquête.
+- Prix repris de l'étude interne sans relecture ce jour-là : matériel de caisse. Prix du paiement mensuel chez Tactill. Nombre d'utilisateurs du forfait G'ma à 790 € (lu sur des relais seulement).
+- Tri de la messagerie par société et par lieu comme fonction prête à l'achat.
 
 ## Questions à poser pendant le cadrage
 
