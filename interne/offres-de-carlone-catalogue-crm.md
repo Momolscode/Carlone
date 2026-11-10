@@ -70,7 +70,7 @@ Ces montants supposent qu'aucun don de mécénat ne réduise le plafond la même
 
 La vente n'est que la quatrième étape sur sept : la valeur du CRM est dans les cinq années de suivi qui gardent la déduction valable.
 
-&#91;embedded content: Parcours d'une vente · 7 étapes, 1 alerte\]
+![Parcours d'une vente · 7 étapes, 1 alerte](diagrammes/offres-crm-parcours-vente.png)
 
 Chaque année de suivi est aussi une occasion de contact. À la fin des cinq ans, le client a déjà l'habitude d'acheter : c'est le moment de proposer une nouvelle œuvre.
 
