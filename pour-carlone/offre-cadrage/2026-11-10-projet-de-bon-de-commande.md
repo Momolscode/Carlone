@@ -50,9 +50,12 @@ Les conditions ci-après ; le tableau « qui valide quoi » ; [le formulaire de 
 
 ## 8. Signatures
 
+Fait en deux exemplaires originaux, signés à la main ou par un procédé de signature électronique.
+
 | Pour le client | Pour Marwin Tech |
 | --- | --- |
 | Nom : ……… | Nom : ……… |
+| Lieu : ……… | Lieu : ……… |
 | Date : ……… | Date : ……… |
 | Signature : | Signature : |
 
@@ -68,7 +71,7 @@ Les conditions ci-après ; le tableau « qui valide quoi » ; [le formulaire de 
 
 **4. Réception.** Vous signez la réception du dossier, ou la personne que vous désignez par écrit. Vous avez dix jours ouvrés pour nous écrire vos réserves et leurs raisons ; nous corrigeons une fois. Sans réserve écrite, le solde est dû au plus tard trente jours après la remise. Cette règle ne vaut que pour le paiement : aucune décision ni aucune dépense ne se déduit de votre silence.
 
-**5. Retard de paiement.** Pénalités au taux de refinancement de la Banque centrale européenne majoré de dix points, et indemnité forfaitaire de 40 € pour frais de recouvrement. Le travail est suspendu huit jours après une relance restée sans effet.
+**5. Retard de paiement.** Pénalités au taux de refinancement de la Banque centrale européenne majoré de dix points, et indemnité forfaitaire de 40 € pour frais de recouvrement. Pas d’escompte pour paiement anticipé. Le travail est suspendu huit jours après une relance restée sans effet.
 
 **6. Ce qui vous appartient.** Le dossier et les documents faits pour votre société lui sont cédés au paiement du solde ; elle les utilise avec qui elle veut. Nos méthodes et nos outils génériques restent à nous ; votre société en garde l’usage, sans paiement supplémentaire et sans limite de durée.
 
