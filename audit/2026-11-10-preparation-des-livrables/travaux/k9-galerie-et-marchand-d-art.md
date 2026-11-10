@@ -313,3 +313,55 @@ Dix affirmations choisies parmi celles qui pèsent le plus dans les documents cl
 | 10 | Reproductions en ligne (fiche client 1 : « si l’ADAGP gère les droits de l’artiste, l’autorisation se demande à elle ») | Légifrance, CPI, art. L122-4 (version du 3 juillet 1992) et L122-5 (version du 1er janvier 2023) ; ADAGP, même page | Règle générale confirmée ; rôle de l’ADAGP non confirmé par la page lue (correction 9) |
 
 Contrôle complémentaire, hors des dix : règlement de sécurité, art. GN 6 (Légifrance, version du 4 novembre 2023), cité par la fiche client 1 (correction 10).
+
+### Corrections
+
+1. **Registre papier.** Il est coté et paraphé « par le commissaire de police ou le maire » ; les cinq ans courent à partir de sa clôture ; un registre par établissement ouvert au public (R321-6). **Registre électronique** : dix ans à partir de l’enregistrement des données ; ses règles sont fixées par un arrêté conjoint des ministres de l’Intérieur et de la Culture (R321-8), non lu. Un outil ne tient lieu de registre que s’il respecte cet arrêté.
+2. **Champ du registre.** L’article 321-7 vise les objets « usagés ou acquis » auprès de personnes qui ne les fabriquent pas et n’en font pas le commerce. Le mot « dépôt » n’y figure pas ; il vient des articles R321-3 à R321-5 (non relus mot à mot) et du code de déontologie. La phrase de la fiche 1 « les dépôts qui ne viennent pas des artistes » est une lecture : reformulée.
+3. **Article 278-0 bis.** La version en vigueur le 10 novembre 2026 (depuis le 1er mars 2026, loi n° 2026-103 du 19 février 2026, art. 81) garde au I le taux de 5,5 % pour les livraisons d’œuvres d’art, sauf quand la base d’imposition relève de l’article 297 A. Le doute de la partie 2 est levé. L’article est abrogé au 1er janvier 2027 (ordonnance n° 2025-1247, art. 9) pour la recodification ; les nouveaux numéros restent à lire. La page du BOFiP du 14 mai 2025 était soumise à consultation publique jusqu’au 14 juin 2025 : chercher une version plus récente avant de la citer.
+4. **Exceptions du droit de suite.** Elles sont dans la loi (CPI, art. L122-8), pas seulement sur le site de l’ADAGP : le droit joue après la première cession par l’auteur ; il ne s’applique pas à une revente dans les trois ans d’un achat direct à l’auteur, à 10 000 € au plus.
+5. **Délai du droit de suite.** Loi : sur demande du bénéficiaire, paiement sous quatre mois au plus (R122-10, I) ; sans demande, le professionnel avise un organisme de gestion collective, par lettre recommandée, au plus tard trois mois après la fin du trimestre civil de la vente (R122-10, II). Les « quatre mois » de l’ADAGP courent à partir de son propre envoi. Responsable du paiement hors enchères, dans l’ordre : le vendeur professionnel, à défaut l’intermédiaire qui reçoit le paiement, à défaut l’acheteur professionnel (R122-9). Selon l’ADAGP, la responsabilité de la galerie court cinq ans après la déclaration de la vente.
+6. **Urssaf.** Remplacer « non datée » par « vérifiée le 26 janvier 2026 » (cotisations) et « mise à jour le 14 novembre 2025 » (modalités). Fond inchangé. L’article R382-17 du code de la sécurité sociale n’a pas été relu.
+7. **Lignes directrices de la douane.** La fiche « Marchands d’art et d’antiquités » (17 juin 2025) renvoie à des lignes directrices mises en ligne le 21 mars 2023 et à une analyse sectorielle des risques du 12 avril 2023. La phrase « toutes, sauf celles qui exposent seulement… » vient de la version de novembre 2020 : à relire dans la version de 2023 avant toute reprise. L’article L561-2, 10°, nomme lui-même les galeries d’art.
+8. **Espèces.** Pour un payeur domicilié fiscalement à l’étranger et une dépense personnelle : 15 000 € si le professionnel est soumis à la lutte contre le blanchiment, 10 000 € sinon. L’amende est partagée par moitié entre le payeur et le professionnel.
+9. **Reproductions.** Toute reproduction sans le consentement de l’auteur est illicite (L122-4). L’article L122-5 n’a pas d’exception pour le catalogue ou le site d’une galerie qui vend hors enchères : seulement le catalogue d’une vente judiciaire (3°, d) et l’information immédiate par la presse (9°). Le passage par l’ADAGP pour les artistes qui lui ont confié leurs droits n’a pas été lu sur une page de l’ADAGP : la fiche 1 le dit prudemment.
+10. **Article GN 6.** La demande est « présentée par l’exploitant au moins deux mois avant la manifestation », avec l’utilisateur occasionnel s’il est différent. Le mot « maire » n’apparaît pas dans l’article. Elle vise un usage autre que celui autorisé, ou une attraction à risque, pas tout vernissage. La fiche 1 est corrigée.
+
+### Phrases sûres pour un document client
+
+Chacune garde sa source et la date de consultation (10 novembre 2026) et reste « à faire valider par vos professionnels ».
+
+- « Si votre galerie vend des objets usagés ou achetés à des personnes qui ne les fabriquent pas et n’en font pas le commerce, elle tient un registre jour par jour (Code pénal, art. 321-7). »
+- « Tenu sur écran, ce registre doit garantir l’intégrité, l’intangibilité et la sécurité des données (Code pénal, art. R321-6-1). »
+- « Depuis le 1er janvier 2025, la vente d’une œuvre d’art est taxée à 5,5 %, sauf si elle relève du régime de la marge (Code général des impôts, art. 278-0 bis ; BOFiP du 14 mai 2025). »
+- « Le droit de suite s’applique à partir de 750 € hors taxes et ne dépasse pas 12 500 € par vente (Code de la propriété intellectuelle, art. R122-5 et R122-6). »
+- « La déclaration annuelle des diffuseurs se fait à l’Urssaf avant le 1er mai, même sans vente (Urssaf, page mise à jour le 14 novembre 2025). »
+- « Les galeries d’art sont soumises à la lutte contre le blanchiment pour les opérations de 10 000 € et plus (Code monétaire et financier, art. L561-2). »
+- « Reproduire une œuvre sur un site ou dans un catalogue demande l’accord de l’auteur ou de ses ayants droit (Code de la propriété intellectuelle, art. L122-4). »
+- « Un usage du lieu autre que celui autorisé demande une autorisation au moins deux mois avant (règlement de sécurité, art. GN 6). »
+
+### Ce qui reste inconnu
+
+- La situation réelle de GianLuca Carlone : structure, achats, dépôts, registre, ventes de 10 000 € et plus, comptes ADAGP et Urssaf.
+- L’arrêté conjoint sur le registre électronique (R321-8).
+- Les numéros des articles de TVA au 1er janvier 2027 ; une version du BOFiP postérieure au 14 mai 2025.
+- Le rôle exact de l’ADAGP pour les droits de reproduction (page « Droits de reproduction et de représentation » non lue).
+- Le contenu des lignes directrices de mars 2023.
+- Le destinataire de la demande de l’article GN 6, que le texte ne nomme pas : à demander à la mairie.
+
+### Pages relues le 10 novembre 2026
+
+- Légifrance — Code pénal, art. 321-7 — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023717783 — version du 16 mars 2011.
+- Légifrance — Code pénal, art. R321-1 à R321-8 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006181789/ — versions en vigueur le 10 novembre 2026.
+- Légifrance — CGI, art. 278-0 bis — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047622738 — version du 1er mars 2026.
+- BOFiP — BOI-TVA-SECT-90-40 — https://bofip.impots.gouv.fr/bofip/1285-PGP.html/identifiant%3DBOI-TVA-SECT-90-40-20250514 — 14 mai 2025.
+- Légifrance — CPI, art. L122-1 à L122-12 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069414/LEGISCTA000006161637/ — versions en vigueur le 10 novembre 2026.
+- Légifrance — CPI, art. R122-2 à R122-12 (droit de suite) — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069414/LEGISCTA000019989747/ — versions en vigueur le 10 novembre 2026.
+- Urssaf — cotisations des diffuseurs commerçants d’art — https://www.urssaf.fr/accueil/artiste-auteur-diffuseur/diffuseur-commercant-art/cotisation-contribution-sociale.html — vérifiée le 26 janvier 2026.
+- Urssaf — modalités de déclaration et de paiement — https://www.urssaf.fr/accueil/artiste-auteur-diffuseur/diffuseur-commercant-art/modalites-declaration-paiement.html — mise à jour le 14 novembre 2025.
+- Légifrance — CMF, art. L561-2 — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033582023 — version du 5 août 2026.
+- Douane — « Marchands d’art et d’antiquités » — https://www.douane.gouv.fr/fiche/marchands-dart-et-dantiquites — 17 juin 2025.
+- Douane — lignes directrices LCB-FT pour les marchands d’art — https://www.douane.gouv.fr/sites/default/files/2023-03/21/lignes-directrices-lcb-ft-pour-les-marchands-d-art-et-d-antiquite.pdf — mise en ligne le 21 mars 2023 (non ouverte).
+- Service Public — fiche F10999 — https://www.service-public.gouv.fr/particuliers/vosdroits/F10999 — vérifiée le 26 juin 2026.
+- ADAGP — « Je suis un professionnel du marché de l’art » — https://www.adagp.fr/fr/jutilise-ou-vends-une-oeuvre/je-suis/je-suis-un-professionnel-du-marche-de-lart — non datée.
+- Légifrance — règlement de sécurité, art. GN 6 — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048310284 — version du 4 novembre 2023.
