@@ -47,7 +47,7 @@ Si la commande est signée avant la mi-décembre, voici un déroulé possible. C
 | Période | Ce qui se passe | Ce que vous avez en main |
 | --- | --- | --- |
 | Janvier 2027 | Le cadrage : entretien, inventaire, trois priorités | Un dossier qui appartient à votre société, dès le solde payé |
-| Février et mars 2027 | Un essai de huit semaines sur votre première priorité, par exemple le registre de vos bâtiments ou le choix du logiciel de vos suites | Un résultat mesuré, comparé à sa mesure de départ |
+| Février et mars 2027 | Un essai de huit semaines au plus sur votre première priorité, par exemple le registre de vos bâtiments ou le choix du logiciel de vos suites | Un résultat mesuré, comparé à sa mesure de départ |
 | Avril 2027 | Le bilan : continuer, ajuster ou arrêter | Une décision fondée sur des chiffres |
 
 L’essai se commande à part, après le cadrage. Les dates dépendent aussi de l’ouverture de vos suites, encore inconnue.
