@@ -2,7 +2,7 @@
 
 PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
-Dix minutes environ. « Je ne sais pas » est une bonne réponse : le cadrage sert justement à le savoir. Vous pouvez répondre avec votre administratrice. Ne nous transmettez ici ni mot de passe, ni donnée bancaire, ni donnée de santé.
+Répondez seulement à ce que vous savez. « Je ne sais pas » est une bonne réponse : le cadrage sert justement à le savoir. Vous pouvez répondre avec votre administratrice. Ne nous transmettez ici ni mot de passe, ni donnée bancaire, ni donnée de santé.
 
 ## Vos sociétés
 
@@ -22,20 +22,21 @@ Dix minutes environ. « Je ne sais pas » est une bonne réponse : le cadrage se
 8. Où en est la galerie d’art ? ☐ ouverte ☐ en projet
 9. Où en est le cabaret-spectacle ? ☐ idée ☐ étude ☐ travaux ☐ ouvert
 10. Quels autres commerces ou projets prévoyez-vous ? ……………………
-11. Avez-vous un projet d’hôtel ou de chambres ? ☐ oui, combien : …… ☐ non ☐ peut-être
+11. Votre projet d’hôtel ou de chambres : combien de chambres ? …… Dans quel bâtiment ? …… Ouverture visée (mois et année) : …… ☐ pas encore fixée
+12. Sous quelle forme ? ☐ hôtel ☐ chambres d’hôtes ☐ meublés de tourisme ☐ à décider
 
 ## Votre organisation
 
-12. Quel est le rôle de votre administratrice, et ce qu’elle peut valider seule ? ……………………
-13. Quels outils utilisez-vous (tableur, logiciel, agenda partagé…) ? ……………………
-14. Quelles tâches reviennent le plus souvent et prennent le plus de temps ? ……………………
-15. Qu’est-ce qui a failli mal tourner récemment (échéance oubliée, devis mal comparé, document introuvable) ? ……………………
+13. Votre administratrice : son rôle, la société pour laquelle elle travaille, ce qu’elle peut valider seule ? ……………………
+14. Quels outils utilisez-vous (tableur, logiciel, agenda partagé, logiciel de réservation, outil d’IA…) ? ……………………
+15. Quelles tâches reviennent le plus souvent et prennent le plus de temps ? ……………………
+16. Qu’est-ce qui a failli mal tourner récemment (échéance oubliée, devis mal comparé, document introuvable) ? ……………………
 
 ## Vos trois sujets des trois prochains mois
 
-16. Si vous ne deviez régler que trois choses d’ici mars, lesquelles ? 1. …… 2. …… 3. ……
-17. Votre logiciel de gestion de vos propriétés en fait-il partie ? ☐ oui ☐ non ☐ à discuter
+17. Si vous ne deviez régler que trois choses dans les trois prochains mois, lesquelles ? 1. …… 2. …… 3. ……
+18. Le logiciel de gestion de votre hôtel ou de vos chambres en fait-il partie ? ☐ oui ☐ non ☐ à discuter
 
 ## Qui valide quoi
 
-18. Qui choisit les priorités, signe la réception, ouvre les documents, répond à nos questions ? (le tableau joint au bon de commande peut être rempli lors du premier entretien)
+19. Qui choisit les priorités, signe la réception, nous ouvre les documents, répond à nos questions ? (le tableau joint au bon de commande peut être rempli lors du premier entretien)

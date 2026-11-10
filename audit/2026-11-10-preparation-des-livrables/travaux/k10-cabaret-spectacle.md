@@ -262,3 +262,77 @@ Toutes les pages ont été consultées le 10 novembre 2026. La date donnée est 
 
 36. `audit/2026-11-04-audit-strategique/annexes/travaux/rj-R5-art-lieux.md` : fiches Service Public F22379, F32351, F31687, F31684, F3094, F37365 ; arrêté du 25 juin 1980 (art. PE 2, GN 6) ; code de la construction et de l'habitation.
 37. `audit/2026-11-09-audit-presentation-et-offre/travaux/r2-applications-par-metier.md`, partie C.3.
+
+## Vérification du 10 novembre 2026
+
+Relecture sceptique du 10 novembre 2026. Document interne — ne pas transmettre à GianLuca Carlone. Ce n’est pas un avis juridique. Cette partie l’emporte sur le reste de la note.
+
+**Conclusion d’abord.** Le socle tient : récépissé (30 jours, cinq ans, sept représentations), taxe du CNM (3,5 %, fin du 3e mois, cabaret nommé), TVA du cabaret (taux normal en principe), arrêté de la Nièvre (2 heures ; 4 heures une nuit par semaine). Quatre corrections : la loi sur les logiciels de caisse est mal résumée ; les exceptions de TVA existent bel et bien ; les sanctions du récépissé sont des amendes administratives et la récidive n’est pas confirmée ; la date de signature de l’arrêté de 2003 est le 3 septembre 2003. Trois points restent non vérifiés et ne vont pas dans un document client : seuil de 50 personnes, délai de quatre mois, définition de « à titre habituel » pour le bruit.
+
+**État de la note.** La note est complète (sources comprises). Aucun complément n’a été nécessaire.
+
+**Méthode.** Dix recherches ou lectures, dont deux sans résultat (Légifrance : page introuvable ; moteur Exa : accès refusé). Le texte de l’arrêté de 2003 a été lu en entier dans le fichier PDF officiel. Les autres pages ont été lues par extraits.
+
+### Tableau des contrôles
+
+| # | Affirmation de la note | Verdict | Source et date |
+|---|---|---|---|
+| 1 | Récépissé : début d’activité 30 jours après un dossier complet ; validité cinq ans, renouvellement en ligne | Confirmé. Précision : le préfet peut s’opposer pendant ce délai | Service Public Entreprendre, fiche F22365, vérifiée le 5 avril 2024, consultée le 10 novembre 2026 |
+| 2 | Déclaration obligatoire dès la 7e représentation par an si le spectacle n’est pas l’activité principale | Confirmé (« à partir de 7 représentations annuelles ») ; numéro d’article R. 7122-13 non vérifié | F22365, même date |
+| 3 | Oubli du numéro de récépissé : amende jusqu’à 800 € (personne physique) ou 2 000 € (société) | Confirmé (amende administrative) ; « contrats et sites internet » non vérifié | F22365, même date |
+| 4 | Exercer sans récépissé : 1 500 € ou 7 500 €, doublée en récidive, fermeture jusqu’à un an | Corrigé : amende **administrative** de 1 500 € ou 7 500 €, fermeture d’un an au plus ; doublement en récidive non vérifié | F22365, même date |
+| 5 | Cabaret : petit établissement jusqu’à 50 personnes (20 en sous-sol) | Non vérifié (recherche sans résultat utile ; texte de l’arrêté du 25 juin 1980 non lu) | Aucune ce jour |
+| 6 | Autorisation de travaux : quatre mois ; permis de construire d’un lieu recevant du public : cinq mois | Cinq mois : confirmé par une source secondaire (art. R. 423-28 b du code de l’urbanisme). Six mois possibles si l’architecte des Bâtiments de France est consulté (source ancienne). Quatre mois : non vérifié | Rivière Avocats, « Permis de construire ERP coquille vide », n. d. ; Assemblée nationale, question écrite n° 20117, 13e législature ; consultés par extraits le 10 novembre 2026 |
+| 7 | Nièvre : fermeture à 2 heures ; dérogation jusqu’à 4 heures une nuit par semaine pour un titulaire de licence de spectacle, demande un mois avant, un an au plus, révocable ; six nuits de fête ; dérogation du maire jusqu’à 4 heures | Confirmé mot pour mot (art. 2 à 5). Corrigé : arrêté signé le 3 septembre 2003, publié au recueil du 3 novembre 2003. Maintien en vigueur : non vérifié | Préfecture de la Nièvre, recueil des actes administratifs du 3 novembre 2003, arrêté n° 2003-P-2655, lu le 10 novembre 2026 |
+| 8 | Taxe sur les spectacles de variétés : 3,5 % de la billetterie hors TVA, sans abattement ; redevable : le détenteur de la billetterie ; déclaration au plus tard le dernier jour du 3e mois qui suit la représentation ; paiement à 30 jours fin de mois ; taxation d’office majorée de 40 % ; cabaret nommé (art. D. 452-11) | Confirmé | Centre national de la musique, page « Taxe », date non affichée, consultée le 10 novembre 2026 |
+| 9 | Compte entrepreneur : 60 % depuis le 1er janvier 2025 ; taxe due même sans récépissé | 60 % au 1er janvier 2025 : confirmé. « Due même sans récépissé » : non vérifié (la page ne le dit pas) | CNM, page « Taxe », même date |
+| 10 | Cabarets : taux normal de TVA sur le billet ; exceptions « conditions exactes non lues » | Confirmé pour le principe (§ 60). Corrigé pour les exceptions, désormais lues (§ 60, 70, 75, 80) | BOFiP, BOI-TVA-LIQ-30-20-40, 7 février 2024, version en vigueur, consultée le 10 novembre 2026 |
+| 11 | Logiciels de caisse : la loi de finances pour 2025 « avait supprimé » l’attestation de l’éditeur ; la loi de finances pour 2026, « adoptée le 19 février 2026 », la rétablit ; actualité du 23 février 2026 | Corrigé (voir ci-dessous). Sanction de 7 500 € par logiciel : non vérifiée ce jour | Service Public Entreprendre, actualité A18087, 24 février 2026 |
+| 12 | Bruit : 102 dB(A) et 118 dB(C) sur 15 minutes ; enregistrement et affichage au-delà de 300 personnes, sauf discothèques ; « à titre habituel » = 12 jours sur 12 mois ou plus de 3 jours sur 30 | Niveaux et seuil de 300 : confirmés par des sources secondaires. « À titre habituel » : non vérifié ; une agence régionale de santé écrit « plus de 12 fois par an ou plus d’une fois par semaine en saison » | Copie du décret n° 2017-1244 (préfecture d’Indre-et-Loire) ; ARS Île-de-France, page « Les lieux diffusant des sons amplifiés » ; fiche ARS Provence-Alpes-Côte d’Azur ; extraits consultés le 10 novembre 2026. Art. R. 1336-1 non lu sur Légifrance |
+
+### Corrections à appliquer
+
+1. **Logiciels de caisse (partie 7, et « En bref »).** Phrase fausse : « La loi de finances pour 2025 avait supprimé l'attestation individuelle de l'éditeur. La loi de finances pour 2026, adoptée le 19 février 2026, la rétablit. » Phrase juste : « La loi de finances pour 2025 prévoyait de supprimer, au 1er septembre 2026, l’auto-certification des logiciels de caisse par leur éditeur. La loi n° 2026-103 du 19 février 2026 de finances pour 2026 (art. 125) annule cette suppression : l’auto-certification reste possible. » Source : Service Public Entreprendre, actualité A18087, 24 février 2026. La date de l’actualité est le 24 février 2026, pas le 23 (partie 7 et source n° 9). La sanction de 7 500 € par logiciel reste à vérifier.
+2. **TVA des billets (partie 7, « Exceptions lues »).** Phrase incomplète : « Conditions exactes non lues. » Phrase juste : « Le taux réduit reste possible si le service des consommations est totalement interrompu pendant le spectacle, ou s’il est facultatif et hors séances. Les établissements affiliés au Centre national de la musique gardent le taux de 5,5 % sur le billet ; les consommations sur place y restent à 10 %, sauf les boissons alcooliques. Un concert d’œuvres musicales originales avec consommations facultatives peut aussi relever de 5,5 % si l’exploitant détient sa licence. » Source : BOFiP, BOI-TVA-LIQ-30-20-40, 7 février 2024, § 60 à 80. Conséquence : le « piège » de la partie « Ce que cela change » reste juste (« n’est pas acquise »), mais il faut ajouter « sauf exceptions, à faire trancher par l’expert-comptable ».
+3. **Sanctions du récépissé (partie 1).** Phrase à corriger : « amende jusqu'à 1 500 € (personne physique) ou 7 500 € (société), doublée en cas de récidive dans les deux ans ». Phrase juste : « amende administrative de 1 500 € (personne physique) ou 7 500 € (société), avec fermeture possible d’un an au plus ; le doublement en cas de récidive n’est pas confirmé. » Source : F22365, vérifiée le 5 avril 2024. Même précision pour l’oubli du numéro : « amende administrative de 800 € ou 2 000 € ».
+4. **Arrêté de la Nièvre (partie 5).** Phrase à préciser : « Arrêté préfectoral n° 2003-P-2655, art. 2, publié au recueil des actes administratifs de la préfecture du 3 novembre 2003 ». Phrase juste : « Arrêté préfectoral n° 2003-P-2655 du 3 septembre 2003, publié au recueil des actes administratifs du 3 novembre 2003. » Source : ce recueil, lu le 10 novembre 2026 (fait à Nevers le 3 septembre 2003). La « réserve » sur la date est levée ; celle sur le maintien en vigueur demeure.
+5. **Délais de travaux (« En bref », parties 3 et 10).** Phrase à compléter : « quatre mois, cinq avec permis ». Phrase juste : « cinq mois avec permis de construire (art. R. 423-28 du code de l’urbanisme, d’après une source secondaire), six mois possibles si l’architecte des Bâtiments de France est consulté ; quatre mois pour l’autorisation de travaux seule : à confirmer. » Sources : voir ligne 6 du tableau.
+6. **Fiche F22365 (source n° 7).** « n. d. » devient « vérifiée le 5 avril 2024 ». **Page « Taxe » du CNM (source n° 17)** : « page créée le 20 juin 2020 » devient « date non affichée » (non vérifié).
+7. **Bruit (partie 4).** Phrase à suspendre : « 12 jours ou plus sur 12 mois, ou plus de 3 jours sur 30 ». Phrase juste, en attendant la lecture de l’arrêté du 17 avril 2023 : « La définition de “à titre habituel” est à lire dans l’arrêté du 17 avril 2023 ; une agence régionale de santé parle de plus de 12 fois par an ou de plus d’une fois par semaine en saison. » Source : fiche ARS Provence-Alpes-Côte d’Azur, extrait consulté le 10 novembre 2026.
+8. **Seuil de 7 représentations (partie 1).** La divergence avec la fiche 5 du ministère est tranchée par Service Public : « à partir de 7 représentations annuelles ». Garder le renvoi au texte comme source de dernier mot.
+
+### Sûr à reprendre
+
+Chaque phrase garde sa source et la mention « à faire valider par vos professionnels » dans un document client.
+
+1. « Le récépissé de déclaration d’entrepreneur de spectacles vivants vaut cinq ans. L’activité ne peut commencer que 30 jours après la réception d’un dossier complet. » Service Public Entreprendre, F22365, vérifiée le 5 avril 2024. **Document client.**
+2. « Lorsque le récépissé est obligatoire, son numéro figure sur les affiches, les prospectus et les billets. » F22365, même date. **Document client.**
+3. « Une structure dont le spectacle n’est pas l’activité principale doit déclarer à partir de sept représentations par an. » F22365, même date. **Annexe.**
+4. « Exercer sans récépissé valide expose à une amende administrative de 1 500 € (personne physique) ou 7 500 € (société) et à une fermeture d’un an au plus. » F22365, même date. **Annexe ou interne** (pas de ton de menace dans la page principale).
+5. « La taxe sur les spectacles de variétés vise notamment les spectacles de cabaret. Elle est de 3,5 % des recettes de billetterie hors taxe sur la valeur ajoutée, sans abattement. Le détenteur de la billetterie la déclare au plus tard le dernier jour du 3e mois qui suit la représentation. » Centre national de la musique, page « Taxe », date non affichée, consultée le 10 novembre 2026. **Document client** (tarif public cité avec sa source et sa date).
+6. « Sans déclaration, la taxe est fixée d’office et majorée de 40 %. Depuis le 1er janvier 2025, 60 % des sommes versées alimentent un compte entrepreneur. » CNM, même page. **Annexe.**
+7. « Dans les établissements où il est d’usage de consommer pendant les séances, comme les cabarets, le billet relève en principe du taux normal de TVA. Des exceptions existent ; votre expert-comptable dira si l’une s’applique. » BOFiP, BOI-TVA-LIQ-30-20-40, 7 février 2024, § 60 et 75. **Document client.**
+8. « Dans la Nièvre, l’arrêté préfectoral n° 2003-P-2655 du 3 septembre 2003 fixe la fermeture des débits de boissons à 2 heures. Un établissement titulaire d’une licence d’entrepreneur de spectacle peut demander au préfet, au moins un mois à l’avance, une dérogation jusqu’à 4 heures, une nuit par semaine, pour un an au plus. » Recueil des actes administratifs de la Nièvre, 3 novembre 2003. **Interne seulement** tant que le maintien en vigueur n’est pas confirmé.
+9. « La loi de finances pour 2026 (loi n° 2026-103 du 19 février 2026, art. 125) maintient l’auto-certification des logiciels de caisse par leur éditeur. » Service Public Entreprendre, A18087, 24 février 2026. **Annexe ou interne** (livrable 8).
+10. « Le niveau sonore ne doit jamais dépasser 102 dB(A) et 118 dB(C) sur 15 minutes. » Décret n° 2017-1244 du 7 août 2017, d’après une copie préfectorale et l’ARS Île-de-France. **Interne seulement** jusqu’à lecture de l’art. R. 1336-1 sur Légifrance.
+
+### Ce qui reste inconnu ou non vérifié
+
+- Le projet lui-même : lieu, jauge, exploitant, cuisine, piste de danse, calendrier (rapporté par Morgan Olsen, non confirmé par GianLuca Carlone).
+- Le seuil de 50 personnes (20 en sous-sol) pour un cabaret et les effets des arrêtés du 1er décembre 2025 et du 19 février 2026 : non relus.
+- Le délai de quatre mois de l’autorisation de travaux seule ; le régime du silence en matière d’accessibilité.
+- Le maintien en vigueur de l’arrêté de la Nièvre de 2003 ; un éventuel arrêté du maire de Cosne-Cours-sur-Loire.
+- La définition exacte de « à titre habituel » et la vérification tous les deux ans des équipements sonores.
+- Le doublement des amendes en récidive ; les mentions sur les contrats et les sites internet.
+- « Taxe due même sans récépissé » ; la sanction de 7 500 € par logiciel de caisse.
+- Non revérifiés ce jour : licence IV, permis d’exploitation, déclaration en mairie quinze jours avant, formation à l’hygiène, Guso, convention collective, mineurs (dont « le silence vaut refus » et la peine citée), vidéoprotection, SACEM et SPRE.
+
+### Sources de la vérification (consultées le 10 novembre 2026)
+
+1. Service Public Entreprendre, « Licence d’entrepreneur de spectacles vivants », F22365, vérifiée le 5 avril 2024 — https://entreprendre.service-public.gouv.fr/vosdroits/F22365
+2. Centre national de la musique, « Taxe », date non affichée — https://cnm.fr/taxe/
+3. BOFiP, BOI-TVA-LIQ-30-20-40, 7 février 2024 — https://bofip.impots.gouv.fr/bofip/167-PGP.html/identifiant=BOI-TVA-LIQ-30-20-40-20240207
+4. Service Public Entreprendre, actualité A18087, 24 février 2026 — https://entreprendre.service-public.gouv.fr/actualites/A18087
+5. Préfecture de la Nièvre, recueil des actes administratifs du 3 novembre 2003, arrêté n° 2003-P-2655 du 3 septembre 2003 — https://www.nievre.gouv.fr/index.php/contenu/telechargement/5379/66819/file/e1_RAA_03novembre2003.pdf
+6. Bruit, extraits de recherche : copie du décret n° 2017-1244 (préfecture d’Indre-et-Loire) ; ARS Île-de-France, https://www.iledefrance.ars.sante.fr/les-lieux-diffusant-des-sons-amplifies-ldsa ; ARS Provence-Alpes-Côte d’Azur, https://paca.ars.sante.fr/media/98983/download
+7. Délais d’urbanisme, extraits de recherche : Rivière Avocats, https://www.riviereavocats.com/publications/permis-de-construire-erp-coquille-vide ; Assemblée nationale, https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE20117.pdf
