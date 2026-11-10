@@ -1,6 +1,6 @@
 # Le convaincre de miser sur nous : la stratégie du rendez-vous
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · relu et corrigé le 11 novembre 2026 (audit final : preuves alignées sur la version 12 d’aujourd’hui ; essai « de huit semaines au plus, sur une seule tâche » ; horizons 2027, 2028, 2030)
 
 ## En bref
 
@@ -13,19 +13,19 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 
 | Ce qu’il doit ressentir | La preuve |
 | --- | --- |
-| « Ils ont compris mon projet, tout mon projet » | Diapositive « compris » corrigée avec lui en direct ; la page « une idée pour chacun de vos projets » |
+| « Ils ont compris mon projet, tout mon projet » | Diapositives « compris » et « univers », corrigées avec lui à voix haute (Mathys note) ; la page « une idée pour chacun de vos projets », à l’écran s’il la demande |
 | « Je vois à quoi cela ressemblera » | Les écrans d’exemple (maquette, données fictives) ; la diapositive des neuf suites |
 | « Ma question est prise au sérieux » | « Vous nous avez demandé si nous pouvions créer votre logiciel… Voici comment nous le ferions » ; la note sur Airbnb et Booking.com, en une phrase |
-| « Je ne prends pas de risque » | Prix fixe ; arrêt ; il garde tout ; comptes à son nom ; rien ne se signe en séance |
-| « Mon administratrice est respectée » | La page qui lui est destinée |
-| « Ils voient grand, mais ils sont sérieux » | Les diapositives « ensuite » et « moyens supplémentaires », chiffres honnêtes |
+| « Je ne prends pas de risque » | Prix fixe ; arrêt ; il garde le travail fait, le dossier une fois le prix dû payé, ses comptes et ses données ; rien ne se signe en séance (diapositive « garanties ») |
+| « Mon administratrice est respectée » | La diapositive « administratrice » et la fiche 5 ; la page qui lui est destinée |
+| « Ils voient grand, mais ils sont sérieux » | Les diapositives « ambition » (2030) et « offres » (quatre niveaux), selon V11, puis « moyens », selon V7 ; « ensuite » est passée en annexe ; chiffres honnêtes, aucun gain promis |
 
 ## 2. Les cent premiers jours, si c’est oui (à dire oralement, pas comme une promesse)
 
 | Période | Ce qui se passe | Ce qu’il voit |
 | --- | --- | --- |
 | Janvier 2027, semaines 1 à 4 | Cadrage : entretien, inventaire, trois priorités | Un dossier qui lui appartient |
-| Février et mars 2027 | Un essai de huit semaines sur la priorité n° 1 (par exemple : le registre des bâtiments et le choix du logiciel des suites) | Un résultat mesuré, avec sa mesure de départ |
+| Février et mars 2027 | Un essai de huit semaines au plus, sur une seule tâche de la priorité n° 1 (par exemple : le registre des bâtiments, ou le choix du logiciel des suites), commandé à part | Un résultat mesuré, comparé à sa mesure de départ |
 | Avril 2027 | Bilan : continuer, ajuster ou arrêter | Une décision fondée sur des chiffres |
 
 Dates indicatives, dépendantes de la commande avant la mi-décembre et de l’ouverture des suites (inconnue).
@@ -40,7 +40,8 @@ Dates indicatives, dépendantes de la commande avant la mi-décembre et de l’o
 ## 4. Innover dans tous les domaines, mais avec cohérence
 
 - **Garder un fil** : chaque idée est rattachée à un de ses projets et à une personne qui décide.
-- **Trois horizons** : essai (dans les huit semaines), ensuite (après un essai réussi), plus tard (sous conditions, sans date).
+- **Trois temps** (colonne « Quand ? » des fiches et des pages) : essai (dans un essai de huit semaines au plus, après le cadrage), ensuite (après un premier essai réussi), plus tard (sous conditions, sans date).
+- **Trois horizons** pour l’ambition : 2027, 2028, 2030, dits comme une vision, jamais comme un calendrier ; aucune date pour la robotique.
 - **Hors champ** sauf demande expresse de sa part : sa vie privée (agenda personnel, famille, santé). Ce qui touche son quotidien de dirigeant (page hebdomadaire, préparation des rendez-vous) reste professionnel.
 - **Jamais** : caisse, billetterie, comptabilité ou logiciel hôtelier fabriqués par nous ; gestion des biens pour son compte ; promesse de chiffre d’affaires.
 

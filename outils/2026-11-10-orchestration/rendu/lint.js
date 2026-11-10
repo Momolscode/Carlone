@@ -61,6 +61,8 @@ const RED = [
   [/John[- ]?Lucas/i, 'ERREUR', 'nom du client mal écrit'],
   [/Gian[- ]luca|Gianluca|GianLucca|Carlonne/, 'ERREUR', 'nom du client : écrire « GianLuca Carlone »'],
   [/BOJ|Medhi|Mehdi/i, 'ERREUR', 'partenaire retiré de l’offre'],
+  [/\bSTRATES\b|\bStrates\b|\b[ÉE]closion\b|\bÉCLOSION\b/, 'ERREUR', 'dossier de création retiré de l’offre (audit du 4 novembre)'],
+  [/\bfuites?\b(?! d’eau| d'eau)/i, 'ALERTE', '« fuite » : mot interne, jamais dans un document client'],
   [/Quali ?Contact/i, 'ERREUR', 'tiers nommé'],
   [/mieux et moins cher/i, 'ERREUR', '« mieux et moins cher »'],
   [/6[\s  ]?000[\s  ]?€|15[\s  ]?000|30[\s  ]?000|72[\s  ]?000|24[\s  ]?000/, 'ERREUR', 'prix de l’autre offre ou ancienne offre mensuelle'],

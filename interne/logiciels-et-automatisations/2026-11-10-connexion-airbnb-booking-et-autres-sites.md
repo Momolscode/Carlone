@@ -46,6 +46,8 @@ Même si l’accès était ouvert, il faudrait maintenir chaque connexion à cha
 
 « Oui, vos suites pourront apparaître sur Airbnb, Booking.com et les autres sites, avec un seul calendrier à jour. Nous ne réinventons pas cette connexion : nous choisissons avec vous un logiciel du marché déjà agréé par ces sites, et nous le relions au reste de votre établissement. »
 
+Mention du 11 novembre 2026 (audit final) : s’il ne cite lui-même aucun site, garder la formule des documents client et du déroulé, « Vos suites pourront apparaître sur les principaux sites de réservation, avec un seul calendrier à jour » (BRIEF-2, § 12 ; note hôtelière, § 6). Dans les deux cas, ne rien promettre sur le nombre de réservations.
+
 ## Sources (consultées le 10 novembre 2026)
 
 - Booking.com, documentation des partenaires de connectivité : https://developers.booking.com/connectivity/docs (« To become Booking.com Connectivity Partners, companies must meet specific onboarding requirements »).

@@ -27,6 +27,8 @@ const RED_CLIENT = [
   [/taux journalier|tarif journalier|prix (par|à la) jour/i, 'ERREUR', 'taux journalier'],
   [/\bD\d{2}\b|\bDL\d+\b|\bU\d{2}\b|\[(FV|DR|PR|HY|ES|MM|IN)\]/, 'ERREUR', 'code de l’audit'],
   [/BOJ|Medhi|Mehdi/i, 'ERREUR', 'partenaire retiré de l’offre'],
+  [/\bSTRATES\b|\bStrates\b|\b[ÉE]closion\b|\bÉCLOSION\b/, 'ERREUR', 'dossier de création retiré de l’offre (audit du 4 novembre)'],
+  [/\bfuites?\b(?! d’eau| d'eau)/i, 'ALERTE', '« fuite » : mot interne, jamais dans un document client'],
   [/Quali ?Contact/i, 'ERREUR', 'tiers nommé'],
   [/mieux et moins cher/i, 'ERREUR', '« mieux et moins cher »'],
   [/6[\s  ]?000[\s  ]?(€|euros)|\b15[\s  ]?000\b|\b30[\s  ]?000\b|\b72[\s  ]?000\b|\b24[\s  ]?000\b/, 'ERREUR', 'prix de l’autre proposition ou ancienne offre mensuelle'],

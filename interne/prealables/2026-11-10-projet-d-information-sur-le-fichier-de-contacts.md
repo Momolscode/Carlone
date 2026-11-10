@@ -1,8 +1,8 @@
 # Projet d’information de GianLuca Carlone sur le fichier de contacts
 
-Document interne — ne pas transmettre à GianLuca Carlone en l’état · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone en l’état · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
-**Projet à faire relire par un avocat avant tout usage.** Le texte de la partie 2 est destiné à GianLuca Carlone **seulement après** validation écrite par un conseil (échéance interne : jeudi 19 novembre 2026). Les champs « ……… » se remplissent avec des faits établis et datés, jamais de mémoire. Source : note `audit/2026-11-10-preparation-des-livrables/travaux/k3-fichier-de-contacts-rgpd.md` (§ 5 et § 6), vérifiée le 10 novembre 2026 (partie « Vérification du 10 novembre 2026 », en fin de note, qui l’emporte).
+**Projet à faire relire par un avocat avant tout usage.** Le texte de la partie 2 est destiné à GianLuca Carlone **seulement après** validation écrite par un conseil (échéance interne : jeudi 19 novembre 2026). Pour le rendez-vous du vendredi 13 novembre 2026, la feuille de décisions (V3) pose l’alternative : texte validé par écrit avant vendredi, puis remis ; sinon, le sujet n’est pas abordé de notre initiative. La décision sur la notification (E1, V5) est à écrire avant vendredi, même si c’est « ne pas notifier ». Les champs « ……… » se remplissent avec des faits établis et datés, jamais de mémoire. Source : note `audit/2026-11-10-preparation-des-livrables/travaux/k3-fichier-de-contacts-rgpd.md` (§ 5 et § 6), vérifiée le 10 novembre 2026 (partie « Vérification du 10 novembre 2026 », en fin de note, qui l’emporte).
 
 ## 1. Avant d’écrire (à faire par Morgan et Mathys)
 

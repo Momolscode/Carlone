@@ -32,7 +32,10 @@ let md = fs.readFileSync(input, 'utf8')
 // Cases à cocher : « - [ ] » et « ☐ » deviennent de vraies cases dessinées.
 md = md.replace(/^(\s*[-*] )\[ \] /gm, '$1<span class="case"></span> ').replace(/^(\s*[-*] )\[x\] /gim, '$1<span class="case coche"></span> ')
 md = md.replace(/☐/g, '<span class="case"></span>').replace(/☑|☒/g, '<span class="case coche"></span>')
-const body = marked.parse(md, { gfm: true, breaks: false })
+// Typographie française : espace insécable avant ; : ? ! » € % et après «, hors des passages de code (les sources ne sont pas modifiées).
+const insecables = t => t.replace(/ ([;:?!»€%])/g, '\u00A0$1').replace(/« /g, '«\u00A0')
+const typo = h => h.split(/(<code[\s\S]*?<\/code>|<pre[\s\S]*?<\/pre>)/).map((seg, i) => (i % 2 ? seg : seg.replace(/>([^<]+)</g, (m, t) => '>' + insecables(t) + '<'))).join('')
+const body = typo(marked.parse(md, { gfm: true, breaks: false }))
 
 const base = compact ? 9.4 : 10.4
 const css = `${fonts}

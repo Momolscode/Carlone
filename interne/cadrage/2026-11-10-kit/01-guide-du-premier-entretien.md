@@ -1,17 +1,17 @@
 # Guide du premier entretien de cadrage
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final)
 
 Sources : note `audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de-cadrage.md` (§ 2, « Proposition pour le guide ») ; proposition de cadrage du 9 novembre (premier entretien de deux à trois heures chez lui, administratrice invitée pour tout ou partie) ; `audit/2026-11-04-audit-strategique/interne/13-preparation-rendez-vous.md` (questions à ne pas poser). Point à valider par Morgan et Mathys : la conduite (feuille de décisions, partie 4).
 
 ## Avant d’y aller
 
 - Relire le compte rendu du rendez-vous de présentation et la liste des pièces demandées.
-- Imprimer : ce guide, le tableau « qui valide quoi », la liste des pièces, deux exemplaires de l’accord sur les données si des documents en contiennent.
+- Imprimer : ce guide, le tableau « qui valide quoi », la liste des pièces, deux exemplaires de l’accord sur les données si des documents en contiennent (projets du tableau et de l’accord, datés du 11 novembre, dans `pour-carlone/offre-cadrage/` ; l’accord est à faire valider par l’avocat avant toute signature).
 - Ouvrir le tableau d’inventaire (`06-tableau-d-inventaire.xlsx`) sur l’ordinateur de celui qui note.
 - Répartir les rôles : l’un mène, l’autre note les mots exacts entre guillemets. Pas d’enregistrement.
 
-## Déroulé (deux heures trente, une pause)
+## Déroulé (deux heures trente et dix minutes de pause ; l’offre promet deux à trois heures)
 
 | Temps | Durée | But | Ce qu’on dit ou demande |
 | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Sources : note `audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de
 | Pause | 10 min | | |
 | Documents et outils | 30 min | Remplir les feuilles 4, 7 et 8 | Où sont rangés baux, contrats, devis ; quels outils ; au nom de quelle société |
 | Qui décide quoi | 20 min | Remplir la feuille 9 | Le tableau « qui valide quoi », acte par acte |
-| Clôture | 15 min | Repartir avec des engagements | Reformuler en cinq phrases ; pièces à rassembler sous dix jours ouvrés ; date du compte rendu (sous 24 heures ouvrées) ; date de la restitution |
+| Clôture | 15 min | Repartir avec des engagements | Reformuler en cinq phrases ; pièces encore à rassembler (l’offre les attend dans les dix jours ouvrés qui suivent la commande) ; date du compte rendu (sous 24 heures ouvrées) ; date de la restitution |
 
 ## Questions par domaine (à piocher, pas à lire)
 
@@ -29,9 +29,10 @@ Sources : note `audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de
 - **Bâtiments** : combien, où, pour quel usage, depuis quand ; baux en cours ; travaux prévus ; prochaines échéances connues ; où est rangé le registre de sécurité.
 - **Galerie** : comment sont suivis les œuvres, les artistes, les ventes ; quel registre est tenu.
 - **Cabaret et commerces** : où en est chaque projet ; qui portera l’exploitation ; quelles autorisations sont déjà demandées.
+- **Neuf suites et espace bien-être** (on dit « vos neuf suites », jamais « votre hôtel ») : le nombre de suites est-il arrêté, pour combien de personnes ; ouverture visée ; société exploitante ; petit-déjeuner ou bar encaissé sur place ; sites de réservation voulus ; jacuzzi partagé ou propre à une suite ; qui fera l’accueil.
 - **Administration** : les tâches répétitives de l’administratrice, leur fréquence, ce qui bloque.
-- **Logiciel de gestion des propriétés** : ce qu’il doit faire en premier ; qui l’utilisera ; ce qui existe déjà (tableur, papier).
-- **Les trois sujets des trois prochains mois** : « Si vous ne deviez régler que trois choses d’ici mars, lesquelles ? »
+- **Logiciel de gestion des propriétés** : ce qu’il doit faire en premier ; qui l’utilisera ; ce qui existe déjà (tableur, papier). Pour les suites : un logiciel du marché, que nous aidons à choisir et à relier ; le cadrage fixe les besoins et les critères, sans mettre d’outil en service.
+- **Les trois sujets des trois prochains mois** : « Si vous ne deviez régler que trois choses dans les trois prochains mois, lesquelles ? » (même question que dans le questionnaire préparatoire ; ce sont les trois priorités à 90 jours de l’offre).
 
 ## Ce qu’on ne demande pas
 

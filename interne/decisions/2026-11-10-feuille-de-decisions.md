@@ -1,10 +1,12 @@
 # Feuille de décisions — Morgan Olsen et Mathys Couet
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · faits et renvois mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
 **Mode d’emploi.** Une heure à deux. Cochez une case par décision, datez, signez en bas de chaque partie. Une décision non cochée reste ouverte : ce qu’elle bloque reste bloqué. Ordre : d’abord ce qui doit être tranché avant le rendez-vous du vendredi 13 novembre, puis ce qui est échu, puis les trois arbitrages du rendez-vous, puis les vingt et une décisions de l’audit de l’offre, puis les autres. Sources : `audit/2026-11-09-audit-presentation-et-offre/travaux/a4-offre-et-documents-clients.md` (§ 10, lignes 469 à 512), `audit/2026-11-09-audit-presentation-et-offre/01-audit-de-la-presentation.md` (trente décisions), `audit/2026-11-04-audit-strategique/interne/14-registre-risques-inconnues-decisions.md` (codes D… et U…), inventaire `audit/2026-11-10-preparation-des-livrables/travaux/i6-feuille-de-decisions.md`.
 
 **Priorités** (mises à jour le 10 novembre au soir). P0 : au plus tard le jeudi 12 novembre 2026 au soir, veille du rendez-vous. P1 : avant le jeudi 19 novembre 2026, premier jour possible d’un envoi. P2 : avant le premier document laissé ou envoyé au client (date propre à chaque ligne). P3 : après le rendez-vous ou sous condition. La version du matin visait un rendez-vous « au plus tard le vendredi 11 décembre » : toute décision qui touche le rendez-vous passe en P0 (partie suivante).
+
+**Mise à jour du 11 novembre 2026 (audit final).** Aucune case n’est cochée, aucune recommandation n’est changée, rien n’est tranché. Seuls des faits périmés et des renvois sont corrigés, pour décrire les documents tels qu’ils sont aujourd’hui : V10 et arbitrage B (la diapositive `decision` ne cite plus de délai) ; n° 2, 6, 7, 20 et 21 ; deux lignes de la partie 4 (statuts, diapositive « moyens ») ; partie 6.
 
 ## Avant vendredi 13 novembre : à trancher au plus tard le jeudi 12 novembre au soir
 
@@ -21,7 +23,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 | V7 | Montrer la diapositive « moyens » (après la décision) | Seulement si décidé par écrit : 45 secondes, une perspective, aucune forme de soutien en séance ; sinon annexe | ☐ montrer ☐ annexe ☐ non |
 | V8 | Un seul prix pour le choix du logiciel des suites | Les deux lignes du document client du 9 novembre se recouvrent : « Choix des logiciels et comparaison écrite » (3 000 € HT) et « Option hôtellerie (choix du logiciel, reprise des totaux) » (2 300 € HT). Garder un seul prix, arrêté avec DL1 ; cadre naturel : l’étape à 3 000 € HT (BRIEF-2, § 10.3). Tant que DL1 tient, aucun des deux n’est dit | ☐ 3 000 € HT ☐ 2 300 € HT ☐ autre : ……… |
 | V9 | Règle pour les collaborateurs de GianLuca Carlone | Contrats distincts, aucune commission ni apport d’affaires rémunéré, aucun démarchage de ses contacts sans son accord (note de l’offre élargie, § 3, point 2) | ☐ oui ☐ autre, après avis de l’avocat |
-| V10 | Délai du bon de commande annoncé vendredi (« sous deux jours », diapositive `decision`) | Ce délai tombe avant le premier envoi possible (jeudi 19 novembre) et avant la relecture par l’avocat (n° 5). Annoncer un délai tenable, fixé jeudi, et corriger la diapositive en conséquence | ☐ sous deux jours ☐ autre délai : ……… |
+| V10 | Délai du bon de commande annoncé vendredi (« sous deux jours » dans la version précédente ; aujourd’hui, la diapositive `decision` affiche « Après ce rendez-vous », sans délai, et « Un bon de commande d’une page », alors que le projet en compte trois avec ses conditions) | Ce délai tombe avant le premier envoi possible (jeudi 19 novembre) et avant la relecture par l’avocat (n° 5). Annoncer un délai tenable, fixé jeudi, et corriger la diapositive en conséquence | ☐ sous deux jours ☐ autre délai : ……… |
 | V11 | Montrer les diapositives « enjeux », « ambition » et « offres » (fil principal de la version 12 refaite, `deck.json`) | Oui, les trois. « enjeux » (fiche 12) : les occasions, les risques et les règles, sans chiffre de gain. « ambition » : une vision pour 2030, dite comme telle, jamais comme une promesse (BRIEF-2, § 16). « offres » : quatre niveaux, aucun prix autre que le cadrage (arbitrage C). Sans « ambition » : variante courte (V14) | ☐ oui, les trois ☐ sans « ambition » ☐ autre : ……… |
 | V12 | Les douze fiches (`pour-carlone/fiches/`) : les montrer, les laisser ou les garder pour plus tard | Les montrer à l’écran s’il le demande (diapositive `fiches`, en annexe) ; les laisser seulement une fois V1 à V5 cochées, et en les inscrivant dans la liste écrite des documents remis (n° 21) ; sinon, plus tard, après la liste avant tout envoi | ☐ à l’écran si demandé ☐ laisser (après V1 à V5) ☐ plus tard |
 | V13 | Nommer ou non les programmes (« chef d’orchestre », « galerie sans murs », « séjours signature », « cabaret augmenté », « bouclier », « pass IA », « copilote »…) dans les documents laissés | À l’écran et à l’oral : oui, chaque nom avec son contenu. Dans un document laissé : oui, comme « noms de travail », seulement après une recherche dans la base des marques de l’INPI (aucun nom vérifié à ce jour ; « copilote » rappelle un produit connu d’un grand éditeur, à vérifier) ; « bouclier » toujours suivi de son contenu, jamais lu comme une garantie de sécurité. D’ici là : décrire sans nommer | ☐ nommer (noms de travail) ☐ décrire sans nommer ☐ plus tard |
@@ -66,7 +68,7 @@ La proposition de cadrage du 9 novembre mêle le texte client (lignes 15 à 182)
 **B. Le signataire, et le moment de la signature** (a4 n° 4 ; document 01 n° 5). P0, jeudi 12 novembre, avec l’accord écrit.
 - Qui signe pour Marwin Tech : ☐ Morgan ☐ Mathys
 - Quand : ☐ **Recommandé : après l’immatriculation** (variante A du projet de bon de commande) ☐ avant, au nom de la société en formation, avec effet à l’immatriculation et date limite (variante B, reprise à organiser avec l’avocat) ☐ lettre d’intention avant, bon de commande après
-- Signature en séance : ☐ **Recommandé : non** (accord de principe au rendez-vous ; bon de commande envoyé sous deux jours) ☐ oui
+- Signature en séance : ☐ **Recommandé : non** (accord de principe au rendez-vous ; bon de commande envoyé dans le délai fixé en V10, et non plus « sous deux jours ») ☐ oui
 
 **C. Dire ou non un prix pour le logiciel** (a4 n° 14 et 18 ; document 01 n° 18 et 19 ; DL1). P0, jeudi 12 novembre (était P2, 26 novembre) : la question peut venir vendredi.
 - Logiciel des suites : l’abonnement se paie à l’éditeur, au nom de sa société ; des tarifs publics peuvent être cités avec leur source et leur date (BRIEF-2, § 10.5 ; page client sur les suites). Le prix de notre aide au choix : voir V8.
@@ -83,12 +85,12 @@ Numéros de la note a4, § 10 ; entre parenthèses, le numéro du document 01. �
 | N° | Décision | Priorité, date | Recommandation | Choix |
 | --- | --- | --- | --- | --- |
 | 1 (1, 2) | Les cinq préalables sont-ils levés (incident traité et GianLuca Carlone informé dans des termes validés ; accord de Mathys ; documents ; ce qu’il a vu ; message) ? | P1, jeudi 19 nov. | Rien ne part tant qu’un seul manque | ☐ levés ☐ non |
-| 2 (4) | Quelle version de la proposition part ? | P1, 19 nov. | Seulement celle du 9 novembre, nettoyée (arbitrage A) ; l’ancienne marquée « historique » | ☐ oui ☐ autre |
+| 2 (4) | Quelle version de la proposition part ? | P1, 19 nov. | Seulement celle du 9 novembre, nettoyée (arbitrage A) ; l’ancienne marquée « historique ». Le texte nettoyé existe en projet : `pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md` | ☐ oui ☐ autre |
 | 3 (4) | Séparer texte client et note interne | P1 | Voir arbitrage A | voir A |
 | 4 (5) | Nommer le signataire | P1 | Voir arbitrage B | voir B |
 | 5 (7) | Faire relire par un avocat : bon de commande, conditions, rétractation, société en formation | P1, lundi 30 nov. | Choisir l’avocat cette semaine ; lui remettre `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md` (§ 5) | ☐ avocat choisi : ……… |
-| 6 (17) | Montrer le prix du cadrage à l’écran | P2, avant la v12 | Oui, sous la forme exacte : « 6 500 € hors taxes, soit 7 800 € toutes taxes comprises… » (sous réserve de l’option pour la TVA) | ☐ oui ☐ non |
-| 7 (22) | Adopter la page d’offre et le bon de commande d’une page | P2 | Oui, à partir des projets du 10 novembre (`pour-carlone/offre-cadrage/`) | ☐ oui ☐ à revoir |
+| 6 (17) | Montrer le prix du cadrage à l’écran | P0, jeudi 12 nov. (était P2, avant la v12 : la version 12 existe, et sa diapositive `proposition` affiche déjà ce prix) | Oui, sous la forme exacte : « 6 500 € hors taxes, soit 7 800 € toutes taxes comprises… » (sous réserve de l’option pour la TVA) | ☐ oui ☐ non |
+| 7 (22) | Adopter la page d’offre et le bon de commande (le projet fait trois pages avec ses conditions, et non une) | P2 | Oui, à partir des projets du 10 novembre (`pour-carlone/offre-cadrage/`) | ☐ oui ☐ à revoir |
 | 8 (27) | Une seule date limite du rendez-vous | Sans objet | Rendez-vous fixé au vendredi 13 novembre 2026 (rapporté par Morgan Olsen ; BRIEF-2, § 10.4) ; les dates du 11 et du 15 décembre sont abandonnées | ☐ constaté |
 | 9 (28) | Une date de restitution écrite | P1 | « Restitution au plus tard le vendredi 29 janvier 2027 pour un démarrage le lundi 4 janvier 2027, si les pièces arrivent dans les dix jours ouvrés » | ☐ oui ☐ autre : ……… |
 | 10 (—) | Trois informations pour signer (société qui commande, signataire, date du premier entretien) ; tableau « qui valide quoi » rempli au premier entretien | P1 | Oui : ne pas exiger le tableau avant la commande | ☐ oui ☐ tableau avant |
@@ -101,8 +103,8 @@ Numéros de la note a4, § 10 ; entre parenthèses, le numéro du document 01. �
 | 17 (20) | Le logiciel comme priorité possible du cadrage, puis comme essai (DL7) | P2, 19 nov. | Oui ; règle « une suite à la fois » | ☐ oui ☐ non |
 | 18 (19) | Écrire ou non le total cadrage compris | P2 | Voir arbitrage C | voir C |
 | 19 (21) | Une seule règle d’acompte | P2 | Moitié à la commande pour le cadrage ; pour les étapes suivantes, une phrase qui explique la règle propre à chaque bon | ☐ oui |
-| 20 (15) | Une maquette au rendez-vous, marquée « Maquette — données fictives » | P2 | Oui : écrans fixes dans la présentation (fiche bâtiment, échéances, trois devis) ; version cliquable montrée par nous seulement, jamais laissée ; elle ne livre pas le contenu de l’étape à 5 300 € HT | ☐ oui ☐ non |
-| 21 (29, 30) | Vocabulaire unique et liste des documents remis | P1 | « essai de huit semaines », « suivi régulier », « cadrage » ; liste écrite de ce qui est remis au rendez-vous | ☐ oui |
+| 20 (15) | Une maquette au rendez-vous, marquée « Maquette — données fictives » | P2 | Oui : écrans fixes dans la présentation (dans la version 12 : vue d’ensemble, carte des fonctions et trois devis dans le fil, captures sur les diapositives des projets, fiche d’un bâtiment en annexe ; la maquette compte aujourd’hui onze écrans, et non trois) ; version cliquable montrée par nous seulement, jamais laissée ; elle ne livre pas le contenu de l’étape à 5 300 € HT | ☐ oui ☐ non |
+| 21 (29, 30) | Vocabulaire unique et liste des documents remis | P1 | « essai de huit semaines au plus » (forme des documents clients d’aujourd’hui), « suivi régulier », « cadrage » ; liste écrite de ce qui est remis au rendez-vous | ☐ oui |
 
 Signatures : Morgan ……… Mathys ……… Date ………
 
@@ -118,7 +120,7 @@ Signatures : Morgan ……… Mathys ……… Date ………
 | Garde-fous, « tout gérer avec l’IA », revenus extérieurs, régime du fichier de contacts | D13, D47, D20, D12 | P1, 19 nov. | Ne jamais écrire « tout gérer avec l’IA » ; fichier de contacts gelé jusqu’à l’avis de l’avocat | ☐ oui |
 | Message de recadrage et proposition signés, puis envoyés | D14 | P1 : signés 19 nov. ; envoyés au plus tard vendredi 27 nov. | Seulement après E1, ligne 1 et l’accord écrit | ☐ fait |
 | Registre des décisions tenu à jour | D53, D55, DL12 | P1, lundi 16 nov. | Morgan tient, Mathys contrôle, chaque semaine | ☐ oui |
-| Statuts de la SAS, capital, siège, président, banque | D15, D16, D17 | P1, lundi 30 nov. | Voir `interne/prealables/` (livrable 7, à écrire) et la note k2 | ☐ fait |
+| Statuts de la SAS, capital, siège, président, banque | D15, D16, D17 | P1, lundi 30 nov. | Voir `interne/prealables/2026-11-10-demarches-immatriculation-et-assurance.md` (livrable 7, écrit le 10 novembre) et la note k2 | ☐ fait |
 | Option pour la TVA | k1a | P2, avant la 1re facture | À décider avec l’expert-comptable | ☐ option ☐ franchise |
 | Neuf clauses du contrat court | D21 ; k1b | P2, avant le 1er bon | Avec l’avocat | ☐ fait |
 | Souscrire l’assurance, ou retirer toute mention d’assurance | D19 ; 01 n° 6 | P2, avant la 1re prestation | Aucune mention tant qu’il n’y a pas d’attestation | ☐ souscrite |
@@ -127,7 +129,7 @@ Signatures : Morgan ……… Mathys ……… Date ………
 | Partenaire de secours | DL11 | P3, vendredi 29 janv. 2027 | À chercher après le rendez-vous | ☐ |
 | Rôle de l’administratrice au contrat ; sa présence au rendez-vous | D49, D48 ; 01 n° 14 | P0 pour sa présence vendredi ; P1 pour le contrat | Sa présence au choix de GianLuca Carlone ; interlocutrice, jamais donneuse d’ordre ; aucune question sur son poste devant elle | ☐ oui |
 | Structure de la version 12, diapositives retirées, couverture | 01 n° 9, 10, 16 | P0, jeudi 12 nov. | Version 12 (projet) refaite, `deck.json` du 10 novembre, nuit : 36 diapositives, 28 dans le fil (dont `evolution`, `enjeux`, `pourquoi-nous`, `ambition`, `offres`), 8 en annexe (dont `fiches`, `ensuite`, `idees`) ; le texte d’orateur suit cet ordre (trente-deux minutes ; V11, V14) ; image de couverture encore ouverte | ☐ |
-| Montrer la diapositive « Ce que des moyens supplémentaires nous permettraient d’accomplir » ; forme d’un éventuel soutien | brief complémentaire, § 9.2 | P0, jeudi 12 nov. | Montrer : voir V7. Ne parler d’aucune forme de soutien en séance ; étudier les formes avec l’avocat et l’expert-comptable | voir V7 |
+| Montrer la diapositive `moyens`, titrée aujourd’hui « Ce que plus de moyens nous permettraient » (la page client garde le titre « Ce que des moyens supplémentaires nous permettraient d’accomplir ») ; forme d’un éventuel soutien | brief complémentaire, § 9.2 | P0, jeudi 12 nov. | Montrer : voir V7. Ne parler d’aucune forme de soutien en séance ; étudier les formes avec l’avocat et l’expert-comptable | voir V7 |
 | Conduite du cadrage : qui mène, qui note, enregistrer ou non, délai du compte rendu | k7 | P3, avant le 1er entretien | L’un mène, l’autre note ; pas d’enregistrement sans accord écrit ; compte rendu sous 24 heures ouvrées | ☐ oui |
 | Galerie et lieux : registre de police, budget de validation par des professionnels | k9, k11 | P3 | À voir avec les livrables 5 et 9 | ☐ |
 
@@ -145,6 +147,6 @@ Signatures : Morgan ……… Mathys ……… Date ………
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | 1, 2 | 4 | 5 | 7 | 17 | 22 | 27 | 28 | — | 23 | 25 | 24 | 18 | 20 | 19 | 21 | 15 | 29, 30 |
 
-Décisions propres au document 01, reprises en partie 4 : n° 3, 6, 8, 9, 10, 11, 12, 13, 14, 16, 26.
+Décisions propres au document 01 : n° 3, 6, 8, 9, 10, 11, 13, 14 et 16 sont reprises en partie 4 (les n° 11 et 13 sous leurs codes D12 et D47) ; la n° 26 (signer en séance ou non) est dans l’arbitrage B, partie 2 ; la n° 12 (une seule description du cadrage : D46, D51) n’a pas de ligne dans cette feuille.
 
 Signatures finales : Morgan Olsen ……… Mathys Couet ……… Date ………

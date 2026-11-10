@@ -1,17 +1,17 @@
 # Choisir un logiciel hôtelier du marché pour les neuf suites et l’espace bien-être
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
-Statut : note ferme du livrable 8. La note conditionnelle prévue (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier-note-conditionnelle.md`, jamais écrite) devient cette note ferme (BRIEF-2, § 10.1). Elle suit les additifs du 10 novembre au soir et dans la nuit (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 10 à 12) : ce n’est pas un hôtel séparé, mais **neuf suites « privilège », un sauna et un jacuzzi dans l’établissement de la galerie** (rapporté par Morgan Olsen, 10 novembre 2026 ; non vérifié ; adresse, ouverture, capacité, restauration et société exploitante inconnues ; BRIEF-2, § 11.1). Prix publics relus sur les pages des éditeurs le 10 novembre 2026 (douze lectures, aucune inscription, aucun devis). Page client associée : `pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`.
+Statut : note ferme du livrable 8. La note conditionnelle prévue par la carte des fichiers (BRIEF-2, § 3, livrable 8) n’a jamais été écrite : cette note ferme la remplace (BRIEF-2, § 10.1). Elle suit les additifs du 10 novembre au soir et dans la nuit (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 10 à 12) : ce n’est pas un hôtel séparé, mais **neuf suites « privilège », un sauna et un jacuzzi dans l’établissement de la galerie** (rapporté par Morgan Olsen, 10 novembre 2026 ; non vérifié ; adresse, ouverture, capacité, restauration et société exploitante inconnues ; BRIEF-2, § 11.1). Prix publics relus sur les pages des éditeurs le 10 novembre 2026 (douze lectures, aucune inscription, aucun devis). Page client associée : `pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`.
 
 ## En bref
 
 1. **Pour les neuf suites, il faut un logiciel hôtelier du marché, pas un logiciel construit par nous.** Fiche de police, taxe de séjour, caisse certifiée, sites de réservation, paiement et facture électronique sont déjà faits, et tenus à jour, par des éditeurs (BRIEF-2, § 10.3 et § 11.3).
 2. **Notre rôle** : cahier des besoins, comparaison écrite, paramétrage, liaison avec le registre des bâtiments et la comptabilité, formation de l’administratrice. Nous construisons seulement ce qui manque (par exemple les créneaux du sauna et du jacuzzi si le logiciel ne les gère pas). Nous ne gérons pas les suites pour le compte de GianLuca Carlone.
-3. **Prix publics relus le 10 novembre 2026, pour 9 à 10 chambres** : Sirvoy Pro 79 € par mois (taxes non précisées) ; Thaïs 130 à 190 € HT par mois avec moteur et canaux (exemple d’un hôtel 2 étoiles) ; eviivo à partir de 40 € HT par mois ; RoomRaccoon Entry 130 à 164 € par mois selon la facturation (taxes non précisées, page incohérente). Amenitiz, Mews et Misterbooking ne publient pas de prix d’abonnement.
+3. **Prix publics relus le 10 novembre 2026, pour 9 à 10 chambres** : Sirvoy Pro 79 € par mois (taxes non précisées) ; Thaïs 130 à 190 € par mois avec moteur et canaux (base de 65 € HT, taxes des modules non précisées ; exemple d’un hôtel 2 étoiles) ; eviivo à partir de 40 € HT par mois ; RoomRaccoon Entry 130 à 164 € par mois selon la facturation (taxes non précisées, page incohérente). Amenitiz, Mews et Misterbooking ne publient pas de prix d’abonnement.
 4. **Sur trois ans, un ensemble complet (logiciel, moteur, canaux) coûte de l’ordre de 2 800 à 7 900 €** (estimation à valider ; hors caisse, frais de paiement, commissions des sites et facture électronique). L’autre proposition : 24 000 € par an, soit 72 000 € sur trois ans (groupe Accor, d’après Morgan Olsen, 9 novembre 2026 ; non vérifié auprès de GianLuca Carlone ; contenu inconnu). **Ces chiffres ne se comparent pas tant que le contenu de l’autre offre est inconnu.** Interne seulement.
 5. **Ce qui départage les logiciels n’est pas le prix** : export des données, engagement, agréments Airbnb, Booking.com et Expedia, interface de programmation ouverte, créneaux pour le sauna et le jacuzzi, fiche de police et taxe de séjour. Aucune page de prix lue ne répond à tout : questions écrites, envoyées par l’exploitant.
-6. **Vendredi 13 novembre** : cinq questions (§ 5) et une phrase (§ 6). Quatre décisions des associés avant jeudi soir (§ 7).
+6. **Vendredi 13 novembre** : cinq questions (§ 5) et une phrase (§ 6). Trois décisions des associés avant jeudi soir (§ 7, points 2 à 4 ; le point 1, le nom du fichier client, est réglé).
 
 ## 1. Ce que doit faire le logiciel de neuf suites
 
@@ -30,11 +30,11 @@ Statut : note ferme du livrable 8. La note conditionnelle prévue (`interne/logi
 | Paiement | Arrhes et séjours par un prestataire de paiement ; aucune carte saisie ni stockée par l’exploitant | R2, ligne 230 (norme PCI DSS) | Oui |
 | RGPD | Contrat de sous-traitance (article 28) ; données dans l’Union européenne ou garanties écrites ; liste des sous-traitants | k12, § 1.4 | Oui |
 | Export des données | Export complet (réservations, clients, factures, historique), format ouvert, délai et coût écrits, testé avant signature | k12, § 1.4 et § 5 | Oui |
-| Créneaux du sauna et du jacuzzi | Réserver des créneaux, les rattacher à un séjour ; si possible, offres combinées avec les événements de la galerie | BRIEF-2, § 11.3 | Non (sinon outil de créneaux relié) |
+| Créneaux du sauna et du jacuzzi | Réserver des créneaux, les rattacher à un séjour, sans dépasser la fréquentation maximale affichée du jacuzzi ; si possible, offres combinées avec les événements de la galerie | BRIEF-2, § 11.3 ; note k14, § 8 | Non (sinon outil de créneaux relié) |
 | Interface de programmation | Ouverte au client, documentée, coût connu : c’est par elle que nous relions le reste | BRIEF-2, § 12 | Oui |
 | Assistance | En français ; horaires, canaux et délai écrits | k12, § 1.4 | Non |
 
-La catégorie juridique de l’hébergement (hôtel, avec ou sans classement, ou autre) change une partie de ces obligations. Elle est à faire valider par les professionnels de GianLuca Carlone (BRIEF-2, § 11.2). Les obligations de sécurité et d’hygiène des suites, du sauna et du jacuzzi sont traitées dans le livrable 9, pas ici.
+La catégorie juridique de l’hébergement (hôtel, avec ou sans classement, ou autre) change une partie de ces obligations. Elle est à faire valider par les professionnels de GianLuca Carlone (BRIEF-2, § 11.2). Les obligations de sécurité et d’hygiène des suites, du sauna et du jacuzzi sont traitées dans le livrable 9, pas ici (document client `pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md`, partie 5 ; note `audit/2026-11-10-preparation-des-livrables/travaux/k14-sauna-jacuzzi-espace-bien-etre.md`).
 
 ## 2. Les logiciels du marché : tableau comparatif
 
@@ -124,7 +124,7 @@ Morgan les pose de vive voix. Une ligne de réponse par question, datée, le jou
 | 4 | « Y aura-t-il un petit-déjeuner, un bar ou un restaurant encaissé sur place ? » | Caisse certifiée ou attestée ; module de restauration |
 | 5 | « Sous une enseigne, ou en indépendant ? » | Avec une enseigne, le logiciel est souvent fixé par elle (X2, § 1) ; en indépendant, libre choix |
 
-**Si le temps le permet** : quelle société exploite les suites ; le sauna et le jacuzzi sont-ils réservés aux clients des suites ; la vente sur Airbnb et Booking.com est-elle souhaitée ; qui fait l’accueil ; puis les cinq questions sur l’autre proposition (`interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`, § 1).
+**Si le temps le permet** : quelle société exploite les suites ; le jacuzzi est-il partagé entre les suites ou propre à l’une d’elles, et le sauna et le jacuzzi sont-ils réservés aux clients des suites (les règles des piscines en dépendent : note k14) ; la vente sur Airbnb et Booking.com est-elle souhaitée ; qui fait l’accueil ; puis les cinq questions sur l’autre proposition (`interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`, § 1).
 
 ## 6. La phrase à dire au rendez-vous
 
@@ -134,10 +134,10 @@ Si la question des sites vient : « Vos suites pourront apparaître sur les prin
 
 ## 7. Décisions des associés avant jeudi 12 novembre au soir
 
-1. **Nom du fichier client.** Le nom imposé, `2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`, contient « hôtel », que BRIEF-2, § 11.2 écarte des documents client. Le texte de la page, lui, ne dit jamais « votre hôtel ». Recommandation : renommer à la validation (par exemple `2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`). Non fait ici : la consigne limite l’écriture aux fichiers indiqués.
-2. **Recouvrement des deux prix** : étape de choix (3 000 € HT) et option hôtellerie (2 300 € HT). Recommandation : un seul prix pour le choix du logiciel hôtelier, à arrêter avec DL1.
-3. **DL1** : montrer ou non un prix de logiciel. La page client n’en montre aucun, hors cadrage.
-4. **Forme vendredi** : page montrée à l’écran seulement, ou laissée à GianLuca Carlone (BRIEF-2, § 10.4 : sans les préalables, rien n’est laissé ni signé).
+1. **Nom du fichier client : réglé le 10 novembre au soir.** Le premier nom du fichier contenait « hôtel », que BRIEF-2, § 11.2 écarte des documents client ; le fichier s’appelle maintenant `pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md` (feuille de décisions, « Déjà fait ou établi »). Le texte de la page ne dit jamais « votre hôtel ». Ce point n’est plus une décision.
+2. **Recouvrement des deux prix** : étape de choix (3 000 € HT) et option hôtellerie (2 300 € HT). Recommandation : un seul prix pour le choix du logiciel hôtelier, à arrêter avec DL1. C’est la décision V8 de la feuille de décisions.
+3. **DL1** : montrer ou non un prix de logiciel. La page client n’en montre aucun, hors cadrage. C’est l’arbitrage C de la feuille de décisions (V1).
+4. **Forme vendredi** : page montrée à l’écran seulement, ou laissée à GianLuca Carlone (BRIEF-2, § 10.4 : sans les préalables, rien n’est laissé ni signé). C’est la décision V2 : sans V1 à V5, écran seulement.
 
 ## 8. Ce qui reste inconnu
 
@@ -145,7 +145,7 @@ Si la question des sites vient : « Vos suites pourront apparaître sur les prin
 - De l’administratrice : nom, statut, outils actuels, temps disponible pour la formation.
 - Des logiciels : prix pour neuf chambres chez eviivo et RoomRaccoon (page incohérente) ; prix de Thaïs pour un établissement non classé ; taxes des prix Sirvoy et RoomRaccoon ; prix d’Amenitiz, Mews, Misterbooking et Little Hotelier ; pour tous : export des données, lieu d’hébergement des données, caisse certifiée, plateforme de facture électronique reliée, fiche de police, taxe de séjour, créneaux, agréments Airbnb, Booking.com et Expedia.
 - De l’autre proposition : contenu, signataire, hors taxes ou non, durée, sortie.
-- Taxe de séjour de la commune ; règles applicables au sauna et au jacuzzi (livrable 9).
+- Taxe de séjour de la commune. Pour le sauna et le jacuzzi, les règles sont maintenant relevées (livrable 9, partie 5 ; note k14) ; restent inconnus le jacuzzi partagé ou propre à une suite, la capacité d’accueil, le règlement sanitaire de la Nièvre pour le sauna.
 
 ## Sources
 

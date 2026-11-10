@@ -1,6 +1,6 @@
 # L’autre proposition reçue : les questions à poser et la comparaison à refaire
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, deux mentions de vocabulaire ajoutées le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
 ## Mise à jour du 10 novembre au soir : scénario hôtelier confirmé, cas A retenu
 
@@ -30,12 +30,12 @@ Le reste de ce document est le texte du 10 novembre au matin, gardé tel quel sa
 | N° | Question à poser à GianLuca Carlone | Pourquoi | Ce que la réponse permet de déterminer |
 | --- | --- | --- | --- |
 | 1 | « Que couvre exactement la proposition : un logiciel, une marque avec des réservations, ou la gestion de vos lieux par leurs équipes ? » | Les trois n’ont ni le même prix ni le même concurrent | Le cas (§ 3) ; si Marwin Tech est concernée ou non ; quoi comparer. **Mise à jour : réponse connue, logiciel de gestion hôtelière ; cas A** |
-| 2 | « Pour quel bâtiment ? Y a-t-il un projet d’hôtel ou de chambres, et combien ? » | Les enseignes d’Accor lues demandent en général cinquante chambres et plus (x1) | Si le scénario hôtelier existe ; si la note sur le logiciel hôtelier sert ; la taille réelle du besoin. **Mise à jour : scénario confirmé (neuf suites) ; restent le nombre arrêté, le bâtiment et la date** |
+| 2 | « Pour quel bâtiment ? Y a-t-il un projet d’hôtel ou de chambres, et combien ? » | Les enseignes d’Accor lues demandent en général cinquante chambres et plus (x1) | Si le scénario hôtelier existe ; si la note sur le logiciel hôtelier sert ; la taille réelle du besoin. **Mise à jour : scénario confirmé (neuf suites) ; restent le nombre arrêté, le bâtiment et la date. À l’oral, ne plus dire « hôtel » : « vos neuf suites » (BRIEF-2, § 11.2)** |
 | 3 | « Les 6 000 € par trimestre sont-ils hors taxes ? Pour combien de temps vous engagez-vous, et comment en sort-on ? » | Un engagement de dix ou douze ans n’a rien à voir avec un abonnement résiliable | Le coût sur trois ans (24 000 € par an, 72 000 € sur trois ans si c’est un forfait hors taxes) ; le risque de sortie |
 | 4 | « Avez-vous une proposition écrite ? Pouvez-vous nous la montrer, ou est-elle confidentielle ? » | Sans écrit, on compare une rumeur ; une proposition peut être confidentielle | Si une comparaison sérieuse est possible ; ce qu’on a le droit de lire (avocat si clause de confidentialité) |
 | 5 | « Voulez-vous qu’on vous amène des clients, ou seulement un outil pour gérer vos lieux ? » | Amener des clients (distribution, marque) est un métier que Marwin Tech ne fait pas | Si la valeur attendue est la distribution (pas notre métier) ou la gestion (notre proposition de logiciel). **Mise à jour : réponse connue, un outil ; pas de gestion par un tiers** |
 
-**Questions complémentaires, si la conversation s’y prête** : frais d’entrée ; qui détient les données des clients et des réservations ; qui choisit et paie le logiciel de l’hôtel ; ce qui se passe à la fin du contrat ; s’il a déjà comparé avec d’autres offres.
+**Questions complémentaires, si la conversation s’y prête** : frais d’entrée ; qui détient les données des clients et des réservations ; qui choisit et paie le logiciel des suites (mise à jour du 11 novembre 2026 : on ne dit plus « de l’hôtel ») ; ce qui se passe à la fin du contrat ; s’il a déjà comparé avec d’autres offres.
 
 ## 2. Ce que Morgan dit et ce qu’il ne dit pas
 

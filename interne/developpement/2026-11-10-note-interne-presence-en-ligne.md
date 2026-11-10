@@ -1,8 +1,8 @@
 # Note interne — présence en ligne : contenus, référencement, assistants d’IA
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
-Demande de Morgan Olsen (10 novembre, nuit) : faire plus que des sites vitrines (contenus, référencement, et bien d’autres), des offres ambitieuses et créatives. Pièce client : `pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md` (sept formules, une page, sans prix).
+Demande de Morgan Olsen (10 novembre, nuit) : faire plus que des sites vitrines (contenus, référencement, et bien d’autres), des offres ambitieuses et créatives. Pièce client : `pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md` (sept formules, une page, sans prix). Depuis, les sept formules sont aussi dans la fiche 06 (`pour-carlone/fiches/2026-11-10-fiche-06-votre-presence-en-ligne.md`, avec une colonne « Quand ? ») ; trois d’entre elles (Galerie ouverte, Rayonnement, Séjours) sont à l’écran sur la diapositive `presence` (n° 12, fil principal) ; la diapositive `ensuite` (n° 30) est en annexe.
 
 ## En bref
 
@@ -23,6 +23,22 @@ Demande de Morgan Olsen (10 novembre, nuit) : faire plus que des sites vitrines 
 | Studio | Visuels et vidéos assistés, traductions | Coût et délai de production | Contenus à temps | en appui |
 | Réseau | Sites et contenus des partenaires, contrats distincts | Partenaires sans présence en ligne | Un territoire qui se renforce | plus tard |
 | Pilotage | Rapport mensuel sourcé | Pas de visibilité sur ce qui marche | Décisions sur des chiffres | avec toute formule récurrente |
+
+## Formules et programmes : deux jeux de noms (état au 11 novembre 2026)
+
+La page des formules, la fiche 06 et la diapositive `presence` gardent les sept noms ci-dessus. La page « Nos offres » (`pour-carlone/developpement/2026-11-10-nos-offres-de-la-premiere-marche-aux-grands-projets.md`), la page « Une ambition pour votre établissement » et les diapositives `ambition` (n° 21) et `offres` (n° 23) emploient les noms de travail des programmes. Correspondance :
+
+| Formule | Nom de travail du programme ou du projet |
+| --- | --- |
+| Galerie ouverte | la galerie sans murs |
+| Rayonnement | le rayonnement |
+| Séjours | les séjours signature |
+| Soirées | le cabaret augmenté, pour sa partie « chaque soirée annoncée, ses réservations suivies » |
+| Studio | aucun programme à ce nom ; « le studio de votre maison » dans la page « Une ambition » (2027) |
+| Réseau | le réseau de vos partenaires (niveau « rayonner ») |
+| Pilotage | aucun programme à ce nom ; la mesure mensuelle du programme « le rayonnement » |
+
+À décider par Morgan et Mathys : garder les deux jeux de noms, en disant le lien à l’oral, ou n’en garder qu’un dans les documents laissés. Les noms des programmes dans un document laissé relèvent déjà de la décision V13.
 
 ## Prix
 

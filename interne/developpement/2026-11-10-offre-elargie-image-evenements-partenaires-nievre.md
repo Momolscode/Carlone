@@ -1,19 +1,19 @@
 # Offre élargie : image en ligne, événements, partenaires, Nièvre
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
 Demande de Morgan Olsen (10 novembre, nuit) : ajouter à l’offre générale la gestion de l’identité en ligne de GianLuca Carlone et de ses événements, l’IA chez ses collaborateurs qui accepteraient nos offres, la signature visuelle, les sites web et vitrines de ses collaborateurs, « emmener l’IA dans la Nièvre », automatisations, audits, conseil, nouvelles façons de travailler.
 
 ## En bref
 
-1. **Où cela va.** Une page client (`pour-carlone/developpement/2026-11-10-ce-que-nous-pourrions-faire-ensuite.md`) et une diapositive placée avant le prix. Le message : « le cadrage choisit par où commencer ». Aucun prix n’est donné ; l’offre du jour reste le cadrage.
+1. **Où cela va.** Une page client (`pour-carlone/developpement/2026-11-10-ce-que-nous-pourrions-faire-ensuite.md`) et la diapositive `ensuite`, d’abord placée avant le prix, passée en annexe dans la version 12 refaite (n° 30). Depuis, le même contenu est aussi dans les fiches 06 (présence en ligne) et 11 (partenaires et Nièvre), sur la diapositive `presence` (n° 12, fil principal) et, sous des noms de travail, dans la page « Nos offres » : le rayonnement, le pass IA de votre équipe, le réseau de vos partenaires, le laboratoire de la Nièvre. Le message : « le cadrage choisit par où commencer ». Aucun prix n’est donné ; l’offre du jour reste le cadrage.
 2. **Capacité.** À deux, nous ne tenons pas tout en même temps. La règle « une étape et un essai à la fois » reste. Au-delà, il faudra des partenaires (graphiste, développeur web) ou plus de moyens (page « moyens supplémentaires »).
 3. **Les collaborateurs de GianLuca Carlone sont des clients distincts.** Chacun a son contrat, sa facture et son accord sur les données. Ni commission ni apport d’affaires rémunéré sans décision écrite des deux associés et information claire des parties. Aucun démarchage de ses contacts sans son accord et sans respecter les règles de prospection.
 4. **Trois obligations à ne pas oublier.**
    - Depuis le 2 août 2026, transparence sur les contenus générés par IA (règlement européen sur l’IA, article 50 ; non reporté par l’« omnibus », sauf le marquage lisible par machine des systèmes déjà sur le marché, jusqu’au 2 décembre 2026 d’après des cabinets ; à vérifier au Journal officiel).
    - Droit à l’image des artistes, invités et clients filmés ou photographiés.
    - Pour les sites : mentions légales, cookies selon la CNIL, accessibilité selon la taille de l’entreprise. À faire valider par un avocat.
-5. **Écosystème local.** La CCI Nièvre propose un programme « Impulse IA » : diagnostics individuels et formations à l’IA générative pour les TPE et PME du département, d’après un article d’info.fr de 2026 non vérifié sur le site de la CCI. En région, l’ARNIA (agence régionale du numérique et de l’IA) accompagne de la sensibilisation aux preuves de concept (catalogue « ambassadeurs IA » de la DREETS Bourgogne-Franche-Comté). Nous nous positionnons en complément, pas en concurrence : orienter vers ces dispositifs quand ils conviennent.
+5. **Écosystème local.** La CCI Nièvre propose un programme « Impulse IA » : diagnostics individuels et formations à l’IA générative pour les TPE et PME du département, d’après un article d’info.fr de 2026 ; la page de la CCI Nièvre elle-même (3 avril 2026) a été lue le 10 novembre par la note k7 (`audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de-cadrage.md`, § 1.2 ; cette note n’a pas de partie « Vérification »). En région, l’ARNIA (agence régionale du numérique et de l’IA) accompagne de la sensibilisation aux preuves de concept (catalogue « ambassadeurs IA » de la DREETS Bourgogne-Franche-Comté). Nous nous positionnons en complément, pas en concurrence : orienter vers ces dispositifs quand ils conviennent.
 
 ## 1. Les services, la chaîne et les conditions
 
@@ -23,8 +23,8 @@ Demande de Morgan Olsen (10 novembre, nuit) : ajouter à l’offre générale la
 | Signature visuelle | idem, puis partenaires | Charte (couleurs, polices, ton), modèles | Choix final | Droits sur les polices, images et logos |
 | Sites web | idem, partenaires | Création, refonte, mises à jour, liaison avec la réservation des suites | Noms de domaine, hébergement, comptes à leur nom | Mentions légales, cookies, accessibilité, sécurité |
 | Diagnostic IA, automatisations, conseil | partenaires volontaires | Diagnostic, essais mesurés, automatisations simples | Décisions, validations | Un contrat par client ; accord sur les données |
-| Formation, nouvelles façons de travailler | équipes | Ateliers pratiques sur leurs tâches | — | Obligation de maîtrise de l’IA (article 4 du règlement européen) à respecter par l’employeur |
-| « L’IA dans la Nièvre » | établissement, public local | Rencontres, démonstrations, ateliers | Accueil du public selon les règles du lieu | Lien avec CCI Nièvre et ARNIA ; aucune promesse de financement |
+| Formation, nouvelles façons de travailler | équipes | Ateliers pratiques sur leurs tâches | — | Maîtrise de l’IA à favoriser par l’employeur (article 4 du règlement européen, réécrit le 8 juillet 2026 : plus de niveau imposé ; note k4, vérification) |
+| « L’IA dans la Nièvre » (nom de travail : le laboratoire de la Nièvre, horizon 2030) | établissement, public local | Rencontres, démonstrations, ateliers | Accueil du public selon les règles du lieu | Lien avec CCI Nièvre et ARNIA ; aucune promesse de financement |
 
 ## 2. Repères de prix du marché (internes, non montrables)
 
@@ -32,8 +32,8 @@ Site vitrine en France, 2026 : environ 1 500 à 5 000 € avec un indépendant ;
 
 ## 3. Décisions pour Morgan et Mathys
 
-1. Montrer la diapositive « Ce que nous pourrions prendre en charge ensuite » : ☐ oui ☐ annexe ☐ non (recommandé : oui, avant le prix, sans prix).
-2. Règle pour les collaborateurs de GianLuca Carlone : ☐ contrats distincts, aucune commission (recommandé) ☐ autre, après avis de l’avocat.
+1. Montrer la diapositive « Ce que nous pourrions prendre en charge ensuite » (`ensuite`) : ☐ oui ☐ annexe ☐ non. C’est la décision V6 de la feuille de décisions. Recommandation d’origine de cette note : oui, avant le prix, sans prix. Recommandation de la feuille de décisions, qui fait foi depuis la refonte de la version 12 : en annexe (n° 30), montrée seulement s’il la demande, sans prix : « le cadrage choisit par où commencer ».
+2. Règle pour les collaborateurs de GianLuca Carlone : ☐ contrats distincts, aucune commission (recommandé) ☐ autre, après avis de l’avocat. C’est la décision V9 de la feuille de décisions.
 3. Partenaires (graphisme, web) pour tenir la capacité : qui, quand, à quelles conditions.
 4. Contacter la CCI Nièvre et l’ARNIA **plus tard**, après décision : aucun contact pour l’instant.
 
