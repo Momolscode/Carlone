@@ -230,7 +230,7 @@ Toutes consultées le 10 novembre 2026. « (*) » : lue pour la première versio
 
 Relecture sceptique, 10 novembre 2026. Document interne — ne pas transmettre à GianLuca Carlone. Ce document n’est pas un avis juridique. Cette partie l’emporte sur le reste de la note.
 
-**Conclusion.** La note est complète : rien à ajouter en « Compléments ». Sur douze affirmations contrôlées, sept sont confirmées, quatre doivent être corrigées ou précisées, une reste en partie non vérifiée. Aucune erreur grossière, mais quatre points changeraient une phrase du livrable 9 : le dépôt électronique obligatoire pour une société, le recours contre l’architecte des Bâtiments de France, la portée de l’échéance des enseignes de 2027, le rythme des vérifications techniques d’un petit lieu recevant du public. Dix lectures ou recherches, toutes le 10 novembre 2026.
+**Conclusion.** La note est complète : rien à ajouter en « Compléments ». Sur douze affirmations contrôlées, six sont confirmées (dont deux avec une précision), cinq doivent être corrigées, une reste en partie non vérifiée. Aucune erreur grossière, mais quatre points changeraient une phrase du livrable 9 : le dépôt électronique obligatoire pour une société, le recours contre l’architecte des Bâtiments de France, la portée de l’échéance des enseignes de 2027, le rythme des vérifications techniques d’un petit lieu recevant du public. Dix lectures ou recherches, toutes le 10 novembre 2026.
 
 ### Tableau des contrôles
 
@@ -257,3 +257,48 @@ Relecture sceptique, 10 novembre 2026. Document interne — ne pas transmettre �
 2. Partie 1, délais : « Contre un avis défavorable de cet architecte en site patrimonial ou aux abords d’un monument, un recours préalable est obligatoire » → « Contre un refus fondé sur un avis défavorable de l’architecte des Bâtiments de France, en site patrimonial remarquable ou aux abords d’un monument, un recours administratif préalable auprès du préfet de région est obligatoire avant le juge » (F17578).
 3. Partie 1, délais : après « elle peut être prolongée deux fois d’un an », ajouter « Exception : une autorisation délivrée entre le 1er janvier 2021 et le 27 mai 2022 vaut quatre ans ; entre le 28 mai 2022 et le 28 mai 2024, cinq ans, sans prolongation. Utile pour les bâtiments rachetés avec une autorisation en cours » (F17578).
 4. Partie 1, architecte : « (code de l’urbanisme, article R431-2, non relu) [À confirmer] » → « Une société qui demande un permis de construire doit recourir à un architecte pour le projet architectural (F31687, vérifiée le 20 septembre 2024) [Autorité ou organisme] ».
+5. Partie 1, « Changé en 2025 et 2026 », et tableau des échéances, ligne « Vérifications techniques » : « Chaque année (k8, § 2) » → « Pour un lieu de 5e catégorie : vérification des installations techniques tous les trois ans au plus depuis le 1er juillet 2026 (arrêté du 1er décembre 2025, PE 4 § 2). Les lieux de la 1re à la 4e catégorie et les obligations du code du travail ont leurs propres rythmes, à confirmer » (Légifrance, JORFTEXT000053020948). Le rattachement de la modification de PE 27 (plan schématique à l’entrée) à l’arrêté du 4 février 2026 est douteux : le texte du 1er décembre 2025 modifie déjà PE 27 ; à vérifier.
+6. « En bref », partie 4, tableau des échéances, « Pièges à signaler » : « Enseignes au sol anciennes à mettre en conformité avant le 2 novembre 2027 » → « Dans une agglomération de plus de 10 000 habitants, une enseigne au sol posée avant le 2 novembre 2023 doit respecter la limite de 10,5 m² avant le 2 novembre 2027 ; en dessous de 10 000 habitants, la limite reste 6 m² » (F24357, vérifiée le 1er juillet 2026 ; décret n° 2023-1007 du 30 octobre 2023). Ne pas citer cette échéance dans le livrable 9 tant que la population de l’agglomération de Cosne n’est pas vérifiée.
+7. Partie 6, dépôt de garantie : « plafonné à un trimestre de loyer pour les baux signés ou renouvelés depuis le 28 mai 2026 » → « plafonné à un trimestre de loyer, garanties comprises et sans intérêts, pour les baux de locaux de commerce ou de services commerciaux ou artisanaux conclus ou renouvelés depuis la loi n° 2026-403 du 26 mai 2026 (article 62) ; date exacte de départ (26 ou 28 mai) à faire préciser par l’avocat ; restitution dans les trois mois de la remise des clés » (Légifrance ; F36538 ; economie.gouv.fr).
+8. Partie 9, conditions : « pour une activité sédentaire, 25 % au plus du chiffre d’affaires hors zone » → « au-delà de 25 % de chiffre d’affaires hors zone, le bénéfice est imposé à proportion du chiffre d’affaires réalisé hors zone » (F31139, vérifiée le 21 février 2026). Ajouter la date de la fiche : vérifiée le 21 février 2026.
+9. Partie 5, caisse : préciser le texte : « loi n° 2026-103 du 19 février 2026 de finances pour 2026, article 125, applicable au 21 février 2026 » (Bofip, 25 mars 2026). Garder « 60 jours » en « à confirmer » tant que l’article 1770 duodecies n’est pas relu.
+10. Sources : ajouter la date de F31687 (vérifiée le 20 septembre 2024) et signaler qu’elle est plus ancienne que les autres fiches.
+
+### Sûr à reprendre
+
+Chaque phrase porte sa source. Dans un document client, ajouter « à faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur) et par la mairie ».
+
+- **Document client.** « Une déclaration préalable est instruite en un mois en général, et en deux mois en secteur protégé, à partir d’un dossier complet. » (Service Public Entreprendre, F17578, vérifiée le 22 octobre 2026)
+- **Document client.** « Si des travaux créent ou modifient un lieu qui reçoit du public, une autorisation de travaux s’ajoute : quatre mois d’instruction avec une déclaration préalable, cinq mois pour un permis de construire. » (F31687, vérifiée le 20 septembre 2024)
+- **Document client.** « Dans une commune de plus de 3 500 habitants, une société dépose sa demande d’urbanisme par voie électronique uniquement. » (F17578, vérifiée le 22 octobre 2026)
+- **Document client.** « Une société qui demande un permis de construire doit faire appel à un architecte. » (F31687, vérifiée le 20 septembre 2024)
+- **Document client.** « À la fin d’un bail dérogatoire, le bailleur a un mois pour demander par écrit au locataire de partir. Sinon, un bail commercial prend effet dès le lendemain du terme. » (F32304, vérifiée le 9 juin 2026)
+- **Document client.** « Depuis le 1er juillet 2026, l’exploitant d’un petit lieu recevant du public (5e catégorie) fait vérifier ses installations techniques tous les trois ans au plus. » (arrêté du 1er décembre 2025, article PE 4 ; Légifrance)
+- **Document client.** « Le logiciel de caisse se justifie par un certificat ou par une attestation de l’éditeur. Sans justificatif, l’amende est de 7 500 € par logiciel. » (loi de finances pour 2026, article 125 ; Bofip, 25 mars 2026 ; economie.gouv.fr)
+- **Annexe.** « Pour un bail commercial de commerce conclu ou renouvelé depuis fin mai 2026, le dépôt de garantie et les autres garanties ne dépassent pas un trimestre de loyer. » (loi n° 2026-403 du 26 mai 2026, article 62 ; F36538)
+- **Annexe.** « Contre un refus fondé sur un avis défavorable de l’architecte des Bâtiments de France, un recours préalable auprès du préfet de région est obligatoire avant le juge. » (F17578)
+- **Annexe, après confirmation du classement de Cosne.** « Une entreprise créée ou reprise en zone France ruralités revitalisation entre le 1er juillet 2024 et le 31 décembre 2029 peut, sous conditions, ne pas payer d’impôt sur les bénéfices pendant cinq ans, puis une partie seulement pendant trois ans. » (F31139, vérifiée le 21 février 2026)
+- **Interne seulement.** Le téléservice national des meublés de tourisme était « prévu au quatrième trimestre 2026 » (A18880, 27 juillet 2026) ; son application aux neuf suites n’est pas établie.
+
+### Ce qui reste inconnu
+
+- **Faits du dossier** : nombre, adresses, surfaces, destination actuelle et prévue des bâtiments ; propriétaire des murs ; sociétés exploitantes ; date d’ouverture. Rien de cela n’a été cherché ni ne doit être deviné.
+- **Cosne** : population de l’agglomération (seuil de 10 000 habitants des enseignes au sol) ; règlement des zones du plan local d’urbanisme ; périmètre du site patrimonial remarquable ; approbation de la modification n° 7 ; règlement local de publicité ; taxe de séjour ; exonérations locales votées ; classement de la commune en zone France ruralités revitalisation (non relu ici).
+- **Textes non relus dans cette vérification** : formulaire et délai de l’autorisation d’enseigne (cerfa n° 16308, deux mois, silence valant accord : partie de F24357 non affichée) ; sanctions de l’éclairage des enseignes (F24396) ; seuils de l’autorisation d’exploitation commerciale (L752-1) ; seuils de PE 2 sur Légifrance ; délai de 60 jours de l’article 1770 duodecies ; cas exacts où le silence vaut refus pour une déclaration préalable en secteur protégé (phrase tronquée).
+- **Contradictions ouvertes** : date de départ du plafond du dépôt de garantie (26 ou 28 mai 2026) ; arrêté qui a modifié PE 27 (1er décembre 2025 ou 4 février 2026).
+- **Meublés de tourisme** : mise en service effective du téléservice au 10 novembre 2026 ; question de savoir si les neuf suites relèvent de ce régime ou de l’hôtellerie, à faire valider par ses professionnels.
+
+### Sources de la vérification
+
+Toutes consultées le 10 novembre 2026.
+
+- Service Public Entreprendre, F17578, « Déclaration préalable (DP) », vérifiée le 22 octobre 2026, https://entreprendre.service-public.gouv.fr/vosdroits/F17578 (onglets « Cas général » et « Secteur protégé »)
+- Service Public Entreprendre, F31687, « Établissement recevant du public (ERP) : procédures d’autorisation de travaux », vérifiée le 20 septembre 2024, https://entreprendre.service-public.gouv.fr/vosdroits/F31687
+- Service Public Entreprendre, F24357, « Enseigne : règles d’installation », vérifiée le 1er juillet 2026, https://entreprendre.service-public.gouv.fr/vosdroits/F24357 (lue en partie)
+- Service Public Entreprendre, F32304, « Bail dérogatoire », vérifiée le 9 juin 2026, https://entreprendre.service-public.gouv.fr/vosdroits/F32304
+- Service Public Entreprendre, F31139, « Zones France ruralités revitalisation », vérifiée le 21 février 2026, https://entreprendre.service-public.gouv.fr/vosdroits/F31139 (lue en partie)
+- Service-public.gouv.fr, actualité A18880, 27 juillet 2026, https://www.service-public.gouv.fr/particuliers/actualites/A18880
+- Légifrance, loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique, article 62, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054131304 (extraits de recherche) ; Service Public Entreprendre, F36538 et actualité A18929 ; economie.gouv.fr, « Loi de simplification de la vie économique : ce qui change pour les entreprises » (extraits de recherche)
+- Bofip, ACTU-2026-00073, 25 mars 2026, https://bofip.impots.gouv.fr/bofip/15035-PGP.html/ACTU-2026-00073 ; economie.gouv.fr, certification des logiciels de caisse ; Service Public Entreprendre, A18087 (extraits de recherche)
+- Légifrance, arrêté du 1er décembre 2025 modifiant l’arrêté du 25 juin 1980, https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053020948 (extraits de recherche)
+- Sites tiers vus en résultats de recherche, non utilisés comme preuve : compta-online.com, lejournalduchr.fr, bpifrance-creation.fr, le-coordinateur-ssi.fr, biscarisk.fr, apgl64.fr, bcfi.fr.

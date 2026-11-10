@@ -8,7 +8,7 @@ Rédigée pour nourrir le dixième livrable (« Ce que des moyens supplémentair
 
 ## En bref
 
-(complété en fin de rédaction, voir plus bas)
+(voir à la fin : « Compléments du 10 novembre 2026 », partie « En bref ». La partie « Vérification du 10 novembre 2026 », tout à la fin, l'emporte sur le reste de la note.)
 
 ## 1. NVIDIA DGX Spark
 
@@ -145,3 +145,61 @@ Lecture : la DGX Spark lit vite (calcul puissant) mais écrit lentement (mémoir
 
 Conséquence : une machine locale fait bien des tâches simples et répétitives (trier, extraire des champs, résumer, classer). Pour le raisonnement difficile, le code complexe ou la rédaction fine, les modèles en ligne restent nettement meilleurs [Estimation].
 
+## Compléments du 10 novembre 2026
+
+Ajout du relecteur, 10 novembre 2026. La note s’arrêtait après le § 4.5. Il manquait : le « En bref », le « Tableau des prix » annoncé au § 1, les contraintes demandées par le brief (énergie, bruit, compétences, maintenance), l’argument « les données restent chez lui » et l’adéquation à nos usages (BRIEF-2, § 9.2, point 6). Quatre recherches ont été faites pour ces compléments. Les chiffres corrigés par la vérification (partie suivante) sont déjà pris en compte ici.
+
+### En bref
+
+- **Une machine de 128 Go suffit pour nos usages actuels.** DGX Spark, Mac Studio M5 Max 128 Go ou mini-PC AMD : environ 2 800 à 7 500 € HT selon le modèle et le revendeur, prix relevés en novembre 2026 [Prix public daté ; Estimation].
+- **La DGX Station n’est pas pour nous.** Environ 90 000 à 171 500 € HT chez un revendeur allemand en octobre 2026, 1 600 W, faite pour entraîner des modèles et servir une équipe. Aucun usage connu de Marwin Tech ne la justifie [Estimation].
+- **Les prix bougent vite.** La DGX Spark Founders Edition est passée de 3 999 $ (octobre 2025) à 4 699 $ (février 2026), puis, selon la presse, à 6 950 $ (octobre 2026). Tout prix se cite avec sa date.
+- **L’électricité pèse peu.** Une DGX Spark coûte moins de 250 € HT d’électricité par an, même à pleine charge jour et nuit. Une DGX Station peut dépasser 2 300 € HT par an [Estimation, § 5.1].
+- **Le vrai argument est la maîtrise des données, pas le prix.** La CNIL juge « généralement plus opportun et plus sécurisé » un déploiement sur site quand on traite des données personnelles ou des documents sensibles (CNIL, 18 juillet 2024). Mais la sécurité de la machine devient alors notre affaire et la sienne (§ 6).
+- **Écart de qualité.** Les meilleurs modèles ouverts téléchargeables sont à 32 points sur l’indice Artificial Analysis v5, contre 58 pour le premier modèle fermé au lancement de l’indice (27 octobre 2026). Une machine locale fait bien le tri, l’extraction et le résumé ; le raisonnement difficile reste mieux fait par les modèles en ligne [Mesure publiée ; Estimation].
+
+### 5. Contraintes : énergie, bruit, chaleur, compétences, maintenance
+
+#### 5.1 Énergie
+
+Prix retenu : tarif réglementé (tarif Bleu), option Base 6 kVA, **0,2001 € TTC le kWh au 1er août 2026**, soit environ 0,167 € HT (Selectra, 17 juillet 2026, et ÉlectricitéPasCher, 1er août 2026, d’après la délibération de la CRE n° 2026-147 du 15 juillet 2026) [Source professionnelle]. Le prix réel dépend du contrat du lieu d’installation [À confirmer].
+
+Calcul [Estimation] : « heures de bureau » = 8 h × 220 jours = 1 760 h par an ; « permanent » = 8 760 h par an. Puissance retenue = puissance mesurée en charge, donc un plafond (la machine ne travaille pas à fond tout le temps).
+
+| Machine | Puissance en charge retenue (source) | Heures de bureau : kWh / € HT par an | Permanent : kWh / € HT par an |
+|---|---|---|---|
+| DGX Spark | 160 W à la prise (Tom’s Hardware, 27 janvier 2026) | 282 kWh / 47 € | 1 402 kWh / 234 € |
+| Mini-PC AMD Ryzen AI Max+ 395 | 112 W en inférence (Tom’s Hardware, même essai) | 197 kWh / 33 € | 981 kWh / 164 € |
+| Mac Studio M5 Max (base) | 200 W au maximum (Apple, 21 septembre 2026) | 352 kWh / 59 € | 1 752 kWh / 292 € |
+| Mac Studio M5 Ultra 512 Go | 385 W au maximum (Apple, 21 septembre 2026) | 678 kWh / 113 € | 3 373 kWh / 562 € |
+| Station RTX PRO 6000 | environ 900 W [Estimation : carte 600 W + hôte] | 1 584 kWh / 264 € | 7 884 kWh / 1 315 € |
+| DGX Station | 1 600 W (fiche NVIDIA) | 2 816 kWh / 470 € | 14 016 kWh / 2 337 € |
+
+Au repos : DGX Spark environ 35 W (Tom’s Hardware, 27 janvier 2026), réduits d’au plus 18 W par une mise à jour de février 2026 (Tom’s Hardware, 12 février 2026) ; Mac Studio 7 à 9 W (Apple) [Mesure publiée].
+
+Raccordement de la DGX Station : la fiche demande « un circuit de 20 A », norme américaine en 120 V. En 230 V, 1 600 W font environ 7 A ; une ligne dédiée reste prudente. **À faire valider par un électricien** [Estimation].
+
+#### 5.2 Bruit et chaleur
+
+- **DGX Spark** : valeurs déclarées par NVIDIA selon la norme ECMA-109 : puissance acoustique 35 dB(A) en fonctionnement (processeur graphique à fond, 25 °C) et 19 dB(A) au repos ; pression acoustique au poste de l’opérateur 29 dB(A) et 13 dB(A) (fiche nvidia.com/fr-fr, lue le 10 novembre 2026) [Officiel]. Essai : 37,5 dB(A) au plus à 46 cm, pour un bruit de fond de 33 dB(A) ; le boîtier devient très chaud sur un coin (Tom’s Hardware, 27 janvier 2026) [Mesure publiée]. ServeTheHome n’a jamais dépassé 40 dB(A) hors essai de saturation et relève 60 à 90 W en inférence (14 octobre 2025) [Mesure publiée].
+- **Mac Studio** : 1 314 BTU/h au maximum pour le M5 Ultra 512 Go, soit 385 W de chaleur (Apple, 21 septembre 2026) [Officiel]. Aucun relevé de bruit lu ce jour [À confirmer].
+- **DGX Station** : aucun chiffre de bruit publié lu ce jour. Un revendeur la dit « plus fraîche et plus silencieuse » qu’un serveur et adaptée au bureau (BuyZero, fiche Dell, lue le 10 novembre 2026) [Source professionnelle ; affirmation de vendeur]. 1 600 W dégagés dans une pièce, c’est l’équivalent d’un radiateur électrique ; l’été, une climatisation peut devenir nécessaire [Estimation].
+- **Station RTX PRO 6000** : chaleur et bruit d’une tour de 800 à 1 000 W [Estimation ; aucun relevé lu].
+
+#### 5.3 Compétences et maintenance
+
+- **Système.** DGX Spark et DGX Station tournent sous Linux (DGX OS ou Ubuntu) [Officiel]. Il faut savoir installer et mettre à jour des modèles, des pilotes et des services réseau. Mac Studio : prise en main la plus simple. Mini-PC AMD : pilotes et logiciels (ROCm, Vulkan) moins mûrs [Estimation].
+- **Garantie et pannes.** Pour la DGX Spark, « la prise en charge matérielle sera fournie par le fournisseur qui a vendu le système » (fiche NVIDIA) [Officiel]. Il faut donc choisir le revendeur aussi pour son service. Les fiches DGX Station de BuyZero incluent trois ans d’intervention sur site pour HP et Dell (guide du 5 novembre 2026) [Source professionnelle].
+- **Temps à prévoir.** Mises à jour de sécurité, sauvegardes, surveillance, remplacement en cas de panne : quelques heures par mois au minimum [Estimation à valider]. Chez deux personnes, ce temps est pris sur les missions.
+- **Durée de vie utile.** Le matériel d’IA vieillit vite : la DGX Spark a eu deux hausses de prix et une version 64 Go en un an. Prévoir un renouvellement en trois à cinq ans [Estimation]. L’amortissement comptable et fiscal est **à faire valider par l’expert-comptable**.
+
+### 6. « Ses données restent chez lui » : ce qui est vrai, et à quelles conditions
+
+- **Ce qui est vrai.** La CNIL écrit : si l’on fournit au système « des données personnelles (données des clients ou des collaborateurs) ou de la documentation sensible ou stratégique », « il semble généralement plus opportun et plus sécurisé de privilégier le déploiement de solutions “sur site” (on premise) qui présentent l’avantage de limiter les risques d’extraction de données auprès d’un tiers » (CNIL, « Les questions-réponses de la CNIL sur l’utilisation d’un système d’IA générative », 18 juillet 2024) [Officiel].
+- **La même page nuance.** Le coût d’un système sur site rend souvent « plus aisé » un hébergement distant, encadré par un contrat de sous-traitance ; une petite entreprise peut y recourir « dès lors que les transferts de données sont encadrés et leur sécurité assurée » (même page) [Officiel].
+- **Conditions pour que l’argument reste vrai** [Estimation] :
+  1. La machine est achetée et installée au nom de sa société, dans ses locaux.
+  2. Les logiciels installés n’envoient pas les documents vers un service en ligne. À vérifier pour chaque outil.
+  3. Quelqu’un tient la sécurité : mots de passe, mises à jour, chiffrement du disque (la DGX Spark a un stockage auto-chiffré, fiche NVIDIA), sauvegardes, accès à distance limité.
+  4. Les tâches difficiles envoyées à un modèle en ligne partent avec des données réduites ou pseudonymisées (voir k13b).
+- **Ce que l’argument ne dit pas.** Une machine locale ne rend pas un traitement conforme à elle seule. Le registre, l’information des personnes et les durées de conservation restent dus. **À faire valider par un avocat ou un conseil en protection des données.**
