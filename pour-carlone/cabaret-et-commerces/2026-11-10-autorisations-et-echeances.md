@@ -58,7 +58,7 @@ Emploi des artistes : ils sont présumés salariés ; l’emploi de mineurs dema
 
 ## 5. Vos neuf suites et l’espace bien-être
 
-D’après nos échanges, vous prévoyez neuf suites, un sauna et un jacuzzi dans l’établissement de la galerie (à confirmer avec vous). Adresse, capacité, ouverture et société exploitante restent à préciser. La catégorie de l’hébergement (hôtel, classé ou non, ou autre forme) change une partie des règles : elle est à faire valider par vos professionnels.
+D’après nos échanges, vous prévoyez neuf suites, un sauna et un jacuzzi dans l’établissement de la galerie (à confirmer avec vous). Adresse, capacité d’accueil en personnes, ouverture et société exploitante restent à préciser, ainsi que l’emplacement du jacuzzi (partagé ou propre à une suite). La catégorie de l’hébergement (hôtel, classé ou non, ou autre forme) change une partie des règles : elle est à faire valider par vos professionnels. Si l’accès au jacuzzi ou au sauna était vendu à des personnes extérieures, d’autres règles pourraient s’appliquer : à faire valider.
 
 | Sujet | Ce qu’il faut savoir | Statut |
 | --- | --- | --- |
@@ -67,7 +67,12 @@ D’après nos échanges, vous prévoyez neuf suites, un sauna et un jacuzzi dan
 | Taxe de séjour | Au réel ou au forfait, selon la délibération de la commune ou de l’intercommunalité ; tarifs locaux non trouvés | À vérifier (mairie) |
 | Affichage des prix | Prix de la nuitée et des prestations à afficher, y compris en ligne ; détail selon la catégorie d’hébergement | À vérifier (texte non relu) |
 | Classement en étoiles | Volontaire ; conditions et durée à lire | À vérifier |
-| Sauna et jacuzzi ouverts aux clients | Des règles d’hygiène et de sécurité des bains collectifs peuvent s’appliquer (déclaration, qualité de l’eau, registre) ; pages officielles pas encore lues | À vérifier |
+| Jacuzzi partagé : déclaration | Un jacuzzi (bain à remous) partagé par vos clients suit les règles des piscines d’usage collectif : déclaration à la mairie avant l’ouverture, avec un dossier justificatif et l’engagement de respecter les normes [11] ; au plus tard deux mois avant, selon l’ARS de Bourgogne-Franche-Comté [12]. Un jacuzzi réservé au seul client d’une suite pendant son séjour n’est pas d’usage collectif [14] | Documenté [11] [12] [14] ; installation réelle à faire valider (installateur, mairie) |
+| Jacuzzi : eau et affichage | Carnet sanitaire tenu à la disposition des agents du contrôle sanitaire ; derniers résultats d’analyses affichés ; fréquentation maximale affichée près du bassin ; affichage recommandant de ne pas dépasser quinze minutes et déconseillant l’accès aux enfants de moins de dix ans [13] | Documenté [13] |
+| Jacuzzi : entretien | Au moins 150 litres d’eau par baigneur pour fixer la fréquentation maximale ; vidange complète au moins deux fois par mois sous 10 m³ (deux fois par an au-delà), puis nettoyage et désinfection [15] | Documenté [15] ; matériel et traitement de l’eau à faire valider (installateur) |
+| Jacuzzi : à partir du 1er janvier 2027 | L’exploitant fait analyser l’eau par un laboratoire accrédité, à ses frais, affiche les derniers résultats et prévoit d’informer l’agence régionale de santé des incidents [16]. Le rythme dépend de la capacité d’accueil : analyses microbiologiques une fois par an (15 personnes ou moins) ou une fois par trimestre (16 à 150) ; légionelles une fois par an ; relevés de l’eau au moins une fois par jour [14] | Documenté [14] [16] ; capacité de vos suites à préciser |
+| Sauna | Aucune règle sanitaire propre trouvée dans le code de la santé publique. Obligation générale de sécurité des services [17] ; installation électrique et poêle dans les vérifications du lieu ; affichage des précautions d’usage conseillé ; règlement sanitaire du département non lu | À faire valider (bureau de contrôle, assureur, mairie) |
+| Sécurité des bassins | Une piscine enterrée non close à usage collectif doit avoir un dispositif contre la noyade (barrière, alarme, couverture ou abri) [18] ; application à un jacuzzi intérieur non tranchée | À faire valider (installateur, architecte) |
 | Assurance | Hébergement, espace bien-être et événements à déclarer | À faire valider (assureur) |
 
 ## 6. Comment ces échéances entreraient dans le registre de vos bâtiments
@@ -86,3 +91,11 @@ Si vous en décidez ainsi, chaque ligne de ce document devient une échéance da
 8. Légifrance, loi n° 2026-403 du 26 mai 2026, article 62 ; Service Public Entreprendre, fiche F36538. Date exacte de départ (26 ou 28 mai 2026) à faire préciser par votre avocat.
 9. Service Public Entreprendre, « Zones France ruralités revitalisation », fiche F31139, vérifiée le 21 février 2026.
 10. Service Public Entreprendre, fiche F17452 (chambres d’hôtes), vérifiée le 21 mai 2026 ; application à vos suites à faire valider.
+11. Légifrance, code de la santé publique, articles L1332-1 à L1332-9 (piscines et baignades), versions en vigueur le 10 novembre 2026.
+12. Agence régionale de santé de Bourgogne-Franche-Comté, « Piscine : réglementation en vigueur », page du 19 juin 2025.
+13. Légifrance, code de la santé publique, articles D1332-7 (version du 1er janvier 2022) et D1332-10 (version en vigueur le 10 novembre 2026).
+14. Légifrance, arrêté du 23 juin 2026 relatif à la surveillance des eaux de piscine (en vigueur le 1er janvier 2027), article 1er et annexes I et II.
+15. Légifrance, arrêté du 19 décembre 2025 relatif aux dispositions techniques applicables aux piscines, articles 4 et 15.
+16. Légifrance, décret n° 2026-118 du 20 février 2026, article 2 (en vigueur le 1er janvier 2027).
+17. Légifrance, code de la consommation, article L421-3 (version du 13 décembre 2024).
+18. Service Public, « Dispositif de sécurité des piscines privées familiales et collectives », fiche F1722, vérifiée le 13 février 2026.

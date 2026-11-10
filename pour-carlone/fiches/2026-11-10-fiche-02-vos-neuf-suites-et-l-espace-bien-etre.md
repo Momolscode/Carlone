@@ -13,7 +13,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 - Dans l’établissement de la galerie, vous préparez neuf suites « privilège », un sauna et un jacuzzi.
 - Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés.
 - Vous ne confiez pas la gestion à un tiers : votre administratrice gère l’administratif.
-- À préciser : adresse, ouverture, capacité, société exploitante ; petit-déjeuner ou bar sur place ; accès au sauna et au jacuzzi ; accueil ; sites de réservation voulus.
+- À préciser : adresse, ouverture, capacité d’accueil en personnes, société exploitante ; petit-déjeuner ou bar sur place ; jacuzzi partagé ou propre à une suite, ouvert ou non à des personnes extérieures ; accueil ; sites de réservation voulus.
 
 ## Ce que l’IA peut faire pour vous
 
@@ -23,8 +23,8 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 | --- | --- | --- |
 | Choisir le logiciel des suites : trois logiciels du marché au plus, comparés par écrit, essayés sur des réservations fictives | Un choix argumenté, avant tout engagement | Essai (le choix) |
 | Paramétrer : suites, tarifs, taxe de séjour, fiches de police, sites de réservation | Un seul calendrier pour tous les sites ; moins de saisies en double | Ensuite |
-| Les contrôles d’hygiène et d’entretien de l’espace bien-être au calendrier | Chaque vérification arrive avec un rappel ; une personne la fait et la note | Essai |
-| Les créneaux du sauna et du jacuzzi, rattachés au séjour | Pas de créneau en double | Ensuite |
+| Les relevés de l’eau, les vidanges et les analyses du jacuzzi au calendrier ; le carnet sanitaire tenu à jour | Chaque vérification arrive avec un rappel ; une personne mesure, note et décide | Essai |
+| Les créneaux du sauna et du jacuzzi, rattachés au séjour | Pas de créneau en double, ni au-delà de la fréquentation affichée | Ensuite |
 | Un livret d’accueil et des réponses aux questions fréquentes, en plusieurs langues, relus par une personne | Vos clients informés avant d’arriver ; un assistant dit qu’il est une IA | Ensuite |
 | Des séjours qui réunissent nuit, vernissage, soirée au cabaret et espace bien-être | Une offre propre à votre établissement | Plus tard : lieux ouverts |
 | Les totaux des suites (nuitées, occupation, taxe de séjour), sans nom de client, dans la vue d’ensemble de vos lieux | Vos chiffres sur une page | Ensuite |
@@ -62,7 +62,8 @@ Marwin Tech est une société en cours de création, immatriculée avant toute f
 - **Architecte, bureau de contrôle.** Avec des chambres, l’établissement reçoit du public « avec locaux à sommeil » : règles de sécurité propres, effet possible sur la galerie et le cabaret.
 - **Avocat.** La fiche de police : chaque client de nationalité étrangère la remplit à l’arrivée ; elle est gardée six mois (Service Public Entreprendre, fiche F17452, vérifiée le 21 mai 2026).
 - **Mairie, expert-comptable.** Taxe de séjour de la commune ; caisse, si un petit-déjeuner ou un bar est encaissé ; facture électronique.
-- **Vos professionnels.** Sauna et jacuzzi ouverts aux clients : règles d’hygiène des bains collectifs (déclaration, qualité de l’eau, registre), à vérifier.
+- **Mairie, installateur.** Un jacuzzi partagé par vos clients suit les règles des piscines : déclaration à la mairie avant l’ouverture (code de la santé publique, art. L1332-1), au plus tard deux mois avant selon l’ARS de Bourgogne-Franche-Comté (page du 19 juin 2025) ; carnet sanitaire ; affichage des résultats, de la fréquentation maximale et d’une durée conseillée de quinze minutes au plus (art. D1332-7 et D1332-10) ; vidanges régulières (arrêté du 19 décembre 2025). Dès le 1er janvier 2027, analyses par un laboratoire accrédité, aux frais de l’exploitant (décret n° 2026-118 du 20 février 2026).
+- **Bureau de contrôle, assureur.** Sauna : aucune règle propre trouvée ; obligation générale de sécurité des services (code de la consommation, art. L421-3) ; affichage des précautions d’usage conseillé.
 - **Assureur.** Hébergement, espace bien-être, événements.
 
-Ce document n’est pas un avis juridique ; sources publiques de novembre 2026.
+Ce document n’est pas un avis juridique. Textes officiels consultés le 10 novembre 2026, à revérifier à la date de chaque démarche.
