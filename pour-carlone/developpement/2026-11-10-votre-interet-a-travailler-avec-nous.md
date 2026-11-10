@@ -2,7 +2,7 @@
 
 PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
-**L’IA avance vite.** La durée des tâches qu’elle accomplit seule double environ tous les sept mois depuis 2019, d’après les mesures publiées par l’organisme de recherche METR en 2025. En 2026, elle prépare déjà un dossier entier et attend votre accord. Demain, elle mènera des projets de plusieurs jours : c’est une tendance, pas une promesse. Une maison dont les données sont rangées, les tâches nommées et les règles posées profite de chaque progrès dès qu’il arrive. Une maison qui attend devra tout rattraper.
+**L’IA avance vite.** Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019, d’après les mesures publiées par l’organisme de recherche METR en 2025 : une mesure du passé, pas une prévision. En 2026, elle prépare déjà un dossier entier et attend votre accord. Demain, elle mènera des projets de plusieurs jours : c’est une tendance, pas une promesse. Une maison dont les données sont rangées, les tâches nommées et les règles posées profite de chaque progrès dès qu’il arrive. Une maison qui attend devra tout rattraper.
 
 **Votre situation est rare.** Une galerie, neuf suites et un espace bien-être, un cabaret, des bâtiments, des commerces, une administratrice qui tient l’ensemble : peu de lieux réunissent autant d’activités sous une même direction. C’est une complexité, et c’est aussi une chance : une même base de données et d’outils peut servir partout.
 

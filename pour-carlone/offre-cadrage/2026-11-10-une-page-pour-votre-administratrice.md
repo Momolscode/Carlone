@@ -30,13 +30,13 @@ Nous sommes Morgan Olsen et Mathys Couet, de Marwin Tech, société en cours de 
 | Noter pendant deux semaines le temps de trois tâches | quelques minutes par jour |
 | La restitution, si vous y assistez | une heure trente |
 
-Au total, environ une à deux journées, réparties sur trois à quatre semaines. C’est notre estimation, à confirmer avec vous. Au début, cela vous prend du temps ; aucun gain ne vous est promis avant d’avoir été mesuré.
+Au total, environ une à deux journées, réparties sur trois à quatre semaines, sur vos heures de travail. C’est notre estimation, à confirmer avec vous. Au début, cela vous prend du temps ; aucun gain ne vous est promis avant d’avoir été mesuré.
 
 **Ce que nous ne faisons jamais**
 
 - Vous remplacer, vous surveiller, ou noter votre travail.
 - Mesurer une personne : on mesure une tâche. Le relevé de temps, c’est vous qui le tenez ; il donne des totaux par tâche et ne sert jamais à juger votre travail.
-- Mettre un outil en service sans que vous sachiez, par écrit et avant, ce qu’il garde (qui a demandé, qui a validé), qui peut le lire et combien de temps.
+- Mettre un outil en service sans que vous sachiez, par écrit et avant, ce qu’il garde (qui a demandé, qui a validé, vos échanges avec l’assistant d’IA), qui peut le lire et combien de temps.
 
 **Ce que nous ne savons pas encore**
 

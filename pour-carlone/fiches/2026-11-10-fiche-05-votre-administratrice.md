@@ -37,11 +37,11 @@ Le cadrage examine ces pistes avec elle et en retient trois au plus ; ensuite, u
 1. **Repérer** avec elle ses tâches répétitives. Vous choisissez la tâche, par écrit.
 2. **Mesurer le départ** : deux semaines, elle note le temps de la tâche. On mesure la tâche, jamais la personne.
 3. **Essayer sur des données fictives**, puis sur un petit périmètre réel. Une personne vérifie chaque résultat.
-4. **Décider** sur bilan écrit : garder, corriger ou arrêter. Puis mise en service sur les comptes de votre société, avec une fiche pour continuer à la main.
+4. **Décider** sur bilan écrit : garder, corriger ou arrêter. Puis mise en service sur les comptes de votre société, avec une fiche pour continuer à la main et une courte prise en main, pendant son temps de travail.
 
 **Son temps pendant le cadrage** (estimation, à confirmer avec vous) : une à trois heures pour tout ou partie du premier entretien ; deux à quatre heures pour réunir une quinzaine de documents ; une à deux heures de réponses à nos questions ; quelques minutes par jour pendant deux semaines pour noter le temps de trois tâches ; une heure trente pour la restitution, si elle y assiste. Soit environ une à deux journées sur trois à quatre semaines. Au début, cela lui prend du temps.
 
-**Ce que les outils enregistrent**, dit par écrit avant le premier usage : le journal (qui a demandé, qui a validé, ce qui a été fait), la fiche de temps qu’elle tient elle-même, l’historique des échanges avec l’assistant d’IA. Qui les lit et combien de temps on les garde se fixe avant le début. Ces traces servent à retrouver une erreur, jamais à juger son travail. Les bilans donnent des totaux par tâche et par mois.
+**Ce que les outils enregistrent**, dit par écrit avant le premier usage : le journal (qui a demandé, qui a validé, ce qui a été fait), la fiche de temps qu’elle tient elle-même, l’historique des échanges avec l’assistant d’IA. Qui les lit et combien de temps on les garde se fixe avant le début. Ces traces servent à retrouver une erreur, jamais à juger son travail. Les bilans donnent des totaux par tâche et par mois, jamais jour par jour.
 
 ## Ce qui reste à vous
 
@@ -59,5 +59,8 @@ Le cadrage examine ces pistes avec elle et en retient trois au plus ; ensuite, u
 
 ## À faire valider par vos professionnels
 
-- **Avocat** : l’information écrite à lui remettre ; selon son statut, l’organisation de l’usage des outils ; l’effet d’un pouvoir écrit de valider ; la durée de conservation du journal ; la forme d’une charte d’usage de l’IA.
+- **Avocat** : l’information écrite à lui remettre avant le premier usage (si elle est salariée : code du travail, art. L1222-4 ; si la société qui l’emploie compte 50 salariés ou plus, consultation préalable du comité social et économique, art. L2312-38) ; selon son statut, l’organisation de l’usage des outils ; l’effet d’un pouvoir écrit de valider ; la durée de conservation du journal ; la forme d’une charte d’usage de l’IA.
+- **Règlement européen sur l’IA** : l’entreprise qui utilise l’IA prend des mesures pour favoriser la maîtrise de l’IA par les personnes qui s’en servent, sans niveau précis imposé à chacun (article 4, réécrit par le règlement 2026/1744 du 8 juillet 2026). Une prise en main datée et une charte d’usage peuvent y contribuer.
 - **Expert-comptable** : les formations à l’IA qui pourraient être financées.
+
+Ce document n’est pas un avis juridique ; textes officiels consultés le 10 novembre 2026 (code du travail, CNIL, Journal officiel de l’Union européenne).

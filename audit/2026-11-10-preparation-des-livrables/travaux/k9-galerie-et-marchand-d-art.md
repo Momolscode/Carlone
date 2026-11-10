@@ -290,3 +290,26 @@ Ces questions sont posées par GianLuca Carlone ou par son administratrice, pas 
 - Service Public — fiches F10999 (26 juin 2026), F22379 (27 novembre 2025), F3094 (12 août 2025), F31684 (30 avril 2025) : adresses dans les notes du dépôt.
 - CNIL — prospection commerciale par courrier électronique — https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel — 10 juin 2026.
 - Notes internes : `audit/2026-11-04-audit-strategique/annexes/travaux/rj-R5-art-lieux.md`, `ver-R5-art-lieux.md` et `rj-R2-fiscal.md` (même dossier) ; `audit/2026-11-09-audit-presentation-et-offre/travaux/r2-applications-par-metier.md` ; `interne/offres-de-carlone-catalogue-crm.md` (2 novembre 2026).
+
+## Vérification du 10 novembre 2026
+
+Document interne — ne pas transmettre à GianLuca Carlone. Ce n’est pas un avis juridique.
+
+Dix affirmations choisies parmi celles qui pèsent le plus dans les documents client, relues le 10 novembre 2026 sur les pages officielles (Légifrance, BOFiP, Urssaf, Service Public, douane, ADAGP). Les pages ont été lues avec un outil qui résume : une citation exacte se relit sur la page avant tout usage juridique. Le texte de la note au-dessus n’est pas réécrit ; il est corrigé par cette partie.
+
+### Tableau des contrôles
+
+| N° | Affirmation de la note | Page relue le 10 novembre 2026 | Résultat |
+|---|---|---|---|
+| 1 | Registre des objets mobiliers : champ, tenue jour par jour, six mois et 30 000 €, obligation des dirigeants d’une société (partie 1) | Légifrance, Code pénal, art. 321-7, version du 16 mars 2011 | Confirmé |
+| 2 | Déclaration préalable en préfecture ; papier coté et paraphé gardé cinq ans ; électronique gardé dix ans, avec intégrité, intangibilité et sécurité (partie 1) | Légifrance, Code pénal, art. R321-1 (version du 1er novembre 2021), R321-6 (1er mars 1994), R321-6-1 et R321-8 (7 avril 2013) | Confirmé, deux précisions (corrections 1 et 2) |
+| 3 | TVA à 5,5 % sur les livraisons d’œuvres depuis le 1er janvier 2025, sauf régime de la marge ; même taux à l’importation et pour les achats dans l’Union (partie 2) | Légifrance, CGI, art. 278-0 bis, version en vigueur depuis le 1er mars 2026 ; BOFiP, BOI-TVA-SECT-90-40 du 14 mai 2025, § 1 et § 20 | Confirmé ; le doute sur la version du 1er mars 2026 est levé (correction 3) |
+| 4 | Régime de la marge : pas de taux réduit ; le revendeur peut l’écarter ; pas de cumul après un achat à 5,5 % ; autres opérations au taux normal « en règle générale » (partie 2) | BOFiP, même page, § 60, § 70 et § 80 | Confirmé ; « 20 % » reste une déduction (le taux normal), la page ne l’écrit pas |
+| 5 | Droit de suite : à partir de 750 € hors taxes ; 4 %, 3 %, 1 %, 0,5 %, 0,25 % ; plafond de 12 500 € ; exception d’une revente dans les trois ans d’un achat direct à l’artiste, à 10 000 € au plus ; à la charge du vendeur, le professionnel en répond (partie 3) | Légifrance, CPI, art. L122-8 (version du 24 décembre 2016), R122-5 (25 décembre 2008), R122-6 (25 juin 2022, décret n° 2022-928) | Confirmé (correction 4) |
+| 6 | Déclaration du droit de suite « sous quatre mois » ; informations gardées trois ans ; contravention de 3e classe (partie 3) | Légifrance, CPI, art. R122-9 à R122-12 (R122-10 et R122-11 : version du 25 juin 2022) ; ADAGP, « Je suis un professionnel du marché de l’art », non datée | En partie : trois ans et sanction confirmés ; « quatre mois » est le délai de l’ADAGP, pas le délai légal (correction 5) |
+| 7 | Contribution des diffuseurs : 1 % plus 0,10 % sur 30 % du chiffre d’affaires TTC ou sur les commissions TTC de l’année passée, export compris ; déclaration avant le 1er mai, dès le premier euro, même à néant ; quatre paiements (partie 3) | Urssaf, « Vos cotisations et contributions sociales en tant que diffuseur commerçant d’art », vérifiée le 26 janvier 2026 ; Urssaf, « Modalités de déclaration et de paiement », mise à jour le 14 novembre 2025 | Confirmé (correction 6) |
+| 8 | Lutte contre le blanchiment : galeries comprises, à partir de 10 000 € par transaction ou série de transactions liées ; contrôle par la douane ; Tracfin seul destinataire des déclarations de soupçon (partie 4) | Légifrance, CMF, art. L561-2, 10°, version du 5 août 2026 (loi n° 2026-725 du 3 août 2026) ; douane, fiche « Marchands d’art et d’antiquités », mise à jour le 17 juin 2025 ; douane, « Mémo LCB-FT », 23 mai 2025 | Confirmé ; lignes directrices à mettre à jour (correction 7) |
+| 9 | Espèces : 1 000 € au plus pour un payeur domicilié en France ; 15 000 € ou 10 000 € pour un payeur domicilié à l’étranger ; amende jusqu’à 5 % (partie 4) | Service Public, fiche F10999, vérifiée le 26 juin 2026 | Confirmé, une précision (correction 8) |
+| 10 | Reproductions en ligne (fiche client 1 : « si l’ADAGP gère les droits de l’artiste, l’autorisation se demande à elle ») | Légifrance, CPI, art. L122-4 (version du 3 juillet 1992) et L122-5 (version du 1er janvier 2023) ; ADAGP, même page | Règle générale confirmée ; rôle de l’ADAGP non confirmé par la page lue (correction 9) |
+
+Contrôle complémentaire, hors des dix : règlement de sécurité, art. GN 6 (Légifrance, version du 4 novembre 2023), cité par la fiche client 1 (correction 10).

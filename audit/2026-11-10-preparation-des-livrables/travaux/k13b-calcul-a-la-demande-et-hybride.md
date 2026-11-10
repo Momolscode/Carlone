@@ -105,7 +105,7 @@ Relecture sceptique, 10 novembre 2026 (vérification commune aux notes k13b, k13
 
 ### Sûr à reprendre
 
-1. « Louer une carte de calcul en France, sans engagement, coûte de 0,75 € hors taxes de l’heure (carte L4) à 2,80 € (carte H100) chez OVHcloud (page « Tarifs Public Cloud », lue le 10 novembre 2026). » — **Annexe.**
+1. « Louer une carte de calcul en France, sans engagement, coûte de 0,75 € hors taxes de l’heure (carte L4) à 2,80 € (carte H100) chez OVHcloud (page de tarifs, lue le 10 novembre 2026). » — **Annexe** (« Public Cloud », titre de la page, déclenche l’alerte « anglais » du contrôle : écrire « page de tarifs »).
 2. « Chez Scaleway, une carte L4 revient à environ 0,79 € de l’heure et une H100 à environ 2,87 €, facturées à la minute (catalogue public des prix, lu le 10 novembre 2026). » — **Annexe**, en gardant « hors taxes » d’après la page de tarifs lue par la note (« Prix avant taxes ») ; à relire sur la page avant toute remise.
 3. **Interne seulement** : les prix mensuels (conditions non lues), Outscale, SecNumCloud, Lambda, RunPod, Managed Inference, AI Endpoints, le calcul « louer ou acheter ».
 
