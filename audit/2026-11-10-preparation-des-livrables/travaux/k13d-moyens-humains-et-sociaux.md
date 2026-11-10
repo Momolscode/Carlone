@@ -64,3 +64,49 @@ Limites : pas de treizième mois, pas de convention collective appliquée (la co
 - Disponibilité : une rémunération fixe permet de réserver du temps à Marwin Tech au lieu d'autres activités. L'audit relève que les disponibilités des deux associés « ne sont documentées nulle part » (`interne/06-fonctionnement-a-deux.md`, ligne 550) et qu'un associé travaille aussi sur d'autres projets (ligne 353).
 - Limite : la rémunération ne crée pas de capacité. Elle la rend fiable. C'est un argument de continuité, pas de multiplication.
 
+## 3. Profils utiles et ordres de grandeur de salaires
+
+**Conclusion.** Les profils les plus utiles à Marwin Tech sont, dans l'ordre : un développeur confirmé capable de maintenir ce qui est livré ; un chef de projet ou coordinateur ; plus tard un spécialiste données ou IA. En région, un ingénieur IA confirmé se paie 45 000 à 62 000 € brut par an ; un chef de projet IA 40 000 à 48 000 € [Source professionnelle]. Les écarts entre études sont grands : aucun chiffre isolé ne fait référence.
+
+| Profil | Zone | Brut annuel fixe | Source |
+|---|---|---|---|
+| Ingénieur IA, junior (0 à 3 ans) | « Régions » (hors Paris et grandes villes) | 36 000 – 45 000 € | Silkhom, baromètre IA et ML 2026 (PDF, juin 2026) [Source professionnelle] |
+| Ingénieur IA, confirmé (3 à 7 ans) | Régions | 45 000 – 62 000 € | idem |
+| Chef de projet IA, junior | Régions | 34 000 – 40 000 € | idem |
+| Chef de projet IA, confirmé | Régions | 40 000 – 48 000 € | idem |
+| Chef de projet technique, junior (0 à 2 ans) | Régions | 35 000 – 42 000 € | Silkhom, « Salaires informatique 2026 », 30 juin 2026 [Source professionnelle] |
+| Développeur Java ou Python (profils expérimentés) | France | ≈ 45 000 €, en léger recul | idem ; repris par myESN, 28 octobre 2026 [Source professionnelle] |
+| Data scientist (profils expérimentés) | France | ≈ 56 000 € (+ 11,4 %) | idem |
+| Médiane des cadres de la data | Île-de-France | 54 000 € | Étude Apec sur 111 familles de métiers, décembre 2025, citée par myESN [Source professionnelle ; étude Apec non ouverte] |
+| Technicien d'intervention (installation, maintenance) | — | Inconnu | Aucune source lue [À confirmer] |
+
+Lecture pour Marwin Tech : un poste de développeur ou de chef de projet en Nièvre à 2 800 à 3 500 € brut par mois (33 600 à 42 000 € par an) est dans le bas des fourchettes « Régions ». Il coûte 43 900 à 58 000 € par an à l'employeur (section 1) [Estimation]. Un recrutement en dessous de ces fourchettes est possible pour un junior, avec plus d'encadrement.
+
+**Tarifs journaliers d'indépendants (usage interne seulement).**
+- Malt, baromètre en continu « Grille des tarifs 2026 » (freelances expérimentés actifs les trois derniers mois) : développeur 576 € par jour (317 € de 0 à 2 ans ; 672 € au-delà de 15 ans) ; développeur Python 600 € ; data scientist 681 € (358 € de 0 à 2 ans). [Prix public daté : page consultée le 10 novembre 2026 ; hors taxes d'après Offbound, 4 novembre 2026 ; Malt ne le dit pas dans l'extrait lu : À confirmer]
+- Hays 2026, cité par Offbound : chef de projet 600 à 800 € par jour ; data scientist 550 à 800 € [Source professionnelle, de seconde main].
+- Usage : ces tarifs servent à comparer « embaucher » et « sous-traiter un lot ». À 576 € par jour, 20 jours de développeur indépendant coûtent ≈ 11 500 € HT, soit environ trois mois de coût employeur d'un développeur à 2 800 € brut [Estimation]. La sous-traitance d'un lot reste la première réponse prévue par l'audit avant tout recrutement (`interne/08-feuille-de-route.md`, ligne 509 : recruter « après trois mois au-delà de 85 % d'occupation », « sous-traitance d'un lot d'abord »).
+
+## 4. Formation
+
+**Conclusion.** Une petite société peut faire financer une partie de la formation de ses salariés par son opérateur de compétences ; un président de SAS rémunéré y a aussi accès. L'article 4 du règlement sur l'IA oblige à former à l'IA, mais sans niveau fixé ni certificat imposé.
+
+**Financement des salariés.**
+- Les entreprises de moins de 50 salariés peuvent faire prendre en charge les frais pédagogiques des formations de leur plan de développement des compétences, « selon un barème fixé par votre branche professionnelle ». (Opco Atlas, « Plan de développement des compétences », page non datée) [Officiel]
+- Opco Atlas a publié de nouveaux critères le 9 janvier 2026, et ses règles de règlement ont changé le 1er octobre 2026 (paiement direct de l'organisme seulement sur demande, pour les moins de 50 salariés). (Opco Atlas, actualité du 9 janvier 2026 ; « Conditions de règlement ») [Officiel]. Les plafonds par entreprise n'ont pas été lus [À confirmer].
+- Le rattachement à Opco Atlas dépend de la convention collective. Pour une société de conseil et de logiciels, la convention des bureaux d'études (Syntec) est probable, mais elle dépend du code d'activité retenu [À confirmer avec l'expert-comptable].
+- Toute demande doit être déposée et acceptée avant le début de la formation (Opco Atlas, « Conditions de règlement ») [Officiel].
+
+**Financement des dirigeants.**
+- Un président de SAS rémunéré relève de l'opérateur de compétences de la société, pas d'un fonds d'assurance formation des indépendants (AGEFICE, FIF PL). (Kaelia, 23 septembre 2026 ; L'Iobette, 10 février 2026) [Source professionnelle ; à confirmer auprès d'Opco Atlas]. Sans rémunération, le financement de sa formation est incertain [À confirmer].
+- Le compte personnel de formation de chaque associé reste mobilisable à titre personnel (droits acquis ailleurs) [À confirmer : page non relue].
+
+**Certifications.** Aucune certification en IA n'est exigée par la loi. La Commission le dit : « un certificat n'est pas nécessaire » pour l'article 4 (questions-réponses citées par Proactive Academy, 9 juin 2026) [Officiel, de seconde main]. Les certifications inscrites au Répertoire spécifique de France Compétences, éligibles au CPF, n'ont pas été recherchées [À confirmer].
+
+**Article 4 du règlement (UE) 2024/1689 (« maîtrise de l'IA »).**
+- Fournisseurs et déployeurs de systèmes d'IA prennent des mesures pour que leur personnel et les personnes qui utilisent ces systèmes pour leur compte en aient la maîtrise, selon leurs connaissances, leur formation et le contexte d'usage. En application depuis le 2 février 2025. (Règlement 2024/1689, EUR-Lex ; Commission européenne, « Alphabétisation à l'IA — Questions et réponses ») [Officiel]
+- **Changement de 2026** : le « paquet omnibus numérique » sur l'IA, en vigueur depuis la mi-juillet 2026, garde l'obligation mais supprime l'exigence d'un niveau « suffisant ». La surveillance par les autorités nationales s'applique depuis le 2 août 2026. (Commission européenne, même page) [Officiel]
+- Concrètement, d'après la Commission : comprendre ce qu'est l'IA utilisée dans l'organisation ; savoir si l'on est fournisseur ou déployeur ; connaître les risques des systèmes utilisés ; adapter les actions aux connaissances de chacun. Lire la notice d'un outil ne suffit pas. Tenir un registre interne des formations est recommandé. Pas de certificat, pas de « délégué à l'IA » obligatoire. (Commission, questions-réponses ; Proactive Academy, 9 juin 2026) [Officiel ; Source professionnelle pour le résumé]
+- Sanctions : fixées par chaque État ; proportionnées. En France, la désignation des autorités (rôle central de la CNIL) passait encore par un projet de loi fin octobre 2026. (Proactive Academy, 9 juin 2026) [Source professionnelle ; À confirmer]
+- Pour Marwin Tech : elle est fournisseur ou déployeur selon les projets ; GianLuca Carlone et son administratrice seront déployeurs des outils livrés. Une formation courte et tracée, par Marwin Tech, de l'administratrice sert aussi l'obligation du client. C'est un argument de service, pas une contrainte nouvelle.
+

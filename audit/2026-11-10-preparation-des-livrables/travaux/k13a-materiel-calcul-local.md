@@ -103,3 +103,45 @@ Caractéristiques officielles (fiche nvidia.com/en-us, lue le 10 novembre 2026) 
 - Avantages : le moins cher des appareils à 128 Go ; Windows ou Linux ; format très compact ; consommation modeste.
 - Limites : bande passante proche de la DGX Spark, donc vitesse d'écriture proche ; logiciels AMD (ROCm, Vulkan) moins mûrs que CUDA ; marques chinoises peu connues pour le service après-vente ; HP Z2 Mini plus sûr mais plus cher.
 
+## 4. Ce que ces machines font réellement
+
+### 4.1 Ce qui tient en mémoire
+
+- Règle simple : taille des poids ≈ nombre de paramètres × bits par paramètre ÷ 8. Un modèle de 70 milliards de paramètres à 4 bits pèse environ 35 Go, plus le contexte (la mémoire de la conversation), les tampons et le système (Cloudzat, 1er novembre 2026) [Source professionnelle].
+- Sur une machine de 128 Go (DGX Spark, mini-PC AMD, Mac Studio M5 Max) : un modèle de 120 milliards de paramètres à 4 bits (par exemple gpt-oss-120b) ou un modèle de 27 à 33 milliards en pleine précision. Exemple : Qwen3.8-27B en FP8, 30,9 Go de poids, laisse environ 93 Gio pour le contexte (GPUwerk, 7 novembre 2026) [Source professionnelle].
+- Sur 512 Go (Mac Studio M5 Ultra) ou 748 Go (DGX Station) : des modèles plus grands, en précision réduite. Le meilleur modèle ouvert de novembre 2026, Kimi K3.1 Pro, demande 1,56 To pour ses poids (GPUwerk) : il ne tient sur aucune de ces machines sans forte compression [Source professionnelle ; Estimation].
+
+### 4.2 Vitesse mesurée (jetons par seconde)
+
+Le « jeton » vaut environ trois quarts de mot. Deux vitesses comptent : la **lecture** du texte fourni (documents, consignes) et l'**écriture** de la réponse. Une personne lit environ 5 à 10 jetons par seconde [Estimation].
+
+Modèle gpt-oss-120b, format MXFP4, un seul utilisateur [Mesure publiée] :
+- DGX Spark : écriture 55,37 jetons/s, lecture 1 725 jetons/s (NVIDIA Developer Blog, cité par SpecPicks le 8 novembre 2026) ; écriture 58,72 jetons/s, lecture 2 443,91 jetons/s (banc officiel llama.cpp, février 2026, cité par AIMultiple). Sur le système livré d'origine, un contributeur mesure 45,87 jetons/s ; le logiciel fait varier le résultat d'environ 30 % (SpecPicks).
+- Mini-PC Ryzen AI Max+ 395 (GMKtec EVO-X2) : écriture 47,49 jetons/s, lecture 999,59 jetons/s, même fil de mesures llama.cpp (SpecPicks).
+- Mac Studio (puce non précisée) : écriture 95 jetons/s (RigBase, via Ollama) [Mesure publiée ; méthode différente].
+- RTX PRO 6000 : écriture 196,31 jetons/s (RigBase) ; 215,2 jetons/s dans le tableau LMSYS (AIMultiple).
+- La vitesse baisse quand le contexte s'allonge : sur DGX Spark, de 60,57 à 40,55 jetons/s entre 0 et 32 768 jetons de contexte (SpecPicks) ; −27 % selon AIMultiple.
+
+Modèle dense de 27 milliards (Qwen3.8 27B) : 15,2 jetons/s sur DGX Spark (Q4) contre 150 sur RTX PRO 6000 (NVFP4 avec décodage spéculatif) (RigBase) [Mesure publiée ; méthodes différentes, à ne pas comparer au chiffre près].
+
+Lecture : la DGX Spark lit vite (calcul puissant) mais écrit lentement (mémoire à 273 Go/s). Le mini-PC AMD écrit presque aussi vite, pour environ la moitié du prix ; il lit deux fois moins vite. La RTX PRO 6000 est trois à quatre fois plus rapide, dans la limite de ses 96 Go.
+
+### 4.3 Plusieurs traitements en même temps
+
+- DGX Spark : 32 traitements simultanés de 4 096 jetons chacun donnent 262,20 jetons/s au total, contre 58,72 pour un seul (banc llama.cpp, février 2026, cité par AIMultiple) [Mesure publiée]. Soit environ 4,5 fois plus de texte produit par heure, mais chaque réponse est plus lente.
+- DGX Station : découpage en sept instances isolées (MIG) [Officiel]. Aucune mesure de débit lue ce jour [À confirmer].
+
+### 4.4 Autres usages
+
+- Réglage fin : NVIDIA annonce jusqu'à 70 milliards de paramètres sur DGX Spark [Officiel]. Aucune durée mesurée lue ce jour [À confirmer].
+- Transcription de réunions, lecture de documents scannés (OCR), génération d'images : ces tâches tournent sur toutes ces machines avec des modèles ouverts. Aucune mesure datée n'a été lue ce jour : vitesse et qualité sur des documents réels de GianLuca Carlone sont **inconnues** [À confirmer par essai].
+
+### 4.5 Écart de qualité avec les modèles de pointe en ligne (novembre 2026)
+
+- Indice Artificial Analysis v5 (publié le 27-28 octobre 2026) : en tête, Claude Opus 5.5 à 58 points ; meilleurs modèles ouverts dont les poids sont téléchargeables : DeepSeek V4.1 Flash et GLM-5.3, à 32 points, soit 26 points derrière, et sous un petit modèle fermé (Claude Haiku 5.5, 36). L'écart entre meilleur ouvert et meilleur fermé passe de 3 points (v4.3) à 12 points (v5) (artificialanalysis.ai, 27 octobre 2026) [Mesure publiée].
+- Meilleurs modèles ouverts qui tiennent sur **une** DGX Spark de 128 Go à 4 bits ou plus : environ 20 points, soit 40 points sous le meilleur fermé (GPUwerk, 7 novembre 2026) [Source professionnelle].
+- Classement LMArena du 6 novembre 2026 : le premier modèle ouvert est 19e ; les 18 premiers sont fermés (GPUwerk) [Source professionnelle].
+- Retard médian des modèles ouverts : environ 4 mois (2 à 8 mois) selon l'indice de progrès d'Artificial Analysis (HuggingNews, 29 octobre 2026) [Source professionnelle].
+
+Conséquence : une machine locale fait bien des tâches simples et répétitives (trier, extraire des champs, résumer, classer). Pour le raisonnement difficile, le code complexe ou la rédaction fine, les modèles en ligne restent nettement meilleurs [Estimation].
+

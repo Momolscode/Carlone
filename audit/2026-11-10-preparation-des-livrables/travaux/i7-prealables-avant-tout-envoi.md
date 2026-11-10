@@ -177,3 +177,43 @@ Quatre fichiers, comme prévu par BRIEF-2:45, dans `interne/prealables/`. Markdo
 7. Ordre d’envoi : projet (a) validé, puis message de recadrage et proposition, au plus tard le 27 novembre.
 
 **(d) `2026-11-10-questions-pour-l-avocat.md`** — interne. Questions numérotées, regroupées : incident (rôles, notification tardive, article 34, article 14 pour un fichier non utilisé, formulation sans reconnaissance, copies chez le client) ; contrats (société en formation, rétractation, accord sur les données avant l’immatriculation, K1A et K5:152-155) ; assurance d’un incident connu ; questions reçues des autres livrables (i3:144 ; k7, partie « Questions à poser à un professionnel »).
+
+## 6. Connaissances manquantes (par ordre d’importance)
+
+Les six premières sont des faits internes, sans lesquels le projet (a) ne peut pas être écrit. Aucune ne se trouve dans le dépôt.
+
+1. Le dépôt est-il privé aujourd’hui ? Depuis quand, par qui ? Une capture datée existe-t-elle (D04 ; U08) ?
+2. Les décisions D03 et D08 ont-elles été prises depuis le 5 novembre ? Une fiche de violation est-elle ouverte ? Un avocat ou un délégué à la protection des données a-t-il été consulté ?
+3. À quelle date et heure Morgan Olsen et Mathys Couet ont-ils chacun su que le dépôt était public (U08) ? Quelqu’un a-t-il su avant le 2 novembre ?
+4. Qui contrôle l’organisation FinanceScope ? Qui a été invité au dépôt le 22 octobre (CONTEXTE:43) ? Existe-t-il des copies (forks), des secrets dans l’historique, des statistiques de visites et de clones relevées dans la fenêtre de 14 jours (K3:106) ?
+5. Qui a demandé le fichier, avec quelles consignes ? Qu’a reçu GianLuca Carlone : rapport du 29 octobre, accès à la page, export, version autonome (U04 ; K3:70) ? « Un associé rachète » (`crm/PASSATION.md:41`) désigne-t-il GianLuca Carlone (MAJ:157) ?
+6. Le fichier a-t-il servi : appels, messages, exports transmis à un centre d’appels ou à un tiers (SYN-DROIT:598) ? Le projet (a) ne peut écrire « le fichier n’est pas utilisé » qu’avec cette réponse.
+7. Contenu exact de la version publique : même contenu que la copie `crm/` ? Date de début de la constitution (partie 3, n° 2) ? Origine des profils en ligne (K3:56) ?
+8. Points de droit pour l’avocat : rôle de chacun ; notification tardive et motifs ; article 34 pour les artistes et les lignes personnelles ; article 14 pour un fichier jamais utilisé ; formulation sans reconnaissance de responsabilité ; ce que l’on peut demander à GianLuca Carlone sur ses copies.
+9. Société : situation de chacun auprès de France Travail ; capital, siège, banque, président ; date de signature des statuts (K2:66, :141).
+10. Assurance : devis demandés cette semaine (D19) ? Couverture de l’IA ; effet de l’incident connu sur la prime et la garantie ; délai de l’attestation (K2:172).
+11. Attestation de vigilance pour une société sans salarié ni dirigeant rémunéré : démarche et délai (K2:140).
+12. Textes non relus à la source : article L34-5 du code des postes et des communications électroniques, article 1112-1 du code civil (K3:27, :119) ; fiche CNIL sur le courrier postal (K3:45) ; Légifrance pour R123-97 et R210-6 (K2:179).
+
+## 7. Questions pour Morgan (non bloquantes, avec hypothèse par défaut)
+
+1. Le dépôt est-il passé en privé ? *Par défaut : non établi. Le projet (a) laisse la case vide et la liste (c) garde le verrou fermé.*
+2. Qui signe l’information à GianLuca Carlone ? *Par défaut : les deux associés, comme le message de recadrage (recadrage:48).*
+3. Écrit séparé envoyé le même jour que le recadrage, ou avant ? *Par défaut : le même jour, juste avant (recommandation de recadrage:69).*
+4. GianLuca Carlone a-t-il reçu le rapport du 29 octobre ou un accès au fichier ? *Par défaut : inconnu ; le projet prévoit la correction de la phrase, entre crochets, « si reçu ».*
+5. Quel avocat, quel budget ? *Par défaut : aucun nom ; budget interne « 1 000 à 3 000 € », hypothèse non sourcée (`strategie-retenue.md:172`) ; devis au forfait.*
+6. Date de signature des statuts visée ? *Par défaut : variable ; la liste (b) montre les trois cas de K2 à partir d’une date à choisir, et signale le conflit avec D22.*
+7. Signer le bon de commande « en formation » ou après l’immatriculation ? *Par défaut : les deux voies présentées, sans choix (I0:190).*
+8. Des devis d’assurance ont-ils été demandés ? *Par défaut : non ; aucune promesse d’attestation dans un texte client (03-objections:88).*
+9. L’orthographe du prénom dans les pièces déjà remises (recadrage:44) ? *Par défaut : sans effet sur le livrable 7.*
+
+## 8. Risques si ce livrable est mal fait
+
+1. **Perte de confiance.** GianLuca Carlone apprend l’incident par un tiers ou en séance : « Un sujet de confiance qu’il découvre seul devient un motif de refus » (a1:133 ; R41, REG:146).
+2. **Aveu non pesé.** Une phrase sur la responsabilité ou la prise en charge engage les associés, en personne tant que la société n’existe pas (K3:65 ; R07, REG:83).
+3. **Inexactitude.** Écrire « rendu privé », « aucune copie », « non utilisé » ou « nous avons informé l’autorité » sans preuve : le texte devient faux, et c’est au professionnel de prouver ce qu’il a dit (K3:118).
+4. **Envoi trop tôt.** La présentation ou la proposition part avant D03, D08 et l’accord écrit (MAJ:20) ; ou le projet part sans relecture de l’avocat.
+5. **Promesses de façade.** « Immatriculée », « assurée », « relu par notre avocat », attestation de vigilance : promis sans pièce (a3:408 ; CADRAGE:104).
+6. **Assurance inutile.** Incident non déclaré à l’assureur : garantie contestée (R06, REG:75).
+7. **Fuite de second rang.** Le projet (a) ou la liste (c) recopie des noms, des numéros ou des chiffres internes ; ou la note interne reste collée au texte client (03-objections:244).
+8. **Calendrier irréaliste.** Une date d’immatriculation ou de démarrage annoncée comme ferme, alors que l’INPI ne s’engage sur aucun délai (K2:41, :159).

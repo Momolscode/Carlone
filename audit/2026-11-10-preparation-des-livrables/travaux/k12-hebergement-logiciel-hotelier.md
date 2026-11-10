@@ -106,3 +106,48 @@ Point de départ. On ne sait pas si un hébergement est prévu [À confirmer]. S
 - **Affichage des prix d’un hôtel** (arrêté du 18 décembre 2015) : prix de la nuitée toutes taxes comprises ; à l’extérieur, le prix de la prochaine nuitée en chambre double, le petit-déjeuner et l’accès à internet ; à la réception, en plus, les heures d’arrivée et de départ ; dans la chambre, le prix des prestations annexes ; en ligne, le prix définitif à tout moment de la réservation. Taxe de séjour au réel : montant indiqué près du prix (Légifrance ; GHR ; DGCCRF, extraits) [Texte officiel — à relire]. Les meublés relèvent d’un autre texte [À confirmer].
 - **Impôt sur le revenu, location en nom propre** (revenus 2025) : meublé non classé, seuil 15 000 €, abattement 30 % ; meublé classé et chambres d’hôtes, seuil 77 700 €, abattement 50 % (impots.gouv.fr, modifiée le 6 juillet 2026) [Autorité ou organisme]. Changement 2025. Seuil 2026 pour les chambres d’hôtes : 83 600 € (F17452) [Autorité ou organisme]. Pour une société soumise à l’impôt sur les sociétés, ces règles ne s’appliquent pas telles quelles [À confirmer par l’expert-comptable].
 - **TVA** : 10 % sur l’hébergement et la table d’hôtes, 20 % sur l’alcool, sauf franchise (F17452) [Autorité ou organisme].
+
+## 4. Enseigne, franchise, chaîne volontaire ou indépendance
+
+**À retenir : une marque apporte des clients, un site et une fidélité ; elle impose souvent ses logiciels et se paie au pourcentage. Une chaîne volontaire coûte quelques milliers d’euros par an. L’indépendance coûte le moins, mais toute la vente repose sur l’exploitant.**
+
+| Formule | Ce qu’elle apporte | Coûts publics connus | Source |
+| --- | --- | --- | --- |
+| Indépendant | Liberté du logiciel, des prix, du décor | Logiciel : 79 € par mois (Sirvoy Pro, 10 chambres) à 295 € HT par mois (Thaïs, 25 chambres, moteur et canaux) ; commissions des plateformes en plus (Airbnb : 15,5 % pour la plupart des hôtes) | X3, vérification, points 1, 2 et 13 [Source professionnelle] |
+| Chaîne volontaire | Enseigne, site de marque, avis clients, outil de distribution | Contact Hôtels : 3 295 € HT par an pour 30 chambres (barème 2027) ; entrée 1 200 € HT sous 20 chambres. Logis Hôtels : 5 220 € HT pour 20 chambres (article de 2023). The Originals : 5,5 % du chiffre d’affaires sous 1 M€ (contrat Optimum), contrat de cinq ans pour les nouveaux adhérents depuis le 1er janvier 2026 | X3, vérification, points 4, 5 et 8 [Source professionnelle] |
+| Franchise d’une grande marque | Marque, centrale de réservation, fidélité ; logiciels imposés | ibis : 1 300 € par chambre à l’entrée, 4,5 % du chiffre d’affaires TTC, 1 % pour la centrale, contrat de 12 ans (année non précisée). Chez Accor, logiciel hôtelier imposé : Oracle OPERA Cloud | X2, sections 1 et 3 [Source professionnelle] |
+| Contrat de gestion | Une société exploite l’hôtel pour le propriétaire | 2 à 4 % du chiffre d’affaires, plus 6 à 10 % du résultat ; vise surtout de grands hôtels | X3, section 3 [Source professionnelle] |
+
+Points d’attention. Une franchise impose en général ses logiciels : la question du choix du logiciel hôtelier disparaît alors en partie (X2, section 1) [Source professionnelle]. Aucun prix de franchise pour un établissement de 5 à 40 chambres n’a été lu [À confirmer]. Les contrats durent de trois à douze ans : la sortie se lit avant la signature.
+
+## 5. Méthode de sélection et grille neutre
+
+**Méthode en six étapes** (proposition de travail, à valider par Morgan et Mathys) :
+
+1. Décider la forme : hôtel, meublés, chambres d’hôtes ; nombre de chambres ; société exploitante ; marque ou non. Sans ces réponses, ne rien choisir.
+2. Écrire le cahier des besoins sur une page : fonctions, liaisons, volumes, personnes qui s’en servent, budget.
+3. Retenir trois logiciels au plus, sur pages publiques.
+4. Envoyer à chacun les mêmes questions écrites (ci-dessous). C’est l’exploitant qui les envoie, pas Marwin Tech à son nom [À confirmer par Morgan et Mathys].
+5. Essai gratuit ou démonstration sur un jeu de réservations fictives ; test de l’export complet avant signature (SPEC, ligne 443).
+6. Noter avec la grille, puis décision écrite de l’exploitant.
+
+**Grille de notation neutre** (note de 0 à 3 par ligne ; une ligne éliminatoire à 0 écarte l’offre) :
+
+| Critère | Poids | Éliminatoire |
+| --- | --- | --- |
+| Export complet, format ouvert, sans frais, testé | 3 | Oui |
+| Engagement, préavis, frais de sortie écrits | 2 | Oui |
+| Données dans l’Union européenne ; contrat de sous-traitance (RGPD, article 28) | 3 | Oui |
+| Paiement par prestataire ; aucune carte stockée par l’exploitant | 3 | Oui |
+| Caisse certifiée ou attestée selon le modèle officiel, si bar ou restaurant | 3 | Oui, si caisse |
+| Plateforme agréée reliée (facture électronique, données de vente) | 2 | Non |
+| Taxe de séjour au réel ; fiches de police avec effacement à six mois | 3 | Oui |
+| Gestionnaire de canaux et moteur de réservation | 2 | Non |
+| Export des totaux journaliers vers l’outil commun | 2 | Non |
+| Assistance en français, horaires, délais | 2 | Non |
+| Coût total sur trois ans, modules et mise en place compris | 2 | Non |
+| IA : brouillons validés par une personne ; réponse automatique désactivable | 1 | Non |
+
+**À demander par écrit à tout éditeur** : prix total sur trois ans ; liste des modules payants ; durée, préavis, frais de sortie ; format et délai de l’export ; lieu d’hébergement et sous-traitants ; certificat ou attestation de caisse ; plateforme agréée reliée ; traitement des fiches de police ; mode de calcul de la taxe de séjour ; langue et horaires de l’assistance ; ce que fait l’IA et qui valide.
+
+**À demander par écrit à toute enseigne** : droit d’entrée ; redevances et cotisations, avec leur assiette ; logiciels imposés et leur coût ; durée, renouvellement, sortie anticipée ; part des réservations apportées par la marque, chiffrée sur des établissements comparables ; travaux imposés ; exclusivité territoriale.

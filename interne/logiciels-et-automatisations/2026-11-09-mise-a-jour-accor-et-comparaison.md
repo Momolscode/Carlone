@@ -12,3 +12,17 @@ Codes : [FV] fait vérifié sur une source primaire ; [PR] presse ou source seco
 Rédaction en cours
 
 ---
+
+## 1. Ce qui est établi, ce qui est rapporté, ce qui reste inconnu
+
+Rien n'est établi sur l'offre elle-même. Ce qui est établi porte sur le groupe Accor en général et sur notre dépôt.
+
+| Établi | Rapporté [DR] (d'après Morgan Olsen, 9 novembre 2026) | Inconnu [IN] |
+| --- | --- | --- |
+| Le groupe Accor décrit deux contrats avec les propriétaires : franchise et gestion, payés par des redevances assises sur le chiffre d'affaires ; aucun taux publié (monde, 2025) [FV] — https://assets.group.accor.com/yrj0orc8tx24/4il2zwx4sZhjt12PKcRaOQ/b79b3fe310c1e296d7149c608b1f2150/Accor-2025_Notes_to_Financial_Statements.pdf, lu le 9 novembre 2026 (x1, n° 1 et 2). | L'autre prestataire est le groupe Accor, le groupe hôtelier. | Qui signerait : le groupe, une filiale, un franchisé, un intermédiaire. |
+| Aucune source publique lue ne décrit cette offre, ni un forfait par trimestre vendu par le groupe à un propriétaire non hôtelier [IN] (x1, n° 15 ; x2, n° 13). | Prix : 6 000 € tous les trois mois (France, 2026). | HT ou TTC ; forfait ou estimation de redevances ; frais d'entrée ; durée ; préavis ; paiement d'avance. |
+| Dans l'hôtellerie, PMS (« Property Management System ») désigne le logiciel de gestion de l'hôtel [FV] — https://www.oracle.com/news/announcement/oracle-hospitality-opera-cloud-selected-by-accor-for-global-pms-2025-09-04/, lu le 9 novembre 2026 (x1, n° 9 ; x2, n° 1). | Le service est appelé « service de gestion de propriété ». | Son contenu : enseigne, logiciels, gestion par des personnes, ou un mélange. |
+| Aucune pièce du dépôt ne dit qu'un hébergement reprendra [FV, constat négatif] (R3, section 0, point 4). Une pièce parle d'un « ancien bar restaurant hôtel avec cour » pour la galerie [DR] (R3, section 3). | GianLuca Carlone a demandé à Marwin Tech si elle pouvait lui créer un outil équivalent. | Le bâtiment et le projet visés ; le nombre de chambres ; l'exploitant ; ce que « équivalent » veut dire pour lui. |
+| Calcul [ES] : 6 000 × 4 = 24 000 € par an ; 24 000 × 3 = 72 000 € sur trois ans. Si ce prix est HT : 72 000 × 1,2 = 86 400 € TTC. S'il est TTC : 72 000 ÷ 1,2 = 60 000 € HT. | Aucune pièce écrite n'a été vue. | Offre signée ou non ; date limite de réponse ; clause de confidentialité. |
+
+Conséquence : tout ce qui suit sur le contenu de l'offre est une hypothèse. Le prix donne un ordre de grandeur, pas un périmètre.

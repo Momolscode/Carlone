@@ -247,3 +247,38 @@ Le numéro de la première colonne est provisoire. « Échue » : date limite pa
 12. **Attestations promises.** Le document Logiciel promet l'attestation d'assurance « avant la première commande » (03, ligne 236) ; la proposition promet l'attestation de vigilance (ligne 174), dont l'obtention par une société neuve est inconnue (a3, ligne 444). À retenir : rien promis tant que la décision 23 n'est pas prise.
 13. **« Accord » ou « Accor ».** L'étude écrit « Accord » (DL2, ligne 659). L'additif du BRIEF (ligne 87) vaut. À retenir : « le groupe Accor (d'après Morgan Olsen, 9 novembre 2026 ; non vérifié auprès de GianLuca Carlone) ».
 14. **Statut du BRIEF § 4.** Il écrit « déjà décidé (ne pas rouvrir) » ; le registre (ligne 245) dit qu'aucune décision de la stratégie n'est prise. À retenir : « décidé par Morgan, accord écrit de Mathys à constater » (ligne 10 de la partie 2).
+
+## 4. Règles et lignes rouges propres à ce livrable
+
+1. **Document interne.** En tête : « Document interne — ne pas transmettre à GianLuca Carlone », la date, et « Ce document n'est pas un avis juridique » (BRIEF-2, lignes 79-84). Il contient des codes, des prix internes et des noms de tiers : il ne part jamais chez le client.
+2. **La feuille ne décide rien.** Elle présente ; Morgan et Mathys tranchent, « à deux, par écrit » (01, ligne 297 ; a4, ligne 471).
+3. **« Prise » seulement avec une preuve** : un écrit daté des deux, ou la pièce de la colonne « Preuve attendue » du registre. « Une version récente n'est pas une décision approuvée » (registre, ligne 256).
+4. **Distinguer « déjà décidé » et « à trancher »** (BRIEF-2, ligne 110). Une décision de Morgan seul s'écrit comme telle.
+5. **Recommandation = celle des notes d'audit**, avec sa source. Là où les notes divergent (01, décisions 5, 18, 26 et 27), le dire.
+6. **Une date limite ne s'invente pas.** Elle vient d'une pièce, avec sa source. Sinon : « à fixer ».
+7. **Les décisions de GianLuca Carlone restent à part**, sans case. On ne remplit aucun inconnu à sa place : société, signataire, administratrice, bâtiments (i0, ligne 203).
+8. **L'autre proposition** : « le groupe Accor » permis en interne, avec la mention de source. Aucun prix de cette offre n'est présenté comme vérifié.
+9. **Pas de nom de tiers des archives** (i0, ligne 211). Écrire « l'ancien partenaire créatif » et renvoyer à D02 et D10.
+10. **Aucune adresse électronique, aucun numéro, aucune coordonnée.** Les fichiers de `crm/` ne sont pas ouverts.
+11. **Aucune urgence fabriquée.** Une ligne « échue » se constate ; elle ne justifie ni un envoi précipité ni une action sans conseil.
+12. **Les pièces historiques ne se corrigent pas.** La feuille dit ce qu'elle remplace (BRIEF-2, ligne 28).
+
+## 5. Plan détaillé proposé du livrable
+
+**Fichier** : `interne/decisions/2026-11-10-feuille-de-decisions.md` (BRIEF-2, ligne 44). Markdown, document interne. Deux pages pour le corps, une page d'annexe. Un tableau par bloc. Chaque ligne du corps a sept champs : énoncé ; options ; recommandation (avec source) ; ce qu'elle bloque ; qui décide ; date limite ; case « ☐ Morgan ☐ Mathys — date — lien vers l'écrit ».
+
+1. **En-tête** (5 lignes) : mentions obligatoires ; date ; « la feuille présente, les associés décident » ; comment cocher ; qui tient la feuille.
+2. **À constater d'abord : les décisions échues au 10 novembre** (lignes 1 à 5 de la partie 2). Pour chacune : « prise le … » avec la preuve, ou « non prise ». Pas de recommandation nouvelle.
+3. **Les trois arbitrages qui commandent le rendez-vous** (lignes 6, 7, 8) : forme complète, avec options et dépendances. Environ 250 mots.
+4. **Avant tout envoi — jeudi 19 novembre 2026** (lignes 9 à 17), triées par date : 13, 16, 19, 27 novembre.
+5. **La société — lundi 30 novembre 2026** (lignes 18 à 23).
+6. **L'offre et le bon de commande** (lignes 24 à 34), avec le numéro a4 de chacune.
+7. **Le logiciel — jeudi 26 novembre 2026** (lignes 35 à 40).
+8. **La présentation v12 et le rendez-vous** (lignes 41 à 49).
+9. **Déjà décidé, à ne pas rouvrir** (partie 2.1), avec qui l'a décidé et la preuve.
+10. **Ce que seul GianLuca Carlone décide** (pour mémoire, sans case).
+11. **Différées** (une ligne) et **vérifications auprès des professionnels** (renvoi au livrable 7).
+12. **Annexe A — correspondance** : a4 (1 à 21) ↔ document 01 (1 à 30) ↔ registre (D, DL) ↔ numéro de la feuille.
+13. **Annexe B — journal** : date ; décision ; option retenue ; preuve ; initiales des deux.
+
+Option à proposer aux associés : un tableau `.xlsx` tiré du même texte, pour cocher et trier par date. Le texte Markdown fait foi.

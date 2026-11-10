@@ -198,3 +198,59 @@ Personne n’a été contacté pour cette note.
 - Tous les faits sur le client (partie 8) ; l’expérience des associés au regard des critères de Bpifrance.
 - Limite : quatorze recherches ou lectures ; plusieurs pages lues par extraits.
 
+## Sources (liste complète)
+
+Toutes consultées le 10 novembre 2026, sauf mention « relevée dans le dépôt ».
+
+**Bpifrance et État**
+- « Diag Data IA », Bpifrance, sans date — https://www.bpifrance.fr/catalogue-offres/diag-data-ia
+- « Référencement d’experts en Intelligence Artificielle pour les dispositifs de Bpifrance Conseil », Bpifrance, appel du 28 juillet au 11 septembre 2026 — https://www.bpifrance.fr/nos-evenements/referencement-dexperts-en-intelligence-artificielle-pour-les-dispositifs-de-bpifrance-conseil
+- Cahier des charges de l’appel à experts Diagnostic Data IA, Bpifrance, 2023 (clos le 30 juin 2023) — https://www.bpifrance.fr/download/media-file/77264
+- « Diag Axes d’Innovation », Bpifrance, sans date — https://diaginno.bpifrance.fr/produit/diagnostic-axes-innovation/
+- « Le plan Osez l’IA », Direction générale des Entreprises, mis à jour le 28 septembre 2026 (relevée dans le dépôt) — https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/accompagner-les-entreprises-dans-leur-transition/le-plan
+
+**France Num**
+- « Quelles sont les aides financières pour la numérisation de votre entreprise en région Bourgogne-Franche-Comté ? », 19 mai 2022, mise à jour le 21 mai 2026 — https://www.francenum.gouv.fr/aides-financieres/guides-et-conseils-financiers/quelles-sont-les-aides-financieres-pour-la-1
+- « Programme Impulse Intelligence Artificielle », mise à jour le 19 mai 2026 — https://www.francenum.gouv.fr/aides-financieres/programme-impulse-intelligence-artificielle
+- Fiche Activateur « CCI Bourgogne Franche-Comté », mise à jour le 5 novembre 2026 — https://www.francenum.gouv.fr/activateurs/cci-bourgogne-franche-comte
+- Fiche Activateur « Chambre de métiers et de l’artisanat de région Bourgogne Franche-Comté », mise à jour le 5 novembre 2026 — https://www.francenum.gouv.fr/activateurs/chambre-de-metiers-et-de-lartisanat-de-region-bourgogne-franche-comte
+- « Région Bourgogne Franche-Comté » (partenaire), sans date — https://www.francenum.gouv.fr/partenaires/region-bourgogne-franche-comte
+- « Diag Data IA : bénéficiez d’un accompagnement sur-mesure… », 19 juin 2026 (relevée dans le dépôt) — https://www.francenum.gouv.fr/guides-et-conseils/intelligence-artificielle/comprendre-et-adopter-lia/diag-data-ia-beneficiez-dun
+- Charte d’engagement des Activateurs France Num, 16 mars 2022 — https://www.francenum.gouv.fr/files/Documents/Charte%20d%27activateur%20-%2016.03.2022-wcag.pdf
+- « Experts du numérique : rejoignez le réseau des Activateurs France Num », 14 mars 2022 — https://www.francenum.gouv.fr/experts-du-numerique/experts-du-numerique-rejoignez-le-reseau-des-activateurs-france-num
+
+**Région Bourgogne-Franche-Comté et Agence économique régionale**
+- « Aide au conseil stratégique », sans date — https://www.bourgognefranchecomte.fr/node/3825
+- Règlement d’intervention 40.22 « Conseil stratégique », délibération des 7, 8 et 9 février 2024, valide jusqu’au 31 décembre 2026 — https://subventions.bourgognefranchecomte.fr/sub/vue-api/aide/download-file-reglement?csrfToken=undefined&idDispositif=4039
+- « Guide des aides aux PME », décembre 2025 — https://www.bourgognefranchecomte.fr/sites/default/files/2025-12/GUIDE%20PME%20BFC_15148_HD_Q_0312.pdf
+- Règlement d’intervention 40.01 (dont « Conseil ciblé »), valide jusqu’au 31 décembre 2022 — https://www.bourgognefranchecomte.fr/index.php/file-download?fid=11811
+- « Presta’INNO », Région, sans date — https://www.bourgognefranchecomte.fr/node/419
+- « Presta’INNO – Le financement à l’innovation », Agence économique régionale, sans date — https://aer-bfc.com/innover-eco-innover/financement-de-linnovation/
+- Dépliant « Presta INNO », Agence économique régionale, avril 2026 — https://aer-bfc.com/wp-content/uploads/2026/04/presta-inno-depliant-04-2026-1.pdf
+- Règlement 53.11 « Aides aux structures de création, de diffusion et de résidence du spectacle vivant », transmis au contrôle de légalité le 2 octobre 2026 — https://www.bourgognefranchecomte.fr/file-download?fid=18609
+- « Aides aux structures de diffusion intermédiaires d’intérêt régional », sans date — https://www.bourgognefranchecomte.fr/node/315
+- Plateforme des subventions, dispositif SV-SCINT, fenêtre du 15 novembre au 15 décembre 2026 — https://subventions.bourgognefranchecomte.fr/sub/extranet/dispositif-consulter.sub?sigle=SV-SCINT
+
+**Chambres et territoire**
+- « Adopter l’intelligence artificielle générative – Impulse IA », CCI Nièvre, 3 avril 2026 — https://nievre.cci.fr/appui-aux-entreprises/transformation-numerique/adopter-lintelligence-artificielle-generative-impulse-ia/
+- « Passez à l’action avec l’IA : faites le point sur votre maturité », CCI Nièvre, 1er avril 2026 — https://nievre.cci.fr/actualites/passez-a-laction-avec-lia-faites-le-point-sur-votre-maturite/
+- « Booster mon entreprise avec le digital », chambre de métiers régionale, sans date — https://www.artisanat-bfc.fr/article/booster-mon-entreprise-avec-le-digital
+- « Règlement d’intervention en matière d’aide à l’immobilier d’entreprise », Cœur de Loire, validé le 13 novembre 2025 — https://www.coeurdeloire.fr/wp-content/uploads/2026/06/REGLEMENT-DINTERVENTION-EN-MATIERE-DAIDE-A-LIMMOBILIER-DENTREPRISE_nov2025.pdf
+- « Accompagner vos projets », Cœur de Loire, sans date — https://www.coeurdeloire.fr/accompagner-vos-projets/
+- « Aides », Adebcosne, sans date — https://adebcosne.com/aides/
+- Avenant 2023-2026 à la convention Action cœur de ville et d’opération de revitalisation du territoire, Cosne-Cours-sur-Loire, décembre 2023 — https://www.coeurdeloire.fr/wp-content/uploads/2023/12/N%C2%B06-AVENANT.12.12.23.pdf
+- « Mon centre-ville 2030 », mairie de Cosne-Cours-sur-Loire, sans date — https://mairiecosnesurloire.fr/mon-centre-ville-2030/
+- « Livret de restitution – Mon centre-ville 2030 Cosne-sur-Loire », Agence nationale de la cohésion des territoires, 24 septembre 2025 — https://anct.gouv.fr/ressources/publications/livret-de-restitution-mon-centre-ville-2030-cosne-sur-loire et https://media.anct.gouv.fr/ressources/2025-09/acv_mcv_2030_cosne-sur-loire_v5.pdf
+
+**Zonage et fiscalité**
+- Fiche « Cosne-Cours-sur-Loire », base Banatic, ministère de l’Intérieur, sans date — https://www.banatic.interieur.gouv.fr/commune/58086-Cosne-Cours-sur-Loire
+- Arrêté du 19 juin 2024 constatant le classement de communes en zone France ruralités revitalisation, Journal officiel du 20 juin 2024 — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049746820
+- Fiche F31139 « Zones France ruralités revitalisation : exonérations fiscales », Service Public Entreprendre, sans date — https://entreprendre.service-public.gouv.fr/vosdroits/F31139
+
+**Spectacle vivant**
+- « Aide à la création de salles de spectacle », CNM, mise à jour le 8 janvier 2026 — https://cnm.fr/aides-financieres/aide-a-la-creation-de-salles-de-spectacle/
+- « Aide à l’équipement et à la mise en conformité des salles de spectacle en activité », CNM, date non lue — https://cnm.fr/aides-financieres/aide-a-lequipement-et-a-la-mise-en-conformite-des-salles-de-spectacle-en-activite/
+- Règlement général des aides du CNM, version en vigueur au 1er janvier 2026 — https://cnm.fr/wp-content/uploads/2025/05/RGA_CA-16-decembre-2025.pdf
+- Règlement général des aides du CNM, version en vigueur au 28 octobre 2026 (page de titre seule lue) — https://cnm.fr/wp-content/uploads/2026/04/RGA_CA-13-octobre-2026.pdf
+
+**Sources secondaires vues, non utilisées comme preuve** : subvento.finance (« vérifiée sur la source officielle le 30 octobre 2026 ») ; mesaidespubliques.infogreffe.fr (fiches Presta’INNO, Impulse IA, Cœur de Loire) ; aide-pour.fr ; gayaconseil.com ; lafrenchtechbfc.fr. [Source professionnelle]

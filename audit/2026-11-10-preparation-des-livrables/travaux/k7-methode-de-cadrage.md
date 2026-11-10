@@ -44,10 +44,9 @@ Pour nous : l’offre existe, à côté de chez GianLuca Carlone, et coûte peu.
 
 ### 1.4 NIST, ISO, Cigref
 
-- NIST, cadre de gestion des risques de l’IA, version 1.0 du 26 janvier 2023, d’usage volontaire. Profil « IA générative » (NIST-AI-600-1) du 26 juillet 2024. **Changement 2026** : le cadre « est en cours de révision » dans le cadre du plan d’action de la Maison-Blanche ; note de cadrage d’un profil « infrastructures critiques » le 7 avril 2026. (NIST, « AI Risk Management Framework », page consultée le 10 novembre 2026) [Autorité ou organisme]
-- Ses quatre fonctions : gouverner, cartographier, mesurer, gérer. (NIST AI 100-1, janvier 2023 ; document non rouvert lors de cette passe) [Autorité ou organisme]
-- ISO/IEC 42001:2023 : norme de système de management de l’IA, certification volontaire. Texte payant, non lu. [À confirmer]
-- Cigref : distinguer les IA « horizontales » (pour tous, mesurées par le taux d’adoption et la qualité ; leur valeur dépend du temps réellement réaffecté) des IA « verticales » (au cœur d’un métier). (Cigref, « Évaluer le retour sur investissement des solutions d’IA générative et agentique », 15 janvier 2026) [Source professionnelle]
+- NIST : cadre de gestion des risques de l’IA, version 1.0 du 26 janvier 2023, d’usage volontaire ; profil « IA générative » du 26 juillet 2024. **Changement 2026** : le cadre « est en cours de révision ». (NIST, « AI Risk Management Framework », page sans date) [Autorité ou organisme] Quatre fonctions : gouverner, cartographier, mesurer, gérer (NIST AI 100-1, non rouvert). [Autorité ou organisme]
+- ISO/IEC 42001:2023 : système de management de l’IA, certification volontaire. Texte payant, non lu. [À confirmer]
+- Cigref : les IA « horizontales », pour tous, se mesurent au taux d’adoption ; leur valeur dépend du temps réellement réaffecté. (Cigref, 15 janvier 2026) [Source professionnelle]
 
 Notre lecture, pour le kit : gouverner = le tableau « qui valide quoi » (proposition, lignes 155-166) ; cartographier = l’inventaire ; mesurer = la mesure de départ et l’essai ; gérer = les critères d’arrêt. Nous ne revendiquons aucune conformité à ces cadres.
 
@@ -57,12 +56,11 @@ Notre lecture, pour le kit : gouverner = le tableau « qui valide quoi » (propo
 - Un guide d’entretien se suit sans se lire mot à mot : introduction (contexte, « pas de bonnes ou de mauvaises réponses », accord pour enregistrer, pause possible), échauffement, questions principales, conclusion. Interroger sur les faits passés plutôt que sur l’avenir. Faire relire les questions par un collègue. (Stéphanie Walter, 29 septembre 2023) [Source professionnelle]
 - « Est-ce que cela vous plaît ? » pousse à répondre oui : préférer des questions ouvertes et neutres. (Stephanie Marsh, « User Research », sans date) [Source professionnelle] Noter les phrases importantes, pas tout ; accepter les silences ; relancer par « Pouvez-vous m’en dire un peu plus ? » (Contentsquare, 29 juin 2023) [Source professionnelle]
 - Trois situations à faire nommer : des tâches répétitives « jamais nommées » ; des façons de faire « écrites nulle part » ; des données « dispersées ». « Tant que la tâche n’est pas nommée, aucun outil ne peut l’améliorer. » Question proposée : « Quelles tâches me prennent du temps… sans que mon expertise change fondamentalement le résultat ? » (France Num, 18 mai 2026) [Autorité ou organisme]
-- Enregistrement. Les personnes enregistrées doivent être informées de l’existence de l’enregistrement, du responsable, du but, de la base légale, des destinataires et de la durée de conservation ; la voix est une donnée personnelle. (TPE Actu, « IA dans Teams : a-t-on le droit de vous enregistrer ? », 11 août 2026, qui résume la CNIL) [Source professionnelle] [À confirmer]
-- Enregistrer à l’insu de quelqu’un des paroles privées ou confidentielles est puni par l’article 226-1 du code pénal. (cité par iapourmonentreprise.fr, 22 octobre 2026 ; texte non relu sur Légifrance) [À confirmer]
-- **Changement 2026** : le programme de travail 2026 de la CNIL (7 avril 2026) annoncerait des travaux sur les outils de transcription et d’analyse automatique des réunions. (cité par pipook.fr et iapourmonentreprise.fr ; page de la CNIL non lue) [À confirmer]
-- Aucun guide public français de l’entretien de découverte en entreprise n’a été trouvé. Aucune source ne fixe de durée. La proposition annonce « 2 à 3 heures » (proposition, ligne 73). [Pièce du dépôt]
+- Enregistrement : informer chaque personne de l’enregistrement, du responsable, du but, de la base légale, des destinataires et de la durée de conservation. (TPE Actu, 11 août 2026, qui résume la CNIL) [Source professionnelle] [À confirmer] Enregistrer à l’insu de quelqu’un des paroles privées est puni par l’article 226-1 du code pénal. (cité par iapourmonentreprise.fr, 22 octobre 2026) [À confirmer]
+- **Changement 2026** : le programme de travail de la CNIL du 7 avril 2026 annoncerait des travaux sur les outils de transcription des réunions. (cité par pipook.fr et iapourmonentreprise.fr ; page de la CNIL non lue) [À confirmer]
+- Aucun guide public français de l’entretien de découverte n’a été trouvé ; aucune source ne fixe de durée. La proposition annonce « 2 à 3 heures » (proposition, ligne 73). [Pièce du dépôt]
 
-**Proposition pour le guide (à valider par Morgan Olsen et Mathys Couet).** Inchangée sur le fond par rapport à la version précédente.
+**Proposition pour le guide (à valider par Morgan Olsen et Mathys Couet).**
 
 - Pas d’enregistrement. Le second associé note ; on le dit dès l’ouverture. On note les mots exacts entre guillemets.
 - 2 h 30 et une pause : ouverture, 10 min (rôles, but, ce qui est noté, ce qui ne sera pas demandé) ; semaine type, 30 min ; trois cas récents racontés, 45 min ; documents et outils, 30 min ; qui décide quoi, 20 min ; clôture, 15 min (reformulation, pièces à rassembler, date du compte rendu).

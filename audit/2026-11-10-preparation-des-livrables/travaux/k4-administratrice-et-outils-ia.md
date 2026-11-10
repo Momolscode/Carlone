@@ -10,7 +10,12 @@ Point de départ : on ne sait rien de l’administratrice. Ni son nom, ni son st
 
 ## En bref
 
-(À compléter en fin de rédaction.)
+1. **Dire avant, par écrit.** Tout outil qui garde une trace la concernant (journal « qui a validé », fiche de temps, historique de l’IA) doit lui être annoncé avant le premier usage (Code du travail, art. L1222-4). Avec une seule utilisatrice, rien n’est anonyme : le livrable 3 doit dire ce qui est enregistré, qui le lit et combien de temps on le garde.
+2. **Proportionné, pas permanent.** La CNIL juge excessive la surveillance permanente ; elle admet un comptage transparent sur de longues périodes (page du 9 juillet 2026). « On mesure la tâche » = totaux par tâche et par mois, fiche tenue par elle, aucun tableau d’activité individuelle.
+3. **Règlement IA.** L’article 4 s’applique depuis le 2 février 2025 ; il a été adouci en juillet 2026 (« favoriser » la maîtrise de l’IA, sans niveau garanti). Une charte et une prise en main datée suffisent comme preuve. Le haut risque « emploi » (annexe III) est reporté au 2 décembre 2027 : c’est une raison de plus pour que l’IA ne note jamais une personne.
+4. **Formation** sur le temps de travail (art. L6321-1). L’opérateur de compétences dépend de son employeur réel (piste : OPCO Commerce si convention IDCC 1517 ; à confirmer). Aucun financement ne s’annonce.
+5. **Statut inconnu.** Si elle est prestataire, imposer outils, horaires et relevé de temps peut créer un lien de subordination. La page doit tenir dans les deux cas.
+6. **Deux pièges** : un pouvoir écrit de valider peut modifier son contrat ; une mesure faite pendant sa période d’essai peut servir à la juger. À poser à l’avocat et à trancher dans la feuille de décisions.
 
 ## 1. Information préalable, proportionnalité, comité social et économique, surveillance
 
@@ -243,3 +248,63 @@ Inquiète : les mots « productivité », « optimiser », « gain de temps » s
 
 **Délégué à la protection des données, si l’une des sociétés en a un.**
 9. Faut-il une analyse d’impact pour le journal des actions ?
+
+## Ce qui n’a pas pu être vérifié
+
+- Textes du Code du travail non relus ce jour sur Légifrance : L1121-1, L2311-2, L2312-38, L1311-2, L4121-1, L6321-1, L6321-2, L1221-19 à L1221-21. Cités de mémoire.
+- Texte exact de l’annexe III, point 4, et de l’article 5, § 1, f, du règlement 2024/1689 : non relus ce jour.
+- Texte du nouvel article 4 : lu par l’équipe le 4 novembre 2026 (note rj-R4), pas relu aujourd’hui.
+- Opérateur de compétences de l’IDCC 1517 en 2026 ; convention réelle des sociétés de GianLuca Carlone ; règles de prise en charge.
+- Offre de l’ARACT Bourgogne-Franche-Comté sur l’IA.
+- Contenu exact de la formation gratuite France Num et de l’« Académie de l’IA » : page non ouverte.
+- Évaluation de l’« Assistant IA » (DITP, juin 2026) : PDF refusé (erreur 403) ; chiffre lu dans un résumé.
+- Pages ANACT, LaborIA, OCDE et sanction CNIL de décembre 2024 : vues par résultats de recherche, non ouvertes.
+- Enquête Malakoff Humanis et BCG : date et méthode inconnues.
+- Source publique sur les mots à employer avec une personne dont les outils changent : aucune trouvée.
+- Tout ce qui concerne l’administratrice : statut, employeur, effectif, période d’essai, outils actuels. Inconnu.
+
+## Sources (liste complète)
+
+Toutes consultées le 10 novembre 2026, sauf mention « lu par l’équipe » (date de lecture indiquée).
+
+**Textes officiels**
+1. Code du travail, art. L1222-4 — ministère du Travail, Code du travail numérique — https://code.travail.gouv.fr/code-du-travail/l1222-4 — version du 1er mai 2008.
+2. Règlement (UE) 2024/1689 sur l’IA — Union européenne — http://data.europa.eu/eli/reg/2024/1689/oj — JO du 12 juillet 2024 — lu par l’équipe le 4 novembre 2026 (note rj-R4).
+3. Règlement (UE) 2026/1744, dit « Omnibus IA » — Union européenne — http://data.europa.eu/eli/reg/2026/1744/oj — 8 juillet 2026, JO du 24 juillet 2026 — lu par l’équipe le 4 novembre 2026 (note rj-R4).
+4. Code du travail, art. L8221-6-1 — Légifrance — https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000019285915&cidTexte=LEGITEXT000006072050 — en vigueur depuis le 6 août 2008 — lu par l’équipe le 4 novembre 2026 (note rj-R3).
+5. Cass. soc., 4 mars 2020, n° 19-13.316 — Légifrance — https://www.legifrance.gouv.fr/juri/id/JURITEXT000042025162 — lu par l’équipe le 4 novembre 2026.
+
+**Autorités et organismes**
+6. « Travail, ressources humaines : le contrôle de l’activité des personnes employées » — CNIL — https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees — 9 juillet 2026.
+7. « Surveillance excessive des salariés : sanction de 40 000 euros à l’encontre d’une entreprise du secteur immobilier » — CNIL — https://www.cnil.fr/fr/surveillance-excessive-des-salaries-sanction-de-40-000-euros-entreprise-secteur-immobilier — date non lue (sanction de décembre 2024 selon le résumé).
+8. « Article 26 » — Commission européenne, Service d’assistance sur le règlement IA — https://ai-act-service-desk.ec.europa.eu/fr/ai-act/article-26 — texte consolidé au 27 juillet 2026.
+9. « Le plan national Osez l’IA » — ministère de l’Économie, DGE — https://www.entreprises.gouv.fr/osez-lia — date non lue.
+10. « Un an du plan Osez l’IA : un premier bilan positif et une nouvelle étape pour accélérer » — DGE — https://www.entreprises.gouv.fr/espace-presse/un-du-plan-osez-lia-un-premier-bilan-positif-et-une-nouvelle-etape-pour-accelerer — date non lue.
+11. « Catalogue de solutions IA pour PME et ETI » — DGE — https://www.entreprises.gouv.fr/files/files/Espace-entreprises/Aide-financement/2026/2026-07-30-catalogue-solutions-ia-pme-eti.pdf — 30 juillet 2026 (non ouvert).
+12. « Exploitez l’intelligence artificielle : Osez l’IA » — France Num — https://www.francenum.gouv.fr/ma-priorite/exploitez-lintelligence-artificielle-osez-lia — date non lue.
+13. « Le plan Osez l’IA veut passer de la sensibilisation à l’action » — Banque des Territoires — https://www.banquedesterritoires.fr/le-plan-osez-lia-veut-passer-de-la-sensibilisation-laction — septembre 2026 (à confirmer).
+14. « OPCO Commerce » (liste des conventions) — DREETS Bretagne — https://bretagne.dreets.gouv.fr/sites/bretagne.dreets.gouv.fr/IMG/pdf/opco_commerce.pdf — date non lue (non ouvert).
+15. « Transitions et travail #1 : l’IA au cœur des transformations — Caen » — ANACT, réseau ARACT — https://www.anact.fr/transitions-et-travail-1-lia-au-coeur-des-transformations-caen — date non lue.
+16. « Le développement du dialogue social technologique en France » — portail de veille ANACT — https://veille-travail.anact.fr/osiros/result/notice.php?queryosiros=id%3A103990 — date non lue.
+17. « Kit de dialogue social au service des bons usages de l’IA » — portail de veille ANACT — https://veille-travail.anact.fr/osiros/result/notice.php?queryosiros=id%3A103044 — date non lue.
+18. « Enquête LaborIA » (LaborIA Explorer) — ministère du Travail et Inria — https://travail-emploi.gouv.fr/sites/travail-emploi/files/files-spip/pdf/enquete_laboria.pdf — 13 mars 2023.
+19. « Usages et impacts de l’IA sur le travail, au prisme des décideurs » — Centre Inffo — https://www.centre-inffo.fr/site-centre-inffo/usages-et-impacts-de-lia-sur-le-travail-au-prisme-des-decideurs — 2023.
+20. « Synthèse de l’évaluation de l’expérimentation Assistant IA » — DITP — https://www.modernisation.gouv.fr/files/2026-06/Synthese-evaluation-experimentation-Assistant-IA.pdf — juin 2026 (accès refusé).
+21. « Unlocking productivity with generative AI: Evidence from experimental studies » — OCDE — https://www.oecd.org/en/blogs/2025/07/unlocking-productivity-with-generative-ai-evidence-from-experimental-studies.html — juillet 2025.
+22. « The effects of generative AI on productivity, innovation and entrepreneurship » — OCDE — https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/the-effects-of-generative-ai-on-productivity-innovation-and-entrepreneurship_da1d085d/b21df222-en.pdf — juin 2025.
+23. « Generative AI and the SME Workforce: New Survey Evidence » — OCDE — https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/generative-ai-and-the-sme-workforce_83bafdfb/2d08b99d-en.pdf — novembre 2025.
+24. « Modification du contrat de travail du salarié » — justice.fr (reprise de service-public) — https://www.justice.fr/fiche/modification-contrat-travail-salarie — date non lue.
+25. Fiche F1691 « Comment différencier le travailleur indépendant du salarié ? » — DILA — https://entreprendre.service-public.gouv.fr/vosdroits/F1691 — vérifiée le 21 novembre 2025 — lue par l’équipe le 4 novembre 2026.
+26. Fiche France Num et CNIL sur l’IA pour les TPE et PME — mars 2025 — lue par l’équipe (note rj-R4, ligne 446), adresse non reprise.
+
+**Sources professionnelles**
+27. Convention collective IDCC 1517 — Legisocial — https://www.legisocial.fr/conventions-collectives-nationales/1517-commerces-de-detail-non-alimentaires/ — date non lue.
+28. « Modifier un contrat de travail : comment faire ? » — Weblex — https://www.weblex.fr/articles/modifier-un-contrat-de-travail-comment-faire — date non lue.
+29. « Modification du contrat de travail » — service du travail de Polynésie française — https://www.service-public.pf/trav/wp-content/uploads/sites/23/2025/06/FPCG-DT104-CT-38-ModifContratW-2025-06.pdf — juin 2025 (droit polynésien : principe seulement).
+30. « Osez l’IA : le plan de Clara Chappaz pour accélérer l’adoption de l’IA » — Maddyness — https://www.maddyness.com/2025/07/01/osez-lia-le-plan-de-clara-chappaz-pour-accelerer-ladoption-de-lia-dans-les-entreprises-francaises/ — 1er juillet 2025.
+
+**Pièces du dépôt**
+- `audit/2026-11-09-audit-presentation-et-offre/travaux/BRIEF.md` ; `…/a1-point-de-vue-gianluca.md` ; `…/a3-exactitude-et-engagements.md` ; `…/r1-nouveautes-ia-automatisation-2026.md`
+- `audit/2026-11-04-audit-strategique/annexes/travaux/rj-R3-travail-contrats.md` ; `…/rj-R4-donnees-ia.md`
+- `audit/2026-11-10-preparation-des-livrables/travaux/i3-page-pour-l-administratrice.md`
+- `pour-carlone/logiciels-et-automatisations/2026-11-09-automatisations-fiches-detaillees.md`
