@@ -4,6 +4,8 @@ Tout ce qui concerne le projet mené avec M. Carlone, marchand d'art, par Morgan
 
 Le point de départ est `interne/contexte-projet-carlone.md` : les personnes, la chronologie depuis le 18 octobre, les chantiers, l'offre, les règles et les décisions attendues.
 
+Tout ce qui concerne Marwin Tech et ses offres à Carlone est réuni et résumé dans [marwin-tech/](marwin-tech/README.md).
+
 Ce dépôt est privé et doit le rester : `crm/` et `sources/` contiennent les coordonnées des entreprises prospectées.
 
 ## Pour Carlone
