@@ -10,7 +10,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026,
 - Puis, s’il le veut : un essai de huit semaines au plus, commandé à part. Une suite à la fois.
 - Logiciel : selon la décision C (DL1). Maintenue : « un prix par étape après le cadrage, sur vos volumes réels ».
 - Neuf suites : abonnement du marché au nom de sa société ; tarifs publics citables avec source et date (de 40 € HT à environ 190 € par mois, pages lues le 10 novembre) ; notre aide : DL1 et V8.
-- Administratrice : environ une journée à une journée et demie sur trois à quatre semaines, à confirmer avec elle.
+- Administratrice : environ une à deux journées sur trois à quatre semaines, à confirmer avec elle.
 
 **Les dates** : rendez-vous le vendredi 13 novembre 2026 ; premier envoi possible le jeudi 19 novembre, si tout est levé ; offre valable jusqu’au jeudi 31 décembre 2026 ; démarrage début janvier 2027 si la commande est signée avant la mi-décembre.
 

@@ -46,13 +46,13 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 ## 5. Les modalités de démarrage
 
 **Il dit** : « Comment on commence, concrètement ? »
-**Réponse** : « Il nous faut trois informations : la société qui commande, la personne qui signe, et une date pour le premier entretien. Nous vous envoyons le bon de commande d’une page sous deux jours ; rien ne vous engage avant de le signer. » (Délai à confirmer jeudi : décision V10 de la feuille de décisions.)
+**Réponse** : « Il nous faut trois informations : la société qui commande, la personne qui signe, et une date pour le premier entretien. Nous vous envoyons ensuite le bon de commande et ses conditions ; rien ne vous engage avant de le signer. » (Délai d’envoi à fixer jeudi : décision V10 de la feuille de décisions.)
 **Calendrier** : démarrage début janvier 2027 si la commande est signée avant la mi-décembre ; premier entretien de deux à trois heures chez lui ; dossier remis trois à quatre semaines plus tard.
 **Ne pas faire** : signer en séance (recommandation de la feuille de décisions, arbitrage B) ; demander un chèque.
 
 ## 6. « Mon administratrice va-t-elle perdre son poste ? »
 
-**Réponse** : « Non. Elle est aidée, jamais remplacée ni surveillée : on mesure une tâche, jamais une personne. Le cadrage part de ce qu’elle sait ; nous lui demanderions environ une journée à une journée et demie sur trois à quatre semaines, à confirmer avec elle. »
+**Réponse** : « Non. Elle est aidée, jamais remplacée ni surveillée : on mesure une tâche, jamais une personne. Le cadrage part de ce qu’elle sait ; nous lui demanderions environ une à deux journées sur trois à quatre semaines, à confirmer avec elle. »
 **Preuve** : la page qui lui est destinée (`pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md`), à remettre par lui seul.
 **Ne pas faire** : parler de son poste devant elle si elle est présente.
 
