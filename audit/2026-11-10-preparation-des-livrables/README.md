@@ -11,8 +11,8 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
    - `pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md` ;
    - `pour-carlone/developpement/2026-11-10-ce-que-des-moyens-supplementaires-permettraient.md` et son annexe (note : `interne/developpement/2026-11-10-note-interne-moyens-supplementaires.md`) ;
    - `pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md` et `…-echeancier.xlsx` (note : `interne/cabaret-et-commerces/2026-11-10-sources-et-limites.md`).
-4. **Pour le rendez-vous** : `interne/rendez-vous/2026-11-10-reponses-aux-objections.md`, `…-antiseche-une-page.md` ; sur l’autre proposition : `interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`.
-5. **Pour démarrer le cadrage** : `interne/cadrage/2026-11-10-kit/` (guide du premier entretien, grille de choix, trame du dossier remis, tableau d’inventaire).
+4. **Pour le rendez-vous** : `interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md` (déroulé et vingt minutes diapositive par diapositive), `…-reponses-aux-objections.md`, `…-antiseche-une-page.md` ; écrans d’exemple : `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/` ; sur l’autre proposition : `interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`.
+5. **Pour démarrer le cadrage** : `interne/cadrage/2026-11-10-kit/` (guide du premier entretien, grille de choix, trame du dossier remis, tableau d’inventaire) ; côté client : `pour-carlone/cadrage/` (questionnaire préparatoire, liste des pièces).
 6. **Travaux préparatoires** : `travaux/` (brief complémentaire `BRIEF-2.md`, inventaires `i…`, recherches `k…`). Outils : `outils/2026-11-10-orchestration/`. Reprise : `REPRISE-2026-11-10.md` à la racine.
 
 ## 2. Calendrier unique
@@ -33,17 +33,16 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 
 ## 3. Récapitulatif
 
-**Terminé (projets à relire)** : livrables 1, 3, 6, 9 et 10 ; livrable 2 (objections, antisèche) ; livrable 5 (guide, grille, trame, tableau d’inventaire) ; livrable 7 (démarches, liste, questions pour l’avocat) ; livrable 8 (questions et comparaison selon le cas). Tous passent le contrôle mécanique des lignes rouges ; les pages uniques tiennent sur une page A4.
+**Terminé (projets à relire)** : livrables 1, 3, 4 (maquette de quatre écrans), 6, 9 et 10 ; livrable 2 (déroulé et texte d’orateur, objections, antisèche) ; livrable 5 (guide, grille, trame, tableau d’inventaire) ; livrable 7 (démarches, liste, questions pour l’avocat) ; livrable 8 (questions et comparaison selon le cas). Tous passent le contrôle mécanique des lignes rouges ; les pages uniques tiennent sur une page A4.
 
 **À compléter** :
 - La triple relecture indépendante (règles, lecteur, exactitude) de chaque document.
 - La vérification des notes de recherche (aucune n’a encore sa partie « Vérification du 10 novembre 2026 ») : les chiffres du livrable 10 et les statuts « documenté » du livrable 9 en dépendent.
-- Livrable 2 : déroulé minute par minute ; texte d’orateur de vingt minutes (après la version 12).
-- Livrable 4 : écrans d’exemple (fiche bâtiment, échéances, trois devis) et maquette cliquable.
-- Livrable 5 : questionnaire préparatoire et liste des pièces (client), plan des semaines, modèle de compte rendu.
+- Livrable 2 : ajuster le texte d’orateur à la version 12 une fois fabriquée.
+- Livrable 5 : plan des semaines, modèle de compte rendu.
 - Livrable 7 : projet d’information sur le fichier de contacts (avec l’avocat).
 - Livrable 8 : note conditionnelle sur le logiciel hôtelier, seulement si le scénario hôtelier se confirme.
-- La version 12 de la présentation (scénario, diapositives, diapositive « moyens supplémentaires »).
+- La version 12 de la présentation : le scénario est dans le texte d’orateur ; reste à fabriquer les diapositives (outils `build-slides.js`, `review-slides.js`) et à les publier.
 - Une version client propre de la proposition de cadrage (arbitrage A).
 
 **Décisions attendues de Morgan Olsen et Mathys Couet** (détail dans la feuille de décisions) :
