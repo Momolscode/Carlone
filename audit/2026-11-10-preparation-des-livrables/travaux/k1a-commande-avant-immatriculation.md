@@ -327,3 +327,42 @@ Relecture sceptique. Document interne — ne pas transmettre à GianLuca Carlone
 9. **Option pour la TVA (§ 10, « Échéances à tenir »).** Ajouter : « L’option couvre deux années, y compris celle de la déclaration : déclarée fin 2026, elle couvre 2026 et 2027, puis se reconduit tacitement. » Source : impots.gouv.fr ; F21746.
 10. **Facture électronique (§ 10).** Phrase fausse : « obligatoire à compter du 1er septembre 2026 pour les grandes entreprises, du 1er septembre 2027 pour les petites ». Phrase juste : « émission obligatoire à compter du 1er septembre 2026 pour les grandes entreprises et les ETI, du 1er septembre 2027 pour les PME et les micro-entreprises ». Source : F31808, vérifiée le 11 août 2026.
 11. **Amendes (§ 6).** Ajouter : « doublées en cas de récidive dans les deux ans (150 000 € et 4 millions d’euros) ». Source : F23211.
+
+### Sûr à reprendre
+
+**Document client** (offre en une page, projet de bon de commande ; avec la mention « Projet à faire relire par un avocat avant tout usage » pour le bon de commande) :
+
+- « Marwin Tech, société en cours de création, immatriculée avant toute facture et tout démarrage. » Source : BRIEF-2, § 5, règle 5.
+- « Aucune facture n’est émise et aucun paiement n’est demandé avant l’immatriculation de Marwin Tech. » Source : règle interne ; F31808 (numéro SIREN obligatoire sur la facture), vérifiée le 11 août 2026.
+- « Aucun paiement n’est demandé pendant les sept jours qui suivent la signature. » Source : Code de la consommation, art. L221-10, lu sur Légifrance le 9 novembre 2026.
+- « Factures payables sous huit jours. En cas de retard : pénalités au taux de refinancement de la Banque centrale européenne majoré de 10 points, et indemnité forfaitaire de 40 € pour frais de recouvrement. » Source : Code de commerce, art. L441-10 ; F23211, vérifiée le 7 août 2026. Bon de commande seulement ; l’indemnité de 40 € ne vaut que pour des actes de commerce (question 6 à l’avocat).
+- « Ce qui touche à la TVA, au contrat et aux autorisations est à faire valider par vos professionnels (avocat, expert-comptable). » Source : BRIEF-2, § 5, règle 6.
+
+**Annexe ou projet de bon de commande, après décision des deux associés et relecture d’un avocat** :
+
+- « Vous disposez de quatorze jours après la signature pour vous rétracter ; un formulaire est joint. Le travail ne commence avant le quinzième jour que sur votre demande écrite. » Source : Code de la consommation, art. L221-18 et L221-25, lus sur Légifrance le 9 novembre 2026. L’octroi du délai par contrat, quel que soit le lieu de signature, reste à décider.
+
+**Interne seulement** :
+
+- « Contrats hors établissement entre professionnels : les règles s’appliquent si l’objet du contrat n’entre pas dans le champ de l’activité principale du client et s’il emploie cinq salariés au plus. » Source : Code de la consommation, art. L221-3, Légifrance, en vigueur depuis le 1er juillet 2016, lu le 10 novembre 2026.
+- « Exiger ou obtenir un paiement avant sept jours : deux ans d’emprisonnement et 150 000 € d’amende (L242-7) ; contrat nul si L221-9 ou L221-10 n’est pas respecté (L242-1). » Sources : reproductions du Code (Pappers Justice, Jurisfac), lues le 10 novembre 2026.
+- « La reprise d’un acte accompli au cours de la période de formation d’une société ne peut résulter du seul accord […] des parties. » Source : Cass. com., 18 juin 2025, n° 24-14.311, F-B, Juricaf.
+- « Une signature scannée ne suffit pas à identifier son auteur. » Source : Cass. com., 13 mars 2024, n° 22-16.487, résumé par Service Public Entreprendre, A17339, 15 avril 2024.
+- « Pénalités de retard : 12,15 % au premier semestre 2026, 12,40 % au second ; minimum : trois fois le taux de l’intérêt légal, soit 8,25 %. » Source : F23211, vérifiée le 7 août 2026.
+- « Franchise en base pour les services : 37 500 € et 41 250 €, inchangés en 2026 ; le seuil unique de 25 000 € a été abandonné. » Sources : F21746, vérifiée le 1er janvier 2026 ; impots.gouv.fr, modifiée le 21 mai 2026.
+- « L’option pour la TVA prend effet le premier jour du mois où elle est déclarée et couvre deux années, y compris celle de la déclaration. » Source : impots.gouv.fr, modifiée le 21 mai 2026.
+- « Le transfert de la TVA dans le CIBS est reporté au 1er janvier 2027 (ordonnance n° 2026-671). » Source : Bpifrance Création, 26 août 2026.
+- « Quatre mentions nouvelles sur les factures : numéro SIREN du client, adresse de livraison si elle diffère, nature des opérations, option pour le paiement de la TVA d’après les débits. » Source : F31808, vérifiée le 11 août 2026.
+- « Une commande d’au moins 5 000 € hors taxes oblige le client à se faire remettre un justificatif d’immatriculation et une attestation Urssaf, à la conclusion puis tous les six mois. » Source : Code du travail, art. R8222-1 et D8222-5, Légifrance (`ver-R3-travail-contrats.md`, ligne 37).
+
+### Ce qui reste inconnu
+
+- La société de GianLuca Carlone qui signera : forme, effectif, activité principale, récupération de la TVA.
+- La date d’immatriculation de Marwin Tech, donc l’année de la première facture (2026 ou 2027) et la mention de franchise applicable.
+- Le prorata du chiffre d’affaires de la première année (deux pages officielles divergent).
+- Le numéro exact de l’article du CIBS pour la mention de franchise (L. 233-3 ou L. 223-3).
+- L’application des peines des articles L242-5 à L242-7 à un client professionnel.
+- Le moment où l’offre datée lie ses auteurs : notre lecture est qu’elle ne lie qu’une fois parvenue à GianLuca Carlone (Code civil, art. 1115, non relu dans cette vérification) ; à confirmer par l’avocat, y compris pour une présentation montrée à l’écran sans document laissé.
+- L’obligation de recevoir des factures électroniques dès le 1er septembre 2026 pour toutes les entreprises : non vérifiée.
+- La pratique des banques avant l’extrait K-bis ; le délai d’obtention d’une attestation Urssaf pour une société nouvelle.
+- Les arrêts de 2025 et 2026 cités d’après des blogs (n° 24-10.316, n° 25-14.507, 10 juin 2026).
