@@ -63,3 +63,6 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026,
 ## 4. Cadre
 
 Aucun contact avec GianLuca Carlone ou un tiers, aucun envoi, aucun achat, aucune activation. Les pièces historiques ne sont pas modifiées. L’autre proposition n’est jamais nommée ni chiffrée dans un document client.
+
+
+**Présentation version 12 publiée (10 novembre 2026, nuit)** : https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg — privée, 26 diapositives (21 dans le fil, 5 en annexe), sources dans `pour-carlone/presentation-ia/2026-11-10-version-12-projet/`. À ne partager avec personne avant les décisions V1 à V5 de la feuille de décisions.

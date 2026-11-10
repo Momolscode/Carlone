@@ -2,7 +2,7 @@
 
 PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
-Document de travail. Sources de la version 12 au format de la présentation publiée (`project/deck.json` et `project/slides/<id>.html`). **Elle n’est pas publiée** : la version 11 est en ligne à une adresse dont on ne sait pas qui l’a vue (décision D45) ; publier la version 12 à la même adresse reviendrait à montrer au client un document que les deux associés n’ont pas validé. Publication seulement après la liste avant tout envoi (`interne/prealables/2026-11-10-liste-avant-tout-envoi.md`).
+Document de travail. Sources de la version 12 au format de la présentation publiée (`project/deck.json` et `project/slides/<id>.html`). **Publiée le 10 novembre 2026 comme nouvelle présentation privée** : https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg (lisible par Morgan seul tant qu’elle n’est pas partagée depuis le menu Partager). La version 11 reste à son adresse, inchangée. Avant ce choix, elle n’était pas publiée : la version 11 est en ligne à une adresse dont on ne sait pas qui l’a vue (décision D45) ; publier la version 12 à la même adresse reviendrait à montrer au client un document que les deux associés n’ont pas validé. Publication seulement après la liste avant tout envoi (`interne/prealables/2026-11-10-liste-avant-tout-envoi.md`).
 
 ## Ordre (vingt minutes, texte d’orateur : `interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md`)
 
@@ -36,3 +36,6 @@ Dernière ligne de `lint.js` sur les 24 diapositives : **« Total : 0 erreur(s),
 Avec l’outil Artifact : `url` de la présentation, `root` = ce dossier, `file_path` = `project/deck.json`, `files` = chaque diapositive modifiée ; les diapositives retirées de la version 11 (`avancees`, `ia-aujourdhui`, `domaines`, `cat-marketing`, `crm`, `logiciels`, `apports`, `regles`, `methode`, `pour-dautres`, `trajectoire`, `premier-pas`, `echange`, `idee`) passent à `null`.
 
 **Ordre au 10 novembre 2026, nuit (26 diapositives)** — fil principal (21) : cover, compris, demande, nouveautes, idees, ecran-ensemble, ecran-batiment, ecran-devis, hotel, administratrice, modes, cat-batiments, etapes, societe, grille, ensuite, proposition, garanties, decision, moyens, cloture. Annexe (5) : cat-galerie, cat-cabaret, cat-admin, cat-finance, robotique. Cet ordre l’emporte sur toute autre liste de ce fichier. Contrôle : `lint.js` 0 erreur.
+
+
+**Images** : sur la nouvelle présentation, la couverture utilise `/_blob/ad0412a37b6980cb8a80eb94c5f3363b` et la robotique `/_blob/6fab0132c846ec1c3083832f2c086864` (copies des images de la version 11). Les sources de ce dossier sont celles publiées.

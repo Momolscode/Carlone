@@ -2,7 +2,7 @@
  "v": 4,
  "createdOnFiles": {
   "v": 1,
-  "at": "2026-11-09T18:40:00Z"
+  "at": "2026-11-10T02:00:00Z"
  },
  "lists": "css",
  "title": "Votre premier pas — Marwin Tech pour GianLuca Carlone (version 12, projet)",
@@ -45,5 +45,27 @@
    "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap"
   }
  },
- "designSystems": []
+ "designSystems": [],
+ "sections": {
+  "s1": {
+   "description": "Ce que nous avons compris, et ce qui a changé en 2026",
+   "start": "cover"
+  },
+  "s2": {
+   "description": "À quoi cela ressemblerait chez vous",
+   "start": "ecran-ensemble"
+  },
+  "s3": {
+   "description": "Comment nous travaillons, avec votre administratrice",
+   "start": "administratrice"
+  },
+  "s4": {
+   "description": "Notre proposition et la décision du jour",
+   "start": "grille"
+  },
+  "s5": {
+   "description": "Annexe",
+   "start": "cat-galerie"
+  }
+ }
 }
