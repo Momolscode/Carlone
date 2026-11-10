@@ -39,7 +39,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 - La triple relecture indépendante (règles, lecteur, exactitude) de chaque document.
 - La vérification des notes de recherche (aucune n’a encore sa partie « Vérification du 10 novembre 2026 ») : les chiffres du livrable 10 et les statuts « documenté » du livrable 9 en dépendent.
 - Livrable 2 : ajuster le texte d’orateur à la version 12 une fois fabriquée.
-- Livrable 7 : projet d’information sur le fichier de contacts (avec l’avocat).
+- Livrable 7 : faire valider par l’avocat le projet d’information sur le fichier de contacts (`interne/prealables/2026-11-10-projet-d-information-sur-le-fichier-de-contacts.md`) et remplir ses champs avec des faits datés.
 - Livrable 8 : note conditionnelle sur le logiciel hôtelier, seulement si le scénario hôtelier se confirme.
 - La version 12 de la présentation : sources prêtes dans `pour-carlone/presentation-ia/2026-11-10-version-12-projet/` (onze diapositives nouvelles contrôlées) ; reste à corriger les diapositives reprises de la version 11 et à publier après la liste avant tout envoi.
 
