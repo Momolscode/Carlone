@@ -2,7 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
 
-Statut : note ferme du livrable 8. La note conditionnelle prévue (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier-note-conditionnelle.md`, jamais écrite) devient cette note ferme (BRIEF-2, § 10.1). Elle suit les additifs du 10 novembre au soir et dans la nuit (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 10 à 12) : ce n’est pas un hôtel séparé, mais **neuf suites « privilège », un sauna et un jacuzzi dans l’établissement de la galerie** (rapporté par Morgan Olsen, 10 novembre 2026 ; non vérifié ; adresse, ouverture, capacité, restauration et société exploitante inconnues ; BRIEF-2, § 11.1). Prix publics relus sur les pages des éditeurs le 10 novembre 2026 (douze lectures, aucune inscription, aucun devis). Page client associée : `pour-carlone/logiciels-et-automatisations/2026-11-10-votre-hotel-un-logiciel-du-marche-bien-choisi.md`.
+Statut : note ferme du livrable 8. La note conditionnelle prévue (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier-note-conditionnelle.md`, jamais écrite) devient cette note ferme (BRIEF-2, § 10.1). Elle suit les additifs du 10 novembre au soir et dans la nuit (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 10 à 12) : ce n’est pas un hôtel séparé, mais **neuf suites « privilège », un sauna et un jacuzzi dans l’établissement de la galerie** (rapporté par Morgan Olsen, 10 novembre 2026 ; non vérifié ; adresse, ouverture, capacité, restauration et société exploitante inconnues ; BRIEF-2, § 11.1). Prix publics relus sur les pages des éditeurs le 10 novembre 2026 (douze lectures, aucune inscription, aucun devis). Page client associée : `pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`.
 
 ## En bref
 
@@ -50,12 +50,12 @@ Toutes les pages ont été lues le 10 novembre 2026. Aucune ne porte de date de 
 | RoomRaccoon | Formule Entry : logiciel, gestionnaire de canaux (trois sites), moteur, paiements intégrés ; terminal de paiement vendu à part | Une option ou une intégration à partir de la formule Essential | Entry : 156 € par mois affiché, 130 € en facturation annuelle ; le calculateur de la même page donne 164 € par mois de 1 à 18 chambres ; hors taxes ou non : non précisé ; page modifiée le 30 septembre 2026 selon ses métadonnées (https://roomraccoon.fr/tarifs/) | Non indiquée | Non mentionnée | Téléphone en formules Premium et Pro seulement, du lundi au vendredi de 9 h à 17 h |
 | Amenitiz | Logiciel, moteur et gestionnaire de canaux dans chaque formule ; caisse proposée seulement en Espagne et au Portugal ; réponses aux messages rédigées par IA (trois modes, dont brouillon) | Paiement intégré « 1,5 % + 0,25 € » | Sur devis : « Votre tarif dépend de vos chambres » (amenitiz.com/fr/nos-tarifs, lue le 10 novembre 2026 par k12, vérification n° 11) | Non publiée | Non mentionnée | « dans votre langue maternelle », dont le français ; horaires non indiqués |
 | Mews | Formules Core, Pro, Enterprise ; caisse et « services réservables » en compléments | Frais de paiement facturés à part | Aucun prix affiché ; « facturé par chambre » (https://www.mews.com/fr/pricing) | Non indiquée | Non mentionnée | Non indiquée |
-| Misterbooking | Logiciel hôtelier, éditeur présent en France | Non lu | Aucun tarif public trouvé ; « sur demande » selon des comparateurs (recherche du 10 novembre 2026 : appvizer.fr, hellopro.fr ; pas de page de l’éditeur lue) | Non lu | Non lu | Non lu |
+| Misterbooking | Logiciel hôtelier ; fonctions non lues | Non lu | Aucun tarif public trouvé ; « sur demande » selon des comparateurs (recherche du 10 novembre 2026 : appvizer.fr, hellopro.fr ; pas de page de l’éditeur lue) | Non lu | Non lu | Non lu |
 | Little Hotelier | Non lu | Non lu | Non vérifié : page des tarifs refusée le 10 novembre 2026 ; les prix de X3 (129 € et 219 €) viennent d’un éditeur concurrent, à ne pas reprendre (X3, « À ne pas reprendre », point 9) | Non lu | Non lu | Non lu |
 
 **Lecture.**
 
-- **Prix les plus bas affichés pour un ensemble complet** : Sirvoy (79 € par mois) et eviivo (à partir de 40 € HT, options en plus). **Seul éditeur français avec prix public, interface ouverte et modules de restauration** : Thaïs. **Tout compris dans une formule** : RoomRaccoon et Amenitiz.
+- **Prix les plus bas affichés pour un ensemble complet** : Sirvoy (79 € par mois) et eviivo (à partir de 40 € HT, options en plus). **Prix public, interface ouverte et modules de restauration réunis** : Thaïs, éditeur français (X3, § 1). **Tout compris dans une formule** : RoomRaccoon et Amenitiz.
 - **Liste courte proposée pour la comparaison écrite** (proposition de travail, à confirmer après vendredi) : Thaïs ; un logiciel tout compris (RoomRaccoon ou Amenitiz) ; Sirvoy ou eviivo pour le prix. Trois au plus (k12, § 5).
 - **Les agréments Airbnb, Booking.com et Expedia** se vérifient sur les pages partenaires de ces sites, pas chez l’éditeur (note de connexion, § 3).
 - **La gestion des créneaux du sauna et du jacuzzi** n’apparaît clairement que chez Mews (« services réservables », en complément). Pour les autres : à demander.
@@ -131,3 +131,42 @@ Morgan les pose de vive voix. Une ligne de réponse par question, datée, le jou
 > « Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous conseillons de ne pas le faire construire : des logiciels du marché font déjà la fiche de police, la taxe de séjour, la caisse et le lien avec les sites de réservation, et ils suivent les règles quand elles changent. Notre travail, c’est de vous aider à bien le choisir, à le paramétrer, à le relier au reste de vos lieux, et de former votre administratrice. Nous construisons seulement ce qui manque autour. »
 
 Si la question des sites vient : « Vos suites pourront apparaître sur les principaux sites de réservation, avec un seul calendrier à jour » (BRIEF-2, § 12). Ne rien promettre sur le nombre de réservations.
+
+## 7. Décisions des associés avant jeudi 12 novembre au soir
+
+1. **Nom du fichier client.** Le nom imposé, `2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`, contient « hôtel », que BRIEF-2, § 11.2 écarte des documents client. Le texte de la page, lui, ne dit jamais « votre hôtel ». Recommandation : renommer à la validation (par exemple `2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`). Non fait ici : la consigne limite l’écriture aux fichiers indiqués.
+2. **Recouvrement des deux prix** : étape de choix (3 000 € HT) et option hôtellerie (2 300 € HT). Recommandation : un seul prix pour le choix du logiciel hôtelier, à arrêter avec DL1.
+3. **DL1** : montrer ou non un prix de logiciel. La page client n’en montre aucun, hors cadrage.
+4. **Forme vendredi** : page montrée à l’écran seulement, ou laissée à GianLuca Carlone (BRIEF-2, § 10.4 : sans les préalables, rien n’est laissé ni signé).
+
+## 8. Ce qui reste inconnu
+
+- Du projet : nombre exact de suites et capacité ; bâtiment et adresse ; commune ; date d’ouverture ; petit-déjeuner, bar ou restaurant encaissé ; société exploitante ; enseigne ou indépendance ; catégorie juridique de l’hébergement ; accueil permanent ou non ; usage du sauna et du jacuzzi (clients des suites seulement ou non).
+- De l’administratrice : nom, statut, outils actuels, temps disponible pour la formation.
+- Des logiciels : prix pour neuf chambres chez eviivo et RoomRaccoon (page incohérente) ; prix de Thaïs pour un établissement non classé ; taxes des prix Sirvoy et RoomRaccoon ; prix d’Amenitiz, Mews, Misterbooking et Little Hotelier ; pour tous : export des données, lieu d’hébergement des données, caisse certifiée, plateforme de facture électronique reliée, fiche de police, taxe de séjour, créneaux, agréments Airbnb, Booking.com et Expedia.
+- De l’autre proposition : contenu, signataire, hors taxes ou non, durée, sortie.
+- Taxe de séjour de la commune ; règles applicables au sauna et au jacuzzi (livrable 9).
+
+## Sources
+
+Pages des éditeurs, lues le 10 novembre 2026 (aucune date de mise à jour visible, sauf mention) :
+
+- Thaïs, « Tarifs » : https://thais-pms.com/tarifs
+- Sirvoy, « Prix » (texte de la page et données du calculateur) : https://sirvoy.com/fr/prix (« © 2026 »)
+- eviivo, « Tarifs » : https://eviivo.com/fr/tarifs/ (« © Copyright eviivo 2026 »)
+- RoomRaccoon, « Tarifs » (texte de la page et données du calculateur) : https://roomraccoon.fr/tarifs/ (modifiée le 30 septembre 2026 selon ses métadonnées)
+- Mews, « Pricing » : https://www.mews.com/fr/pricing
+- Amenitiz, « Nos tarifs » : https://amenitiz.com/fr/nos-tarifs (lue par k12, vérification n° 11)
+- Misterbooking : recherche du 10 novembre 2026 (comparateurs appvizer.fr et hellopro.fr ; aucune page de l’éditeur lue)
+- Little Hotelier : https://www.littlehotelier.com/fr/tarifs/ (accès refusé le 10 novembre 2026)
+- elloha : https://www.elloha.com/tarifs (aucun prix sur la page obtenue ; non retenu)
+
+Pièces du dépôt :
+
+- `audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 5, § 9 à 12.
+- `audit/2026-11-09-audit-presentation-et-offre/travaux/BRIEF.md`, § 5 et additif.
+- `audit/2026-11-10-preparation-des-livrables/travaux/k12-hebergement-logiciel-hotelier.md` (noté k12), avec sa vérification du 10 novembre 2026.
+- `audit/2026-11-09-audit-presentation-et-offre/travaux/x1-contrats-du-groupe-accor-avec-les-proprietaires.md` (x1), `x2-logiciels-et-services-du-groupe-accor.md` (X2), `x3-alternatives-du-marche-hebergement.md` (X3), avec leurs vérifications du 9 novembre 2026.
+- `interne/logiciels-et-automatisations/travaux/r2-cadre-reglementaire-et-technique.md` (R2).
+- `interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md` ; `interne/logiciels-et-automatisations/2026-11-10-connexion-airbnb-booking-et-autres-sites.md`.
+- `pour-carlone/logiciels-et-automatisations/2026-11-09-logiciel-gestion-proprietes-proposition.md` (prix des étapes, lignes 107 à 116) ; `pour-carlone/logiciels-et-automatisations/2026-11-09-annexe-specification-logiciel-gestion-proprietes.md` (module 9).
