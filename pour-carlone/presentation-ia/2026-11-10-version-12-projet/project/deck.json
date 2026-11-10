@@ -10,27 +10,32 @@
  "order": [
   "cover",
   "compris",
-  "demande",
+  "univers",
   "nouveautes",
-  "idees",
-  "ecran-ensemble",
-  "ecran-batiment",
-  "ecran-devis",
+  "cat-galerie",
   "hotel",
-  "administratrice",
-  "modes",
+  "cat-cabaret",
   "cat-batiments",
+  "administratrice",
+  "presence",
+  "demande",
+  "ecran-ensemble",
+  "ecran-devis",
+  "fonctions",
   "etapes",
   "societe",
   "grille",
+  "avenir",
   "ensuite",
+  "moyens",
   "proposition",
   "garanties",
   "decision",
-  "moyens",
   "cloture",
-  "cat-galerie",
-  "cat-cabaret",
+  "fiches",
+  "idees",
+  "ecran-batiment",
+  "modes",
   "cat-admin",
   "cat-finance",
   "robotique"
@@ -48,24 +53,28 @@
  "designSystems": [],
  "sections": {
   "s1": {
-   "description": "Ce que nous avons compris, et ce qui a changé en 2026",
+   "description": "Vous et votre univers",
    "start": "cover"
   },
   "s2": {
-   "description": "À quoi cela ressemblerait chez vous",
-   "start": "ecran-ensemble"
+   "description": "Pour chacun de vos projets",
+   "start": "cat-galerie"
   },
   "s3": {
-   "description": "Comment nous travaillons, avec votre administratrice",
-   "start": "administratrice"
+   "description": "Votre logiciel",
+   "start": "demande"
   },
   "s4": {
-   "description": "Notre proposition et la décision du jour",
-   "start": "grille"
+   "description": "Comment nous travaillons, et demain",
+   "start": "etapes"
   },
   "s5": {
+   "description": "Notre proposition et la décision du jour",
+   "start": "proposition"
+  },
+  "s6": {
    "description": "Annexe",
-   "start": "cat-galerie"
+   "start": "fiches"
   }
  }
 }
