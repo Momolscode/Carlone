@@ -20,6 +20,7 @@ Les documents faits pour lui être montrés.
 | `pour-carlone/vernissage-strates-idees.md` | Le vernissage : parcours en cinq temps, vingt et une idées, trois formats | 4 nov. |
 | `pour-carlone/visuels/` | Six visuels du vernissage, générés par IA : des intentions, pas des photos | 4 nov. |
 | `pour-carlone/strates-proposition-artistique-v1.1.pdf` | Proposition STRATES, BOJ.ART et Marwin Tech, 8 pages | 2 nov. |
+| `pour-carlone/logiciels-et-automatisations/` | Logiciel de gestion des propriétés (proposition et annexe de spécification), méthode et garanties des logiciels sur mesure, quinze fiches d'automatisation ; projets non envoyés | 9 nov. |
 
 Le PDF de l'offre est un rendu local de sa page en ligne, fait le 4 novembre ; la page reste la référence. Ses visuels sont générés par IA.
 
@@ -36,6 +37,7 @@ Les documents de travail de Morgan et Mathys : rémunération, positions de nég
 | `interne/state-of-the-art-note-de-vision.md` | Note de vision State Of The Art | 2 nov. |
 | `interne/diagrammes/` | Les sept schémas de ces documents, en images | 2 nov. |
 | `interne/strates-audit-robotique-ia.pdf` | Audit robotique et IA de STRATES | 2 nov. |
+| `interne/logiciels-et-automatisations/` | Étude du logiciel de gestion des propriétés : offre « Accord », options chiffrées sur trois ans, prix, verdict sur « mieux et moins cher grâce à l'IA », décisions ; trois travaux préparatoires | 9 nov. |
 
 ## Le CRM
 

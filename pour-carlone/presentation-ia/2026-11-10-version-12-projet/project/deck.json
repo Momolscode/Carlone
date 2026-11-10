@@ -1,0 +1,86 @@
+{
+  "v": 4,
+  "attachments": {},
+  "cover": "cover",
+  "createdOnFiles": {
+    "at": "2026-11-10T02:00:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "faces": {
+    "cormorant-garamond": {
+      "family": "Cormorant Garamond",
+      "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"
+    },
+    "dm-sans": {
+      "family": "DM Sans",
+      "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap"
+    }
+  },
+  "lists": "css",
+  "order": [
+    "cover",
+    "compris",
+    "univers",
+    "nouveautes",
+    "evolution",
+    "enjeux",
+    "cat-galerie",
+    "hotel",
+    "cat-cabaret",
+    "cat-batiments",
+    "administratrice",
+    "presence",
+    "demande",
+    "ecran-ensemble",
+    "fonctions",
+    "ecran-devis",
+    "etapes",
+    "societe",
+    "pourquoi-nous",
+    "grille",
+    "ambition",
+    "avenir",
+    "offres",
+    "proposition",
+    "garanties",
+    "decision",
+    "moyens",
+    "cloture",
+    "fiches",
+    "ensuite",
+    "idees",
+    "ecran-batiment",
+    "modes",
+    "cat-admin",
+    "cat-finance",
+    "robotique"
+  ],
+  "sections": {
+    "s1": {
+      "description": "Vous, votre univers et les enjeux de l’IA",
+      "start": "cover"
+    },
+    "s2": {
+      "description": "Pour chacun de vos projets",
+      "start": "cat-galerie"
+    },
+    "s3": {
+      "description": "Votre logiciel",
+      "start": "demande"
+    },
+    "s4": {
+      "description": "Comment nous travaillons, notre ambition et nos offres",
+      "start": "etapes"
+    },
+    "s5": {
+      "description": "Notre proposition, la décision du jour, puis une perspective",
+      "start": "proposition"
+    },
+    "s6": {
+      "description": "Annexe",
+      "start": "fiches"
+    }
+  },
+  "title": "Votre premier pas — Marwin Tech pour GianLuca Carlone (version 12, projet)"
+}

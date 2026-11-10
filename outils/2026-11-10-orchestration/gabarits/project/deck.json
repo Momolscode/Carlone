@@ -1,0 +1,19 @@
+{
+ "v": 4,
+ "title": "Gabarits v12",
+ "order": [
+  "g-enonce",
+  "g-cartes-3",
+  "g-avant-apres",
+  "g-maquette",
+  "g-etapes",
+  "g-grand-chiffre",
+  "g-frise",
+  "g-decision",
+  "g-tableau",
+  "g-deux-colonnes",
+  "g-image",
+  "g-questions",
+  "g-couverture"
+ ]
+}
