@@ -142,3 +142,144 @@ Un oui, ici, c'est un accord de principe pour le cadrage et trois informations. 
 - **L'aide publique au conseil** : s'il pense la demander, le dossier se dépose avant toute signature (Rendez-vous § 6.1, question 3). Elle ne se présente jamais comme acquise (a4 § 6).
 - **Nos quatre préalables, sans lesquels nous ne pouvons pas recevoir ce oui** : l'information écrite sur le fichier est partie ; les conditions et le projet d'accord sur les données sont prêts et relus par l'avocat ; le signataire est nommé ; le prix affiché est validé par les deux associés (a1 § 6).
 
+## Les signaux d'un non et quoi faire
+
+Un non peut être la bonne réponse. Si son besoin est couvert par des logiciels du marché et par son administratrice, nous devons le lui dire (a1 § 4 ; LOGICIEL § 3). Le but de ce tableau n'est pas de retourner un non, mais de ne pas le provoquer par maladresse.
+
+| N° | Le signal | Ce qu'il veut dire | Quoi faire |
+| --- | --- | --- | --- |
+| 1 | Il revient sur « et après, je paie combien par mois ? » | Il lit le cadrage comme du papier suivi d'un abonnement. La v11 l'y pousse : `etapes` annonce « Un suivi régulier, revu chaque trimestre », sans prix ni durée (a1 § 4). | Dire que seul le cadrage est proposé aujourd'hui, que chaque étape se commande à part et qu'il peut arrêter à la fin de chacune. En interne : le suivi régulier ne commence pas avant six mois après le début du cadrage (FICHES:98). Ne pas improviser de prix. |
+| 2 | Il revient deux fois sur le délai, ou sur l'autre proposition. | Il a peut-être déjà choisi, et nous sert de point de comparaison. | Dire en premier que nous sommes plus lents. Lui laisser la grille. Rappeler qu'il peut commencer seul avec des logiciels du marché. Aucune relance sur l'autre offre (a2 § 7.2). S'il veut comparer, lui proposer de remplir la grille avec la proposition écrite sous les yeux (a4 § 10). |
+| 3 | Il pose une question sur le fichier, et n'a rien reçu par écrit. | La confiance est en jeu. S'il l'apprend après coup, c'est un non (a1 § 4). | Ce cas ne doit pas arriver : sans cette information envoyée, aucune date de rendez-vous n'est proposée (Rendez-vous § 2.2). S'il arrive : s'en tenir au texte validé par le conseil, ne rien ajouter (Rendez-vous § 9, ligne 5), et ne rien lui demander ce jour-là. |
+| 4 | Il s'attarde sur les robots ou sur le plan à cinq ans. | Il n'y croit pas, ou il nous prend pour des rêveurs (a1 § 4). | Une ligne : « Ce sont des ambitions, pas des promesses. Chaque étape dépend des résultats de la précédente. » (a3 § 5.8). Puis revenir au cadrage. |
+| 5 | Son administratrice est absente, silencieuse ou sur la défensive. | Elle se sent menacée, ou il veut son avis avant de décider (a1 § 4). | S'adresser à elle. Lui demander quelles tâches elle choisirait de faire préparer. Dire devant lui : « Nous ne la remplaçons pas » (v11 `administratrice`, note). Proposer une date de réponse après leur échange. |
+| 6 | Il ne nomme pas de société. | Il n'est pas prêt à s'engager, ou ses structures ne sont pas arrêtées. | « Nous en avons besoin pour une raison simple : la facture, la TVA, la signature et la responsabilité des données dépendent de la société. Laquelle porte le sujet le plus important pour vous ? » Aucun travail sans engagement écrit d'une société identifiée ; sans société au 15 décembre, report à janvier (Rendez-vous § 8.6). |
+| 7 | Il demande une remise, un paiement au résultat, ou propose des bureaux ou des parts. | Il teste le prix, ou il n'a pas vu ce qu'il garde. | Réponse 15. Détailler ce qu'il garde. La version réduite (inventaire et trois priorités) ne sort que s'il refuse le prix, dans l'échelle convenue la veille (Rendez-vous § 8.7 ; fichier 01, décision 24). S'il ne veut rien payer d'avance : pas de suite, et le fichier ne lui sera jamais refacturé (Rendez-vous § 8.7). |
+| 8 | Il propose d'embaucher l'un de nous. | Il veut une personne, pas un prestataire. | Remercier, dire qu'un emploi serait un sujet séparé. Personne ne dit oui en séance (Rendez-vous § 8.2). |
+| 9 | Il veut « tout, tout de suite ». | Il n'accepte pas l'ordre des étapes. | « Notre société est en cours d'immatriculation : nous ne pouvons ni facturer ni commencer avant. » S'il veut du concret sur un seul sujet : un devis écrit après le rendez-vous, rien en séance (Rendez-vous § 8.1 et § 8.7). |
+| 10 | Il demande à qui d'autre nous vendrons cela. | Il a le sentiment de financer un produit pour d'autres. La v11 le nourrit : `pour-dautres` cite « Galeries et marchands d'art » (a1 § 4). | Retirer cette diapositive (fichier 01, décision 10). Dire : « Vos données ne servent jamais à d'autres clients. » (a1 § 3, n° 9) |
+| 11 | « Je vais réfléchir », sans date. | Un non poli, ou un vrai besoin d'en parler avec son administratrice. | Lui laisser la grille et la page de décision : « Vous préférez réfléchir ? Gardez cette page. Nous convenons d'une date de réponse. » (a4 § 9). Convenir d'une date sous sept jours (a4 § 4). Aucune relance insistante, aucun travail gratuit. |
+| 12 | Un non net. | Il a choisi une autre solution, ou aucune. | « Nous comprenons. Sans ce premier travail, nous ne pouvons pas vous proposer de suite sérieuse, et nous préférons nous arrêter là plutôt que de promettre ce que nous ne pourrions pas tenir. Notre porte reste ouverte. » (Rendez-vous § 8.7). Un non nous convient aussi (a2 § 7.2). L'information écrite sur le fichier lui reste due, qu'il dise oui ou non (D08). |
+
+**Dans tous les cas, à ne pas faire** : baisser le prix en séance, offrir un travail gratuit pour le retenir, fabriquer une urgence, critiquer l'autre proposition, transformer le rendez-vous en cadrage gratuit (a4 § 6 ; a2 § 4.9 ; Rendez-vous § 9, lignes 2 et 11).
+
+## Ce que nous ne promettons pas
+
+Chaque ligne est une promesse que GianLuca Carlone peut attendre, ou que la v11 laisse entendre, et que nous ne pouvons pas tenir.
+
+1. **« Mieux et moins cher grâce à l'IA. »** Ce qui réduit la dépense, c'est la façon de faire ; « mieux » se prouve par un essai (a3 § 5.1 ; BRIEF, additif).
+2. **Une IA qui gère tout.** Ni aujourd'hui ni dans un an : elle prépare, des personnes décident (a3 § 5.2).
+3. **Un gain chiffré avant mesure.** Ni heures gagnées, ni pourcentage d'économie, ni statistique sans source datée (r2, n° 12 ; a3 § 6 ; a2 § 4.9).
+4. **Des ventes.** Aucune promesse de ventes d'œuvres, aucun paiement sur ses ventes (Rendez-vous § 8.4 et § 9, ligne 7).
+5. **Une garantie, une conformité, une sécurité.** Les mots « garanti », « conforme », « sécurisé » ne se disent pas (a3 § 6 ; BRIEF § 5, règle 2).
+6. **Un outil en service à la fin du cadrage.** Le cadrage livre des documents et un choix (a1 § 3, n° 2).
+7. **Une date de démarrage** avant l'immatriculation, la signature et l'encaissement (Rendez-vous § 9, ligne 3).
+8. **Du sur mesure pour ce qui existe déjà** : caisse, billetterie, logiciel hôtelier, facturation électronique, comptabilité, paiement. Le tout sur mesure est écarté : « Nous ne le proposons pas. » (BRIEF, additif ; LOGICIEL:56)
+9. **Plus de deux à quatre automatisations en service la première année** (FICHES:24).
+10. **Une présence continue.** Deux personnes ne tiennent ni une astreinte ni un relais garanti ; ce que nous tenons, c'est la sortie : comptes, données et documentation chez lui (a3 § 3). Les engagements écrits aujourd'hui dans LOGICIEL:95, GARANTIES:86 et GARANTIES:104 sont à revoir avant envoi (a3 § 3).
+11. **Un prix pour la suite**, tant que DL1 tient et que les prix ne sont pas validés par écrit (Étude prix, DL1 ; BRIEF § 5, règle 12).
+12. **La robotique.** Plus tard, sous conditions, aucune date ; rien n'est fabriqué ni essayé (a3 § 5.7 ; BRIEF § 5, règle 10).
+13. **L'avenir.** Ce sont des ambitions avec conditions, pas un calendrier (a3 § 5.8 ; BRIEF § 5, règle 11).
+14. **Une aide publique.** Elle ne se présente jamais comme acquise (a4 § 6).
+15. **Un avis fiscal ou juridique**, ou un avantage fiscal chiffré (Rendez-vous § 9, ligne 6 ; a3 § 6).
+16. **Une IA qui note, trie ou surveille une personne** : ni candidats, ni salariés, ni son administratrice (BRIEF § 5, règles 5 et 6 ; a3 § 6).
+17. **« Immatriculée », « assurée », « relu par notre avocat »**, avant que ce soit vrai (a3 § 6).
+18. **Un fichier de prospection prêt à servir.** Il est à remettre en conformité avant tout usage, à notre charge (BRIEF § 5, règle 7 ; a1 § 3, n° 8).
+
+## Les questions à lui poser pendant le rendez-vous
+
+Douze questions, dans l'ordre où elles viennent. Les trois marquées **[oui]** sont celles sans lesquelles un oui ne peut pas être reçu. Les textes entre guillemets sont repris des notes citées ; ils se disent, ils ne se projettent pas.
+
+| N° | La question | Pourquoi nous la posons | Source |
+| --- | --- | --- | --- |
+| 1 | « Avons-nous bien compris vos projets : les bâtiments, la galerie, le cabaret, les commerces ? Que faut-il corriger ? » | Tout ce que nous savons vient de Morgan, par des déclarations non vérifiées. Aucune surface, aucun effectif, aucun chiffre n'est connu. | a3 § 7.4 ; BRIEF § 2 ; r3 § 14 |
+| 2 | Quand il dit « logiciel de gestion de propriété » : pense-t-il à ses bâtiments, à un logiciel hôtelier, ou au pilotage de plusieurs lieux ? Lequel compte, et dans quel ordre ? | Sa demande a trois sens possibles. Notre réponse change selon celui qu'il retient. | a2 § 6.1, n° 4 ; LOGICIEL § 1 |
+| 3 | « Si vous deviez choisir trois sujets à faire avancer d'ici trois mois, lesquels ? Pour chacun, qu'est-ce que cela vous coûte aujourd'hui : du temps, de l'argent, des occasions manquées ? » Relance : « Si un seul de ces sujets avançait, lequel changerait le plus votre année ? » | Le cadrage part de ses trois priorités, pas de notre catalogue. | Rendez-vous § 6.1, question 2 |
+| 4 | Son logiciel de gestion des propriétés fait-il partie de ces trois priorités ? | S'il le retient, le cadrage le prépare ; il se construit ensuite par étapes, chacune commandée à part. | a4 § 5 et § 10 ; Étude prix, DL7 |
+| 5 | « Quel est le rôle de votre administratrice ? Que peut-elle valider seule ? De quelle société dépend-elle ? » | Son rôle n'est pas connu. Sans lui, nous ne savons pas qui valide quoi. | a3 § 7.4 ; D49 et U62 |
+| 6 | Qui travaillerait avec nous au quotidien ? Quels documents et quels accès peut-il ouvrir pendant le cadrage ? Comment préfère-t-il échanger ? | Le cadrage repose sur une quinzaine de documents et sur le temps de cette personne. | Rendez-vous § 6.1, question 4 ; a1 § 3, n° 10 |
+| 7 | À son administratrice, si elle est là : quelles tâches lui prennent le plus de temps, et lesquelles aimerait-elle faire préparer ? | Les tâches à essayer se choisissent avec elle. Lui donner la parole montre qu'elle n'est pas remplacée. Question proposée par ce document, dans l'esprit d'a1 § 3, n° 5. | a1 § 3, n° 5 ; BRIEF § 5, règle 6 |
+| 8 | « La proposition que vous avez reçue porte-t-elle une mention de confidentialité ? Si oui, nous ne la lirons pas ; vous pourrez nous dire vous-même ce qu'elle couvre. » Puis : souhaite-t-il la comparer avec la grille ? | Nous ne lisons pas une pièce confidentielle, et nous ne comparons rien sans pièce écrite. | Étude prix, question Q1 et DL2 ; a4 § 10 |
+| 9 **[oui]** | « Pour vos projets, quelle société signerait avec nous, paierait et validerait notre travail ? Pouvez-vous nous donner son nom exact, son numéro SIREN et la personne qui peut signer ? » | La facture, la TVA, la signature et la responsabilité des données dépendent de la société. | Rendez-vous § 6.1, question 1, et § 8.6 |
+| 10 **[oui]** | Qui signe le bon de commande, et que peut valider son administratrice sans lui ? | Le bon de commande porte un tableau « qui valide quoi ». | a4 § 10 ; a1 § 6 |
+| 11 **[oui]** | Préfère-t-il commencer en janvier 2027 ou attendre ? Quelle date pour le premier entretien chez lui ou, s'il veut réfléchir, quelle date pour nous répondre par écrit ? | Une décision sans date ne se prend pas. | a4 § 4 et § 10 ; a2 § 7.2 |
+| 12 | « Comment votre société règle-t-elle habituellement ses prestataires ? Récupère-t-elle la TVA ? Pensez-vous demander l'aide de la Région au conseil ? Si oui, le dossier doit être déposé avant toute signature. » | Le prix se lit hors taxes ou toutes taxes selon sa société. L'aide publique, s'il la demande, décale la signature. | Rendez-vous § 6.1, question 3 |
+
+**Deux questions de réserve, seulement si le sujet vient de lui** : « Vendez-vous déjà des œuvres à des entreprises ? » et « Qui sont votre expert-comptable et votre conseil, pour les points fiscaux et les données ? » (a3 § 7.4 ; Rendez-vous § 6.1, question 5).
+
+**Les questions à ne pas poser.**
+
+- Le prix de l'autre proposition, ou le nom de son auteur, pour nous en servir (BRIEF, additif ; a2 § 4.9).
+- Le montant de ses bâtiments (BRIEF § 5, règle 4).
+- Toute question qui juge son administratrice, ou qui mesure son travail (BRIEF § 5, règle 6).
+- Un inventaire détaillé de ses tâches en séance : le rendez-vous ne devient pas un cadrage gratuit (Rendez-vous § 9, ligne 11).
+- Aucun enregistrement de l'entretien (Rendez-vous § 9, ligne 13).
+
+## Ce qui doit être réglé avant d'envoyer quoi que ce soit
+
+Rien ne part aujourd'hui : ni présentation, ni proposition, ni message. Si l'un des sept premiers prérequis du rendez-vous manque, nous ne proposons même pas de date (Rendez-vous § 2.2). S'il appelle avant : « Merci de votre appel. Nous avons revu notre proposition pour partir de vos priorités. Vous la recevrez par écrit d'ici [date au plus tard le 27 novembre]. Pouvons-nous fixer un rendez-vous juste après, pour en parler sur pièces ? » Pendant cet appel : aucun prix, aucune formule, aucun commentaire sur l'incident hors du texte validé, aucune promesse de travail (Rendez-vous § 2.3).
+
+### Les trois verrous
+
+| N° | Sujet | État au 9 novembre 2026 | Ce qu'il faut | Échéance | Source |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Incident de données : décision de notification à l'autorité (D03) | Échéance du 5 novembre passée ; aucune pièce lue n'établit la décision. | Une décision documentée, prise avec un avocat ou un délégué à la protection des données. | Dépassée : à traiter en premier | MAJ:65 ; a3 § 7.1 ; Rendez-vous § 2.1, prérequis 1 |
+| 2 | Information écrite de GianLuca Carlone et des personnes concernées (D08) | Non partie. | Un texte validé par le conseil, envoyé avant tout autre message, ou avec lui. | Jeudi 19 novembre 2026 (échéance interne) | MAJ:12 ; Rendez-vous § 2.1, prérequis 2 |
+| 3 | Accord écrit des deux associés | L'accord de Mathys n'est pas établi ; la décision du 4 novembre est orale. | Un écrit des deux sur la stratégie, l'offre, l'échelle de prix, le signataire et la présentation refondue. Mathys écrit ses compétences et sa disponibilité. | Jeudi 19 novembre 2026 | MAJ:240 (U07) ; MAJ:53 (U61) ; Rendez-vous § 2.1, prérequis 4 ; Étude prix, DL8 |
+
+### La société
+
+| N° | Sujet | État au 9 novembre 2026 | Ce qu'il faut | Échéance | Source |
+| --- | --- | --- | --- | --- | --- |
+| 4 | Immatriculation | Société en cours de création, non immatriculée. | Statuts et pacte prêts. Aucune facture et aucun démarrage avant l'immatriculation ; le bon de commande tombe si elle n'intervient pas dans les deux mois qui suivent la signature. | Statuts et pacte prêts : lundi 30 novembre 2026 | BRIEF § 1 ; CADRAGE:98 ; Rendez-vous § 2.1, prérequis 8 |
+| 5 | Signataire | Non nommé. Celui qui signe est tenu personnellement jusqu'à la reprise de l'acte par la société. | Nommer Morgan ou Mathys, par écrit. | Avec l'accord écrit | CADRAGE:318 ; fichier 01, décision 5 |
+| 6 | Assurance de responsabilité civile professionnelle | Non souscrite : devis à obtenir, contrat à souscrire, incident à déclarer à l'assureur (a3 § 3, E46). LOGICIEL § 6 promet pourtant l'attestation « avant la première commande » ; la formulation d'a3 § 5.9 la promet aussi, à condition que la décision de souscrire soit prise. | Demander un devis, décider de souscrire, ou retirer la promesse de tous les textes. | Avant l'immatriculation | Étude prix, DL10 ; fichier 01, décision 6 |
+| 7 | Relecture par un avocat | Aucune pièce lue ne montre une relecture (a3 § 7.3, point 16). La proposition écrit pourtant « relues par notre avocat ». | Faire relire les conditions, l'accord sur les données et la question de la rétractation, ou retirer la mention. | Lundi 30 novembre 2026 | CADRAGE:104 ; CADRAGE:152 ; U46 ; Rendez-vous § 2.1, prérequis 8 |
+| 8 | Bon de commande et conditions | Absents du dépôt. | Les écrire, avec le tableau « qui valide quoi » et le formulaire de rétractation. | Avant le rendez-vous | a4 § 3 et limites ; a1 § 6 ; fichier 01, décision 22 |
+
+### Les documents
+
+| N° | Sujet | État au 9 novembre 2026 | Ce qu'il faut | Échéance | Source |
+| --- | --- | --- | --- | --- | --- |
+| 9 | Proposition de cadrage | Le texte client et notre note interne sont dans le même fichier ; un tiers y est nommé. | Séparer les deux, retirer le tiers, garder une seule description du cadrage (D46 et D51). | Jeudi 19 novembre 2026 | CADRAGE:186 ; CADRAGE:27 ; fichier 01, décisions 4 et 12 |
+| 10 | Présentation | La v11 est publiée à un lien depuis le 9 novembre 2026 ; qui l'a vue n'est pas établi. Ses notes de l'orateur sont visibles par toute personne qui ouvre le lien. | Savoir qui a le lien (D45). Refaire la présentation : 14 affirmations à retirer, 67 à nuancer, 19 à prouver. | D45 : vendredi 13 novembre 2026 | `pour-carlone/presentation-ia/README.md`, lignes 9 et 13 ; MAJ:375 ; fichier 01, conclusion et décisions 3 et 9 |
+| 11 | Documents sur le logiciel (LOGICIEL, FICHES, GARANTIES) | Ils portent des prix non validés et des engagements lourds pour deux personnes. | Ne pas les envoyer tant que DL1 tient. Revoir les engagements de relais et de remise en service. | DL5 et DL6 : jeudi 26 novembre 2026 | Étude prix, DL1, DL5 et DL6 ; a3 § 3 |
+| 12 | Déclaration du lien de Morgan avec BOJ.ART | À joindre au message de recadrage. | L'écrire et la faire valider par les deux associés. | Avec le message | Rendez-vous § 2.1, prérequis 3 et 7 ; fichier 01, décision 8 |
+| 13 | Message écrit à Medhi sur la portée du retrait ; réponse de Morgan sur ce que GianLuca Carlone a déjà vu, reçu ou accepté | Non faits. | Les écrire : GianLuca Carlone ne doit pas apprendre le retrait par la conversation. | Jeudi 19 novembre 2026 | Rendez-vous § 2.1, prérequis 5 et 6, et § 2.2 |
+
+### Les décisions en attente
+
+| Décision | Ce qu'elle tranche | Échéance | Source |
+| --- | --- | --- | --- |
+| D51, puis D46 | L'option du cadrage, puis une seule description. | Jeudi 19 novembre 2026 | MAJ:378 et MAJ:379 ; a3 § 7.2, point 5 |
+| D47 | La réponse écrite à « tout gérer avec l'IA ». | Jeudi 19 novembre 2026 | MAJ:380 ; a3 § 7.2, point 6 ; a3 § 5.2 |
+| D49 et U62 | Le rôle de l'administratrice au contrat. La diapositive `administratrice` attend cette décision. | Avant le premier bon de commande | MAJ:383 ; a3 § 7.2, point 8 |
+| D12 | La propriété du fichier de prospection. | Avant toute mention du fichier | fichier 01, décision 11 |
+| D52 et D53 | Aucune production sans mandat ni commanditaire nommé ; le registre des décisions à jour. | D52 : immédiate ; D53 : lundi 16 novembre 2026 | MAJ:374 et MAJ:376 ; a3 § 7.5 |
+| DL1 | Maintenir ou lever l'interdit de donner un chiffre sur le logiciel. Recommandé : maintenir tant que D03 et D08 ne sont pas levés et que les prix ne sont pas validés par écrit. | Jeudi 26 novembre 2026 au plus tard | Étude prix, DL1 ; fichier 01, décision 18 |
+| DL5, DL6 et DL7 | Les lots et leurs prix ; la maintenance ; le logiciel comme priorité possible du cadrage. | DL7 : jeudi 19 novembre 2026 ; DL5 et DL6 : jeudi 26 novembre 2026 | Étude prix § 7 |
+| DL11 | Un partenaire de secours. Tant qu'il n'existe pas, nous n'en parlons pas. | Vendredi 29 janvier 2027 | Étude prix, DL11 |
+| Fichier 01, décisions 15, 24, 26 et 27 | La maquette ; la version réduite du cadrage ; la signature en séance ; la date limite du rendez-vous. | Avant le rendez-vous | fichier 01 |
+
+### Le calendrier qui en découle
+
+- **Vendredi 13 novembre 2026** : savoir qui a le lien de la présentation (D45).
+- **Lundi 16 novembre 2026** : registre des décisions à jour (D53).
+- **Jeudi 19 novembre 2026** : information écrite (D08), accord écrit des deux associés, une seule description du cadrage, textes signés. C'est la première date possible pour un envoi.
+- **Jeudi 26 novembre 2026** : prix de la suite validés par écrit, ou DL1 maintenue.
+- **Vendredi 27 novembre 2026** : dernier jour pour envoyer le message de recadrage et la proposition (Rendez-vous § 2.1, prérequis 7).
+- **Lundi 30 novembre 2026** : statuts et pacte prêts, conditions en relecture chez l'avocat.
+- **Vendredi 11 décembre 2026** : rendez-vous au plus tard (CADRAGE:172). L'Étude prix (DL13) et le registre (D48 et D54, MAJ:382 et MAJ:384) retiennent le mardi 15 décembre 2026 : l'écart est à trancher (fichier 01, décision 27).
+- **Mi-décembre 2026** : commande signée, pour un démarrage début janvier 2027 (CADRAGE:175).
+- **Jeudi 31 décembre 2026** : fin de validité de la proposition (CADRAGE:19).
+
+---
+
+## Limites de ce document
+
+- Les objections sont des hypothèses : aucune parole directe de GianLuca Carlone n'est dans le dépôt (MAJ:348). Le premier rendez-vous les corrigera.
+- Les réponses ont été écrites pour être dites, à partir d'a1 § 3, d'a3 § 5 et de Rendez-vous § 8. Elles n'ont été relues ni par un avocat ni par Mathys.
+- Plusieurs réponses dépendent de pièces qui n'existent pas : bon de commande, conditions, accord sur les données, attestation d'assurance. Le tableau « Réserves » dit lesquelles.
+- L'autre proposition n'est connue que par une déclaration (le groupe Accor, d'après Morgan Olsen, 9 novembre 2026). Les notes `travaux/x1`, `x2` et `x3` du même dossier, hors de la liste de lecture de la mission, n'ont servi à aucune réponse. Une de leurs hypothèses mérite d'être connue des deux associés : à ce prix, l'autre proposition n'est probablement pas un logiciel seul (x3, hypothèse non vérifiée). C'est une raison de plus pour demander la pièce écrite, et ce n'est pas une chose à dire au client.
+- Deux objections préparées dans Rendez-vous § 8.5 (les anciens partenaires) et § 8.8 (la réduction d'impôt) ne sont pas reprises ici : elles n'ont pas été relues pour ce document.
+- Le fichier `pour-carlone/presentation-ia/README.md` annonce une version 12 ; seule la version 11 est dans le dépôt.
