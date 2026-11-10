@@ -27,10 +27,10 @@
   "grille",
   "avenir",
   "ensuite",
-  "moyens",
   "proposition",
   "garanties",
   "decision",
+  "moyens",
   "cloture",
   "fiches",
   "idees",
@@ -69,7 +69,7 @@
    "start": "etapes"
   },
   "s5": {
-   "description": "Notre proposition et la décision du jour",
+   "description": "Notre proposition, la décision du jour, puis une perspective",
    "start": "proposition"
   },
   "s6": {

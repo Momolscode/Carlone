@@ -31,7 +31,7 @@ Environ trois heures à deux, en trois séances. Ordre : décider d’abord, pui
 
 | ☐ | Document | Ce que vous faites |
 | --- | --- | --- |
-| ☐ | `interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md` | Une répétition chronométrée à voix haute : qui dit quoi, vingt minutes |
+| ☐ | `interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md` | Une répétition chronométrée à voix haute : qui dit quoi, vingt-huit minutes |
 | ☐ | `interne/rendez-vous/2026-11-10-reponses-aux-objections.md` | L’un pose les treize objections, l’autre répond en deux phrases |
 | ☐ | `interne/rendez-vous/2026-11-10-convaincre-de-miser-sur-nous.md` | Les trois phrases de clôture, apprises |
 | ☐ | `interne/rendez-vous/2026-11-10-antiseche-une-page.md` | L’imprimer pour vendredi |
