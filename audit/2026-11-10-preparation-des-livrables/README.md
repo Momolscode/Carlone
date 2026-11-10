@@ -41,7 +41,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 - Livrable 2 : ajuster le texte d’orateur à la version 12 une fois fabriquée.
 - Livrable 7 : projet d’information sur le fichier de contacts (avec l’avocat).
 - Livrable 8 : note conditionnelle sur le logiciel hôtelier, seulement si le scénario hôtelier se confirme.
-- La version 12 de la présentation : le scénario est dans le texte d’orateur ; reste à fabriquer les diapositives (outils `build-slides.js`, `review-slides.js`) et à les publier.
+- La version 12 de la présentation : sources prêtes dans `pour-carlone/presentation-ia/2026-11-10-version-12-projet/` (onze diapositives nouvelles contrôlées) ; reste à corriger les diapositives reprises de la version 11 et à publier après la liste avant tout envoi.
 
 **Décisions attendues de Morgan Olsen et Mathys Couet** (détail dans la feuille de décisions) :
 1. Constater ou prendre les décisions échues (incident de données, dépôt privé, gel de la production, DL1, devis d’assurance).

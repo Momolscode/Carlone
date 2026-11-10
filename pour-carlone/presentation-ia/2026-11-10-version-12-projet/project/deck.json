@@ -1,0 +1,46 @@
+{
+ "v": 4,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-09T18:40:00Z"
+ },
+ "lists": "css",
+ "title": "Votre premier pas — Marwin Tech pour GianLuca Carlone (version 12, projet)",
+ "cover": "cover",
+ "order": [
+  "cover",
+  "compris",
+  "demande",
+  "nouveautes",
+  "ecran-ensemble",
+  "ecran-batiment",
+  "ecran-devis",
+  "administratrice",
+  "modes",
+  "cat-batiments",
+  "etapes",
+  "societe",
+  "grille",
+  "proposition",
+  "garanties",
+  "decision",
+  "moyens",
+  "cloture",
+  "cat-galerie",
+  "cat-cabaret",
+  "cat-admin",
+  "cat-finance",
+  "robotique"
+ ],
+ "faces": {
+  "cormorant-garamond": {
+   "family": "Cormorant Garamond",
+   "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"
+  },
+  "dm-sans": {
+   "family": "DM Sans",
+   "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap"
+  }
+ },
+ "designSystems": []
+}
