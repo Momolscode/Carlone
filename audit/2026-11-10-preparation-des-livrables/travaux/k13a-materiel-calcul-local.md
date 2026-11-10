@@ -203,3 +203,39 @@ Raccordement de la DGX Station : la fiche demande « un circuit de 20 A », norm
   3. Quelqu’un tient la sécurité : mots de passe, mises à jour, chiffrement du disque (la DGX Spark a un stockage auto-chiffré, fiche NVIDIA), sauvegardes, accès à distance limité.
   4. Les tâches difficiles envoyées à un modèle en ligne partent avec des données réduites ou pseudonymisées (voir k13b).
 - **Ce que l’argument ne dit pas.** Une machine locale ne rend pas un traitement conforme à elle seule. Le registre, l’information des personnes et les durées de conservation restent dus. **À faire valider par un avocat ou un conseil en protection des données.**
+
+### 7. Adéquation à nos usages (deux personnes, novembre 2026)
+
+Nos usages connus : lire et classer des documents, extraire des champs, résumer, rédiger des brouillons, relier des logiciels. Tout cela demande peu de calcul, sauf en gros volume [Estimation].
+
+| Scénario | Matériel | Coût d’achat | Ce que cela change | Limite |
+|---|---|---|---|---|
+| Moyens actuels | Aucun achat ; modèles en ligne payés à l’usage (k13b) | 0 € de matériel | Rien à installer ni à entretenir | Données envoyées à un tiers : à encadrer par contrat |
+| Renforcement ciblé | Une machine de 128 Go : DGX Spark, Mac Studio M5 Max 128 Go ou mini-PC AMD | Environ 2 800 à 7 500 € HT [Prix public daté ; Estimation] | Traitements de documents sensibles sur place ; essais de modèles ouverts ; plusieurs traitements en parallèle | Modèles moins bons que les modèles de pointe ; vitesse d’écriture limitée (§ 4.2) |
+| Développement ambitieux | Mac Studio M5 Ultra 512 Go, ou station RTX PRO 6000, ou deux DGX Spark reliées (256 Go) | Environ 11 000 à 25 000 € HT [Estimation] | Modèles plus grands ; plus de vitesse ; plusieurs utilisateurs | Installation, chaleur et maintenance ; prix très variables |
+| Exclu | DGX Station | Environ 90 000 à 171 500 € HT (BuyZero, octobre 2026) | — | Disproportionné pour deux personnes [Estimation] |
+
+Lecture [Estimation] :
+- **Pour Marwin Tech** (essais internes, sans données de clients) : le mini-PC AMD ou un Mac Studio M5 Max suffisent. La DGX Spark se justifie si nous voulons l’écosystème NVIDIA (CUDA, réglage fin).
+- **Pour GianLuca Carlone** (machine chez lui, à son nom) : une DGX Spark ou un Mac Studio, installés dans ses locaux, pour traiter sur place les documents qu’il ne veut pas envoyer en ligne. C’est le seul cas où l’argument « ses données restent chez lui » joue pleinement (§ 6).
+- **Gain « × N »** : sur DGX Spark, 32 traitements en parallèle produisent environ 4,5 fois plus de texte par heure qu’un seul (§ 4.3, chiffre non revérifié ce jour). Cela ne vaut que pour des tâches répétitives ; la relecture humaine reste le goulet.
+
+### Tableau des prix (récapitulatif)
+
+Prix relevés par la note ou par la vérification. « Vérifié » = page relue le 10 novembre 2026 par le relecteur. Taux de TVA retenu pour les conversions : 20 %.
+
+| Machine | Configuration | Prix | HT ou TTC | Source et date | Statut |
+|---|---|---|---|---|---|
+| DGX Spark Founders Edition | 128 Go | 3 999 $ → 4 699 $ | Prix conseillé NVIDIA, hors taxes américaines | Forum développeurs NVIDIA, annonce du 23 février 2026 | Vérifié |
+| DGX Spark Founders Edition | 128 Go | 6 950 $ | Prix conseillé | Presse, 8 octobre 2026 (titres concordants) | Page NVIDIA non lue |
+| DGX Spark (partenaires) | 64 Go | à partir de 4 999 $ | Prix conseillé | Presse, 8 octobre 2026 | Page NVIDIA non lue |
+| DGX Spark et dérivés, France | 128 Go | 5 500 à 7 500 € HT | HT | Senetic, APY Groupe (note, § 1) | Non revérifié |
+| Mac Studio M5 Max | 36 Go, 512 Go | à partir de 2 999 € | TTC (≈ 2 499 € HT) | Apple Newsroom France, 25 août 2026 | Vérifié |
+| Mac Studio M5 Ultra | 96 Go, 1 To | à partir de 6 599 € | TTC (≈ 5 499 € HT) | Apple Newsroom France, 25 août 2026 | Vérifié |
+| Mac Studio M5 Ultra | 256 Go | 12 429 € | TTC | MacGeneration, 4 novembre 2026 (note) | Non revérifié |
+| Mac Studio M5 Ultra | 512 Go, 1 To | 25 079 € | TTC | World Is Small, 29 octobre 2026 (note) | Non revérifié |
+| Mini-PC AMD Ryzen AI Max+ 395 | 128 Go | environ 2 800 à 3 600 € HT | Estimation depuis prix TTC | Amazon.fr, LaBonneConfig, Mirravolt (note, § 3.3) | Non revérifié |
+| Carte RTX PRO 6000 Blackwell | 96 Go | 14 733 à 19 542 € HT | HT | LDLC.pro, Senetic, Grosbill Pro (note, § 3.1) | Non revérifié |
+| DGX Station (fourchette) | selon constructeur | environ 90 000 à 171 500 € | Net (HT) | BuyZero, guide du 5 novembre 2026, « état octobre 2026 » | Vérifié |
+| HP ZGX Fury G1n | GB300 | 133 193,28 € HT / 158 500 € TTC | HT et TTC | BuyZero, fiche produit | Vérifié |
+| Dell Pro Max avec GB300 | GB300, 16 To | 171 428,57 € HT / 204 000 € TTC | HT et TTC | BuyZero, fiche produit | Vérifié |
