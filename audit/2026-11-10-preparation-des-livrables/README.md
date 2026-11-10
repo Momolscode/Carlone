@@ -39,7 +39,6 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 - La triple relecture indépendante (règles, lecteur, exactitude) de chaque document.
 - La vérification des notes de recherche (aucune n’a encore sa partie « Vérification du 10 novembre 2026 ») : les chiffres du livrable 10 et les statuts « documenté » du livrable 9 en dépendent.
 - Livrable 2 : ajuster le texte d’orateur à la version 12 une fois fabriquée.
-- Livrable 5 : plan des semaines, modèle de compte rendu.
 - Livrable 7 : projet d’information sur le fichier de contacts (avec l’avocat).
 - Livrable 8 : note conditionnelle sur le logiciel hôtelier, seulement si le scénario hôtelier se confirme.
 - La version 12 de la présentation : le scénario est dans le texte d’orateur ; reste à fabriquer les diapositives (outils `build-slides.js`, `review-slides.js`) et à les publier.
