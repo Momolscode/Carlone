@@ -4,7 +4,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 **Maquette — données fictives.** À ne montrer qu’après décision écrite de Morgan Olsen et Mathys Couet.
 
-Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour votre projet d’hôtel ou de chambres, nous ne construisons pas de logiciel hôtelier : ceux du marché gèrent en général les réservations, l’encaissement, la taxe de séjour et les fiches de police. Nous vous aidons à en choisir un, à le paramétrer et à le relier au reste.
+Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous ne construisons pas de logiciel hôtelier : ceux du marché gèrent en général les réservations, l’encaissement, la taxe de séjour et les fiches de police. Nous vous aidons à en choisir un, à le paramétrer et à le relier au reste.
 
 Ces onze écrans montrent l’ensemble : un logiciel du marché pour vos suites, relié, et autour l’outil commun que nous construirions pour vos bâtiments, votre galerie, votre cabaret, l’espace bien-être et votre administratrice. Une partie n’en serait construite que si aucun logiciel du marché ne la couvre correctement. Les écrans montrent son allure et son principe. Ce n’est pas un logiciel utilisable, et ce n’est pas le contenu de la première étape : les rubriques, les échéances et les règles réelles se fixent avec vous pendant le cadrage.
 
