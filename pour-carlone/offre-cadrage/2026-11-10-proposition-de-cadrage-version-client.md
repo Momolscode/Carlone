@@ -4,7 +4,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 Projet à faire relire par un avocat avant tout usage
 
-Version client du 10 novembre 2026, tirée du texte du 9 novembre (`audit/2026-11-04-audit-strategique/pour-gianluca/2026-11-09-proposition-de-cadrage.md`, conservé) : texte client seul, sans note interne, sans tiers nommé, sans promesse non tenue. Les mentions entre crochets sont des choix à arrêter (feuille de décisions).
+Les mentions entre crochets sont des choix qui restent à arrêter.
 
 **Marwin Tech · Proposition à M. GianLuca Carlone**
 
@@ -16,10 +16,11 @@ Ce résumé vient de nos échanges. Il est à corriger avec vous.
 
 | Sujet | Ce que nous avons compris | Ce que nous ignorons encore |
 | --- | --- | --- |
-| Vente d'œuvres | Vendre des œuvres à des entreprises de la Nièvre, avec un centre d’appels que vous prévoyez d’engager. Un fichier de prospection existe | La société qui vend, les œuvres disponibles, qui appelle, le conseil qui valide les arguments fiscaux |
+| Vente d’œuvres | Vendre des œuvres à des entreprises de la Nièvre, avec un centre d’appels que vous prévoyez d’engager. Un fichier de prospection existe | La société qui vend, les œuvres disponibles, qui appelle, le conseil qui valide les arguments fiscaux |
 | Bâtiments | Plusieurs bâtiments acquis, à aménager et à faire vivre | Pour chacun : société propriétaire, usage, état, travaux, exploitant. Le Vieux Relais et le M, à Cosne-Cours-sur-Loire, en font-ils partie ? |
 | Galerie | Prévue pour 2027 dans un ancien bar-restaurant-hôtel avec cour | Calendrier, budget, artistes, société exploitante |
 | Cabaret-spectacle | Prévu juste à côté de la galerie | Le bâtiment et son lien éventuel avec le M, la société exploitante, le calendrier, les autorisations |
+| Suites et espace bien-être | Neuf suites et un espace bien-être (sauna et jacuzzi), dans l’établissement de la galerie | L’ouverture, la capacité, la restauration, la société exploitante ; la catégorie de l’hébergement, à faire valider par vos professionnels |
 | Commerces | Plusieurs commerces à ouvrir dans vos lieux | Lesquels, où, quand, qui les exploitera |
 | Autres projets | Réunir des artistes et des peintres ; d’autres projets | Lesquels ; pour chacun, public, lieu, date, budget |
 | Organisation | Une administratrice coordonne tous vos projets. Vous voulez avancer sans gérer chaque détail | Son rôle exact, la société pour laquelle elle travaille, depuis quand, ce qu’elle peut signer, valider ou dépenser |
@@ -31,6 +32,8 @@ Nous ignorons aussi l’ordre de vos priorités et ce que chaque sujet vous coû
 Sans liste partagée de vos sociétés, lieux, projets, budgets et accès, personne ne peut dimensionner un accompagnement. Le cadrage la construit avec vous et votre administratrice.
 
 **Pourquoi un cadrage, si votre administratrice coordonne déjà vos projets ?** Elle connaît le quotidien. Nous apportons un regard extérieur, une méthode et le choix des outils. Le cadrage compare, chiffres à l’appui : votre administratrice seule, outillée ou non, un autre prestataire, ou nous. Il peut conclure qu’elle suffit.
+
+**Votre logiciel.** Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous conseillons un logiciel du marché, pris au nom de votre société, que nous vous aidons à choisir, à paramétrer et à relier au reste ; nous construisons seulement ce qui manque autour. Si vous en faites une priorité, le cadrage fixe vos besoins et vos critères de choix ; la comparaison des logiciels se commande à part, après le cadrage.
 
 **Ce que vous recevez**
 
@@ -65,7 +68,7 @@ Si un sujet, ou le nombre d’éléments, demande davantage, nous vous le disons
 - Un premier entretien de 2 à 3 heures chez vous. Votre administratrice y est invitée, pour tout ou partie, pour réunir les pièces et repérer les tâches à essayer.
 - L’analyse des documents confiés.
 - L’envoi de la liste des tâches à essayer, que vous validez par écrit.
-- La remise du dossier, puis une restitution d'1 h 30, chez vous ou à distance.
+- La remise du dossier, puis une restitution d’une heure trente, chez vous ou à distance.
 - Un aller-retour de corrections.
 
 L’un de nous mène le travail, l’autre le relit. **Durée** : 3 à 4 semaines après l’encaissement de l’acompte et la réception des pièces, congés de fin d’année non comptés.
@@ -81,19 +84,19 @@ L’un de nous mène le travail, l’autre le relit. **Durée** : 3 à 4 semaine
 
 **Prix et paiement**
 
-| Échéance | HT | TVA 20 % | TTC |
+| Échéance | Hors taxes | TVA 20 % | Toutes taxes comprises |
 | --- | --- | --- | --- |
 | Cadrage au forfait, déplacements des deux rendez-vous compris | 6 500 € | 1 300 € | 7 800 € |
-| Moitié à la commande ; le travail démarre à l’encaissement | 3 250 € | 650 € | 3 900 € |
-| Moitié à la réception, payable sous 8 jours | 3 250 € | 650 € | 3 900 € |
+| Acompte, moitié à la commande ; le travail démarre à l’encaissement | 3 250 € | 650 € | 3 900 € |
+| Solde, moitié à la réception, payable sous 8 jours | 3 250 € | 650 € | 3 900 € |
 
-**Qui signe.** Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. [Le bon de commande est signé après son immatriculation.] [Variante : l’un de nous signe au nom et pour le compte de Marwin Tech, SAS en formation ; le bon de commande prend effet à l’immatriculation ; sans immatriculation au plus tard le ………, il tombe, sans frais pour vous.] Aucune facture n’est émise avant l’immatriculation.
+**Qui signe.** Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. [Le bon de commande est signé après son immatriculation.] [Variante : l’un de nous signe au nom et pour le compte de Marwin Tech, société en formation ; le bon de commande prend effet à l’immatriculation ; sans immatriculation au plus tard le ………, il tombe, sans frais pour vous.] Aucune facture n’est émise avant l’immatriculation, et aucun paiement n’est demandé pendant les sept jours qui suivent la signature.
 
-**Délai de rétractation.** [Vous disposez de quatorze jours pour vous rétracter, sans motif ; un formulaire est joint. Aucun paiement n’est demandé pendant les sept premiers jours. Le travail ne commence avant le quatorzième jour que sur votre demande écrite ; si vous vous rétractez ensuite, seule la part faite est due.]
+**Délai de rétractation.** [Vous disposez de quatorze jours après la signature pour vous rétracter, sans motif ; un formulaire est joint. Le travail ne commence avant le quinzième jour que sur votre demande écrite ; si vous vous rétractez ensuite, seule la part faite est due.]
 
-**TVA et retard.** Montants toutes taxes comprises calculés avec une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, sans TVA. Si votre société ne récupère pas la TVA, retenez le montant toutes taxes comprises. Un retard de paiement entraîne des pénalités au taux de refinancement de la Banque centrale européenne majoré de 10 points, et une indemnité de 40 € pour frais de recouvrement. Le travail est suspendu huit jours après une relance restée sans effet.
+**TVA.** Le prix hors taxes est fixe. Les montants toutes taxes comprises sont calculés avec une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base). Si votre société ne récupère pas la TVA, retenez le montant toutes taxes comprises. Ce point est à faire valider par vos professionnels (expert-comptable).
 
-**Nos conditions.** Le bon de commande est accompagné de nos conditions (arrêt, réception, propriété, confidentialité, données, responsabilité).
+**Nos conditions.** Le bon de commande est accompagné de nos conditions (paiement et retard, arrêt, réception, propriété, confidentialité, données, responsabilité).
 
 **Réception.** Vous signez la réception de l’inventaire, des trois priorités, de la grille de délégation et des projets de mandat, ou votre administratrice si vous l’y autorisez par écrit. Vous avez deux semaines (10 jours ouvrés) pour nous écrire vos réserves et leurs raisons ; nous corrigeons une fois. Sans réserve écrite, le solde est dû au plus tard 30 jours après la remise. Cette règle ne sert qu’au paiement : la liste des tâches, le choix de la suite et toute dépense restent soumis à votre accord.
 
@@ -107,7 +110,7 @@ Vous décidez d’une suite dans les 30 jours qui suivent la restitution. Une se
 
 | Suite | Ce que nous ferions | Ce qu’il faut de votre côté |
 | --- | --- | --- |
-| **(a) Ventes d'œuvres** | Essai sur 20 entreprises : fiches vérifiées et sourcées, script et e-mail validés par votre conseil, suivi des appels, bilan mesuré. Appels, vente et encaissement restent à vous ou à vos prestataires | La société qui vend ; cinq à dix œuvres d’artistes vivants, disponibles, avec leur prix ; l’avis écrit de votre conseil fiscal ; qui appelle ; la société responsable des données |
+| **(a) Ventes d’œuvres** | Essai sur 20 entreprises : fiches vérifiées et sourcées, script et courriel validés par votre conseil, suivi des appels, bilan mesuré. Appels, vente et encaissement restent à vous ou à vos prestataires | La société qui vend ; cinq à dix œuvres d’artistes vivants, disponibles, avec leur prix ; l’avis écrit de votre conseil fiscal ; qui appelle ; la société responsable des données |
 | **(b) Pilotage** | Deux mois : point hebdomadaire avec votre administratrice, compte rendu sous 24 h ouvrées, registre et tableau de bord, comité mensuel avec vous ; un premier travail concret (catalogue de vos œuvres, ou obligations de vos lieux) | Un interlocuteur nommé, votre administratrice si vous le confirmez ; vos réponses aux demandes de décision sous 5 jours ouvrés |
 | **(c) Organisation interne** | Nous outillons votre administratrice, ou une autre personne que vous désignez ou recrutez : registre, tableau de bord, procédures écrites, comptes à votre nom, formation. L’exécution se fait ensuite chez vous | Son temps pendant l’essai et ce qu’elle peut valider seule, ou le choix d’une autre personne |
 
@@ -122,16 +125,16 @@ Vous décidez d’une suite dans les 30 jours qui suivent la restitution. Une se
 - **Une réception écrite** pour chaque livrable. Le silence ne vaut jamais accord sur une décision ou une dépense : l’engagement attend. Seul le solde suit la règle de réception (section 2).
 - **Rien n’est envoyé, payé ou signé automatiquement, même après un essai** (section 2). Toute tâche outillée peut être arrêtée à tout moment. Un message envoyé en votre nom est validé un par un, par vous ou la personne que vous désignez, jamais par nous seuls.
 - **Confidentialité et données.** Vos documents restent sur des comptes de votre société, avec des accès nominatifs, et ne servent qu’à vos projets. Avant d’en recevoir qui contiennent des données personnelles, nous signons avec la société responsable un accord sur leur traitement (article 28 du RGPD) ; d’ici là, nous travaillons sans. Seules des offres d’IA professionnelles sont utilisées, sans entraînement sur vos données ; l’un de nous relit tout ce qui vous est remis. À la fin, vos documents sont rendus ou effacés, à votre choix.
-- **À la fin, tout vous est rendu** sous 15 jours ouvrés : documents, fichiers, réglages, accès. Les documents et développements faits pour votre société lui sont cédés au paiement complet. Nos méthodes et outils génériques restent à nous ; votre société en garde l’usage, sans paiement supplémentaire et sans limite de durée.
+- **À la fin, tout vous est rendu** sous 15 jours ouvrés : documents, fichiers, réglages, accès. Les documents et développements faits pour votre société lui sont cédés une fois le prix dû payé. Nos méthodes et outils génériques restent à nous ; votre société en garde l’usage, sans paiement supplémentaire et sans limite de durée.
 - **Un sujet, un accord.** Chaque prestation a son bon de commande, son prix et sa réception ; rien n’est facturé deux fois. Toute autre relation (locaux, emploi, participation) ferait l’objet d’un accord séparé, sans lien avec nos honoraires.
 
 ## 5. Ce que nous ne faisons pas
 
 - **Conseil juridique, fiscal ou comptable** : nous préparons les dossiers ; votre avocat et votre expert-comptable décident. Aucun argument fiscal sans leur avis écrit.
 - **Exécution administrative courante** (paiements, déclarations, paie, classement) : elle revient à votre administratrice ou à votre équipe, que nous pouvons outiller.
-- **Exploitation des lieux** : les autorisations sont au nom de l’exploitant de chaque lieu. Spectacles, sécurité du public, droits musicaux : la société exploitante ; événements : la société organisatrice. Débit de boissons : la personne qu’elle désigne, titulaire du permis d’exploitation. Nous préparons les dossiers et suivons les échéances ; nous ne pouvons ni détenir ces autorisations, ni les signer pour vous.
+- **Exploitation des lieux** : les autorisations sont au nom de l’exploitant de chaque lieu. Spectacles, sécurité du public, droits musicaux : la société exploitante ; événements : la société organisatrice. Débit de boissons : la personne qu’elle désigne, titulaire du permis d’exploitation. Nous préparons les dossiers et suivons les échéances ; nous ne pouvons ni détenir ces autorisations, ni les signer pour vous. Ces règles sont à faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur).
 - **Gestion immobilière** : ni achat, ni location, ni gestion de biens pour vous ; nous préparons des comparaisons.
-- **Vente ou intermédiation d'œuvres** : ni vente pour votre compte, ni encaissement, ni commission, ni garde ou transport d'œuvres.
+- **Vente ou intermédiation d’œuvres** : ni vente pour votre compte, ni encaissement, ni commission, ni garde ou transport d’œuvres.
 - **Promesses de ventes ou de rendez-vous** ; organisation de séjours ; astreinte le soir ou le week-end.
 
 ## 6. Ce dont nous avons besoin
@@ -144,7 +147,7 @@ Vous décidez d’une suite dans les 30 jours qui suivent la restitution. Une se
 | L’accord sur les données | La société responsable des données de vos documents, et sa signature de l’accord | Avant l’envoi de documents qui en contiennent |
 | Deux entretiens | Le premier entretien et la restitution (section 2) | Pendant le cadrage |
 
-**Qui valide quoi pendant le cadrage.** Nous ne présumons pas des pouvoirs de votre administratrice. Merci de nous indiquer par écrit, avant la commande, qui tient chaque rôle.
+**Qui valide quoi pendant le cadrage.** Nous ne présumons pas des pouvoirs de votre administratrice. Merci de nous indiquer par écrit qui tient chaque rôle, au plus tard au premier entretien.
 
 | Acte | Notre proposition | Votre choix |
 | --- | --- | --- |
@@ -161,10 +164,10 @@ Si votre administratrice travaille pour une autre société que celle qui comman
 
 ## 7. Prochaines étapes
 
-1. Un premier rendez-vous d’une heure à une heure et demie, chez vous ou à distance, pour corriger ce résumé et relire le cadrage. Votre administratrice est la bienvenue, pour tout ou partie, comme vous le préférez : [date à fixer, au plus tard le vendredi 11 décembre 2026].
-2. Signature du bon de commande par votre société, avec nos conditions et le formulaire de rétractation ; le tableau « qui valide quoi » peut être rempli au premier entretien.
-3. Immatriculation de Marwin Tech ; remise de son extrait K-bis et, dès qu’elle est délivrée, de son attestation de vigilance (preuve qu’elle est à jour de ses cotisations) ; facture d’acompte.
-4. Accord sur les données, si vos documents en contiennent. Démarrage à l’encaissement de l’acompte et à la réception des pièces : début janvier 2027 si la commande est signée avant la mi-décembre.
+1. Un rendez-vous d’une heure à une heure et demie, chez vous ou à distance, pour corriger ce résumé et relire le cadrage. Votre administratrice est la bienvenue, pour tout ou partie, comme vous le préférez : [date à fixer, au plus tard le vendredi 11 décembre 2026].
+2. Signature du bon de commande par votre société, avec nos conditions [et le formulaire de rétractation] ; le tableau « qui valide quoi » peut être rempli au premier entretien.
+3. [Immatriculation de Marwin Tech, si elle n’a pas eu lieu avant la signature] ; remise de son extrait d’immatriculation et, dès qu’elle est délivrée, de son attestation de vigilance (preuve qu’elle est à jour de ses cotisations) ; facture d’acompte.
+4. Signature de l’accord sur les données, si vos documents en contiennent. Démarrage à l’encaissement de l’acompte et à la réception des pièces : nous visons début janvier 2027 si la commande est signée avant la mi-décembre.
 5. Remise du dossier et restitution 3 à 4 semaines plus tard ; réception ; solde ; votre décision sur une suite dans les 30 jours.
 
 Tout ce qui précède reste à confirmer avec vous, en particulier la société qui signera et le rôle de votre administratrice. Aucun engagement n’existe, de part ni d’autre, avant la signature du bon de commande.

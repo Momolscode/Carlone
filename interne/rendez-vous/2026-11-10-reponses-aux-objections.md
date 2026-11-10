@@ -46,7 +46,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 ## 5. Les modalités de démarrage
 
 **Il dit** : « Comment on commence, concrètement ? »
-**Réponse** : « Il nous faut trois informations : la société qui commande, la personne qui signe, et une date pour le premier entretien. Nous vous envoyons le bon de commande d’une page sous deux jours ; rien ne vous engage avant de le signer. »
+**Réponse** : « Il nous faut trois informations : la société qui commande, la personne qui signe, et une date pour le premier entretien. Nous vous envoyons le bon de commande d’une page sous deux jours ; rien ne vous engage avant de le signer. » (Délai à confirmer jeudi : décision V10 de la feuille de décisions.)
 **Calendrier** : démarrage début janvier 2027 si la commande est signée avant la mi-décembre ; premier entretien de deux à trois heures chez lui ; dossier remis trois à quatre semaines plus tard.
 **Ne pas faire** : signer en séance (recommandation de la feuille de décisions, arbitrage B) ; demander un chèque.
 
@@ -75,3 +75,30 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 
 **Réponse** : « Non. Notre offre d’aujourd’hui se tient avec nos moyens actuels. Cette page montre où nous voulons aller ; si un jour cela vous intéresse, nous en parlerons à part, avec vos conseils. »
 **Ne pas dire** : un montant, une forme de soutien (participation, avance), une date.
+
+## 11. « Pouvez-vous créer notre logiciel d’hôtel ? »
+
+C’est sa demande d’origine : « gestion de propriété » veut dire logiciel de gestion hôtelière (rapporté par Morgan Olsen ; BRIEF-2, § 10.1).
+**Il craint** : un refus ; ou un outil générique qui ne colle pas à son établissement.
+**Réponse** (note hôtelière, § 6) : « Pour vos neuf suites et l’espace bien-être, nous vous conseillons de ne pas le faire construire : des logiciels du marché font déjà la fiche de police, la taxe de séjour, la caisse et le lien avec les sites de réservation, et ils suivent les règles quand elles changent. Notre travail, c’est de vous aider à bien le choisir, à le paramétrer, à le relier au reste de vos lieux, et de former votre administratrice. Nous construisons seulement ce qui manque autour. »
+**Preuve** : diapositive `hotel` ; page client sur les suites (`pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`), montrée à l’écran, laissée seulement selon la décision V2.
+**S’il parle des sites** : « Vos suites pourront apparaître sur les principaux sites de réservation, avec un seul calendrier à jour. » Aucun chiffre de réservations.
+**S’il insiste (« vous pourriez l’écrire »)** : la réponse de `interne/logiciels-et-automatisations/2026-11-10-construire-nous-memes-le-logiciel-des-suites.md` (« Si la question tombe vendredi ») : un logiciel du marché pour le cœur, notre travail autour.
+**Ne pas dire** : « votre hôtel » (dire « vos neuf suites ») ; « nous allons vous le développer » ; un prix d’abonnement sans sa source et sa date ; que l’outil fera le travail de son administratrice.
+**Question suivante** : « Combien de suites, et pour combien de personnes au plus ? Quand voulez-vous accueillir les premiers clients ? »
+
+## 12. « Pourquoi pas l’offre qu’on m’a faite ? »
+
+**Il craint** : faire le mauvais choix ; être pris entre deux prestataires.
+**Réponse** : « C’est peut-être un bon choix : cela dépend de ce qu’elle couvre, et nous ne l’avons pas lue. Nous ne la commentons pas. Nous pouvons vous aider à comparer sur les mêmes questions, la nôtre comprise : ce qui est couvert, pour combien de temps et comment on en sort, à qui sont les données, qui décide. » Puis : « Ce que nous proposons, nous : un logiciel du marché au nom de votre société, choisi avec vous et relié au reste ; un premier pas à prix fixe ; un arrêt possible à chaque étape. »
+**Puis** les questions restantes, une par une : durée d’engagement et sortie ; hors taxes ou non ; document écrit qu’il peut montrer.
+**S’il attend qu’on lui amène des clients** : « Une marque qui apporte des clients, ce n’est pas notre métier. Le logiciel choisi peut publier vos suites sur les sites de réservation ; le reste dépend de votre offre. »
+**S’il la préfère** : respecter son choix ; remercier ; laisser la grille de questions.
+**Ne pas dire** : le nom ou le prix de l’autre prestataire, même s’il les dit ; « trop cher », « ils vous enferment », « une enseigne ne vous conviendra pas » ; « moins cher », « mieux » ; une comparaison chiffrée sur trois ans.
+
+## 13. « Vous proposez beaucoup : pouvez-vous tout tenir à deux ? »
+
+Diapositives `idees` et `ensuite`.
+**Réponse** : « Non, pas tout à la fois, et nous ne vous le proposons pas. Le cadrage choisit trois priorités ; nous menons une étape et un essai à la fois. Le reste attend, ou se fait avec des partenaires choisis avec vous. »
+**Si ses collaborateurs sont évoqués** : « Chacun peut nous consulter directement, avec son propre contrat. Vous n’êtes engagé à rien pour eux. » Aucune commission (décision V9).
+**Ne pas dire** : « nous ferons tout » ; un prix pour ces suites possibles ; une date pour ce qui est marqué « plus tard ».

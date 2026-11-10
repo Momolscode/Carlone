@@ -39,7 +39,7 @@ Le dossier de cadrage, remis par écrit, puis présenté lors d’une restitutio
 | Acompte, moitié à la commande ; le travail démarre à l’encaissement | 3 250 € | 3 900 € |
 | Solde, moitié à la réception du dossier | 3 250 € | 3 900 € |
 
-Factures payables sous huit jours. Prix toutes taxes comprises calculé avec une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base). Aucune facture n’est émise avant l’immatriculation de Marwin Tech, et aucun paiement n’est demandé pendant les sept jours qui suivent la signature.
+Factures payables sous huit jours. Le prix hors taxes est fixe. Le prix toutes taxes comprises suppose une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base). Aucune facture n’est émise avant l’immatriculation de Marwin Tech. Aucun paiement n’est demandé pendant les sept jours qui suivent la signature.
 
 ## 6. Validité
 

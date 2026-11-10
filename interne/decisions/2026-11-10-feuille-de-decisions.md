@@ -21,6 +21,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 | V7 | Montrer la diapositive « moyens » (après la décision) | Seulement si décidé par écrit : 45 secondes, une perspective, aucune forme de soutien en séance ; sinon annexe | ☐ montrer ☐ annexe ☐ non |
 | V8 | Un seul prix pour le choix du logiciel des suites | Les deux lignes du document client du 9 novembre se recouvrent : « Choix des logiciels et comparaison écrite » (3 000 € HT) et « Option hôtellerie (choix du logiciel, reprise des totaux) » (2 300 € HT). Garder un seul prix, arrêté avec DL1 ; cadre naturel : l’étape à 3 000 € HT (BRIEF-2, § 10.3). Tant que DL1 tient, aucun des deux n’est dit | ☐ 3 000 € HT ☐ 2 300 € HT ☐ autre : ……… |
 | V9 | Règle pour les collaborateurs de GianLuca Carlone | Contrats distincts, aucune commission ni apport d’affaires rémunéré, aucun démarchage de ses contacts sans son accord (note de l’offre élargie, § 3, point 2) | ☐ oui ☐ autre, après avis de l’avocat |
+| V10 | Délai du bon de commande annoncé vendredi (« sous deux jours », diapositive `decision`) | Ce délai tombe avant le premier envoi possible (jeudi 19 novembre) et avant la relecture par l’avocat (n° 5). Annoncer un délai tenable, fixé jeudi, et corriger la diapositive en conséquence | ☐ sous deux jours ☐ autre délai : ……… |
 
 Passent aussi en P0 : n° 6 (prix du cadrage à l’écran), 13 (version réduite), 20 (maquette), 21 (vocabulaire et liste des documents remis).
 

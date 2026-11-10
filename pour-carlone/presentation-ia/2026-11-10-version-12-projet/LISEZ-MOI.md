@@ -34,3 +34,5 @@ Dernière ligne de `lint.js` sur les 24 diapositives : **« Total : 0 erreur(s),
 ## Publier, le moment venu
 
 Avec l’outil Artifact : `url` de la présentation, `root` = ce dossier, `file_path` = `project/deck.json`, `files` = chaque diapositive modifiée ; les diapositives retirées de la version 11 (`avancees`, `ia-aujourdhui`, `domaines`, `cat-marketing`, `crm`, `logiciels`, `apports`, `regles`, `methode`, `pour-dautres`, `trajectoire`, `premier-pas`, `echange`, `idee`) passent à `null`.
+
+**Ordre au 10 novembre 2026, nuit (26 diapositives)** — fil principal (21) : cover, compris, demande, nouveautes, idees, ecran-ensemble, ecran-batiment, ecran-devis, hotel, administratrice, modes, cat-batiments, etapes, societe, grille, ensuite, proposition, garanties, decision, moyens, cloture. Annexe (5) : cat-galerie, cat-cabaret, cat-admin, cat-finance, robotique. Cet ordre l’emporte sur toute autre liste de ce fichier. Contrôle : `lint.js` 0 erreur.
