@@ -18,17 +18,17 @@ Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos
 
 ## Ce que nous proposons
 
-*Quand ?* Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Idée | Ce que cela change pour vous | Quand |
 | --- | --- | --- |
-| Choisir le logiciel des suites : deux ou trois logiciels du marché comparés par écrit (accès aux principaux sites de réservation, liaison ouverte avec nos outils, créneaux du sauna et du jacuzzi, coût sur trois ans) | Un choix argumenté, sur pièces | Essai |
+| Choisir le logiciel des suites : trois logiciels du marché au plus, comparés par écrit (accès aux principaux sites de réservation, liaison ouverte avec nos outils, créneaux du sauna et du jacuzzi, coût sur trois ans) | Un choix argumenté, sur pièces | Essai |
 | Le registre de vos bâtiments : une fiche par bâtiment, les échéances avec qui porte l’obligation, les documents, les travaux | Aucune échéance découverte trop tard | Essai |
 | La comparaison de trois devis | Les devis comparés sur les mêmes points ; une personne décide | Essai |
 | Une page chaque semaine : décisions à prendre, échéances, quelques chiffres | Diriger plusieurs projets sans vous noyer dans le détail | Essai |
 | Le logiciel des suites paramétré et relié : si vous le souhaitez, vos suites pourront apparaître sur les principaux sites de réservation, avec un seul calendrier à jour | Moins de saisies et de doubles réservations ; votre administratrice garde la main | Ensuite |
-| L’espace bien-être : créneaux du sauna et du jacuzzi, rappels de l’entretien et des contrôles | Pas de créneau en double, aucune vérification oubliée | Ensuite |
-| Les séjours combinés : nuit, vernissage, soirée au cabaret, espace bien-être | Une offre propre à votre établissement | Ensuite |
+| L’espace bien-être : créneaux du sauna et du jacuzzi, rappels de l’entretien et des contrôles | Pas de créneau en double, aucune vérification oubliée | Rappels : essai ; créneaux : ensuite |
+| Les séjours combinés : nuit, vernissage, soirée au cabaret, espace bien-être | Une offre propre à votre établissement | Ensuite : lieux ouverts |
 | La galerie, le cabaret et l’administratif dans la même vue d’ensemble | Tout au même endroit ; chacun ne voit que ce qui le concerne | Ensuite, par étapes |
 | Un assistant qui cherche dans vos documents et cite sa source | Retrouver un document en une question | Ensuite, si vous le souhaitez |
 
@@ -39,10 +39,10 @@ Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos
 1. **Cadrage** : si vous en faites une priorité, inventaire de vos lieux et mesure du temps passé aujourd’hui.
 2. **Choix des logiciels**, avec des critères de réception écrits.
 3. **Maquette et essai sur données fictives** : votre administratrice essaie les écrans.
-4. **Pilote de huit semaines** sur un bâtiment et un lieu ; chaque rappel activé après votre validation écrite.
-5. **Bilan** : arrêt, pilote conservé ou suite, un périmètre à la fois.
+4. **Essai de huit semaines au plus** sur un bâtiment et un lieu, commandé à part ; chaque rappel activé après votre validation écrite.
+5. **Bilan** : arrêt, essai conservé ou suite, un périmètre à la fois.
 
-L’IA nous aide à écrire le code ; une personne relit tout. Les montants passent par des formules testées, jamais par l’IA. Comptes, hébergement dans l’Union européenne, code et données sont au nom de votre société dès le premier jour. Le code développé pour vous lui est cédé au paiement complet. Vous exportez tout, à tout moment, sans nous. Si nous ne pouvions plus intervenir, vos outils continuent de fonctionner sur vos comptes, et un autre prestataire peut reprendre.
+L’IA nous aide à écrire le code ; une personne relit tout. Les montants passent par des formules testées, jamais par l’IA. Comptes, hébergement dans l’Union européenne, code et données sont au nom de votre société dès le premier jour. Le code développé pour vous lui est cédé une fois le prix dû payé. Vous exportez tout, à tout moment, sans nous. Si nous ne pouvions plus intervenir, vos outils continuent de fonctionner sur vos comptes, et un autre prestataire peut reprendre.
 
 ## Ce qui reste à vous
 

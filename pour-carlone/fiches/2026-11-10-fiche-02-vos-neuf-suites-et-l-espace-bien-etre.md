@@ -17,7 +17,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Ce que l’IA peut faire pour vous
 
-*Quand ?* Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Idée | Ce que cela change | Quand |
 | --- | --- | --- |
@@ -26,14 +26,14 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 | Les relevés de l’eau, les vidanges et les analyses du jacuzzi au calendrier ; le carnet sanitaire tenu à jour | Chaque vérification arrive avec un rappel ; une personne mesure, note et décide | Essai |
 | Les créneaux du sauna et du jacuzzi, rattachés au séjour | Pas de créneau en double, ni au-delà de la fréquentation affichée | Ensuite |
 | Un livret d’accueil et des réponses aux questions fréquentes, en plusieurs langues, relus par une personne | Vos clients informés avant d’arriver ; un assistant dit qu’il est une IA | Ensuite |
-| Des séjours qui réunissent nuit, vernissage, soirée au cabaret et espace bien-être | Une offre propre à votre établissement | Plus tard : lieux ouverts |
+| Des séjours qui réunissent nuit, vernissage, soirée au cabaret et espace bien-être | Une offre propre à votre établissement | Ensuite : lieux ouverts |
 | Les totaux des suites (nuitées, occupation, taxe de séjour), sans nom de client, dans la vue d’ensemble de vos lieux | Vos chiffres sur une page | Ensuite |
 
-Le cadrage retient trois essais au plus, tous projets confondus, menés un à la fois.
+Le cadrage retient trois tâches au plus à essayer, tous projets confondus, une à la fois.
 
 ## Comment nous procéderions
 
-1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises) fixe vos besoins et vos critères, si vos suites sont une priorité. Il ne met aucun outil en service.
+1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises si Marwin Tech est soumise à la TVA ; voir la fiche 10) fixe vos besoins et vos critères, si vos suites sont une priorité. Il ne met aucun outil en service.
 2. **Comparer par écrit** trois logiciels du marché au plus. Critères : export des données, engagement, accès agréé à Airbnb, Booking.com et Expedia, interface ouverte, créneaux, fiche de police, taxe de séjour, assistance en français. Votre société pose les questions aux éditeurs.
 3. **Paramétrer et former** votre administratrice, procédures écrites à l’appui, avant les premiers clients.
 4. **Relier** le logiciel au registre de vos bâtiments, à la comptabilité et aux événements de la galerie. C’est ce que nous construisons, avec un outil de créneaux si le logiciel n’en a pas.

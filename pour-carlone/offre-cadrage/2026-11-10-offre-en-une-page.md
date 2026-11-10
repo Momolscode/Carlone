@@ -41,7 +41,7 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 
 **Ce qui reste à vous**
 
-- Le dossier, dès le solde payé. Votre société l’utilise avec qui elle veut.
+- Le dossier, une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte). Votre société l’utilise avec qui elle veut.
 - Vos comptes, vos données et vos accès, au nom de votre société.
 - Vos décisions. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée.
 

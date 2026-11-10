@@ -16,7 +16,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Ce que nous proposons
 
-*Quand ?* Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Formule | Ce que cela change pour vous | Quand |
 | --- | --- | --- |

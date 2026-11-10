@@ -212,3 +212,66 @@ S’y ajoutent la **sécurité** (accès nominatifs, pas de compte partagé, sau
 19. Sources commerciales sur les prix : cyber-diagnostic.fr/consultant-rgpd (2 juillet 2026) ; dpo-partage.fr/dpo-externalise-prix-comparatif (16 février 2026) ; aocsi.fr/dpo-externalise (mise à jour 6 octobre 2026).
 20. Sources secondaires non confirmées : prospection-externalisee.fr/sanctions-cnil-prospection/2024-kaspr (non datée) ; fytt.me/san-2024-020-manquements-cnil (non datée).
 21. Pièces internes : `audit/2026-11-04-audit-strategique/annexes/travaux/syn-droit.md`, `rj-R4-donnees-ia.md`, `ver-R4-donnees-ia.md` (vérifications du 4 novembre 2026 : loi n° 2025-594, décret n° 2026-662, FAQ DGCCRF, référentiel CNIL, fiche CNIL du 16 octobre 2026) ; `audit/2026-11-04-audit-strategique/interne/14-registre-risques-inconnues-decisions.md` ; `audit/2026-11-10-preparation-des-livrables/travaux/i0-faits-etablis-rapportes-inconnus.md`.
+
+## Vérification du 10 novembre 2026
+
+Relecture sceptique. Document interne — ne pas transmettre à GianLuca Carlone. Ce n’est pas un avis juridique. Cette partie l’emporte sur le reste de la note (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 4). Aucune donnée du dossier `crm/` n’a été ouverte.
+
+**Conclusion.** Les règles de fond sont confirmées : prospection entre professionnels fondée sur l’intérêt légitime, avec information et opposition simple ; information des personnes dans un mois au plus, ou au premier contact ; procédure simplifiée de la CNIL plafonnée à 20 000 €. Quatre points sont à préciser :
+
+1. La CNIL ne dit pas « pas de consentement préalable » en ces mots. Elle dit que la prospection vers des professionnels « peut être fondée sur l’intérêt légitime » de l’organisme.
+2. Article 14 : l’information dit aussi si les données viennent ou non de sources accessibles au public. Une exception existe (art. 14, § 5, b : information impossible ou « efforts disproportionnés »), avec des mesures de protection, dont la publication de l’information. Lecture littérale du § 3 : le délai d’un mois du point a) est un plafond ; le point b) (premier contact) ne le prolonge pas. Pour un fichier bâti du 22 au 30 octobre 2026, l’échéance tomberait donc entre le 22 et le 30 novembre 2026, fichier utilisé ou non. Lecture à confirmer par l’avocat.
+3. Plusieurs documents internes parlent de « l’incident du 4 novembre ». La connaissance date au plus tard du 2 novembre ; le 4 novembre, le dépôt était encore public (`audit/2026-11-04-audit-strategique/annexes/travaux/syn-droit.md`, lignes 617 et 619). Corrigé dans `interne/prealables/`.
+4. Le projet d’information au client affirme « Aucune donnée bancaire ni de santé » sans source. Mis entre crochets, à vérifier avant d’écrire.
+
+**Méthode.** Quatre appels pour cette note le 10 novembre 2026, dont un échec (Légifrance, article L34-5 : identifiant introuvable, erreur 404). Quinze appels au total pour k1b, k2 et k3. Les autres points viennent des vérifications du 4 novembre (`audit/2026-11-04-audit-strategique/annexes/travaux/ver-R4-donnees-ia.md`). **L’outil de lecture résume les pages et ne rend que de courts extraits** : toute citation doit être relue sur la page avant un usage juridique.
+
+### Tableau des contrôles
+
+| # | Affirmation de la note | Verdict | Source et date |
+|---|---|---|---|
+| 1 | Courriel vers des professionnels : pas de consentement préalable ; information ; opposition simple ; objet en rapport avec la profession ; adresses génériques hors de ces règles ; article L34-5 cité (partie 1) | confirmé ; formulation précisée | CNIL, « La prospection commerciale par courrier électronique, SMS-MMS et automate d’appel », lue le 10 nov. 2026 (date de mise à jour non relevée par l’outil ; la note indique le 10 juin 2026) : « peut être fondée sur l’intérêt légitime » ; « lorsque l’objet de la sollicitation est en rapport avec la profession de la personne démarchée » ; personne informée et « en mesure de s’y opposer » ; adresses « info » et « contact » « pas soumises » ; renvoi à L34-5. Aucune durée de conservation sur cette page |
+| 2 | Art. 14 : délai raisonnable, un mois au plus ; au plus tard au premier contact ; source des données (partie 2) | confirmé ; complété | RGPD, chapitre III, sur cnil.fr (page datée du 23 mai 2016) : § 2, f (source, et « mention indiquant qu’elles sont issues ou non de sources accessibles au public ») ; § 3, a (« ne dépassant pas un mois ») et b (« au plus tard au moment de la première communication ») ; § 5, b (« impossible ou exigerait des efforts disproportionnés ») |
+| 3 | Opposition simple à la prospection (art. 21) | confirmé | même page : art. 21, § 2 (« à tout moment ») et § 3 (les données « ne sont plus traitées à ces fins ») |
+| 4 | Procédure simplifiée : un seul membre décide ; un mois pour répondre ; sous 50 millions d’euros de chiffre d’affaires, rappel à l’ordre, amende de 20 000 € au plus, astreinte de 100 € par jour au plus (partie 7) | confirmé | CNIL, « La procédure de sanction simplifiée », lue le 10 nov. 2026 (date non relevée par l’outil ; la note indique le 5 décembre 2022). Le résumé ajoute des plafonds plus hauts au-delà de 50 millions d’euros : sans effet ici, à relire avant toute citation |
+| 5 | Article L34-5 du code des postes et des communications électroniques | non relu | Légifrance : identifiant essayé introuvable (erreur 404) |
+| 6 | Conservation : trois ans après la collecte ou le dernier contact venant du prospect ; ouvrir un courriel ne compte pas (partie 4) | confirmé (dépôt) | Référentiel CNIL « gestion des activités commerciales », p. 11 (`ver-R4-donnees-ia.md`, ligne 20) ; non relu ce jour |
+| 7 | Violation : documentation dans tous les cas ; 72 heures ; information des personnes si risque élevé (partie 5) | confirmé (dépôt) | RGPD, art. 33 et 34, sur cnil.fr (`ver-R4-donnees-ia.md`, ligne 21) |
+| 8 | Téléphone : consentement préalable du consommateur depuis le 11 août 2026 ; appels vers des professionnels hors de cette règle (partie 1) | confirmé (dépôt) | DGCCRF, fiche du 27/07/2026 et foire aux questions du 17/09/2026 ; loi n° 2025-594, art. 13 (`ver-R4-donnees-ia.md`, lignes 15 et 16) |
+| 9 | Liste d’opposition gardée au moins trois ans (partie 4) | non vérifié | page de la CNIL non rouverte |
+
+### Corrections à appliquer
+
+1. **Base légale (En bref, point 5 ; partie 1, première puce).** Phrase à préciser : « Entre professionnels, pas de consentement préalable. » Phrase juste : « Entre professionnels, la prospection par courriel peut être fondée sur l’intérêt légitime, si son objet est en rapport avec la profession de la personne ; celle-ci est informée et peut s’opposer simplement et gratuitement. » Source : CNIL, page de la ligne 1.
+2. **Information des personnes (partie 2, quatrième puce).** Ajouter : « L’information indique aussi si les données viennent ou non de sources accessibles au public (art. 14, § 2, f). Exception : information impossible ou exigeant des efforts disproportionnés (art. 14, § 5, b) ; le responsable prend alors des mesures de protection, dont la publication de l’information. » Source : RGPD sur cnil.fr.
+3. **Délai d’un mois (partie 2, cinquième puce).** Ajouter, avant « à trancher » : « Lecture littérale : le point a) du § 3 fixe un plafond d’un mois après l’obtention des données ; le point b) ne le prolonge pas. L’échéance tomberait donc entre le 22 et le 30 novembre 2026, fichier utilisé ou non, sauf exception ou suppression du fichier. » Lignes directrices du CEPD sur la transparence : non relues.
+4. **Date de l’incident (documents de `interne/prealables/`).** « L’incident du 4 novembre » devient « l’incident du dépôt public (connu au plus tard le 2 novembre, encore public le 4 novembre) ». Source : `syn-droit.md`, lignes 617 et 619. Fait dans les trois fichiers concernés.
+5. **Projet d’information au client.** « Aucune donnée bancaire ni de santé. » n’a pas de source dans la note ni dans `syn-droit.md` (ligne 618, liste des données exposées). Mis entre crochets, à vérifier. Fait dans `interne/prealables/2026-11-10-projet-d-information-sur-le-fichier-de-contacts.md`.
+
+### Sûr à reprendre
+
+**Projet d’information au client** (après validation écrite d’un conseil) : les phrases factuelles déjà proposées (« Nous ne savons pas si des tiers ont consulté ou copié le fichier pendant cette période » ; « Le fichier n’a pas été utilisé et ne le sera pas tant qu’il n’est pas remis en conformité » ; « Si vous en détenez une copie, merci de ne pas l’utiliser ni la transmettre »). Elles ne qualifient rien en droit.
+
+**Interne seulement** :
+
+- « Entre professionnels, la prospection par courriel peut reposer sur l’intérêt légitime si son objet est en rapport avec la profession de la personne ; elle est informée et peut s’opposer simplement et gratuitement. » Source : CNIL.
+- « Quand les données ne viennent pas de la personne, elle est informée dans un délai raisonnable, d’un mois au plus, et au plus tard au premier contact ; l’information donne la source des données. » Source : RGPD, art. 14, § 2, f, et § 3.
+- « Une personne peut s’opposer à tout moment à la prospection ; ses données ne servent alors plus à cette fin. » Source : RGPD, art. 21, § 2 et 3.
+- « En procédure simplifiée, la CNIL peut prononcer un rappel à l’ordre, une amende de 20 000 € au plus et une astreinte de 100 € par jour au plus (entreprise de moins de 50 millions d’euros de chiffre d’affaires). » Source : CNIL, « La procédure de sanction simplifiée ».
+
+### Ce qui reste inconnu
+
+- Qui est responsable du traitement ; qui a demandé le fichier et avec quelles consignes ; ce que GianLuca Carlone a reçu.
+- La décision sur la notification (D03), l’état du dépôt (D04), l’information du client (D08).
+- Le point de départ du délai d’un mois pour un fichier jamais utilisé et l’usage de l’exception de l’art. 14, § 5, b : lecture littérale ci-dessus, à confirmer.
+- Le texte de l’article L34-5 sur Légifrance ; la durée de la liste d’opposition.
+- Les dates exactes des pages de la CNIL sur la prospection par courriel et la procédure simplifiée (non relevées par l’outil).
+- L’article 34, § 3, et les lignes directrices 9/2022 du CEPD ; les décisions SOLOCAL, CALOGA et SAN-2026-004.
+
+### Pages relues le 10 novembre 2026
+
+- CNIL, « La prospection commerciale par courrier électronique, SMS-MMS et automate d’appel » : https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel
+- CNIL, RGPD, chapitre III (art. 12 à 23), page datée du 23 mai 2016 : https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3
+- CNIL, « La procédure de sanction simplifiée » : https://www.cnil.fr/fr/la-procedure-de-sanction-simplifiee
+- Non lue : Légifrance, article L34-5 (identifiant LEGIARTI000032228578 introuvable, erreur 404).
+- Toutes ces lectures passent par un outil qui résume la page.

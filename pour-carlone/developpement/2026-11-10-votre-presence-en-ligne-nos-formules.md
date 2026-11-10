@@ -18,6 +18,6 @@ Un site vitrine ne suffit plus : il faut des contenus vivants, être trouvé sur
 
 - **L’IA prépare, une personne vérifie et signe.** Les moteurs de recherche sanctionnent les pages produites en masse sans valeur pour le lecteur ; nous publions moins, mieux, et vérifié.
 - **Être cité, pas seulement classé.** Les réponses des assistants d’IA reprennent des contenus clairs, sourcés et à jour : c’est ainsi que nous écrivons les vôtres.
-- **Les droits d’abord.** Montrer une œuvre en ligne demande l’autorisation de son auteur ou de la société qui gère ses droits ; montrer une personne demande son accord. Nous préparons les demandes ; vous ou vos professionnels les signez.
+- **Les droits d’abord.** Montrer une œuvre en ligne demande l’autorisation de son auteur ou de la société qui gère ses droits ; montrer une personne demande son accord. Nous préparons les demandes ; vous les signez. Ces règles sont à faire valider par vos professionnels (avocat).
 
 **Ce que nous ne promettons pas** : une place dans les résultats de recherche, un nombre de visites ou de réservations. Nous mesurons, et nous ajustons.

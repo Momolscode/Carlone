@@ -7,9 +7,9 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 ## 1. Ce qui est en train de changer autour de vous
 
 - **Vos clients cherchent autrement.** En 2026, les moteurs de recherche affichent des réponses rédigées par l’IA, et beaucoup de gens interrogent directement un assistant. Être cité dans ces réponses compte désormais autant qu’être bien classé.
-- **Les entreprises s’y mettent.** Selon le baromètre France Num 2026 (Direction générale des entreprises et Crédoc, septembre 2026), 40 % des TPE et PME utilisent l’IA, contre 26 % en 2025.
-- **Les outils font plus.** Ils préparent un dossier entier, lisent vos documents, parlent toutes les langues, et attendent la validation d’une personne. Sur des tâches de logiciel, la longueur des tâches qu’un agent d’IA réussit seul une fois sur deux double environ tous les sept mois depuis 2019 (METR, 29 janvier 2026) : une mesure, pas une promesse ; une personne relit toujours.
-- **La loi s’installe.** Le règlement européen sur l’IA s’applique par étapes : former les personnes qui utilisent ces outils (depuis le 2 février 2025), signaler certains contenus générés par l’IA (depuis le 2 août 2026). La réception des factures électroniques est obligatoire pour toutes les entreprises depuis le 1er septembre 2026.
+- **Les entreprises s’y mettent.** Selon le baromètre France Num 2026 (Direction générale des entreprises et Crédoc, septembre 2026), 40 % des TPE et PME déclarent utiliser au moins un outil d’IA, contre 26 % en 2025.
+- **Les outils font plus.** Ils préparent un dossier entier, lisent vos documents, parlent toutes les langues, et attendent la validation d’une personne. Sur des tâches de logiciel, la longueur des tâches qu’un agent d’IA réussit seul une fois sur deux double environ tous les sept mois depuis 2019 (METR, 29 janvier 2026) : une mesure du passé, pas une prévision ; une personne relit toujours.
+- **La loi s’installe.** Le règlement européen sur l’IA s’applique par étapes : favoriser la maîtrise de l’IA par les personnes qui utilisent ces outils (depuis le 2 février 2025 ; sans niveau imposé depuis sa modification du 8 juillet 2026), signaler certains contenus générés par l’IA (depuis le 2 août 2026). La réception des factures électroniques est obligatoire pour toute entreprise soumise à la TVA depuis le 1er septembre 2026.
 
 ## 2. Les occasions pour vos projets
 
@@ -37,4 +37,4 @@ Vos clients, vos artistes et vos partenaires utilisent déjà ces outils. Un lie
 
 ## 5. Notre façon d’y aller
 
-Ambitieux sur la vision, prudents sur les engagements : un cadrage pour choisir les trois premières marches ; un essai de huit semaines mesuré ; vous décidez à chaque étape ; tout reste à votre nom. Ce qui touche au droit et aux finances est à faire valider par vos professionnels (avocat, expert-comptable, assureur).
+Ambitieux sur la vision, précis sur les engagements : un cadrage pour choisir les trois premières marches ; un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après ; vous décidez à chaque étape ; tout reste à votre nom. Ce qui touche au droit et aux finances est à faire valider par vos professionnels (avocat, expert-comptable, assureur).

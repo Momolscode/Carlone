@@ -4,7 +4,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 **En bref**
 
-- Vos comptes et vos données sont au nom de votre société, dès le premier jour. Ce que nous développons pour elle lui est cédé au paiement.
+- Vos comptes et vos données sont au nom de votre société, dès le premier jour. Ce que nous développons pour elle lui est cédé une fois le prix dû payé.
 - Des offres d’IA professionnelles, sans entraînement sur vos données ; un accord écrit sur leur traitement avant toute donnée personnelle.
 - Une personne valide tout ce qui engage. Vous pouvez tout exporter, et partir, à tout moment.
 
@@ -16,7 +16,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Ce que nous proposons
 
-*Quand ?* Dès le cadrage : avant tout essai. Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Dès le cadrage : avant tout essai. Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Idée | Ce que cela change pour vous | Quand |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 Qui lit ces traces et combien de temps on les garde se fixe avec vous avant le début. Elles ne servent jamais à juger une personne.
 
-**Sauvegardes et sortie.** Export régulier, copie hors du fournisseur principal, restauration testée dans un espace neuf. À la fin de notre travail, tout vous est rendu sous quinze jours ouvrés : documents, fichiers, réglages, accès. Vos documents sont rendus ou effacés, à votre choix. Ce qui est développé pour votre société lui est cédé au paiement complet.
+**Sauvegardes et sortie.** Export régulier, copie hors du fournisseur principal, restauration testée dans un espace neuf. À la fin de notre travail, tout vous est rendu sous quinze jours ouvrés : documents, fichiers, réglages, accès. Vos documents sont rendus ou effacés, à votre choix. Ce qui est développé pour votre société lui est cédé une fois le prix dû payé.
 
 **La machine installée chez vous**, si elle devient utile : vos archives restent dans vos murs, à condition que les logiciels n’envoient rien en ligne et que la sécurité de la machine soit tenue. La CNIL juge un tel déploiement sur site « généralement plus opportun et plus sécurisé » pour des données personnelles ou sensibles (questions-réponses sur l’IA générative, 18 juillet 2024). Elle trie et résume bien ; le raisonnement difficile reste mieux fait par les modèles de pointe en ligne.
 

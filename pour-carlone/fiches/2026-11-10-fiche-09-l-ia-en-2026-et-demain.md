@@ -5,7 +5,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 **En bref**
 
 - En 2026, des outils d’IA préparent un dossier entier et lisent vos documents. Une personne valide toujours.
-- Pour vos projets, la suite à un, deux et cinq ans est une tendance sous conditions, pas une promesse.
+- Pour vos projets, la suite en 2027, 2028 et 2030 est une tendance sous conditions, pas une promesse.
 - Le cadrage proposé se suffit à lui-même. Des moyens supplémentaires ouvriraient d’autres possibilités, plus tard.
 
 ## Ce qui a changé en 2026, dans vos projets
@@ -25,9 +25,9 @@ Tout se vérifie sur vos propres pièces, pendant un essai.
 
 Une ambition, sous conditions. Pas une promesse. Tout dépend d’un essai mesuré, de vos décisions et de l’ouverture de vos lieux.
 
-- **Dans un an**, si l’essai a réussi : le registre de vos bâtiments ; le logiciel du marché de vos neuf suites, choisi et relié au reste ; une page chaque semaine pour vos décisions. Une règle à préparer : le 1er septembre 2027, les PME et micro-entreprises soumises à la TVA devront émettre leurs factures sous forme électronique.
-- **Dans deux ans** : étendre ce qui a fait ses preuves, par exemple à un guide de visite de la galerie en plusieurs langues.
-- **Dans cinq ans** : votre établissement, lieu de rencontres sur l’IA utile dans la Nièvre ; une machine d’IA chez vous, si vos documents confidentiels le demandent.
+- **En 2027**, si l’essai a réussi : le registre de vos bâtiments ; le logiciel du marché de vos neuf suites, choisi et relié au reste ; une page chaque semaine pour vos décisions. Une règle à préparer : le 1er septembre 2027, les PME et micro-entreprises soumises à la TVA devront émettre leurs factures sous forme électronique.
+- **En 2028** : étendre ce qui a fait ses preuves, par exemple à un guide de visite de la galerie en plusieurs langues.
+- **D’ici 2030** : votre établissement, lieu de rencontres sur l’IA utile dans la Nièvre ; une machine d’IA chez vous, si vos documents confidentiels le demandent.
 - **La robotique : plus tard, sous conditions.** Aujourd’hui, en France, des robots roulants portent des plats en salle. Ils portent ; votre équipe sert. Pour vos lieux, aucune date : il faudrait un financement, une sécurité tenue et des partenaires.
 
 Une règle dit la loi, pas son application à vos sociétés : le cadrage vérifiera. Partout, on mesure d’abord, on équipe ensuite.
@@ -45,7 +45,7 @@ Notre recommandation : avancer avec nos moyens actuels, et n’envisager un renf
 
 ## Ce qu’il ne faut pas croire
 
-- **« Tant de pour cent de temps gagné. »** Selon la tâche, les études publiées mesurent de −19 % à +56 %. Aucun pourcentage ne vaut chez vous avant d’y avoir été mesuré.
+- **« Tant de pour cent de temps gagné. »** Selon la tâche, les études publiées mesurent de −19 % (19 % de temps en plus) à +56 % (une tâche finie 56 % plus vite). Aucun pourcentage ne vaut chez vous avant d’y avoir été mesuré.
 - **« Cent fois plus de documents lus par heure. »** Jusqu’à cent fois, c’est une hypothèse, pour la seule première lecture de documents répétitifs traités en parallèle, face à une personne qui les lit un par un. Vérification humaine comprise, plutôt cinq à dix fois, hypothèse elle aussi. À mesurer chez vous.
 - **« L’IA décide, paie ou signe. »** Elle prépare ; une personne habilitée valide.
 - **« Tout reste en Europe. »** Des modèles et un hébergement européens existent. Le lieu de traitement de vos données se choisit, s’écrit au contrat et se vérifie.

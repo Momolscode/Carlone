@@ -4,7 +4,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 **En bref**
 
-- Nous sommes deux associés. Nous avançons une étape à la fois : cadrage, essai de huit semaines, puis suivi.
+- Nous sommes deux associés. Nous avançons une étape à la fois : cadrage, essai de huit semaines au plus, puis suivi.
 - Le cadrage coûte 6 500 € hors taxes, soit 7 800 € toutes taxes comprises. Prix fixe.
 - Vous pouvez vous arrêter à la fin de chaque étape. Le dossier, vos comptes et vos décisions restent à vous.
 
@@ -18,7 +18,7 @@ Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de créatio
 ## Notre méthode : trois étapes, une à la fois
 
 1. **Le cadrage, trois à quatre semaines.** Un entretien chez vous, l’étude de vos documents avec votre administratrice, puis la remise du dossier. Vous recevez l’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours ; trois tâches au plus à essayer, chacune avec sa mesure de départ ; le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune.
-2. **Un essai de huit semaines au plus**, sur une seule priorité, commandé à part, avec son prix.
+2. **Un essai de huit semaines au plus**, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix.
 3. **Un suivi régulier**, seulement après un essai concluant et à votre demande écrite, par périodes de trois mois renouvelables par écrit.
 
 **Votre logiciel.** Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous aidons à choisir un logiciel du marché et à le relier au reste ; nous construisons seulement ce qui manque, étape par étape.
@@ -31,7 +31,7 @@ Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de créatio
 | Moitié à la commande | 3 250 € | 3 900 € |
 | Moitié à la remise du dossier | 3 250 € | 3 900 € |
 
-Aucun paiement n’est demandé dans les sept jours suivant la signature. Proposition valable jusqu’au jeudi 31 décembre 2026.
+Le prix toutes taxes comprises suppose une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base). Aucun paiement n’est demandé dans les sept jours suivant la signature. Proposition valable jusqu’au jeudi 31 décembre 2026.
 
 ## Comment vous arrêter
 
@@ -61,7 +61,7 @@ L’essai se commande à part, après le cadrage. Les dates dépendent aussi de 
 
 ## Ce qui reste à vous
 
-- Le dossier, dès le solde payé. Votre société l’utilise avec qui elle veut.
+- Le dossier, une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte). Votre société l’utilise avec qui elle veut.
 - Vos comptes, vos données et vos accès, au nom de votre société.
 - Vos décisions. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée.
 - Les autorisations de vos lieux, au nom de l’exploitant de chacun.

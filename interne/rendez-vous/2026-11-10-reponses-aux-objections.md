@@ -10,7 +10,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 
 **Il dit** : « 6 500 €, c’est cher pour quelques semaines de réflexion. »
 **Il craint** : payer pour un rapport qui dort dans un tiroir.
-**Réponse** : « Le prix est fixe et vous savez exactement ce que vous recevez : l’inventaire de vos projets, vos trois priorités avec un objectif mesurable, et trois tâches prêtes à essayer. Si vous arrêtez en cours de route, vous ne payez pas le solde et vous gardez le travail fait. »
+**Réponse** : « Le prix est fixe et vous savez exactement ce que vous recevez : l’inventaire de vos projets, vos trois priorités avec un objectif mesurable, et trois tâches au plus à essayer. Si vous arrêtez en cours de route, vous ne payez pas le solde et vous gardez le travail fait. »
 **Preuve** : la page d’offre (`pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md`), rubrique « Comment vous arrêter ».
 **Ne pas dire** : « c’est moins cher que l’autre proposition » ; un prix journalier ; une remise.
 **Question suivante** : « Qu’est-ce qui vous ferait dire que ces trois semaines ont valu leur prix ? »

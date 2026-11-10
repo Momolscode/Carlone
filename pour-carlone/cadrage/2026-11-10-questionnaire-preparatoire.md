@@ -22,8 +22,8 @@ Répondez seulement à ce que vous savez. « Je ne sais pas » est une bonne ré
 8. Où en est la galerie d’art ? ☐ ouverte ☐ en projet
 9. Où en est le cabaret-spectacle ? ☐ idée ☐ étude ☐ travaux ☐ ouvert
 10. Quels autres commerces ou projets prévoyez-vous ? ……………………
-11. Votre projet d’hôtel ou de chambres : combien de chambres ? …… Dans quel bâtiment ? …… Ouverture visée (mois et année) : …… ☐ pas encore fixée
-12. Sous quelle forme ? ☐ hôtel ☐ chambres d’hôtes ☐ meublés de tourisme ☐ à décider
+11. Vos suites et l’espace bien-être (sauna et jacuzzi), dans l’établissement de la galerie : combien de suites (neuf, d’après nos échanges) ? …… Ouverture visée (mois et année) : …… ☐ pas encore fixée
+12. Sous quelle forme, à faire valider par vos professionnels ? ☐ hôtel ☐ chambres d’hôtes ☐ meublés de tourisme ☐ à décider
 
 ## Votre organisation
 
@@ -35,7 +35,7 @@ Répondez seulement à ce que vous savez. « Je ne sais pas » est une bonne ré
 ## Vos trois sujets des trois prochains mois
 
 17. Si vous ne deviez régler que trois choses dans les trois prochains mois, lesquelles ? 1. …… 2. …… 3. ……
-18. Le logiciel de gestion de votre hôtel ou de vos chambres en fait-il partie ? ☐ oui ☐ non ☐ à discuter
+18. Le logiciel de gestion de vos propriétés (vos neuf suites et l’espace bien-être) en fait-il partie ? ☐ oui ☐ non ☐ à discuter
 
 ## Qui valide quoi
 

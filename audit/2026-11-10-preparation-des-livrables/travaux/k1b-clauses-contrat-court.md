@@ -293,3 +293,73 @@ Toutes les pages ci-dessous ont été consultées le 10 novembre 2026. Quatorze 
 - Sites secondaires sur les conditions d’OpenAI : convika.com (23 octobre 2026), theinnovationattorney.com (27 juillet 2026), njbusiness-attorney.com (11 juin 2026). Adresses exactes non notées.
 
 **Textes cités d’après le dépôt, non rouverts ce jour.** CPI, art. L131-1, L131-2, L131-3, L113-9 ; TJ Paris, 20 avril 2023 ; fiches F22667 et F37365 ; Code civil, art. 1231-3, 1170, 1171 ; Code du travail, art. L8221-6 ; Code de commerce, art. L420-2 ; Code de la consommation, art. L221-3 ; décisions (UE) 2021/915 et 2021/914. Voir les pièces listées en tête de note.
+
+## Vérification du 10 novembre 2026
+
+Relecture sceptique. Document interne — ne pas transmettre à GianLuca Carlone. Ce n’est pas un avis juridique, fiscal ou d’assurance. Cette partie l’emporte sur le reste de la note (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 4).
+
+**Conclusion.** La note est juste sur l’essentiel. Pénalités de retard, indemnité de 40 €, obligation de recevoir des factures électroniques, Médiateur des entreprises et assurance non obligatoire : confirmés sur des pages officielles. Six points sont à corriger avant tout usage :
+
+1. L’article L441-10 du Code de commerce est désormais lu : l’indemnité de 40 € est due par « tout professionnel » en retard ; la fiche F23211 la limite aux actes de commerce (k1a, ligne 302). La divergence va à l’avocat.
+2. Médiateur des entreprises : une médiation dure « de quelques heures à 2 ou 3 mois maximum » ; il intervient dans des relations d’affaires régulières, en général pour des litiges de plus de 1 500 €. « Contrat de droit privé » n’a pas été relu.
+3. Rétractation : le critère légal est le contrat « hors établissement », pas « hors de nos locaux ».
+4. L’article L221-10 interdit de recevoir un paiement avant sept jours ; il n’interdit pas de démarrer. Le démarrage avant le quinzième jour suit l’article L221-25.
+5. Le projet de bon de commande cède les droits sans les nommer un par un, sans lieu ni durée. La note (partie 1) demande l’inverse (CPI, art. L131-3).
+6. Le projet de bon de commande écrit « aucun paiement n’est demandé » ; l’article L221-10 vise aussi le paiement reçu.
+
+**Méthode.** Cinq appels pour cette note le 10 novembre 2026, dont deux partagés avec k2 (fiche F37365, facture électronique) et un échec (economie.gouv.fr, erreur 403). Quinze appels au total pour k1b, k2 et k3. Les autres points sont contrôlés dans le dépôt (k1a, partie « Vérification » ; `rj-R3-travail-contrats.md`). **L’outil de lecture résume les pages et ne rend que de courts extraits** : toute citation ci-dessous doit être relue sur la page avant un usage juridique.
+
+### Tableau des contrôles
+
+| # | Affirmation de la note | Verdict | Source et date |
+|---|---|---|---|
+| 1 | Pénalités au taux de la BCE majoré de 10 points ; indemnité forfaitaire de 40 € (partie 8) ; L441-10 « non relu » | confirmé ; une divergence | Légifrance, Code de commerce, art. L441-10, « En vigueur au 10/11/2026 », version du 26 avril 2019 (ord. n° 2019-359) : trente jours par défaut ; au plus soixante jours après la facture ou quarante-cinq jours fin de mois ; taux de la BCE majoré de 10 points, pas moins de trois fois le taux de l’intérêt légal ; pénalités « exigibles sans qu’un rappel soit nécessaire » ; indemnité due par « Tout professionnel en situation de retard de paiement », montant fixé par décret (D441-5 non relu). F23211 : « que sur des actes de commerce » (k1a, ligne 302) |
+| 2 | « toutes les entreprises doivent être en capacité de recevoir des factures électroniques » depuis le 1er septembre 2026 (partie 8) | confirmé | impots.gouv.fr, actualité « Facturation électronique », 28/09/2026, lue le 10 nov. 2026. La page ne date pas l’émission des PME ; F31808, vérifiée le 11 août 2026 : 1er septembre 2027 (k1a, ligne 306) |
+| 3 | Médiateur : « gratuit, rapide – moins de trois mois – et confidentiel » ; « tout différend lié à l’exécution d’un contrat de droit privé » ; rappel sous sept jours (partie 7) | confirmé en partie ; corrigé | F38216, « Prévenir et résoudre les litiges commerciaux grâce au Médiateur des entreprises », « Vérifié le 27 novembre 2024 » : « gratuit, rapide et confidentiel » ; « de quelques heures à 2 ou 3 mois maximum » ; médiateur « dans les 7 jours » ; relations d’affaires régulières ; litiges en général de plus de 1 500 €. Page economie.gouv.fr : erreur 403 |
+| 4 | Responsabilité civile professionnelle non obligatoire en général (partie 6) | confirmé | F37365, version anglaise vue en résultat de recherche le 10 nov. 2026 : « not always mandatory », obligatoire pour certaines activités réglementées. Date « Vérifié le 07/07/2026 » relevée le 4 novembre (`rj-R3-travail-contrats.md`, ligne 286) |
+| 5 | Rétractation si la commande est signée « hors de nos locaux » par une entité de cinq salariés au plus ; « ni encaissement ni démarrage avant sept jours » (partie 7 ; livrable 1) | corrigé | Code de la consommation, art. L221-3, Légifrance, en vigueur depuis le 1er juillet 2016, lu le 10 nov. 2026 (k1a, ligne 295) ; L221-10, L221-18 et L221-25 lus sur Légifrance le 9 nov. 2026 (k1a, ligne 312) : contrat « hors établissement » ; aucun paiement reçu avant sept jours ; démarrage anticipé sur demande « sur papier ou sur support durable » |
+| 6 | Cession écrite, droit par droit, étendue, destination, lieu, durée ; cession globale des œuvres futures nulle (partie 1) | confirmé (dépôt) | CPI, art. L131-1 à L131-3, vérifiés le 4 nov. 2026 (`rj-R3-travail-contrats.md`, lignes 393 à 395) ; non relus ce jour |
+| 7 | Code civil, art. 1794, 1231-5 et 1218 (partie 7) | non relu ce jour | lus sur Légifrance par la note ; le caractère supplétif de 1794 reste inconnu |
+| 8 | L442-1 modifié par la loi n° 2026-796 du 18 août 2026 | non vérifié | page non relue (limite de recherches) |
+
+### Corrections à appliquer
+
+1. **Indemnité de 40 € (partie 8 ; « Ce qui n’a pas pu être vérifié »).** Retirer « Code de commerce, art. L441-10 (pénalités de retard) » des textes non relus. Ajouter : « L441-10, II (version du 26 avril 2019, lue le 10 novembre 2026) : l’indemnité forfaitaire est due par « tout professionnel en situation de retard de paiement » ; la fiche F23211 la limite aux actes de commerce. Pour une société civile, l’avocat tranche. »
+2. **Médiation (partie 7).** Phrase trop large : « gratuit, rapide – moins de trois mois – et confidentiel », pour « tout différend lié à l’exécution d’un contrat de droit privé ». Phrase juste : « Le Médiateur des entreprises est gratuit, rapide et confidentiel. Une médiation dure de quelques heures à deux ou trois mois au plus ; un médiateur rappelle sous sept jours. Il intervient dans des relations d’affaires régulières, en général pour des litiges de plus de 1 500 €. » Source : F38216, vérifiée le 27 novembre 2024. Un premier cadrage n’est peut-être pas une relation régulière : la clause dit « chacun peut saisir », jamais « nous saisirons ».
+3. **Rétractation (partie 7, « Deux pièges »).** Remplacer « si la commande est signée hors de nos locaux » par « si la commande est conclue hors établissement, par exemple chez le client ». Source : L221-3 ; `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md`, ligne 20.
+4. **Délais (« Ce que cela change », livrable 1).** Phrase fausse : « ni encaissement ni démarrage avant sept jours si la rétractation peut jouer ». Phrase juste : « aucun paiement demandé ni reçu avant sept jours (L221-10) ; aucun démarrage avant le quinzième jour sans demande du client sur papier ou sur support durable (L221-25) ».
+5. **Cession (projet de bon de commande, condition 6).** La note est juste ; le bon ne l’applique pas : « lui sont cédés […] ; elle les utilise avec qui elle veut » ne nomme ni les droits, ni le lieu, ni la durée. Correction transmise à l’agent qui relit les documents client, sur le modèle de la première phrase proposée pour le livrable 1. Source : CPI, art. L131-3.
+6. **Sept jours (projet de bon de commande, partie 5).** « Aucun paiement n’est demandé pendant les sept jours » devient « Aucun paiement n’est demandé ni reçu pendant les sept jours ». Source : L221-10 (« ne peut recevoir aucun paiement ») ; L242-7 punit le fait d’« exiger ou obtenir » (k1a, ligne 296).
+
+### Sûr à reprendre
+
+**Document client** (bon de commande, avec « Projet à faire relire par un avocat avant tout usage ») :
+
+- « Factures payables sous huit jours. En cas de retard : pénalités au taux de refinancement de la Banque centrale européenne majoré de dix points, et indemnité forfaitaire de 40 € pour frais de recouvrement. » Source : Code de commerce, art. L441-10, II, Légifrance, lu le 10 novembre 2026.
+- « Aucun paiement n’est demandé ni reçu pendant les sept jours qui suivent la signature. » Source : Code de la consommation, art. L221-10.
+- « En cas de désaccord, chacun peut d’abord saisir le Médiateur des entreprises, service gratuit et confidentiel. » Source : F38216, vérifiée le 27 novembre 2024. Facultatif ; le tribunal reste à l’avocat.
+
+**Interne seulement** :
+
+- « Depuis le 1er septembre 2026, toutes les entreprises doivent pouvoir recevoir des factures électroniques ; les grandes entreprises et les ETI les émettent par une plateforme agréée. » Source : impots.gouv.fr, 28 septembre 2026.
+- « Les pénalités de retard sont exigibles sans rappel ; leur taux ne peut être inférieur à trois fois le taux de l’intérêt légal. » Source : L441-10, II.
+- « L’assurance de responsabilité civile professionnelle n’est pas obligatoire pour toute société ; elle l’est pour certaines activités réglementées. » Source : F37365.
+
+### Ce qui reste inconnu
+
+- L’entité qui signera pour GianLuca Carlone (forme, effectif, activité principale) : donc la rétractation et l’indemnité de 40 €.
+- L’indemnité de 40 € face à une société civile (« tout professionnel » ou « actes de commerce ») ; l’article D441-5, non relu.
+- Le caractère supplétif de l’article 1794 du Code civil ; dédit ou pénalité pour l’acompte gardé ; acompte ou arrhes entre professionnels.
+- Ce que la loi du 18 août 2026 a changé au I de l’article L442-1.
+- La page du Médiateur des entreprises sur economie.gouv.fr (erreur 403) ; le champ exact de son intervention pour un premier contrat.
+- Les sanctions de la facture électronique (50 €, 15 000 €, 500 €, 1 000 €) : reprises du dépôt, non relues.
+- L’usage sur la durée de confidentialité.
+
+### Pages relues le 10 novembre 2026
+
+- Légifrance, Code de commerce, art. L441-10, « En vigueur au 10/11/2026 » : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038414392
+- impots.gouv.fr, « Facturation électronique », 28 septembre 2026 : https://www.impots.gouv.fr/actualite/facturation-electronique
+- Service Public Entreprendre, F38216, vérifiée le 27 novembre 2024 : https://entreprendre.service-public.gouv.fr/vosdroits/F38216
+- Service Public Entreprendre, F37365, version anglaise vue en résultat de recherche, date non affichée dans le résultat : https://entreprendre.service-public.gouv.fr/vosdroits/F37365
+- Non lue : economie.gouv.fr, page du Médiateur des entreprises (erreur 403).
+- Toutes ces lectures passent par un outil qui résume la page.

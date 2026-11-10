@@ -27,3 +27,4 @@ Des assistants qui préparent un dossier entier et attendent votre accord ; des 
 - Rien n’est publié, envoyé, payé ou signé sans la validation d’une personne habilitée.
 - Un contenu créé avec l’IA est signalé comme tel quand la loi le demande ; l’image d’une personne n’est utilisée qu’avec son accord.
 - Aucun gain n’est annoncé avant d’avoir été mesuré.
+- Ce qui touche au droit (sites, images, œuvres, contrats) est à faire valider par vos professionnels.

@@ -30,3 +30,5 @@ Ces quatre documents répondent à deux sujets : le logiciel de gestion de vos p
 - **Mesurer avant de promettre** : aucun gain annoncé avant la mesure de départ.
 
 Rien n'est commandé, envoyé, payé ou signé sans votre validation écrite.
+
+**Ajout du 10 novembre 2026.** Un cinquième document complète ce dossier : `2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md`. Pour vos neuf suites et l’espace bien-être, il précise le « sens 2 » (logiciel hôtelier) de la proposition du 9 novembre : nous vous aidons à choisir un logiciel hôtelier du marché, à le paramétrer et à le relier au reste ; nous n’en construisons pas. Les écrans d’exemple (Maquette — données fictives) sont dans le dossier `maquettes/2026-11-10-ecrans-d-exemple/`.

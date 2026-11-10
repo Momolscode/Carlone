@@ -24,7 +24,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 **Trois chemins possibles** (détail et estimations en annexe)
 
 1. **Moyens actuels** : une étape et un essai à la fois. C’est ce que nous vous proposons aujourd’hui.
-2. **Renforcement ciblé** : outils d’équipe, une machine d’IA chez vous si elle est utile, un premier collaborateur. Un investissement de départ de quelques milliers d’euros, puis surtout du temps humain.
+2. **Renforcement ciblé** : outils d’équipe, une machine d’IA chez vous si elle est utile, un premier collaborateur. Un investissement de départ de plusieurs milliers d’euros, puis surtout du temps humain.
 3. **Développement ambitieux** : une petite équipe, une station de calcul, un laboratoire. À n’envisager qu’après des résultats mesurés.
 
 **Notre recommandation** : avancer avec nos moyens actuels, et n’envisager un renforcement qu’après des gains mesurés pendant l’essai. Le plus grand changement viendrait de personnes formées et disponibles, plus que d’une machine.

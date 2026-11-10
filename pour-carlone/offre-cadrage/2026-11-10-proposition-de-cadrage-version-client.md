@@ -37,7 +37,7 @@ Sans liste partagée de vos sociétés, lieux, projets, budgets et accès, perso
 
 **Ce que vous recevez**
 
-1. **L’inventaire validé de vos structures, lieux, commerces et projets.** Une fiche courte par élément (bâtiment, lieu, commerce ou projet) : société propriétaire ou porteuse, avancement, interlocuteur, prochaine échéance, documents et accès. Il note aussi votre moyen d’échange réel et les personnes qui utiliseraient les outils. Vous le validez par écrit.
+1. **L’inventaire validé de vos sociétés, lieux, commerces et projets.** Une fiche courte par élément (bâtiment, lieu, commerce ou projet) : société propriétaire ou porteuse, avancement, interlocuteur, prochaine échéance, documents et accès. Il note aussi votre moyen d’échange réel et les personnes qui utiliseraient les outils. Vous le validez par écrit.
 2. **Trois priorités à 90 jours, chacune avec un objectif mesurable.** Vous les choisissez. Pour chacune : un budget indicatif ; un responsable chez vous ; ce qu’elle vous coûte aujourd’hui ; le seuil où une aide extérieure devient rentable pour vous.
 3. **Les premières tâches à essayer, trois au plus, avec leur mesure de départ.** Au plus une par priorité, choisie avec vous et votre administratrice. Pour chacune : le but, le niveau d’aide, le gain attendu, sa mesure de départ, relevée pendant le cadrage, et la condition d’essai. C’est un choix, pas une mise en service : à la fin du cadrage, rien ne fonctionne seul. La mise en œuvre se commande à part (section 3). Nous ouvrons aussi un registre des décisions sur un compte de votre société, et nous relevons comment vos décisions se prennent aujourd’hui.
 4. **Le choix argumenté de la suite, avec la carte des rôles et la grille de délégation.**
@@ -142,7 +142,7 @@ Vous décidez d’une suite dans les 30 jours qui suivent la restitution. Une se
 | Besoin | Détail | Quand |
 | --- | --- | --- |
 | La structure qui signe et qui règle | Nom, SIREN, personne habilitée et nombre de salariés de la société qui commande ; qui paie et valide. Vos habitudes de paiement, la TVA, une aide publique au conseil éventuelle (dépôt avant toute signature) ; les coordonnées de votre expert-comptable et de votre avocat | Avant la commande |
-| Du temps avec votre administratrice | Son nom, son rôle, la société pour laquelle elle travaille ; ce qu’elle peut valider (ci-dessous) ; sa présence à tout ou partie du premier entretien ; des réponses sous 5 jours ouvrés. À confirmer avec elle | Son rôle avant la commande ; sa présence pendant le cadrage |
+| Du temps avec votre administratrice | Son nom, son rôle, la société pour laquelle elle travaille ; ce qu’elle peut valider (ci-dessous) ; sa présence à tout ou partie du premier entretien ; des réponses sous 5 jours ouvrés ; en tout, environ une à deux journées sur trois à quatre semaines, sur ses heures de travail (notre estimation). À confirmer avec elle | Son rôle avant la commande ; sa présence pendant le cadrage |
 | Vos documents et accès utiles | Liste des sociétés, bâtiments, lieux et commerces ; actes, baux, contrats de prestataires, budgets ; œuvres disponibles si la vente est une priorité ; un compte de votre société pour le registre | Sous 10 jours ouvrés après la commande |
 | L’accord sur les données | La société responsable des données de vos documents, et sa signature de l’accord | Avant l’envoi de documents qui en contiennent |
 | Deux entretiens | Le premier entretien et la restitution (section 2) | Pendant le cadrage |
@@ -164,7 +164,7 @@ Si votre administratrice travaille pour une autre société que celle qui comman
 
 ## 7. Prochaines étapes
 
-1. Un rendez-vous d’une heure à une heure et demie, chez vous ou à distance, pour corriger ce résumé et relire le cadrage. Votre administratrice est la bienvenue, pour tout ou partie, comme vous le préférez : [date à fixer, au plus tard le vendredi 11 décembre 2026].
+1. Un rendez-vous d’une heure à une heure et demie, chez vous ou à distance, pour corriger ce résumé et relire le cadrage. Votre administratrice est la bienvenue, pour tout ou partie, comme vous le préférez : [date à fixer].
 2. Signature du bon de commande par votre société, avec nos conditions [et le formulaire de rétractation] ; le tableau « qui valide quoi » peut être rempli au premier entretien.
 3. [Immatriculation de Marwin Tech, si elle n’a pas eu lieu avant la signature] ; remise de son extrait d’immatriculation et, dès qu’elle est délivrée, de son attestation de vigilance (preuve qu’elle est à jour de ses cotisations) ; facture d’acompte.
 4. Signature de l’accord sur les données, si vos documents en contiennent. Démarrage à l’encaissement de l’acompte et à la réception des pièces : nous visons début janvier 2027 si la commande est signée avant la mi-décembre.

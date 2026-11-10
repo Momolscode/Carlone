@@ -16,7 +16,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Ce que l’IA peut faire pour vous
 
-*Quand ?* Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Idée | Ce que cela change | Quand |
 | --- | --- | --- |
@@ -26,13 +26,13 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 | Le dossier de chaque soirée : déclarations des droits d’auteur, contrats préparés, planning, contrôle de sécurité | Chaque ligne a un responsable et une date | Plus tard : cabaret ouvert |
 | Les échéances une fois ouvert : taxe sur les spectacles, vérifications, renouvellements | Un rappel avant chaque date ; votre administratrice décide | Plus tard : cabaret ouvert |
 | Chaque soir, les totaux de la billetterie et de la caisse rapprochés des paiements | Un écart se voit le lendemain, pas en fin de mois | Plus tard : export réel de la caisse connu |
-| L’annonce des soirées : textes, visuels, lettre aux inscrits | Contenus générés signalés ; personnes montrées d’accord | Plus tard : cabaret ouvert |
+| L’annonce des soirées : textes, visuels, lettre aux inscrits | Contenus générés signalés ; personnes montrées d’accord | Ensuite, avec l’ouverture du cabaret |
 
-Pour le cabaret, rien ne s’essaie avant que l’exploitant et le lieu soient connus. Le cadrage retient trois essais au plus, tous projets confondus, menés un à la fois.
+Pour le cabaret, rien ne s’essaie avant que l’exploitant et le lieu soient connus. Le cadrage retient trois tâches au plus à essayer, tous projets confondus, une à la fois.
 
 ## Comment nous procéderions
 
-1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises) rassemble ce qui est décidé et ce qui manque. Il dit si le cabaret est une priorité.
+1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises si Marwin Tech est soumise à la TVA ; voir la fiche 10) rassemble ce qui est décidé et ce qui manque. Il dit si le cabaret est une priorité.
 2. **Fixer avec vous et vos professionnels** l’exploitant, le lieu, la jauge, repas ou non.
 3. **Tenir la liste et le calendrier** des démarches. Vos professionnels rédigent ; l’exploitant signe et dépose.
 4. **Comparer par écrit** les billetteries et les caisses du marché ; votre société souscrit. Billetterie déclarée à l’administration fiscale ; caisse certifiée ou attestée par l’éditeur.

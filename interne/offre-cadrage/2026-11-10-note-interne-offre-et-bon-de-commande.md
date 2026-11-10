@@ -7,9 +7,9 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 1. **Vendredi 13 novembre 2026 : ces pièces ne sortent pas.** Rien n’est signé et aucun document n’est laissé, sauf si les préalables sont levés et que vous le décidez tous les deux par écrit ; à défaut, la présentation est montrée à l’écran (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, ligne 140 ; k1a, « Vérification », correction 1, ligne 319).
 2. Les trois projets client sont prêts à relire : `pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md` (une page A4 en rendu compact), `pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md` (trois pages en rendu compact : le bon, puis ses conditions) et `pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md` (texte client du 9 novembre, seul). Contrôle mécanique : 0 erreur sur les trois (§ 7).
 3. Rien n’y est nouveau sur le fond : chaque engagement vient de la proposition de cadrage du 9 novembre (`audit/2026-11-04-audit-strategique/pour-gianluca/2026-11-09-proposition-de-cadrage.md`, lignes 60 à 182), de la page d’offre proposée par l’audit (`audit/2026-11-09-audit-presentation-et-offre/travaux/a4-offre-et-documents-clients.md`, § 8, lignes 327 à 405) et des additifs du 10 novembre (BRIEF-2, § 10 et § 11).
-4. Dix choix restent à faire avant tout usage (§ 3). Le plus important : **signer après l’immatriculation (variante A, recommandée)** plutôt qu’au nom de la société en formation.
+4. Onze choix restent à faire avant tout usage (§ 3). Le plus important : **signer après l’immatriculation (variante A, recommandée)** plutôt qu’au nom de la société en formation.
 5. Deux phrases du 9 novembre ont été retirées parce qu’elles promettaient ce qui n’est pas fait : « nos conditions […] relues par notre avocat » et toute mention d’une attestation d’assurance (brief complémentaire, § 5, règle 5).
-6. Les références juridiques viennent de `audit/2026-11-10-preparation-des-livrables/travaux/k1a-commande-avant-immatriculation.md`, **vérifiée le 10 novembre** (partie « Vérification du 10 novembre 2026 », lignes 276 à 368, qui l’emporte). Ses corrections sont appliquées (§ 1 bis). L’avocat et l’expert-comptable tranchent.
+6. Les références juridiques viennent de `audit/2026-11-10-preparation-des-livrables/travaux/k1a-commande-avant-immatriculation.md`, **vérifiée le 10 novembre** (partie « Vérification du 10 novembre 2026 », lignes 276 à 368, qui l’emporte). Ses corrections sont appliquées (§ 1 bis). Les notes k1b, k2 et k3 ont aussi été vérifiées le 10 novembre (même titre de partie, en fin de note) ; leurs corrections pour les pièces client sont à reporter par l’agent qui les relit (§ 3, point 11). L’avocat et l’expert-comptable tranchent.
 
 ## 1. Ce qui a changé par rapport aux pièces du 9 novembre
 
@@ -79,6 +79,7 @@ Source de chaque correction entre parenthèses ; « k1a, ligne N » renvoie à l
 8. **Phrase sur le logiciel** (les trois pièces) : elle applique la recommandation de la décision 15 (le cadrage fixe besoins et critères ; la comparaison des logiciels est une étape à part). À confirmer en même temps que DL1 ; aucun prix n’est écrit.
 9. **Date du rendez-vous dans la proposition** (étape 1, « [date à fixer, au plus tard le vendredi 11 décembre 2026] ») : à remplir. Si la proposition est montrée le vendredi 13 novembre, l’étape 1 devient la suite de ce rendez-vous.
 10. **Aide publique** : la proposition (section 6) demande « une aide publique au conseil éventuelle (dépôt avant toute signature) ». À retirer avant envoi si la décision 12 est « non » (feuille de décisions, ligne 65).
+11. **Bon de commande, deux corrections issues de la vérification de k1b** (à reporter dans la pièce client, puis à faire valider par l’avocat) : condition 6, nommer les droits cédés, leur destination, le lieu et la durée (Code de la propriété intellectuelle, art. L131-3) ; partie 5, « Aucun paiement n’est demandé ni reçu pendant les sept jours » (Code de la consommation, art. L221-10, qui interdit de recevoir un paiement).
 
 ## 4. Ce que seul GianLuca Carlone peut dire (à demander par Morgan)
 
@@ -93,7 +94,7 @@ Source de chaque correction entre parenthèses ; « k1a, ligne N » renvoie à l
 3. Signature électronique à distance après un rendez-vous chez le client : « hors établissement » ou non ?
 4. Accorder les quatorze jours par contrat à tout client : texte de l’information et du formulaire.
 5. Un bon de commande sans conditions générales suffit-il ? Les conditions jointes sont-elles bien opposables ?
-6. Si le client est une société civile : pénalités et indemnité de 40 € applicables ?
+6. Si le client est une société civile : pénalités et indemnité de 40 € applicables ? L’article L441-10, II, du Code de commerce vise « tout professionnel en situation de retard de paiement » (Légifrance, lu le 10 novembre 2026) ; la fiche F23211 parle d’actes de commerce (k1b, « Vérification du 10 novembre 2026 »).
 7. Clause de responsabilité (plafond, exclusions) et tribunal compétent.
 8. Arrêt : l’acompte gardé est-il un dédit ou une pénalité ? La rédaction « en contrepartie du travail fait et du temps réservé » et la cession du travail fait en cas d’arrêt tiennent-elles (k1b, § 7, lignes 126 à 135) ?
 9. Les peines des articles L242-5 à L242-7 du Code de la consommation s’appliquent-elles avec un client professionnel (k1a, ligne 364) ? Le contrat hors établissement est nul si L221-9 ou L221-10 n’est pas respecté (L242-1 ; k1a, correction 3, ligne 321).
@@ -102,7 +103,7 @@ Source de chaque correction entre parenthèses ; « k1a, ligne N » renvoie à l
 
 1. Opter pour la TVA dès la création : intérêt, forme, date d’effet.
 2. Première année : prorata du chiffre d’affaires ou non ? La page des impôts (21 mai 2026) l’exclut, la fiche F21746 (1er janvier 2026) l’applique (k1a, ligne 304). Avec le prorata, une facture de 6 500 € dans les premières semaines peut dépasser le seuil ramené à l’année (ligne 325).
-3. Mentions exactes de la facture d’acompte ; obligations de facturation électronique avant le 1er septembre 2027. Émission électronique : grandes entreprises et ETI depuis le 1er septembre 2026, PME et micro-entreprises au 1er septembre 2027 (F31808, vérifiée le 11 août 2026 ; k1a, correction 10, ligne 328). Obligation de recevoir des factures électroniques dès le 1er septembre 2026 pour toutes les entreprises : non vérifiée (k1a, ligne 366).
+3. Mentions exactes de la facture d’acompte ; obligations de facturation électronique avant le 1er septembre 2027. Émission électronique : grandes entreprises et ETI depuis le 1er septembre 2026, PME et micro-entreprises au 1er septembre 2027 (F31808, vérifiée le 11 août 2026 ; k1a, correction 10, ligne 328). Obligation de recevoir des factures électroniques dès le 1er septembre 2026 pour toutes les entreprises : confirmée (« toutes les entreprises doivent être en capacité de recevoir des factures électroniques », impots.gouv.fr, actualité du 28 septembre 2026, lue le 10 novembre 2026 ; k1b, « Vérification du 10 novembre 2026 ») ; Marwin Tech y est tenue dès son immatriculation.
 
 ## 7. Contrôle mécanique du 10 novembre 2026
 

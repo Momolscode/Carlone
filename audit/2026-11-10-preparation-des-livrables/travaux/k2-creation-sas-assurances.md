@@ -227,3 +227,74 @@ Toutes consultées le 10 novembre 2026, sauf celles marquées « dépôt », rep
 - Kohen Avocats, 28 octobre 2026 : https://kohenavocats.com/attestation-vigilance-urssaf-sans-salarie-sasu-president-non-remunere/
 - pareil-au-meme.fr, 25 septembre 2026 (recherche de disponibilité de l’INPI) ; Indy, sans date (dirigeant non rémunéré) : adresses exactes non conservées.
 - Lues, non reprises dans le texte : SVP, 17 mai 2024 (attestation sans salarié) ; KPMG Avocats, 24 avril 2026, et BNCplus, 8 septembre 2026 (TVA) ; Coover, 2024 (primes).
+
+## Vérification du 10 novembre 2026
+
+Relecture sceptique. Document interne — ne pas transmettre à GianLuca Carlone. Ce n’est pas un avis juridique, fiscal ou d’assurance. Cette partie l’emporte sur le reste de la note (`audit/2026-11-10-preparation-des-livrables/travaux/BRIEF-2.md`, § 4).
+
+**Conclusion.** Les frais de création, le tarif de l’annonce légale, la suppression du régime simplifié de TVA et l’obligation de recevoir des factures électroniques sont confirmés sur des pages officielles. L’article R210-6 est relu sur Légifrance. Cinq points sont à corriger :
+
+1. Pour une SAS, l’état des actes relève de l’article R210-6 (sociétés par actions). La formule « présenté aux associés avant la signature des statuts » est celle de l’article R210-5 (autres sociétés). Dans les deux cas, l’état est annexé aux statuts.
+2. La reprise par décision des associés après l’immatriculation n’est décrite ni par R210-5 ni par R210-6 : ce mode reste à confirmer par l’avocat.
+3. Responsabilité civile professionnelle : source officielle (F37365) au lieu de Pappers Services ; elle est obligatoire pour certaines activités réglementées.
+4. « Prix toujours écrit avec la TVA » et « ne pas écrire « TVA non applicable » » sont dépassés : l’option pour la TVA n’est pas décidée, et le bon de commande prévoit les deux cas (k1a, correction 8).
+5. Régime réel normal de TVA : seuils exacts et option mensuelle.
+
+**Méthode.** Huit appels pour cette note le 10 novembre 2026, dont deux partagés avec k1b (F37365, facture électronique) et un inutile (mauvais identifiant Légifrance : un article d’un décret de 2006 sur Mayotte). Quinze appels au total pour k1b, k2 et k3. **L’outil de lecture résume les pages et ne rend que de courts extraits** : toute citation doit être relue sur la page avant un usage juridique.
+
+### Tableau des contrôles
+
+| # | Affirmation de la note | Verdict | Source et date |
+|---|---|---|---|
+| 1 | Immatriculation 33,83 € ; bénéficiaires effectifs 19,33 € (partie 1) | confirmé | F37688, « Quel est le coût des formalités de création d’une société ? », « Vérifié le 18 mars 2026 » : « Le coût de la formalité d’immatriculation d’une société commerciale est de 33,83 € » ; bénéficiaires effectifs « 19,33 € » |
+| 2 | Annonce légale d’une SAS : 199 € hors taxes en 2026, arrêté du 19 novembre 2025, en vigueur au 1er janvier 2026 | confirmé | A18724, « Découvrez le tarif 2026 des annonces légales ! », publiée le 30 décembre 2025 : SAS 199 €, SASU 142 € hors taxes en métropole ; arrêté du 19 novembre 2025 modifiant celui du 19 novembre 2021. Arrêté non lu sur Légifrance |
+| 3 | Total d’environ 292 € toutes taxes comprises | confirmé (calcul) | 33,83 + 19,33 + 238,80 = 291,96 € ; TVA de 20 % sur l’annonce : notre calcul |
+| 4 | R210-6 : état présenté aux associés avant la signature, annexé aux statuts ; signature valant reprise après l’immatriculation (partie 2) | corrigé | Légifrance, section « De la constitution de la société » (R210-1 à R210-8), lue le 10 nov. 2026 : R210-6, « En vigueur depuis le 31 octobre 2019 » (décret n° 2019-1097, art. 2), vise la « société par actions » constituée sans offre au public ; R210-5 (en vigueur depuis le 27 mars 2007) porte « présenté aux associés avant la signature des statuts ». Mandat : engagements « déterminés », modalités « précisées par le mandat » ; l’immatriculation « emporte reprise ». Deux résumés de l’outil divergent sur le renvoi de R210-6 à R225-14 (état « tenu à la disposition des actionnaires ») : texte à relire |
+| 5 | Acte signé après les statuts et avant l’immatriculation : mandat dans les statuts ou décision des associés après l’immatriculation | confirmé pour le mandat ; à confirmer pour la décision | R210-5 et R210-6 ne parlent, selon l’outil, d’aucune décision des associés ni d’aucune majorité. Ce troisième mode vient d’autres sources (k1a : décret n° 78-704, art. 6, et Code civil, art. 1843, cités dans le moyen de l’arrêt du 18 juin 2025) |
+| 6 | Responsabilité civile professionnelle non obligatoire (Pappers ; F37365 citée par le dépôt) (partie 5) | confirmé ; source remplacée | F37365, version anglaise vue en résultat de recherche le 10 nov. 2026 : « not always mandatory », obligatoire pour certaines activités réglementées ; « Vérifié le 07/07/2026 » (`rj-R3-travail-contrats.md`, ligne 286) |
+| 7 | Recevoir des factures électroniques dès la création ; émettre au plus tard le 1er septembre 2027 (partie 6) | confirmé | impots.gouv.fr, 28/09/2026 : « toutes les entreprises doivent être en capacité de recevoir des factures électroniques » ; F31808, 11 août 2026 (k1a, ligne 306) |
+| 8 | Régime simplifié de TVA supprimé au 1er janvier 2027 (loi de finances pour 2025, art. 38) ; trimestriel jusqu’à 1 000 000 €, mensuel sur option ou au-delà (partie 4) | confirmé ; précisé | impots.gouv.fr, publiée le 22/09/2026, modifiée le 23/09/2026 : trimestriel si le chiffre d’affaires majoré des acquisitions taxables ne dépasse ni 1 000 000 € l’année précédente ni 1 100 000 € l’année en cours ; mensuel d’office au-delà ; option mensuelle sur simple demande, effet au premier jour du trimestre civil suivant |
+| 9 | Attestation de vigilance au-delà de 5 000 € hors taxes (partie 9) | confirmé (dépôt) | Code du travail, R8222-1 et D8222-5, Légifrance (k1a, ligne 310) |
+| 10 | Récépissé « En attente d’immatriculation » valable un mois ; assurance souscrite avec lui ; mention « Société en cours de formation » (parties 1 et 2) | non relu ce jour | F35934 non rouverte (limite de recherches) |
+
+### Corrections à appliquer
+
+1. **État des actes (partie 2, deuxième puce).** Phrase imprécise : « Il est présenté aux associés avant la signature des statuts. La signature des statuts vaut reprise, une fois la société immatriculée. (Code de commerce, article R210-6, lu sur une reproduction ; voir k1a.) » Phrase juste : « Pour une SAS, l’article R210-6 s’applique : l’état des actes accomplis pour la société en formation, avec l’engagement qui en résulte pour chacun, est annexé aux statuts, dont la signature emporte reprise une fois la société immatriculée. Les associés peuvent aussi donner mandat, dans les statuts ou par acte séparé, pour des engagements déterminés dont le mandat précise les modalités ; l’immatriculation en emporte reprise. » Source : Légifrance, R210-6, en vigueur depuis le 31 octobre 2019, lu le 10 novembre 2026 (résumé de l’outil ; renvoi à R225-14 à relire).
+2. **Conséquence de calendrier (partie 2, quatrième puce).** Phrase à préciser : « exige un mandat dans les statuts ou une décision des associés après l’immatriculation ». Phrase juste : « exige un mandat précis, dans les statuts ou par acte séparé (R210-6) ; à défaut, une reprise par décision des associés après l’immatriculation, mode que R210-5 et R210-6 ne décrivent pas : à confirmer par l’avocat ». Un bon de commande signé après le 16 novembre ne peut pas figurer dans l’état annexé aux statuts déjà signés.
+3. **Assurance (partie 5, première puce).** Remplacer « (Pappers Services, sans date ; fiche F37365 citée dans `10-structures-et-relations.md`.) [Source professionnelle] » par « Elle est obligatoire pour certaines activités réglementées seulement (F37365, vérifiée le 7 juillet 2026, revue le 10 novembre 2026). [Autorité ou organisme] ».
+4. **TVA (« Ce que cela change », livrable 1 ; « Ce qu’il ne faut pas écrire »).** « Prix toujours écrit avec la TVA » et « « TVA non applicable », ou un prix sans TVA » sont dépassés. Phrase juste : « Prix hors taxes fixe ; toutes taxes comprises si Marwin Tech est soumise à la TVA à la date de la facture ; sinon « 6 500 €, TVA non applicable (franchise en base) ». » Sources : k1a, correction 8 ; `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md`, § 3, point 4. L’option reste à décider avec l’expert-comptable.
+5. **Régime réel normal (partie 4, cinquième puce).** Ajouter : « Seuils du trimestriel : chiffre d’affaires majoré des acquisitions taxables d’au plus 1 000 000 € l’année précédente et 1 100 000 € l’année en cours ; option mensuelle sur simple demande, effet au premier jour du trimestre civil suivant. » Source : impots.gouv.fr, modifiée le 23 septembre 2026.
+6. **Sources (partie 1 et « Ce qui n’a pas pu être vérifié »).** F37688 : « Vérifié le 18 mars 2026 ». R210-6 : lu sur Légifrance le 10 novembre 2026, et non plus seulement sur une reproduction.
+
+### Sûr à reprendre
+
+**Document client** : seulement « Marwin Tech, société en cours de création, immatriculée avant toute facture et tout démarrage » (BRIEF-2, § 5, règle 5) et « Assurance de responsabilité civile professionnelle : à compléter quand le contrat sera souscrit ». Aucun délai d’immatriculation, aucun coût de création.
+
+**Interne seulement** :
+
+- « Frais obligatoires de création d’une SAS en 2026 : 33,83 € d’immatriculation, 19,33 € de déclaration des bénéficiaires effectifs et 199 € hors taxes d’annonce légale en métropole, soit environ 292 € toutes taxes comprises. » Sources : F37688, vérifiée le 18 mars 2026 ; A18724, 30 décembre 2025.
+- « Un acte signé pour la société après les statuts et avant l’immatriculation n’est repris par l’immatriculation que s’il est couvert par un mandat qui le détermine. » Source : R210-6, Légifrance.
+- « L’assurance de responsabilité civile professionnelle n’est obligatoire que pour certaines activités réglementées. » Source : F37365.
+- « Le régime simplifié de TVA disparaît le 1er janvier 2027 : déclaration trimestrielle, mensuelle au-delà des seuils ou sur option. » Source : impots.gouv.fr, 23 septembre 2026.
+- « Depuis le 1er septembre 2026, toute entreprise doit pouvoir recevoir des factures électroniques. » Source : impots.gouv.fr, 28 septembre 2026.
+
+### Ce qui reste inconnu
+
+- La date d’immatriculation de Marwin Tech ; les délais réels du guichet et du greffe ; le délai du numéro de TVA.
+- Le texte exact de R210-6 sur la mise à disposition de l’état (renvoi à R225-14) ; la reprise par décision des associés pour une SAS et sa majorité.
+- Les fiches F35934, F32886, F36703, F36613, F15252 et F11677 (ARE à 60 %, ARCE, ACRE) : non relues ce jour.
+- La couverture de l’intelligence artificielle par l’assureur ; la prise d’effet avant l’extrait Kbis ; le délai de l’attestation.
+- L’attestation de vigilance d’une SAS sans personnel : démarche et délai.
+- Le tarif 2027 des annonces légales ; les marques et le nom de domaine « Marwin Tech ».
+- Code des assurances, art. L12-10-1 (plainte sous 72 heures) : non relu.
+
+### Pages relues le 10 novembre 2026
+
+- Service Public Entreprendre, F37688, vérifiée le 18 mars 2026 : https://entreprendre.service-public.gouv.fr/vosdroits/F37688
+- Service Public Entreprendre, actualité A18724, 30 décembre 2025 : https://entreprendre.service-public.gouv.fr/actualites/A18724
+- Légifrance, Code de commerce, articles R210-1 à R210-8, « au 10/11/2026 » : https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006161463 ; article R210-6 vu en résultat de recherche : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039338704
+- Service Public Entreprendre, F37365, version anglaise vue en résultat de recherche : https://entreprendre.service-public.gouv.fr/vosdroits/F37365
+- impots.gouv.fr, « Facturation électronique », 28 septembre 2026 : https://www.impots.gouv.fr/actualite/facturation-electronique
+- impots.gouv.fr, « Le régime simplifié d’imposition à la TVA est supprimé à compter du 1er janvier 2027 », modifiée le 23 septembre 2026 : https://www.impots.gouv.fr/actualite/le-regime-simplifie-dimposition-la-tva-est-supprime-compter-du-1er-janvier-2027
+- Lecture inutile : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006256006 (mauvais identifiant).
+- Toutes ces lectures passent par un outil qui résume la page.

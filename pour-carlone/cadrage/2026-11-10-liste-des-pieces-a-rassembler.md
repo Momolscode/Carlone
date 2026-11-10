@@ -14,7 +14,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 | Contrats de maintenance et d’entretien | Repérer les vérifications périodiques | copie numérique |
 | Devis de travaux récents ou en attente | Préparer la comparaison de devis | copie numérique |
 | Registre de sécurité, s’il existe | Repérer les vérifications obligatoires | pages utiles, photographiées ou copiées |
-| Budgets, chiffrages ou calendriers de vos projets (dont l’hôtel ou les chambres), s’ils existent | Fixer vos trois priorités ; préparer, s’il le faut, le choix d’un logiciel hôtelier du marché | tout format |
+| Budgets, chiffrages ou calendriers de vos projets (dont vos neuf suites et l’espace bien-être), s’ils existent | Fixer vos trois priorités ; préparer, s’il le faut, le choix d’un logiciel du marché pour vos suites | tout format |
 | Liste des œuvres disponibles, si leur vente est une de vos priorités | Préparer cette priorité | liste ou tableau |
 | Liste de vos outils et du titulaire de chaque compte | Savoir ce qui existe déjà | liste |
 | Un compte de votre société pour le registre des décisions | Y tenir le registre ouvert pendant le cadrage | accès ouvert par vous, sans nous donner de mot de passe |

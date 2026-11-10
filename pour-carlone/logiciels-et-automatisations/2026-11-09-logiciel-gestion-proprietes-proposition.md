@@ -176,6 +176,6 @@ Si une proposition comprend un service humain (encaissement des loyers, relances
 
 ## 10. Prochaine étape
 
-Nous vous proposons d'en parler, avec votre administratrice, lors du rendez-vous de cadrage, si possible avant le 15 décembre 2026. Si ce logiciel devient l'une de vos trois priorités, le cadrage en prépare le choix ; la première étape peut démarrer en février 2027. Rien n'est commandé, envoyé, payé ou signé sans votre validation écrite. Marwin Tech est en cours de constitution : aucune facture n'est émise et aucun travail ne démarre avant son immatriculation.
+Nous vous proposons d'en parler, avec votre administratrice, lors du rendez-vous de cadrage, si possible avant le 15 décembre 2026. [Mention du 10 novembre 2026 : date abandonnée ; le calendrier en vigueur est celui de l’offre en une page.] Si ce logiciel devient l'une de vos trois priorités, le cadrage en prépare le choix ; la première étape peut démarrer en février 2027. Rien n'est commandé, envoyé, payé ou signé sans votre validation écrite. Marwin Tech est en cours de constitution : aucune facture n'est émise et aucun travail ne démarre avant son immatriculation.
 
 Relecture contradictoire : 74 vérifications, 31 corrections ; mise en cohérence entre documents : 5 corrections — 9 novembre 2026

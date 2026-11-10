@@ -6,7 +6,7 @@ Rien ne part — ni présentation, ni proposition, ni page d’offre, ni bon de 
 
 | ☐ | Condition | Responsable | Preuve attendue | Date |
 | --- | --- | --- | --- | --- |
-| ☐ | Décision écrite sur la notification de l’incident du 4 novembre à l’autorité de protection des données (D03) | Morgan, avec l’avocat | décision datée et motivée | au plus vite (échue le 5 nov.) |
+| ☐ | Décision écrite sur la notification de l’incident du dépôt public (connu au plus tard le 2 novembre, encore public le 4 novembre) à l’autorité de protection des données (D03) | Morgan, avec l’avocat | décision datée et motivée | au plus vite (échue le 5 nov.) |
 | ☐ | Dépôt privé, copies contrôlées, secrets révoqués (D04) | Mathys | note datée | au plus vite |
 | ☐ | Texte d’information de GianLuca Carlone sur le fichier de contacts, validé par écrit par un conseil (D08) | Morgan | texte validé | jeudi 19 nov. |
 | ☐ | Accord écrit des deux associés sur l’offre et sur chaque document à envoyer | Morgan et Mathys | page signée | jeudi 19 nov. |

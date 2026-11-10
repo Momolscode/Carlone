@@ -2,14 +2,14 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
 
-Source : note de recherche `audit/2026-11-10-preparation-des-livrables/travaux/k2-creation-sas-assurances.md` (pages officielles Service Public Entreprendre, INPI, Infogreffe ; **pas encore vérifiée** : à confirmer avec l’avocat et l’expert-comptable).
+Source : note de recherche `audit/2026-11-10-preparation-des-livrables/travaux/k2-creation-sas-assurances.md` (pages officielles Service Public Entreprendre, INPI, Infogreffe ; **vérifiée le 10 novembre 2026** : partie « Vérification du 10 novembre 2026 », en fin de note, qui l’emporte ; reste à confirmer avec l’avocat et l’expert-comptable).
 
 ## En bref
 
-1. Frais obligatoires d’une SAS en 2026 : environ 292 € toutes taxes comprises (immatriculation 33,83 €, bénéficiaires effectifs 19,33 €, annonce légale 199 € hors taxes) ; honoraires de statuts et de pacte en plus (estimation interne : 2 000 à 5 000 € hors taxes, à confirmer).
+1. Frais obligatoires d’une SAS en 2026 : environ 292 € toutes taxes comprises (immatriculation 33,83 €, bénéficiaires effectifs 19,33 €, annonce légale 199 € hors taxes ; fiche F37688, vérifiée le 18 mars 2026, et actualité A18724 du 30 décembre 2025) ; honoraires de statuts et de pacte en plus (estimation interne : 2 000 à 5 000 € hors taxes, à confirmer).
 2. Aucun délai officiel garanti : deux semaines en moyenne pour le numéro SIREN selon l’INPI.
 3. **Si les statuts sont signés le lundi 16 novembre 2026**, immatriculation probable entre fin novembre et la mi-décembre ; fin décembre ou janvier 2027 si le greffe réclame une pièce. La promesse « démarrage début janvier 2027 » tient dans les cas favorable et courant.
-4. Responsabilité civile professionnelle : pas obligatoire, mais demandée par les clients ; elle peut se souscrire avec le récépissé de dépôt, avant l’extrait d’immatriculation. Déclarer l’incident de données du 4 novembre à l’assureur avant la souscription.
+4. Responsabilité civile professionnelle : pas obligatoire, sauf pour certaines activités réglementées (fiche F37365), mais demandée par les clients ; elle peut se souscrire avec le récépissé de dépôt, avant l’extrait d’immatriculation. Déclarer à l’assureur, avant la souscription, l’incident de données (dépôt public, connu au plus tard le 2 novembre, encore public le 4 novembre).
 5. Point non résolu : le cadrage dépasse 5 000 € hors taxes ; le client doit obtenir notre attestation de vigilance de l’Urssaf, qui n’en remet qu’une provisoire à une entreprise qui débute.
 
 ## 1. Les étapes, dans l’ordre
@@ -17,7 +17,7 @@ Source : note de recherche `audit/2026-11-10-preparation-des-livrables/travaux/k
 | N° | Étape | Qui | Pièce obtenue | Date visée |
 | --- | --- | --- | --- | --- |
 | 1 | Décider : forme (SAS), nom, siège, président, répartition du capital, pacte | Morgan et Mathys, avec l’avocat | décision écrite | lundi 16 novembre 2026 |
-| 2 | Si un bon de commande est signé avant l’immatriculation : prévoir l’état des actes annexé aux statuts ou un mandat | avocat | clause dans les statuts | avec les statuts |
+| 2 | Si un bon de commande est signé avant l’immatriculation : prévoir l’état des actes annexé aux statuts ou un mandat ; signé après les statuts, seul un mandat qui détermine l’engagement permet sa reprise par l’immatriculation (Code de commerce, article R210-6, Légifrance, lu le 10 novembre 2026) | avocat | clause dans les statuts ou acte séparé | avec les statuts |
 | 3 | Déposer le capital sur un compte bloqué au nom de la société en formation (verser tout le capital en numéraire pour le taux réduit d’impôt) | les deux associés | attestation de dépôt | 17 au 27 novembre |
 | 4 | Signer les statuts datés | les deux associés | statuts signés | 16 novembre |
 | 5 | Publier l’annonce légale (avant le 31 décembre pour garder le tarif 2026) | Morgan | attestation de parution | 17 au 27 novembre |

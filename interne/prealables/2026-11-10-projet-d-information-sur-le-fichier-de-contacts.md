@@ -2,7 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone en l’état · 10 novembre 2026 · Ce document n’est pas un avis juridique.
 
-**Projet à faire relire par un avocat avant tout usage.** Le texte de la partie 2 est destiné à GianLuca Carlone **seulement après** validation écrite par un conseil (échéance interne : jeudi 19 novembre 2026). Les champs « ……… » se remplissent avec des faits établis et datés, jamais de mémoire. Source : note `audit/2026-11-10-preparation-des-livrables/travaux/k3-fichier-de-contacts-rgpd.md` (§ 5 et § 6), non encore vérifiée.
+**Projet à faire relire par un avocat avant tout usage.** Le texte de la partie 2 est destiné à GianLuca Carlone **seulement après** validation écrite par un conseil (échéance interne : jeudi 19 novembre 2026). Les champs « ……… » se remplissent avec des faits établis et datés, jamais de mémoire. Source : note `audit/2026-11-10-preparation-des-livrables/travaux/k3-fichier-de-contacts-rgpd.md` (§ 5 et § 6), vérifiée le 10 novembre 2026 (partie « Vérification du 10 novembre 2026 », en fin de note, qui l’emporte).
 
 ## 1. Avant d’écrire (à faire par Morgan et Mathys)
 
@@ -19,7 +19,7 @@ Document interne — ne pas transmettre à GianLuca Carlone en l’état · 10 n
 >
 > **Ce qui s’est passé.** Du ……… au ………, le dossier de travail qui contenait ce fichier était accessible publiquement sur une plateforme d’hébergement de code. Nous l’avons constaté le ……… et l’avons rendu privé le ……….
 >
-> **Les données concernées.** Environ ……… fiches de contacts professionnels : [catégories, par exemple nom de l’entreprise, fonction, coordonnées professionnelles]. [Le cas échéant : certaines fiches comportent des coordonnées de personnes, notamment d’artistes.] Aucune donnée bancaire ni de santé.
+> **Les données concernées.** Environ ……… fiches de contacts professionnels : [catégories, par exemple nom de l’entreprise, fonction, coordonnées professionnelles]. [Le cas échéant : certaines fiches comportent des coordonnées de personnes, notamment d’artistes.] [À vérifier avant d’écrire, sinon retirer : aucune donnée bancaire ni de santé.]
 >
 > **Ce que nous ne savons pas.** Nous ne savons pas si des tiers ont consulté ou copié le fichier pendant cette période. [Ce que montrent les relevés disponibles : ………]
 >

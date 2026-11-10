@@ -39,7 +39,7 @@ Le dossier de cadrage, remis par écrit, puis présenté lors d’une restitutio
 | Acompte, moitié à la commande ; le travail démarre à l’encaissement | 3 250 € | 3 900 € |
 | Solde, moitié à la réception du dossier | 3 250 € | 3 900 € |
 
-Factures payables sous huit jours. Le prix hors taxes est fixe. Le prix toutes taxes comprises suppose une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base). Aucune facture n’est émise avant l’immatriculation de Marwin Tech. Aucun paiement n’est demandé pendant les sept jours qui suivent la signature.
+Factures payables sous huit jours. Le prix hors taxes est fixe. Le prix toutes taxes comprises suppose une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base). Aucune facture n’est émise avant l’immatriculation de Marwin Tech. Aucun paiement n’est demandé ni reçu pendant les sept jours qui suivent la signature.
 
 ## 6. Validité
 
@@ -74,7 +74,7 @@ Signé à la main en deux exemplaires originaux, ou par un service de signature 
 
 **5. Retard de paiement.** Pénalités au taux de refinancement de la Banque centrale européenne majoré de dix points, et indemnité forfaitaire de 40 € pour frais de recouvrement. Pas d’escompte pour paiement anticipé. Le travail est suspendu huit jours après une relance restée sans effet.
 
-**6. Ce qui vous appartient.** Le dossier et les documents faits pour votre société lui sont cédés une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte) ; elle les utilise avec qui elle veut. Nos méthodes et nos outils génériques restent à nous ; votre société en garde l’usage, sans paiement supplémentaire et sans limite de durée.
+**6. Ce qui vous appartient.** Une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte), nous cédons à votre société les droits d’auteur sur le dossier et les documents faits pour elle : les reproduire, les modifier et les adapter, les traduire, les diffuser à ses équipes, à ses sociétés et à ses conseils, les remettre à un autre prestataire ; pour ses besoins, dans le monde entier, pour toute la durée des droits. Le prix de cette cession est compris dans le forfait. Nos méthodes et nos outils génériques restent à nous ; votre société en garde l’usage, sans paiement supplémentaire et sans limite de durée.
 
 **7. Vos décisions.** Vous décidez. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée. Nous n’engageons aucune dépense en votre nom et ne contactons aucun tiers en votre nom.
 

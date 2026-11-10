@@ -17,7 +17,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Ce que l’IA peut faire pour vous
 
-*Quand ?* Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Idée | Ce que cela change | Quand |
 | --- | --- | --- |
@@ -25,13 +25,13 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 | Les échéances de la galerie dans un seul calendrier : droit de suite, contribution des diffuseurs, assurances, prêts | Chaque date arrive avec un rappel ; votre administratrice vérifie et dépose | Essai |
 | Le registre des objets mobiliers (« livre de police ») sur écran, s’il vous concerne, avec un logiciel qui en suit les règles | Chaque entrée est datée et ne se modifie plus ; le registre s’exporte pour un contrôle | Ensuite |
 | Dossiers d’achat et de vente préparés : facture, certificat, pièces de vigilance, recherche datée dans la base des œuvres volées d’INTERPOL | Un dossier complet, prêt pour votre signature | Ensuite |
-| Des pages d’œuvres en ligne, en plusieurs langues, à partir de textes validés par les artistes | Vos œuvres vues hors de la galerie | Plus tard : droits réglés, textes relus |
+| Des pages d’œuvres en ligne, en plusieurs langues, à partir de textes validés par les artistes | Vos œuvres vues hors de la galerie | Ensuite : droits réglés, textes relus |
 
-Le cadrage retient trois essais au plus, tous projets confondus, menés un à la fois.
+Le cadrage retient trois tâches au plus à essayer, tous projets confondus, une à la fois.
 
 ## Comment nous procéderions
 
-1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises) fait l’inventaire de la galerie : société qui vend, registres, échéances, outils. Il dit si la galerie est l’une de vos trois priorités.
+1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises si Marwin Tech est soumise à la TVA ; voir la fiche 10) fait l’inventaire de la galerie : société qui vend, registres, échéances, outils. Il dit si la galerie est l’une de vos trois priorités.
 2. **Choisir un logiciel du marché.** Des logiciels de galerie existent. Nous les comparons avec vous et votre administratrice, et retenons le plus simple qui suffit, au nom de votre société.
 3. **Essayer sur une vingtaine d’œuvres**, avec une mesure de départ du temps passé.
 4. **Relier** la galerie à la vue d’ensemble de vos lieux (échéances, documents). C’est la partie que nous construisons.

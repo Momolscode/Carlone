@@ -6,7 +6,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 - Votre administratrice gère tout l’administratif. Elle le garde : nous l’aidons, sans jamais la remplacer ni la surveiller.
 - Les outils préparent ; elle vérifie et décide. On commence par une seule tâche, choisie avec vous et avec elle, et mesurée.
-- Pendant le cadrage, nous lui demanderions environ une à deux journées en tout. C’est une estimation, à confirmer avec vous.
+- Pendant le cadrage, nous lui demanderions environ une à deux journées sur trois à quatre semaines, sur ses heures de travail. C’est une estimation, à confirmer avec vous.
 
 ## Ce que nous avons compris (à confirmer avec vous)
 
@@ -18,7 +18,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 Trois niveaux d’aide. **Automatique** : des tâches internes seulement, après un essai et votre accord écrit. **Assistée** : l’outil prépare, une personne vérifie et valide. **Préparée** : un dossier prêt pour votre signature ou celle de vos professionnels.
 
-*Quand ?* Essai : dans un essai de huit semaines, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
+*Quand ?* Essai : dans un essai de huit semaines au plus, après le cadrage. Ensuite : après un premier essai réussi. Plus tard : sous conditions, sans date.
 
 | Idée | Ce que cela change pour elle | Quand |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Trois niveaux d’aide. **Automatique** : des tâches internes seulement, après
 | Courriers et dossiers qui engagent (préparée) | Un dossier complet, prêt à relire et à signer | Ensuite |
 | Vue d’ensemble de tous vos lieux, dans le logiciel de gestion de vos propriétés | Ce qui arrive, ce qui attend une validation, ce qui est en retard | Ensuite, par étapes |
 
-Le cadrage examine ces pistes avec elle et en retient trois au plus ; ensuite, un essai à la fois. Nos écrans d’exemple (Maquette — données fictives) montrent un écran « Administratif » : factures reçues et classées, courriers préparés à relire, rappels. Elle y décide de tout.
+Le cadrage examine ces pistes avec elle et retient trois tâches au plus à essayer ; ensuite, un essai à la fois. Nos écrans d’exemple (Maquette — données fictives) montrent un écran « Administratif » : factures reçues et classées, courriers préparés à relire, rappels. Elle y décide de tout.
 
 ## Comment nous procéderions
 
@@ -39,7 +39,7 @@ Le cadrage examine ces pistes avec elle et en retient trois au plus ; ensuite, u
 3. **Essayer sur des données fictives**, puis sur un petit périmètre réel. Une personne vérifie chaque résultat.
 4. **Décider** sur bilan écrit : garder, corriger ou arrêter. Puis mise en service sur les comptes de votre société, avec une fiche pour continuer à la main et une courte prise en main, pendant son temps de travail.
 
-**Son temps pendant le cadrage** (estimation, à confirmer avec vous) : une à trois heures pour tout ou partie du premier entretien ; deux à quatre heures pour réunir une quinzaine de documents ; une à deux heures de réponses à nos questions ; quelques minutes par jour pendant deux semaines pour noter le temps de trois tâches ; une heure trente pour la restitution, si elle y assiste. Soit environ une à deux journées sur trois à quatre semaines. Au début, cela lui prend du temps.
+**Son temps pendant le cadrage** (estimation, à confirmer avec vous) : une à trois heures pour tout ou partie du premier entretien ; deux à quatre heures pour réunir une quinzaine de documents ; une à deux heures de réponses à nos questions ; quelques minutes par jour pendant deux semaines pour noter le temps de trois tâches ; une heure trente pour la restitution, si elle y assiste. Soit environ une à deux journées sur trois à quatre semaines, sur ses heures de travail. Au début, cela lui prend du temps.
 
 **Ce que les outils enregistrent**, dit par écrit avant le premier usage : le journal (qui a demandé, qui a validé, ce qui a été fait), la fiche de temps qu’elle tient elle-même, l’historique des échanges avec l’assistant d’IA. Qui les lit et combien de temps on les garde se fixe avant le début. Ces traces servent à retrouver une erreur, jamais à juger son travail. Les bilans donnent des totaux par tâche et par mois, jamais jour par jour.
 
