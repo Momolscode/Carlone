@@ -154,7 +154,7 @@ Ajout du relecteur, 10 novembre 2026. La note s’arrêtait après le § 4.5. Il
 - **Une machine de 128 Go suffit pour nos usages actuels.** DGX Spark, Mac Studio M5 Max 128 Go ou mini-PC AMD : environ 2 800 à 7 500 € HT selon le modèle et le revendeur, prix relevés en novembre 2026 [Prix public daté ; Estimation].
 - **La DGX Station n’est pas pour nous.** Environ 90 000 à 171 500 € HT chez un revendeur allemand en octobre 2026, 1 600 W, faite pour entraîner des modèles et servir une équipe. Aucun usage connu de Marwin Tech ne la justifie [Estimation].
 - **Les prix bougent vite.** La DGX Spark Founders Edition est passée de 3 999 $ (octobre 2025) à 4 699 $ (février 2026), puis, selon la presse, à 6 950 $ (octobre 2026). Tout prix se cite avec sa date.
-- **L’électricité pèse peu.** Une DGX Spark coûte moins de 250 € HT d’électricité par an, même à pleine charge jour et nuit. Une DGX Station peut dépasser 2 300 € HT par an [Estimation, § 5.1].
+- **L’électricité pèse peu.** Une DGX Spark coûte moins de 250 € HT d’électricité par an, même à pleine charge (160 W mesurés) jour et nuit. Une DGX Station peut dépasser 2 300 € HT par an [Estimation, § 5.1].
 - **Le vrai argument est la maîtrise des données, pas le prix.** La CNIL juge « généralement plus opportun et plus sécurisé » un déploiement sur site quand on traite des données personnelles ou des documents sensibles (CNIL, 18 juillet 2024). Mais la sécurité de la machine devient alors notre affaire et la sienne (§ 6).
 - **Écart de qualité.** Les meilleurs modèles ouverts téléchargeables sont à 32 points sur l’indice Artificial Analysis v5, contre 58 pour le premier modèle fermé au lancement de l’indice (27 octobre 2026). Une machine locale fait bien le tri, l’extraction et le résumé ; le raisonnement difficile reste mieux fait par les modèles en ligne [Mesure publiée ; Estimation].
 
@@ -239,3 +239,75 @@ Prix relevés par la note ou par la vérification. « Vérifié » = page relue 
 | DGX Station (fourchette) | selon constructeur | environ 90 000 à 171 500 € | Net (HT) | BuyZero, guide du 5 novembre 2026, « état octobre 2026 » | Vérifié |
 | HP ZGX Fury G1n | GB300 | 133 193,28 € HT / 158 500 € TTC | HT et TTC | BuyZero, fiche produit | Vérifié |
 | Dell Pro Max avec GB300 | GB300, 16 To | 171 428,57 € HT / 204 000 € TTC | HT et TTC | BuyZero, fiche produit | Vérifié |
+
+## Vérification du 10 novembre 2026
+
+Relecture sceptique, 10 novembre 2026. Dix lectures ou recherches pour la vérification, quatre pour les compléments. Cette partie l’emporte sur le reste de la note.
+
+**Conclusion.** Les caractéristiques officielles de la DGX Spark, de la DGX Station, de la RTX PRO 6000 et du Mac Studio M5 sont justes. Les prix de référence principaux sont confirmés (DGX Spark 3 999 $ puis 4 699 $ ; Mac Studio M5 Ultra dès 6 599 € TTC ; DGX Station 90 000 à 171 500 € HT chez BuyZero). Quatre points sont à corriger : la puissance FP4 de la DGX Station (« 153 » est une mauvaise lecture), la date d’annonce de la DGX Spark 64 Go, les chiffres de vitesse llama.cpp et la tête de l’indice Artificial Analysis depuis le 28 octobre. Les prix des revendeurs français n’ont pas été revérifiés : ils restent internes jusqu’à nouvelle lecture.
+
+### Tableau des contrôles
+
+| # | Affirmation de la note | Verdict | Source et date |
+|---|---|---|---|
+| 1 | DGX Spark : 128 Go unifiés, 273 Go/s, « jusqu’à 1 pétaFLOP » FP4 avec parcimonie, alimentation 240 W, TDP GB10 140 W, 150 × 150 × 50,5 mm, 1,2 kg, Arm 20 cœurs | Confirmé | NVIDIA, fiche DGX Spark, nvidia.com/fr-fr/products/workstations/dgx-spark/, lue le 10 novembre 2026 |
+| 2 | Inférence jusqu’à 200 milliards de paramètres, réglage fin jusqu’à 70 milliards ; version 64 Go « exclusivement auprès des partenaires OEM » ; jusqu’à 4 machines, 512 Go, « jusqu’à 700 milliards de paramètres » ; 2 ou 3 par câble QSFP, 4 avec commutateur | Confirmé | Même page (rubriques et FAQ), lue le 10 novembre 2026 |
+| 3 | Lancement à 3 999 $, hausse à 4 699 $ fin février 2026 ; 4 800 € sur la boutique européenne | Confirmé pour les dollars ; **non vérifié** pour les 4 800 € | Forum développeurs NVIDIA, « 2/23/2026 Price Change Announcement », message du modérateur du 25 février 2026 : prix conseillé de la Founders Edition de 3 999 $ à 4 699 $, « applies to all regions » |
+| 4 | Version 64 Go « à partir de 4 999 $ » annoncée « le 23 octobre » ; 128 Go à 6 950 $ | **Corrigé** (date) ; prix confirmés par la presse seulement | Titres concordants de presse : techno-edge.net, 8 octobre 2026 ; implicator.ai ; KuCoin News. Le 23 octobre est la date de mise en vente chez les partenaires (résumé de recherche, non relu). Page NVIDIA non lue |
+| 5 | DGX Station : Blackwell Ultra 252 Go HBM3e à 7,1 To/s ; Grace 72 cœurs, 496 Go LPDDR5X à 396 Go/s ; 748 Go cohérents ; modèles « jusqu’à 1 000 milliards de paramètres » ; MIG 7 ; ConnectX-8 jusqu’à 800 Gb/s ; deux stations reliables | Confirmé | NVIDIA, fiche DGX Station, nvidia.com/en-us/products/workstations/dgx-station/, lue le 10 novembre 2026 |
+| 6 | « 20 pétaFLOPS en FP4 (la fiche donne aussi 153, sans dire lequel est avec parcimonie) » | **Corrigé** | Même fiche : « FP4 Tensor Core 20 \| 15 », avec renvoi 3 « Without sparsity » et note 2 « All Tensor Core specifications are with sparsity unless otherwise noted » |
+| 7 | 1 600 W au total ; « un circuit de 20 A » | Confirmé ; nuance ajoutée | Même fiche (« 1,600 W \| 20A circuit required ») ; en 230 V, environ 7 A [Estimation] |
+| 8 | Prix DGX Station : 90 000 à 171 500 € HT ; HP 133 193,28 € HT / 158 500 € TTC ; Dell 171 428,57 € HT / 204 000 € TTC ; HP 109 243,70 € HT dans le guide ; délais de 3 à 5 semaines | Confirmé | BuyZero (Allemagne) : guide d’achat du 5 novembre 2026 (« Stand Oktober 2026 … zwischen ungefähr 90.000 € und 171.500 € netto ») ; fiches HP (délai d’environ 5 semaines) et Dell (environ 3 semaines), lues le 10 novembre 2026 |
+| 9 | RTX PRO 6000 Blackwell : 96 Go GDDR7 avec correction d’erreurs, 600 W, environ 1,8 To/s | Confirmé (1 792 Go/s) ; Max-Q à 300 W **non vérifié** | NVIDIA, fiche RTX PRO 6000 Blackwell Workstation Edition, lue le 10 novembre 2026 |
+| 10 | Mac Studio M5 Max et M5 Ultra annoncés le 25 août 2026, livrés dès le 22 septembre, 512 Go fin octobre ; M5 Ultra dès 6 599 € TTC | Confirmé ; « commandable depuis le 28 octobre » **non vérifié** (Apple écrit « fin octobre ») | Apple Newsroom France, 25 août 2026 et 22 septembre 2026 |
+| 11 | gpt-oss-120b sur DGX Spark : 55,37 jetons/s en écriture, 1 725 en lecture (« NVIDIA Developer Blog, cité par SpecPicks ») ; 58,72 et 2 443,91 (llama.cpp, février 2026) ; variation d’environ 30 % selon le logiciel | **Corrigé** (source, chiffres llama.cpp, ampleur) | NVIDIA Technical Blog, 24 octobre 2025 (1 725,47 et 55,37 ; entrée 2 048, sortie 128, un utilisateur) ; llama.cpp, discussion GitHub n° 16578 ; Hardware Corner, 15 octobre 2025 ; Ollama, 23 octobre 2025 |
+| 12 | Indice Artificial Analysis v5 : Claude Opus 5.5 en tête à 58 ; modèles ouverts téléchargeables à 32 (26 points derrière), sous Claude Haiku 5.5 (36) ; écart de 3 à 12 points | Confirmé au 27 octobre ; **corrigé** pour la suite | Artificial Analysis, « Announcing Artificial Analysis Intelligence Index v5 », 27 octobre 2026 ; 9to5AI, 29 octobre 2026 (Gemini 4 Carbon à 59 en tête depuis le 28 octobre, non public) |
+
+Autres constats faits en chemin :
+- Mac Studio M5 Ultra : 1,2 To/s, 96, 256 ou 512 Go, « consommation maximale en continu : 480 W » : confirmé (Apple, caractéristiques techniques, support.apple.com/fr-fr/128107). La puce de base a 30 cœurs CPU et 64 cœurs graphiques ; les options 256 et 512 Go exigent la puce 36 cœurs CPU et 80 cœurs graphiques. Cela explique une partie de l’écart de prix. Consommation mesurée par Apple : 9 W au repos, 385 W au maximum (M5 Ultra 512 Go) ; 7 W et 200 W (M5 Max de base) (Apple, « Mac Studio power consumption and thermal output », 21 septembre 2026).
+- Mac Studio M5 Max : 614 Go/s et 3,6 kg (M5 Ultra) : non vérifiés.
+- Mini-PC AMD : 256 Go/s non vérifié sur la fiche AMD ; le calcul (bus de 256 bits × 8 000 MT/s) est cohérent.
+- DGX Station chez ASUS : BuyZero affiche l’ASUS ET900N G3 « Auf Lager » (en stock) à 129 900 € TTC (liste des produits lue le 10 novembre 2026). La livraison « au 30 décembre 2026 » chez Scan n’est pas vérifiée.
+- Les prix de lancement en France (Le Monde Informatique, 18 novembre 2025), les prix des revendeurs français (Senetic, APY Groupe, LDLC.pro, Grosbill Pro, Amazon.fr) et le suivi magicprices.fr n’ont pas été relus.
+
+### Corrections à appliquer
+
+1. « Performance annoncée : 20 pétaFLOPS en FP4 (la fiche donne aussi 153, sans dire lequel est avec parcimonie) ; 10 pétaFLOPS en FP8 ; 5 pétaFLOPS en FP16/BF16. » → « Performance annoncée : 20 pétaFLOPS en FP4 avec parcimonie, 15 sans ; 10 pétaFLOPS en FP8 et 5 en FP16/BF16, avec parcimonie. » (fiche NVIDIA DGX Station, renvois 2 et 3, lue le 10 novembre 2026)
+2. « NVIDIA annonce la version 64 Go chez les partenaires « à partir de 4 999 $ » le 23 octobre » → « Début octobre 2026 (articles du 8 octobre), NVIDIA annonce une version 64 Go « à partir de 4 999 $ », vendue par les partenaires à partir du 23 octobre ; selon la même presse, la version 128 Go passe à 6 950 $. » (techno-edge.net, 8 octobre 2026 ; prix non relu sur une page NVIDIA)
+3. « écriture 55,37 jetons/s, lecture 1 725 jetons/s (NVIDIA Developer Blog, cité par SpecPicks le 8 novembre 2026) » → « écriture 55,37 jetons/s, lecture 1 725 jetons/s (NVIDIA Technical Blog, 24 octobre 2025 ; entrée de 2 048 jetons, sortie de 128, un utilisateur) ».
+4. « écriture 58,72 jetons/s, lecture 2 443,91 jetons/s (banc officiel llama.cpp, février 2026) » → « écriture environ 58 jetons/s à contexte vide et environ 41 jetons/s à 32 768 jetons de contexte (llama.cpp, discussion n° 16578, version à jour lue le 10 novembre 2026 : 57,81 et 41,42) ». Les chiffres 58,72 et 2 443,91 n’ont pas été retrouvés.
+5. « le logiciel fait varier le résultat d’environ 30 % » → « selon le logiciel et sa version, la vitesse d’écriture va de 38 à 58 jetons/s, soit un écart d’environ 50 % » (Hardware Corner, 15 octobre 2025 : 38,55 ; Ollama, 23 octobre 2025 : 41,14 ; llama.cpp n° 16578 : 42,00 en octobre 2025, 57,81 ensuite).
+6. « en tête, Claude Opus 5.5 à 58 points » → « au lancement de l’indice (27 octobre 2026), Claude Opus 5.5 en tête à 58 points ; depuis le 28 octobre, Gemini 4 Carbon, pas encore public, est classé premier à 59 » (Artificial Analysis, 27 octobre 2026 ; 9to5AI, 29 octobre 2026).
+7. « L’écart entre meilleur ouvert et meilleur fermé passe de 3 points (v4.3) à 12 points (v5) » → ajouter : « les 12 points concernent Kimi K3.1 Pro, dont les poids n’étaient pas publiés au 27 octobre ; parmi les modèles téléchargeables, l’écart est de 26 points » (Artificial Analysis, 27 octobre 2026).
+8. § 4.1 : « Le meilleur modèle ouvert de novembre 2026, Kimi K3.1 Pro » → « Kimi K3.1 Pro, présenté comme modèle ouvert mais dont les poids n’étaient pas publiés au 27 octobre 2026 » (Artificial Analysis) ; publication au 10 novembre non vérifiée.
+9. « La DGX Station coûte de 13 à 30 fois une DGX Spark » → « de 12 à 31 fois » (calcul : 90 000 ÷ 7 500 et 171 500 ÷ 5 500).
+10. « Fin février 2026 : hausse à 4 699 $ aux États-Unis et 4 800 € sur la boutique NVIDIA européenne » → « Le 23 février 2026, NVIDIA porte le prix conseillé de la Founders Edition de 3 999 $ à 4 699 $, dans toutes les régions » (forum développeurs NVIDIA, 25 février 2026) ; les 4 800 € restent à confirmer.
+
+### Sûr à reprendre
+
+Phrases prêtes, avec leur source et leur destination. Un prix de matériel reste un tarif public : on le cite toujours avec sa source et sa date.
+
+1. « NVIDIA DGX Spark est un ordinateur de bureau de 15 × 15 cm doté de 128 Go de mémoire partagée. NVIDIA indique qu’il fait tourner des modèles d’intelligence artificielle jusqu’à 200 milliards de paramètres. » — Fiche NVIDIA DGX Spark, lue le 10 novembre 2026. **Document client.**
+2. « Pour des données personnelles ou des documents sensibles, la CNIL juge “généralement plus opportun et plus sécurisé” un déploiement sur site, qui limite “les risques d’extraction de données auprès d’un tiers”. » — CNIL, « Les questions-réponses de la CNIL sur l’utilisation d’un système d’IA générative », 18 juillet 2024. **Document client.**
+3. « Un matériel installé chez vous, au nom de votre société, garde vos documents chez vous, à condition que les logiciels installés ne les envoient pas en ligne et que la sécurité de la machine soit tenue. » — Argument, avec ses conditions (§ 6). **Document client.**
+4. « Le prix conseillé de la DGX Spark est passé de 3 999 $ au lancement, en octobre 2025, à 4 699 $ en février 2026 (annonce de NVIDIA du 23 février 2026). » — Forum développeurs NVIDIA. **Annexe.**
+5. « En France, le Mac Studio M5 Ultra coûte à partir de 6 599 € toutes taxes comprises, avec 96 Go de mémoire (Apple, 25 août 2026). » — Apple Newsroom France. **Annexe.**
+6. « Une DGX Station coûte environ 90 000 à 171 500 € hors taxes chez un revendeur allemand, selon le constructeur et l’équipement (guide d’achat BuyZero, 5 novembre 2026). Elle consomme jusqu’à 1 600 W (fiche NVIDIA). » — **Annexe.**
+7. « NVIDIA déclare pour la DGX Spark une puissance acoustique de 35 dB(A) en pleine charge et de 19 dB(A) au repos. » — Fiche NVIDIA, norme ECMA-109. **Annexe.**
+8. « Avec le modèle ouvert gpt-oss-120b, NVIDIA mesure sur la DGX Spark environ 55 jetons par seconde en écriture et 1 725 en lecture (blog technique NVIDIA, 24 octobre 2025). » — **Annexe.**
+9. « Selon l’indice indépendant Artificial Analysis (version 5, 27 octobre 2026), les modèles ouverts téléchargeables les mieux notés obtiennent 32 points, contre 58 pour le premier modèle fermé au lancement de l’indice. » — Artificial Analysis. **Annexe.**
+10. « Exemple de calcul, estimation à valider : à 0,2001 € toutes taxes comprises le kWh (tarif Bleu, option Base, 1er août 2026), une DGX Spark à pleine charge jour et nuit consommerait environ 1 400 kWh par an, soit moins de 300 € toutes taxes comprises. » — Selectra, 17 juillet 2026 ; Tom’s Hardware, 27 janvier 2026 (160 W). **Annexe.**
+11. **Interne seulement** : le prix de 6 950 $ pour la DGX Spark 128 Go (presse seulement) ; tous les prix de revendeurs français de la note (non relus) ; le rapprochement « une machine de 128 Go coûte à peu près le prix du cadrage » (à ne jamais écrire dans un document client).
+
+### Ce qui reste inconnu
+
+- Le prix actuel de la DGX Spark sur la boutique NVIDIA européenne, en euros ; le prix de 6 950 $ sur une page NVIDIA.
+- Les prix actuels des revendeurs français (non relus) et le prix du Mac Studio M5 Max avec 128 Go.
+- Le bruit de la DGX Station et du Mac Studio M5 ; la consommation réelle d’une station RTX PRO 6000.
+- Le débit de la DGX Station avec plusieurs utilisateurs.
+- La vitesse et la qualité sur les documents réels de GianLuca Carlone : un essai est nécessaire.
+- La publication des poids de Kimi K3.1 Pro et leur taille (1,56 To selon GPUwerk, non vérifié).
+- Les chiffres de GPUwerk, RigBase, SpecPicks, AIMultiple et Cloudzat (§ 4) : non relus à la source.
+- Le rapport jeton/mot : « trois quarts de mot » vaut pour l’anglais ; en français, un mot fait souvent plus d’un jeton (non vérifié).
+- Le lieu d’installation, le contrat d’électricité et l’installation électrique du lieu ; les ordinateurs dont Marwin Tech dispose aujourd’hui.
+- Le traitement comptable et fiscal d’un achat : à faire valider par l’expert-comptable.
