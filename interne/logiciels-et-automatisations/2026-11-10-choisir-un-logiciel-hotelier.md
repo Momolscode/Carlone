@@ -90,3 +90,44 @@ Les deux lignes se recouvrent en partie (le choix du logiciel hôtelier). À tra
 - Lecture : à ce prix, l’autre offre n’est très probablement pas un logiciel seul (X3, conclusion 1, hypothèse). Elle peut comprendre une marque, des réservations apportées ou des personnes sur place, qu’un logiciel ne fournit pas (X3, conclusion 4).
 - Les enseignes du groupe lues demandent en général cinquante chambres et plus ; le plus petit exemple en compte 31 (x1, conclusion 2 et vérification n° 4). Neuf suites sont loin de ce seuil. Hypothèse : une franchise est peu probable ; seule la pièce écrite le dira.
 - Conséquence : on ne dit jamais « moins cher » ni « mieux ». On donne la grille de questions, valable pour tout prestataire, nous compris (`interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`, § 2 et § 3, cas A).
+
+## 4. Ce que Marwin Tech fait, ce qu’elle ne fait pas
+
+**À retenir : nous aidons à choisir, paramétrer, relier et former. Nous ne construisons pas de logiciel hôtelier et nous ne gérons pas les suites.**
+
+**Ce que nous faisons**, dans l’ordre :
+
+1. **Cahier des besoins**, une page, écrit avec GianLuca Carlone et son administratrice : nombre de suites et capacité, services (petit-déjeuner, bar), sites de réservation voulus, sauna et jacuzzi, personnes qui se servent du logiciel, budget.
+2. **Comparaison écrite** de trois logiciels au plus : les mêmes questions écrites, envoyées par l’exploitant et non par Marwin Tech à son nom (k12, § 5, étape 4, à confirmer par Morgan et Mathys) ; essai sur des réservations fictives ; test de l’export complet avant signature ; notation avec la grille de k12, § 5, complétée par les critères du § 1.
+3. **Paramétrage** avec l’administratrice : suites, tarifs, taxe de séjour, fiches de police, sites de réservation, créneaux.
+4. **Liaison** par l’interface de programmation du logiciel choisi : registre des bâtiments (totaux sans donnée nominative : nuitées, taux d’occupation, chiffre d’affaires, taxe de séjour à reverser ; annexe de spécification, module 9) ; comptabilité (export au format choisi par l’expert-comptable) ; événements de la galerie.
+5. **Formation de l’administratrice**, avec des procédures écrites. Elle gère l’administratif (BRIEF-2, § 10.2) ; l’outil l’aide, il ne la remplace pas et ne sert pas à la surveiller. Durée de formation : à fixer au cadrage.
+6. **Construire seulement ce qui manque** : par exemple un outil de créneaux pour le sauna et le jacuzzi si le logiciel ne les gère pas, ou les offres combinées avec la galerie.
+
+**Ce que nous ne faisons pas** :
+
+- **Logiciel hôtelier sur mesure**, ni caisse, ni billetterie, ni gestionnaire de canaux, ni paiement, ni facturation électronique (BRIEF.md, additif ; BRIEF-2, § 10.3 et § 11.3).
+- **Gestion pour compte de tiers** : louer, encaisser ou gérer les suites pour GianLuca Carlone relèverait sans doute de la loi n° 70-9 du 2 janvier 1970 (carte professionnelle, garantie financière) ; hypothèse à faire confirmer par un juriste (X3, § 3 ; vérification, points 10 et 13).
+- **Exploitation** : accueil, ménage, fixation des prix, relation avec les voyageurs restent à l’exploitant.
+- **Abonnements à notre nom** : comptes, abonnements et données sont au nom de sa société (BRIEF.md, § 5, règle 9).
+- **Contact avec un éditeur** avant décision écrite des deux associés et accord de GianLuca Carlone.
+
+## 5. Les questions à poser vendredi
+
+Morgan les pose de vive voix. Une ligne de réponse par question, datée, le jour même. Aucune critique de l’autre proposition.
+
+| N° | Question | Ce que la réponse décide |
+| --- | --- | --- |
+| 1 | « Combien de suites, et pour combien de personnes au plus ? Le chiffre de neuf est-il arrêté ? » | Taille et prix du logiciel ; règles de sécurité (livrable 9) |
+| 2 | « Dans quel bâtiment, à quelle adresse ? Est-ce bien l’établissement de la galerie ? » | Commune (taxe de séjour), commission de sécurité, lien avec le registre des bâtiments |
+| 3 | « Quand voulez-vous accueillir les premiers clients ? » | Calendrier : logiciel choisi, paramétré et essayé avant l’ouverture ; facture électronique au plus tard le 1er septembre 2027 |
+| 4 | « Y aura-t-il un petit-déjeuner, un bar ou un restaurant encaissé sur place ? » | Caisse certifiée ou attestée ; module de restauration |
+| 5 | « Sous une enseigne, ou en indépendant ? » | Avec une enseigne, le logiciel est souvent fixé par elle (X2, § 1) ; en indépendant, libre choix |
+
+**Si le temps le permet** : quelle société exploite les suites ; le sauna et le jacuzzi sont-ils réservés aux clients des suites ; la vente sur Airbnb et Booking.com est-elle souhaitée ; qui fait l’accueil ; puis les cinq questions sur l’autre proposition (`interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`, § 1).
+
+## 6. La phrase à dire au rendez-vous
+
+> « Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous conseillons de ne pas le faire construire : des logiciels du marché font déjà la fiche de police, la taxe de séjour, la caisse et le lien avec les sites de réservation, et ils suivent les règles quand elles changent. Notre travail, c’est de vous aider à bien le choisir, à le paramétrer, à le relier au reste de vos lieux, et de former votre administratrice. Nous construisons seulement ce qui manque autour. »
+
+Si la question des sites vient : « Vos suites pourront apparaître sur les principaux sites de réservation, avec un seul calendrier à jour » (BRIEF-2, § 12). Ne rien promettre sur le nombre de réservations.
