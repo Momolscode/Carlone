@@ -1,4 +1,4 @@
-# Cabaret et commerces : autorisations, démarches et échéances
+# Cabaret, commerces et suites : autorisations, démarches et échéances
 
 PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
@@ -20,7 +20,7 @@ Ce document n’est pas un avis juridique. Il rassemble, pour préparer vos éch
 | 2 | Plans, étude acoustique, premier échange sur la sécurité | architecte, acousticien, mairie, service d’incendie | inconnu | À faire valider (architecte) |
 | 3 | Autorisation de travaux d’un lieu recevant du public, ou permis de construire qui en tient lieu ; une société qui demande un permis doit faire appel à un architecte | mairie | quatre mois avec une déclaration préalable, cinq avec un permis | Documenté [3] |
 | 4 | Si le lieu est dans le site patrimonial remarquable : accord de l’architecte des Bâtiments de France pour façade, vitrine, enseigne | mairie | allongé (déclaration préalable : deux mois au lieu d’un [4]) | À vérifier (périmètre non vu) |
-| 5 | Licence de boissons : la plus large ne se crée pas, elle s’achète ou se transfère ; formation au « permis d’exploitation » | vendeur de la licence, préfecture, organisme de formation | inconnu | À vérifier (pages non relues) |
+| 5 | Licence de boissons : la plus large (dite licence IV) ne se crée pas, elle s’achète ou se transfère ; formation au « permis d’exploitation » | vendeur de la licence, préfecture, organisme de formation | inconnu | À vérifier (pages non relues) |
 | 6 | Déclaration d’entrepreneur de spectacles ; activité possible trente jours après un dossier complet, sauf opposition du préfet ; valable cinq ans | direction régionale des affaires culturelles | trente jours | Documenté [1] |
 | 7 | Étude de l’impact des nuisances sonores, avant le démarrage, si de la musique amplifiée est diffusée de façon habituelle | acousticien | avant l’ouverture | À vérifier (texte à lire) |
 | 8 | Déclaration de la cuisine, si l’on sert des denrées animales ; une personne formée à l’hygiène | direction départementale de la protection des populations | avant l’ouverture | À vérifier (pages non relues) |
@@ -42,7 +42,7 @@ Ce document n’est pas un avis juridique. Il rassemble, pour préparer vos éch
 | En continu | Numéro du récépissé d’entrepreneur de spectacles sur les affiches, prospectus et billets | Documenté [1] |
 | En continu | Registre de sécurité ; enregistrement des niveaux sonores dans les grandes salles (seuil à vérifier) | À vérifier |
 
-Emploi des artistes : ils sont présumés salariés ; l’emploi de mineurs demande une autorisation préalable du préfet. À faire valider (avocat, expert-comptable).
+Emploi des artistes : ils sont présumés salariés ; l’emploi de mineurs demande une autorisation préalable du préfet. À vérifier, puis à faire valider (avocat, expert-comptable).
 
 ## 4. Les commerces
 
@@ -62,7 +62,7 @@ D’après nos échanges, vous prévoyez neuf suites, un sauna et un jacuzzi dan
 
 | Sujet | Ce qu’il faut savoir | Statut |
 | --- | --- | --- |
-| Sécurité incendie | Des chambres font du lieu un établissement avec locaux à sommeil : règles de sécurité propres, visites de la commission de sécurité. Si les suites communiquent avec la galerie ou le cabaret, l’effet sur le classement de l’ensemble est à étudier | À faire valider (architecte, bureau de contrôle) |
+| Sécurité incendie | Avec des chambres, le lieu reçoit du public « avec locaux à sommeil » : règles de sécurité propres, visites de la commission de sécurité. Si les suites communiquent avec la galerie ou le cabaret, l’effet sur le classement de l’ensemble est à étudier | À faire valider (architecte, bureau de contrôle) |
 | Fiche de police | Chaque client de nationalité étrangère, y compris d’un pays de l’Union européenne, remplit une fiche à son arrivée ; elle est conservée six mois | Documenté [10] |
 | Taxe de séjour | Au réel ou au forfait, selon la délibération de la commune ou de l’intercommunalité ; tarifs locaux non trouvés | À vérifier (mairie) |
 | Affichage des prix | Prix de la nuitée et des prestations à afficher, y compris en ligne ; détail selon la catégorie d’hébergement | À vérifier (texte non relu) |
