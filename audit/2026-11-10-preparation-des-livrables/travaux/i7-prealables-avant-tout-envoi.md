@@ -126,3 +126,54 @@ Reconstituée strictement à partir des pièces. Aucune qualification juridique 
 12. **Calendrier d’immatriculation.** Statuts « signés le lundi 16 novembre 2026 » (K2:126, hypothèse) ; statuts « prêts au 30 nov. » (D16) ; immatriculation déclenchée par un engagement écrit du client, « au plus tôt début décembre », « fin décembre ou début janvier en central » (D22, REG:290). **À retenir** : la liste (b) prend la date de signature des statuts comme variable. Les associés tranchent : signer tôt (K2) ou attendre l’engagement du client (D22).
 13. **Oppositions.** « 13 entreprises » (`crm/PASSATION.md:51`) ; « 14 oppositions notées » (a3:123) ; vérification sur 32 fiches seulement (`crm/PASSATION.md:26`). **À retenir** : « vérification incomplète », sans nombre dans un texte client.
 14. **Phrase du rapport du 29 octobre.** « Personne d’autre ne lit les fiches ni le suivi » (`crm/docs/rapport/rapport-crm-hermes360.md:15`) : fausse tant que le dépôt était public (SYN-DROIT:628). **À retenir** : la corriger par écrit dans le projet (a), si GianLuca Carlone a reçu ce rapport (inconnu, U04).
+
+## 4. Règles et lignes rouges propres à ce livrable
+
+1. **Rien n’est envoyé.** Le projet (a) reste un projet. Aucun contact avec GianLuca Carlone, un avocat, un assureur, la CNIL, l’Urssaf ou le greffe (BRIEF-2:89).
+2. **Deux en-têtes.** Projet (a) : « PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet » et « Projet à faire relire par un avocat avant tout usage » (BRIEF-2:68). Fichiers (b), (c) et questions : « Document interne — ne pas transmettre à GianLuca Carlone », la date, « Ce document n’est pas un avis juridique » (BRIEF-2:81).
+3. **Projet (a) = texte client.** Vouvoiement, phrases courtes, aucun code ([FV], D03, U08…), aucun article de loi, aucun nom d’autre prestataire, aucune coordonnée, aucun nom de personne du fichier (BRIEF:57-60 ; BRIEF-2:75).
+4. **Ne rien qualifier en droit** avant l’avocat : ni « violation », ni « fuite », ni « responsable du traitement » (K3:17). Les faits, datés ; l’inconnu, écrit comme inconnu ; les cases non faites, laissées vides et visibles (K3:185).
+5. **Aucune reconnaissance de responsabilité non pesée** (REG:146 ; `strategie-retenue.md:809`). Aucune promesse de prise en charge ou de gratuité avant l’avocat (partie 3, n° 6). BRIEF-2:74 interdit aussi toute « gratuité » affichée.
+6. **Ne jamais écrire avant la pièce** : « immatriculée », « assurée », « relu par notre avocat », « conforme », « vos données sont en sécurité chez nous » (a3:408-409) ; « Marwin Tech SAS », Siret, numéro de TVA, « Nous sommes assurés », « TVA non applicable », « le nom est libre » (K2:158-162).
+7. **Pas d’urgence fabriquée** (BRIEF-2:74). Une échéance légale ne s’écrit qu’avec sa source ; les échéances internes (19 et 27 novembre) ne vont pas dans le texte client.
+8. **Données.** Le fichier ne sert pas, n’est pas montré, n’est pas cité comme une référence (BRIEF:63 ; SYN-DROIT:636). La fiche de violation et l’évaluation de l’exposition des associés restent internes (`strategie-retenue.md:794`).
+9. **Dates.** Montants et délais publics avec leur source et leur date (K2). Tarifs d’avocat, d’assurance ou de délégué à la protection des données : « annonces commerciales, pas des devis » (K2:86 ; K3:157).
+
+## 5. Plan détaillé proposé
+
+Quatre fichiers, comme prévu par BRIEF-2:45, dans `interne/prealables/`. Markdown. Aucun n’est envoyé.
+
+**(a) `2026-11-10-projet-d-information-sur-le-fichier-de-contacts.md`** — projet destiné à GianLuca Carlone après relecture d’un avocat. Une page, 350 à 500 mots.
+
+1. Les deux lignes d’en-tête (partie 4, n° 2).
+2. Objet et date (« [date d’envoi] »).
+3. Ce qui s’est passé, daté : constitution du fichier en octobre 2026 ; un dépôt de code qui le contenait était accessible au public ; dernier ajout le 30 octobre ; constaté au plus tard le 2 novembre ; encore accessible le 4 novembre ; rendu privé le « [date, heure — à remplir] ».
+4. Les données concernées : catégories (entreprises, noms et fonctions de dirigeants, numéros, adresses électroniques, liens vers des profils en ligne, quelques fiches d’artistes) et ordres de grandeur. Aucun nom.
+5. Ce que nous ne savons pas : visites, copies par des tiers, date de début exacte.
+6. Ce qui a été fait (cases datées, vides si non faites).
+7. Ce qui reste à faire, par qui, pour quand.
+8. Ce que cela change pour vous : le fichier n’est pas utilisé ; demande de ne pas utiliser ni transmettre les copies détenues ; correction de la phrase du rapport du 29 octobre (si reçu).
+9. Un interlocuteur, la date du prochain point. Signature des deux associés.
+10. Hors texte, à détacher : tableau des sources de chaque phrase et liste des blancs.
+
+**(b) `2026-11-10-demarches-immatriculation-et-assurance.md`** — interne. Deux à trois pages.
+
+1. En bref : chemin critique ; trois cas de calendrier (K2:130-135), avec la date de signature des statuts en variable.
+2. Décisions à prendre d’abord (D15 à D17, D22 ; liste K2:150).
+3. Tableau daté : étape ; qui ; pièce ; coût officiel (source, date) ; cas favorable, courant, défavorable ; dépend de.
+4. Actes avant l’immatriculation : état des actes, mandat (K2:48-56 ; `10-structures-et-relations.md:374-391`).
+5. Après le Kbis : compte, TVA, plateforme de réception des factures, Urssaf, cotisation foncière avant le 31 décembre 2026, ACRE dans les 60 jours (K2:151).
+6. Assurances : RC professionnelle, cyber ; garanties et exclusions à vérifier ; incident déclaré ; « aucune couverture supposée pour cet incident » (REG:75).
+7. Ce qu’on ne peut pas écrire tant que ce n’est pas fait (K2:156-166).
+
+**(c) `2026-11-10-liste-avant-tout-envoi.md`** — interne. Une à deux pages. Une ligne par contrôle : case ; preuve attendue ; qui ; échéance ; état au 10 novembre.
+
+1. Phrase d’ouverture : MAJ:20.
+2. Verrous : D04, D03, D08 et projet (a), accord écrit des deux associés.
+3. Société : signataire, immatriculation, assurance, avocat, bon de commande et conditions, attestations (sans les promettre).
+4. Documents : une seule version de l’offre ; pièces historiques marquées ; texte client séparé de toute note interne ; lien de la présentation (D45) ; déclaration du lien de Morgan avec BOJ.ART ; message à Medhi ; ce que GianLuca Carlone a vu (U04).
+5. Données : aucune donnée réelle ; fichier hors du périmètre ; accord sur les données après l’immatriculation ; fournisseurs d’IA (k1b:198).
+6. Contrôle du texte : règles de BRIEF:55-68, de l’additif et de BRIEF-2:64-77, mots interdits (a3:396-409).
+7. Ordre d’envoi : projet (a) validé, puis message de recadrage et proposition, au plus tard le 27 novembre.
+
+**(d) `2026-11-10-questions-pour-l-avocat.md`** — interne. Questions numérotées, regroupées : incident (rôles, notification tardive, article 34, article 14 pour un fichier non utilisé, formulation sans reconnaissance, copies chez le client) ; contrats (société en formation, rétractation, accord sur les données avant l’immatriculation, K1A et K5:152-155) ; assurance d’un incident connu ; questions reçues des autres livrables (i3:144 ; k7, partie « Questions à poser à un professionnel »).

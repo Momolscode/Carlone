@@ -22,7 +22,7 @@ Document interne à Marwin Tech. Ne pas transmettre tel quel à GianLuca Carlone
 - **Fiscalité** : Cosne-Cours-sur-Loire est classée « France ruralités revitalisation » (registre BANATIC du ministère de l’Intérieur). L’exonération d’impôt sur les bénéfices vise une entreprise créée ou reprise entre le 1er juillet 2024 et le 31 décembre 2029, sous conditions. Les exonérations d’impôts locaux dépendent d’un vote local, non trouvé.
 - **Baux** : bail commercial par défaut ; bail dérogatoire de trois ans au plus, qui devient un bail commercial si le bailleur ne réagit pas dans le mois qui suit le terme ; convention précaire seulement pour une raison extérieure aux parties.
 - **Tout se fait au nom de l’exploitant de chaque commerce.** Marwin Tech ne dépose aucun dossier.
-- **Changé en 2025 et 2026** : règles des petits lieux recevant du public (arrêtés du 1er décembre 2025 et du 4 février 2026), dépôt de garantie des baux commerciaux plafonné (28 mai 2026), zone renforcée « FRR+ » (2025), mise en conformité des enseignes au sol avant le 2 novembre 2027.
+- **Changé en 2025 et 2026** : règles des petits lieux recevant du public (arrêtés du 1er décembre 2025 et du 4 février 2026), dépôt de garantie des baux commerciaux plafonné (28 mai 2026), zone renforcée « FRR+ » (2025), enregistrement des meublés de tourisme par un téléservice national annoncé pour fin 2026. À venir : enseignes au sol anciennes à mettre en conformité avant le 2 novembre 2027.
 
 ## 1. Changement de destination et travaux
 

@@ -54,3 +54,41 @@ La page officielle chatgpt.com/pricing, lue le 10 novembre 2026, affiche les fon
 - **Agents** : Copilot Cowork et les agents de Copilot Studio sont facturés à part, en crédits (0,01 $ l'unité selon Microsoft, r1 § 9.4) [Officiel]. Les modèles d'Anthropic dans Copilot sont exclus de la frontière de données de l'UE et désactivés par défaut en Europe (r1 § 1.3 et § 7.3) [Officiel].
 - **Particuliers** : Microsoft 365 Premium, 22 € par mois ou 219 € par an, remplace l'ancien Copilot Pro (lesastucesia.com, 1er novembre 2026) [Source professionnelle].
 
+## 2. Agents de programmation et d'automatisation
+
+- **Claude Code** : inclus dans Pro, Max, Ultra, Team et Enterprise ; absent de Free (claude.com/pricing) [Officiel]. Pro ajoute aussi le « hand-off » et les tâches programmées (même page) [Officiel]. Les limites de Max et Ultra (5 et 10 fois Pro) s'appliquent aussi à Claude Code, qui puise dans le même quota (claude.com/pricing) [À confirmer pour le détail]. Côté API, Anthropic propose des « Managed Agents », limités à 300 créations et 1 200 lectures par minute (platform.claude.com/docs/en/api/rate-limits) [Officiel] ; prix [À confirmer] (la page de prix lue était tronquée).
+- **Codex (OpenAI)** : inclus dans toutes les offres ChatGPT ; Plus « power a few focused coding sessions each week » ; Pro « designed for longer, higher-intensity sessions each day » ; les messages locaux et les tâches dans le nuage partagent le même quota ; au-delà, des crédits (chatgpt.com/codex/pricing) [Officiel]. L'Ultrafast (réponses plus rapides) n'est ouvert qu'à Pro 500 parmi les offres Pro (jeanhinz.io, 2 novembre 2026) [Source professionnelle].
+- **Autres outils reconnus** : Cursor : Plus 8 $, Premium 30 $, Super 100 $, Ultra 200 $, Teams à partir de 30 $ par personne, hors taxes ; GitHub Copilot : Pro 10 $, Pro+ 39 $, Max 100 $ (lesastucesia.com, relevé du 1er novembre 2026 sur cursor.com/pricing et github.com/features/copilot/plans) [Source professionnelle]. Mistral Pro inclut un agent de programmation (Vibe CLI, Devstral) (mistral.ai/pricing) [Officiel].
+- **Ce qui change pour une équipe de deux** : un agent peut travailler en arrière-plan sur une tâche pendant que la personne fait autre chose ; plusieurs sessions peuvent tourner en même temps. Le plafond n'est plus la vitesse de frappe mais (a) le quota de l'offre, (b) le temps de relecture humaine, (c) la clarté de la demande [Estimation]. Aucune mesure publiée de gain de productivité n'a été lue pour cette note : tout gain chiffré reste une « hypothèse à évaluer » (voir § 9).
+- **Limites** : quotas par période de cinq heures et par semaine (Claude, Codex) ; arrêt quand le quota est épuisé, sauf crédits payants ; une offre individuelle (Pro, Max, Ultra, ChatGPT Pro) est personnelle et ne se partage pas ; l'agent se trompe et recommence, ce qui consomme davantage (r1 § 9.4) [Officiel pour les quotas ; Estimation pour le reste].
+- **Automatisation (n8n)** : Starter limité à 5 exécutions simultanées et 5 minutes par exécution ; Pro jusqu'à 50 exécutions simultanées et 40 minutes (n8n.io/pricing, consultée le 10 novembre 2026) [Officiel]. C'est une limite concrète pour des traitements longs.
+
+## 3. Crédits d'API : prix, remises, limites de débit
+
+Prix en dollars hors taxes par million d'unités de texte (« tokens »), entrée / sortie.
+
+| Modèle | Entrée | Sortie | Lecture en cache | Source |
+| --- | --- | --- | --- | --- |
+| Claude Fable 5.2 | 8 $ | 40 $ | 0,20 $ | claude.com/pricing [Prix public daté] |
+| Claude Opus 5.5 | 4 $ | 20 $ | 0,20 $ | idem |
+| Claude Sonnet 5.5 | 2 $ | 10 $ | 0,10 $ | idem |
+| Claude Haiku 5.5 (jusqu'à 100 000 unités) | 0,10 $ | 0,50 $ | 0,01 $ | idem |
+| GPT-6 Astra | 10 $ | 50 $ | 1 $ | developers.openai.com/api/docs/pricing [Prix public daté] |
+| GPT-6.1 Sol | 2 $ | 10 $ | 0,10 $ | idem |
+| GPT-6 Luna | 0,10 $ | 0,50 $ | 0,01 $ | idem |
+| Mistral Large | 0,5 $ | 1,5 $ | — | mistral.ai/pricing (FAQ) [Prix public daté] |
+
+- **Remises** : traitement par lots −50 % chez Anthropic, OpenAI (« Batch » et « Flex ») et Mistral [Officiel, trois pages]. Cache : lecture à environ 5 % du prix d'entrée chez Anthropic (0,20 $ contre 4 $ pour Opus 5.5) ; « jusqu'à 90 % » de moins chez Mistral [Officiel].
+- **Surcoûts** : mode rapide ×2 (Opus 5.5 et Fable 5.2 ; « up to 2.5x faster ») ; traitement limité aux États-Unis ×1,1 (claude.com/pricing) [Officiel]. OpenAI : « Fast » ×2 ; traitement régional (résidence des données) +10 % pour les modèles sortis depuis le 5 mars 2026 (developers.openai.com/api/docs/pricing) [Officiel]. Changement 2026 : « Priority processing was renamed Fast mode on July 30, 2026 » (même page) [Officiel].
+- **Limites de débit Anthropic** (platform.claude.com/docs/en/api/rate-limits, consultée le 10 novembre 2026) [Officiel] :
+
+| Niveau | Plafond de dépense mensuel | Opus 5.5 : requêtes / min | Entrée / min | Sortie / min | Lots en file |
+| --- | --- | --- | --- | --- | --- |
+| Start | 500 $ | 4 000 | 2 000 000 | 400 000 | 200 000 |
+| Build | 1 000 $ | 10 000 | 5 000 000 | 1 000 000 | 300 000 |
+| Scale | 200 000 $ | 13 000 | 10 000 000 | 2 000 000 | 500 000 |
+
+  Une nouvelle organisation peut démarrer au niveau « Evaluation », plus bas, le temps d'établir un historique. Les unités lues en cache ne comptent pas dans la limite d'entrée. Un lot peut contenir 100 000 requêtes. Ce sont des maximums, « not guaranteed minimums » (même page) [Officiel]. Limites OpenAI par niveau : non lues [À confirmer].
+
+- **Calcul « documents traités par heure »** [Estimation, hypothèses explicites] : un devis ou une facture de trois pages, avec ses consignes, fait environ 5 000 unités en entrée et 1 000 en sortie (hypothèse à mesurer pendant l'essai). Au niveau Start, Opus 5.5 plafonne à 2 000 000 / 5 000 = 400 documents par minute en entrée et 400 000 / 1 000 = 400 en sortie, soit environ 24 000 documents par heure au maximum théorique. Coût par document : Opus 5.5 ≈ 0,04 $ (0,02 $ par lots) ; Sonnet 5.5 ≈ 0,02 $ ; Haiku 5.5 ≈ 0,001 $. Mille documents par mois coûtent donc entre 1 $ et 40 $ selon le modèle. Le débit machine n'est jamais le goulet : la relecture humaine l'est (voir § 9).
+

@@ -184,3 +184,62 @@ Inquiète : les mots « productivité », « optimiser », « gain de temps » s
 | « Voici ce que l’outil enregistre, et qui peut le lire. » | « Aucune donnée n’est enregistrée. » |
 | « Si cela ne sert pas, on arrête. » | « Vous gagnerez des heures chaque semaine. » |
 | « Vous gardez les comptes et les outils, même si nous partons. » | « Notre solution. » |
+
+## Ce que cela change pour nos livrables
+
+**Livrable 3 — page pour l’administratrice (principal).**
+- Ajouter un bloc « Ce que les outils enregistrent » : le journal (qui a demandé, qui a validé, ce qui a été fait), la fiche de temps qu’elle tient, l’historique des échanges avec l’IA. Pour chacun : à quoi il sert, qui le lit, combien de temps on le garde (« durée fixée avec vous avant le début »). C’est l’information préalable de l’art. L1222-4.
+- Phrase possible : « Ces traces servent à retrouver une erreur et à savoir qui a validé. Elles ne servent jamais à juger votre travail. »
+- Phrase possible : « Les bilans donnent des totaux par tâche et par mois. Pas de suivi jour par jour, pas d’heure de connexion. »
+- Bloc « Votre temps » : rappeler que formation, relevé et essai se font sur le temps de travail. Ne pas reprendre le chiffre du logiciel (6 à 10 jours) pour le cadrage.
+- Bloc « Si quelque chose ne marche pas » : droit d’arrêt sans autorisation ; carnet « ce qui ne marche pas » ; réponse sous un délai à fixer.
+- Ne jamais écrire « votre contrat » ou « votre employeur » : la page doit tenir si elle est prestataire.
+- Mention de pied : « Ces règles seront confirmées par GianLuca Carlone et ses professionnels avant tout démarrage. »
+
+**Livrable 1 — offre et bon de commande.** Ajouter trois lignes : aucune notation ni surveillance de personnes ; une charte d’usage remise à la mise en service ; l’information des personnes concernées faite par leur employeur avant le premier usage, avec un modèle fourni par Marwin Tech.
+
+**Livrable 2 — texte d’orateur.** Objection probable : « Vous allez surveiller mon administratrice ? » Réponse : « Non. On mesure la tâche, jamais la personne. Elle tient elle-même la fiche, et elle sait d’avance ce que l’outil garde. » Autre objection : « Il faudra la former ? » Réponse : « Une prise en main courte, sur son temps de travail, au moment de la mise en service. Une formation plus longue se commande à part. »
+
+**Livrable 4 — écrans d’exemple.** Pas d’écran « activité par utilisateur », pas de classement, pas de compteur de temps par personne. Le journal affiche un rôle (« validé par : administration ») ou un nom fictif, avec la mention « Maquette — données fictives ». Le bilan de l’essai montre des totaux par tâche.
+
+**Livrable 5 — kit du cadrage.** Guide du premier entretien, questions à poser à GianLuca Carlone (pas à elle en direct) : son statut ; la société qui l’emploie ; sa date d’arrivée ; période d’essai en cours ; l’effectif de chaque société ; la convention collective et l’opérateur de compétences ; les outils d’IA déjà utilisés, y compris sur des comptes personnels. Tableau d’inventaire : rubrique « effectif, instances, convention ». Trame du dossier : une section « information des personnes, charte, formation ».
+
+**Livrable 6 — feuille de décisions.** Décider : (a) relevé de temps reporté après la période d’essai, ou engagement écrit de ne jamais s’en servir pour l’évaluer ; (b) durée de conservation du journal et de la fiche ; (c) qui rédige l’information préalable (son employeur, sur modèle de Marwin Tech) ; (d) si Marwin Tech rédige la charte ; (e) qui reçoit ses retours, sous quel délai.
+
+**Livrable 7 — préalables.** Marwin Tech applique elle-même l’article 4 : sa propre charte et une formation notée de Morgan Olsen et Mathys Couet avant tout démarrage. Ajouter aux questions pour l’avocat celles de la section « Questions à poser à un professionnel ».
+
+**Livrable 8 — logiciel hôtelier.** Les logiciels hôteliers du marché tiennent souvent un journal par utilisateur et des tableaux d’activité du personnel (à confirmer par éditeur). Mêmes règles : information préalable, pas d’usage pour noter le personnel ; vérifier ce qu’on peut désactiver.
+
+**Livrable 9 — cabaret et commerces.** Chaque embauche future relève des mêmes règles. Suivre l’effectif de chaque société : un comité social et économique dès 11 salariés, des consultations sur les outils de contrôle dès 50. Le haut risque (annexe III) s’appliquera le 2 décembre 2027 à tout outil de tri de candidats : à exclure pour les recrutements du cabaret.
+
+**Échéances utiles.** Article 4 : déjà applicable. Article 50 : depuis le 2 août 2026. Annexe III, haut risque : 2 décembre 2027. Charte : relecture chaque année.
+
+## Ce qu’il ne faut pas écrire ou promettre
+
+1. « Conforme au règlement européen sur l’IA », « conforme au RGPD », « validé par la CNIL ».
+2. « Aucune donnée n’est enregistrée » ou « tout est anonyme » : avec une seule utilisatrice, rien n’est anonyme.
+3. « Votre administratrice gagnera X heures » : aucun chiffre avant la mesure.
+4. « Formation prise en charge par l’OPCO » ou « gratuite » : non vérifié.
+5. « Productivité », « performance », « suivi de son activité ».
+6. « L’IA remplace », « fait à sa place », « automatise son poste ».
+7. Tout ce qui suppose son statut, son nom, ses pouvoirs ou sa période d’essai.
+8. « Pas besoin de l’informer, ce n’est pas de la surveillance. »
+9. Une phrase qui lui donne une consigne, ou qui nous fait la diriger.
+10. Une durée de formation précise (« une heure suffit »).
+
+## Questions à poser à un professionnel
+
+**Avocat en droit social.**
+1. Le journal des actions et la fiche de temps, tenus pour une seule personne, sont-ils un « dispositif » au sens de l’art. L1222-4 ? Quelle information écrite suffit ?
+2. Lui donner par écrit un pouvoir de valider des envois ou des dépenses est-il une modification de son contrat ?
+3. Peut-on mesurer une tâche pendant sa période d’essai sans risque ?
+4. Quelle forme donner à la charte sous 50 salariés pour qu’elle s’applique ?
+5. Si elle est prestataire : comment écrire l’usage des outils et le relevé de temps sans créer de lien de subordination ?
+6. Durée de conservation conseillée pour le journal et la fiche ?
+
+**Expert-comptable ou gestionnaire de paie de GianLuca Carlone.**
+7. Quelle convention collective et quel opérateur de compétences pour chaque société ? Quel effectif ?
+8. Quelles formations à l’IA peuvent être financées, et à quelles conditions ?
+
+**Délégué à la protection des données, si l’une des sociétés en a un.**
+9. Faut-il une analyse d’impact pour le journal des actions ?

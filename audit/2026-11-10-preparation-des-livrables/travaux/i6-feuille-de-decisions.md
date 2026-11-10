@@ -189,3 +189,61 @@ Le numéro de la première colonne est provisoire. « Échue » : date limite pa
 | 21 | Quel avocat, quel budget ; relecture du bon, des conditions, de la cession, des données, du texte sur l'incident | 01 7 ; a4 5 ; k3 | lun. 30 nov. (03 l. 237) | — | Ouverte ; aucun avocat nommé |
 | 22 | Les neuf clauses du contrat court | D21 ; k1b l. 196 | avant le 1er bon | 21 | Ouverte |
 | 23 | Souscrire l'assurance, ou retirer « une assurance » et « assurée » | D19 ; 01 6 ; a3 9 | avant la 1re prestation | 5 | Ouverte |
+| **L'offre et le bon de commande** | | | | | |
+| 24 | Option du cadrage (A recommandée), puis une seule description | D51, D46 ; 01 12 | jeu. 19 nov. | — | Ouverte |
+| 25 | Prix du cadrage à l'écran | a4 6 ; 01 17 | avant la v12 | — | Ouverte (oui recommandé) |
+| 26 | Page d'offre ; bon de commande d'une page | a4 7 ; 01 22 | avant le rendez-vous | 7, 21 | Ouverte |
+| 27 | Une seule date limite du rendez-vous : 11 ou 15 déc. | a4 8 ; 01 27 | avant l'envoi | — | Ouverte ; arbitrage |
+| 28 | Date de restitution écrite | a4 9 ; 01 28 | avant l'envoi | — | Ouverte |
+| 29 | Trois informations pour signer, ou tableau « qui valide quoi » avant | a4 10 | avant l'envoi | — | Ouverte |
+| 30 | Sept jours sans paiement pour tous ; formulaire de rétractation joint | a4 11 ; 01 23 ; k1a l. 16 | avant le bon | 21 | Ouverte |
+| 31 | Aide publique au conseil : en parler ou non | a4 12 ; 01 25 ; k7b | avant le rendez-vous (aide jusqu'au 31 déc.) | — | Ouverte |
+| 32 | Version réduite : contenu exact, règle de sortie | a4 13 ; 01 24 ; k5 l. 132 | veille du rendez-vous | — | Ouverte |
+| 33 | Une seule règle d'acompte | a4 19 ; 01 21 | avant l'envoi | — | Ouverte |
+| 34 | Capacité écrite dans chaque bon ; nombre de tâches et départ du suivi unifiés | a3 11, 15 | avant l'envoi | 10 | Ouverte |
+| **Le logiciel** | | | | | |
+| 35 | Lots, prix, frontière avec le cadrage ; journées par fiche | DL5 ; a4 15 ; 01 20 | jeu. 26 nov. | DL4 | Ouverte |
+| 36 | Maintenance : 700 ou 1 000 € HT par mois ; son nom | DL6 ; a4 16 ; 01 20 | jeu. 26 nov. | 35 | Ouverte |
+| 37 | Logiciel comme priorité possible du cadrage ; décalage du bilan | DL7 ; a4 17 ; 01 20 | jeu. 19 nov. | 24 | Ouverte |
+| 38 | Autre proposition : règles de réception, questions, position, aucune comparaison nommée | DL2, DL3, DL4, DL9 | jeu. 19 nov. | DL3 : 1, 9 | Ouverte |
+| 39 | Refaire les chiffres à réception ; critères d'arrêt du pilote | DL13 | au plus tard au rendez-vous | 38 | Ouverte |
+| 40 | Partenaire de secours | DL11 | ven. 29 janv. 2027 | DL8 | Ouverte |
+| **La présentation et le rendez-vous** | | | | | |
+| 41 | Structure de la v12 ; diapositives retirées ; couverture | 01 9, 10, 16 | avant la v12 | — | Ouverte |
+| 42 | Rôle de l'administratrice au contrat ; sa présence au rendez-vous | D49, D48 ; 01 14 | D48 : 19 nov. ; D49 : avant le bon | 21 | Ouverte |
+| 43 | Maquette : lever le gel pour cet objet, temps plafonné ; nombre d'écrans ; images ou cliquable ; la laisser ou non | a4 20 ; 01 15 ; i4 l. 68-77 | avant le rendez-vous | 3, 8 | Ouverte |
+| 44 | Diapositive « moyens supplémentaires » : la montrer ou non | BRIEF-2 l. 133 | avant la v12 | — | Nouvelle |
+| 45 | Signer en séance ou non | 01 26 ; k5 ; k1a | avant le rendez-vous | 7, 30 | Ouverte ; arbitrage |
+| 46 | Documents remis au rendez-vous ; vocabulaire unique | a4 21 ; 01 29, 30 | avant l'envoi | — | Ouverte |
+| 47 | Adapter l'offre d'outillage et passation (C6) | D50 | jeu. 19 nov. | U52 | Ouverte |
+| 48 | Conduite du cadrage : qui mène, qui note, enregistrer ou non, délai du compte rendu, seuils | k7 l. 174 ; i5 l. 80-88 | avant le 1er entretien | — | Nouvelle |
+| 49 | Galerie et lieux : registre de police, pièces d'identité, budget de validation ; qui relit les sources | k9 l. 186 ; k11 l. 151 | avant les livrables 5 et 9 | — | Nouvelle |
+
+### 2.3 Hors feuille des associés
+
+- **Décisions de GianLuca Carlone** : D24 à D28 (registre, lignes 295-301) et D54 (MAJ, ligne 384), plus les cinq points d'a4 (lignes 506-512). Pas de case à cocher. Elles se notent comme « attendues de lui », avec la date interne du mardi 15 décembre 2026.
+- **Différées** : D29 à D44 (registre, lignes 307-324). Une ligne suffit : « ne pas rouvrir avant leur condition ».
+- **Vérifications** : a3, lignes 443-448. Ce sont des questions à des professionnels, pas des choix.
+
+### 2.4 Ce qui conditionne la feuille elle-même
+
+- Les trois arbitrages (lignes 6, 7, 8) doivent venir en premier (consigne du BRIEF-2 et de la mission).
+- Les lignes échues (1 à 4) doivent être constatées avant tout : sans elles, rien ne part (MAJ, ligne 370).
+- Qui tient la feuille et à quel rythme : écrit nulle part pour la feuille ; seul le registre a une règle (ligne 334 : Morgan tient, Mathys contrôle, chaque semaine jusqu'au 15 décembre).
+
+## 3. Contradictions et écarts entre les pièces — version à retenir et pourquoi
+
+1. **Les trois décisions qui commandent le rendez-vous.** a4 dit « la 3, la 4 et la 14 » (ligne 471) ; le document 01 dit « la 4, la 5 et la 18 » (ligne 341) ; le BRIEF-2 dit (a), (b), (c) (ligne 110). Même fond, numéros différents. À retenir : les intitulés du BRIEF-2, avec les deux numéros entre parenthèses. Pourquoi : c'est la consigne la plus récente.
+2. **Vingt et une ou trente.** a4 en compte 21, le document 01 en compte 30. La décision 10 d'a4 (trois informations pour signer) n'a pas d'équivalent dans le document 01 ; onze décisions du document 01 n'existent pas dans a4 (tableau 1.4). À retenir : la liste dédoublonnée de la partie 2, avec une colonne de correspondance.
+3. **État de DL1.** L'étude la date « Immédiate (lun. 9 nov. 2026) » (ligne 658) ; i2 l'écrit « en vigueur » (ligne 131) ; le document 01 demande encore de la « maintenir ou lever » (ligne 324). Aucun écrit des deux associés n'est trouvé. À retenir : « appliquée par prudence, adoption écrite à constater ». Pourquoi : ne pas noter « prise » sans preuve (registre, ligne 256).
+4. **Date limite du rendez-vous.** Vendredi 11 décembre 2026 (proposition, ligne 172 ; message de recadrage) contre mardi 15 décembre 2026 (D24, D48, D54, DL13, document Logiciel). À retenir comme recommandation : le 11 décembre côté client, le 15 décembre comme jalon interne de report (01, décision 27 ; i0, partie 3, point 10). La décision reste aux associés.
+5. **Signer en séance.** a4 § 4 prévoit un « oui aujourd'hui » ; la préparation du rendez-vous l'interdit (01, ligne 335). k1a (ligne 16) ajoute qu'un bon signé chez le client ouvre quatorze jours de rétractation, sans paiement avant sept jours. À retenir : la recommandation du document 01, « rien n'est signé en séance ». Elle reste un arbitrage.
+6. **Gel de la production contre feu vert.** D05, D52 et DL1 interdisent toute production non commandée. Le BRIEF-2 (ligne 101) donne le feu vert de Morgan sur neuf livrables, dont des écrans d'exemple. À retenir : les préparer est autorisé par Morgan ; les montrer exige une décision écrite des deux (i4, ligne 70 ; a4 20). Pourquoi : l'accord de Mathys n'est pas établi.
+7. **Signer avant l'immatriculation.** La proposition le prévoit, avec caducité à deux mois (ligne 98). La stratégie admet « au plus une signature au nom de la société en formation, sans encaissement » (ligne 705). k1a juge « plus simple et plus sûr » de signer après (ligne 39). i1 évoque une lettre d'intention (ligne 76). À retenir : trois options dans la feuille, sans choisir ; relecture par l'avocat.
+8. **Acompte.** Moitié pour le cadrage ; 40 / 60 ou 40 / 30 / 30 pour les automatisations (étude, section 8). À retenir : décision 33 ouverte.
+9. **Maintenance.** 700 € (étude, règle) ou 1 000 € (DL6, ligne 663) ; le document client affiche « 700 à 1 000 € ». À retenir : la fourchette, jusqu'à DL6.
+10. **Chiffres à unifier.** « Deux à trois tâches » contre « deux à quatre » ; départ du suivi au quatrième mois, six mois après le début du cadrage, ou juillet 2027 (a3, ligne 435). À retenir : « trois au plus » (BRIEF, ligne 49) ; départ du suivi à trancher.
+11. **Information des personnes.** D08 : jeudi 19 novembre (échéance interne). k3 calcule « entre le 22 et le 30 novembre 2026 » pour un délai d'un mois, « à confirmer par l'avocat » (version lue avant réécriture). À retenir : le 19 novembre, plus prudent.
+12. **Attestations promises.** Le document Logiciel promet l'attestation d'assurance « avant la première commande » (03, ligne 236) ; la proposition promet l'attestation de vigilance (ligne 174), dont l'obtention par une société neuve est inconnue (a3, ligne 444). À retenir : rien promis tant que la décision 23 n'est pas prise.
+13. **« Accord » ou « Accor ».** L'étude écrit « Accord » (DL2, ligne 659). L'additif du BRIEF (ligne 87) vaut. À retenir : « le groupe Accor (d'après Morgan Olsen, 9 novembre 2026 ; non vérifié auprès de GianLuca Carlone) ».
+14. **Statut du BRIEF § 4.** Il écrit « déjà décidé (ne pas rouvrir) » ; le registre (ligne 245) dit qu'aucune décision de la stratégie n'est prise. À retenir : « décidé par Morgan, accord écrit de Mathys à constater » (ligne 10 de la partie 2).

@@ -80,3 +80,29 @@ Point de départ. On ne sait pas si un hébergement est prévu [À confirmer]. S
 - Registre de sécurité : il doit porter les dates des exercices d’incendie depuis le 1er juillet 2026 (R2, ligne 40) [Texte officiel, lu par R2]. Changement 2026.
 - Les petits hôtels ont eu des règles renforcées par un arrêté publié le 4 août 2006, puis par l’arrêté du 26 octobre 2011 (échéancier de travaux) (extraits du moteur) [À confirmer].
 - Un ancien hôtel fermé depuis longtemps doit être traité comme une ouverture : visite de réception, mise aux normes, accessibilité [À confirmer par la mairie et un bureau de contrôle].
+
+### 3.2 Meublés de tourisme
+
+- **Déclaration nationale depuis le 20 mai 2026.** L’article L324-1-1 du code du tourisme, dans sa version en vigueur depuis le 20 mai 2026 (loi n° 2024-1039 du 19 novembre 2024), impose une déclaration préalable « en personne » auprès d’un téléservice national ; celui-ci délivre « sans délai » un numéro de déclaration, transmis à la commune (Légifrance, article L324-1-1, lu le 10 novembre 2026) [Texte officiel]. Changement 2026.
+- **Le téléservice national n’est peut-être pas encore ouvert.** Des sites professionnels disent que la déclaration passe encore par la mairie (Cerfa 14004) et que la mise en service est annoncée pour le quatrième trimestre 2026 (cpim.fr, socic.fr, extraits du moteur) [À confirmer auprès de la mairie]. La page de la Direction générale des entreprises lue ce jour date du 10 février 2025 et décrit l’ancien régime (entreprises.gouv.fr) [Autorité ou organisme, page ancienne].
+- **Sanctions** : jusqu’à 10 000 € pour défaut de déclaration, 20 000 € pour fausse déclaration (article L324-1-1, V) [Texte officiel].
+- **Données des plateformes** : le décret n° 2026-196 du 19 mars 2026 organise la transmission des données des plateformes vers la Direction générale des entreprises, puis vers les communes (Légifrance) [Texte officiel]. Changement 2026.
+- **Performance énergétique** : entre le 21 novembre 2024 et le 31 décembre 2033, logement classé A à E ; à partir du 1er janvier 2034, A à D ; le maire peut suspendre le numéro en cas de logement insalubre (economie.gouv.fr, extrait du moteur) [Autorité ou organisme — à relire]. Le calendrier « F en 2025, E en 2028 » concerne les résidences principales louées, pas les meublés de tourisme (décret n° 2015-587, annexe, extrait) [Texte officiel — à relire].
+- **Classement volontaire** : une à cinq étoiles, valable cinq ans, visite par un organisme accrédité, 133 critères (entreprises.gouv.fr, 10 février 2025) [Autorité ou organisme].
+
+### 3.3 Chambres d’hôtes
+
+- Chez l’habitant ; cinq chambres et quinze personnes au plus ; au moins trois services sur quatre (accueil, petit-déjeuner, linge, ménage) ; déclaration en mairie avant la première location (Cerfa 13566), sinon 450 € d’amende ; activité commerciale à immatriculer ; prix affichés ; fiche de police pour les clients étrangers, conservée six mois (Service Public Entreprendre, F17452, vérifiée le 21 mai 2026) [Autorité ou organisme].
+- Surfaces minimales : 7 m² pour une personne, 9 m² pour deux ; une salle d’eau et un WC pour cinq personnes ; table d’hôtes : menu unique, table commune ; alcool : formation, permis d’exploitation et licence (même source) [Autorité ou organisme].
+- Limite pour GianLuca Carlone : il faut que l’exploitant habite sur place. Une société propriétaire de bâtiments ne remplit pas cette condition [À confirmer par un juriste].
+
+### 3.4 Classement des hôtels
+
+- Volontaire ; référentiel de l’arrêté du 29 décembre 2021, appliqué depuis le 1er avril 2022 ; renouvellement tous les cinq ans ; inspection par un organisme accrédité par le COFRAC, puis inscription par Atout France (Légifrance ; atout-france.fr, extraits du moteur) [Texte officiel — à relire]. Changements récents : nouveaux panonceaux (arrêté du 13 février 2025) ; décret n° 2026-14 du 14 janvier 2026 sur le renouvellement du classement, dont certaines dispositions s’appliquent depuis le 1er septembre 2026 (Légifrance, extrait du moteur) [À confirmer].
+
+### 3.5 Taxe de séjour, affichage des prix, fiscalité
+
+- **Taxe de séjour** : au réel ou au forfait, selon la délibération de la commune ou de l’intercommunalité (R2, ligne 226) [Autorité ou organisme]. Tarifs de Cosne-Cours-sur-Loire ou de Cœur de Loire : non trouvés [À confirmer]. Les tarifs déclarés par les collectivités sont publiés par l’État et consultables par commune (collectivites-locales.gouv.fr, extrait) [Autorité ou organisme].
+- **Affichage des prix d’un hôtel** (arrêté du 18 décembre 2015) : prix de la nuitée toutes taxes comprises ; à l’extérieur, le prix de la prochaine nuitée en chambre double, le petit-déjeuner et l’accès à internet ; à la réception, en plus, les heures d’arrivée et de départ ; dans la chambre, le prix des prestations annexes ; en ligne, le prix définitif à tout moment de la réservation. Taxe de séjour au réel : montant indiqué près du prix (Légifrance ; GHR ; DGCCRF, extraits) [Texte officiel — à relire]. Les meublés relèvent d’un autre texte [À confirmer].
+- **Impôt sur le revenu, location en nom propre** (revenus 2025) : meublé non classé, seuil 15 000 €, abattement 30 % ; meublé classé et chambres d’hôtes, seuil 77 700 €, abattement 50 % (impots.gouv.fr, modifiée le 6 juillet 2026) [Autorité ou organisme]. Changement 2025. Seuil 2026 pour les chambres d’hôtes : 83 600 € (F17452) [Autorité ou organisme]. Pour une société soumise à l’impôt sur les sociétés, ces règles ne s’appliquent pas telles quelles [À confirmer par l’expert-comptable].
+- **TVA** : 10 % sur l’hébergement et la table d’hôtes, 20 % sur l’alcool, sauf franchise (F17452) [Autorité ou organisme].

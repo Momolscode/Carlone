@@ -119,7 +119,7 @@ S’y ajoutent la **sécurité** (accès nominatifs, pas de compte partagé, sau
 
 **Contenu d’une note honnête** (proposition de notre part, à faire relire)
 
-1. Objet et date. 2. Faits datés : ce qui était accessible, depuis quand, jusqu’à quand, comment nous l’avons vu. 3. Données concernées : catégories et ordres de grandeur, aucun nom. 4. Ce que nous ne savons pas (consultations ou copies par des tiers). 5. Mesures prises, datées. 6. Ce qui reste à décider, par qui, pour quand. 7. Ce que cela change pour lui : fichier non utilisé ; copies qu’il détient ni utilisées ni transmises. 8. Un interlocuteur et la date du prochain point.
+1. Objet et date. 2. Faits datés : ce qui était accessible, depuis quand, jusqu’à quand, comment nous l’avons vu. 3. Données concernées : catégories et ordres de grandeur, aucun nom. 4. Ce que nous ne savons pas (consultations ou copies par des tiers). 5. Mesures prises, datées. 6. Ce qui reste à décider, par qui, pour quand. 7. Ce que cela change pour lui : fichier non utilisé ; s’il en détient une copie, ne pas l’utiliser ni la transmettre (on ignore ce qu’il a reçu, `i0-faits-etablis-rapportes-inconnus.md:252`) [Dépôt]. 8. Un interlocuteur et la date du prochain point.
 
 Échéance interne : texte validé par écrit par un conseil le jeudi 19 novembre 2026 au plus tard (`audit/2026-11-04-audit-strategique/interne/14-registre-risques-inconnues-decisions.md:276`) [Dépôt].
 
@@ -142,7 +142,7 @@ S’y ajoutent la **sécurité** (accès nominatifs, pas de compte partagé, sau
 
 - Ordre : relevé des statistiques GitHub ; fiche de violation et décision motivée (D03) ; relecture par un avocat ; information écrite à GianLuca Carlone (D08) ; puis les huit points de la partie 4.
 - En-tête : « Projet — non envoyé — à relire par un avocat ». Rubriques : les huit points de la partie 6. Laisser en blanc, visiblement, l’inconnu : date du passage en privé, décision de notification, copies.
-- Phrases possibles : « Le fichier de contacts ne sera pas utilisé tant qu’il n’a pas été remis en conformité. » « À ce jour, nous ne savons pas si des tiers ont consulté ou copié ces données. » « Nous vous demandons de ne pas utiliser ni transmettre les copies que vous détenez. » « Nous faisons relire ce point par un avocat et revenons vers vous le [date]. »
+- Phrases possibles : « Le fichier de contacts ne sera pas utilisé tant qu’il n’a pas été remis en conformité. » « À ce jour, nous ne savons pas si des tiers ont consulté ou copié ces données. » « Si vous détenez une copie de ce fichier, nous vous demandons de ne pas l’utiliser ni la transmettre. » « Nous faisons relire ce point par un avocat et revenons vers vous le [date]. »
 - Échéances : aujourd’hui pour les statistiques GitHub ; jeudi 19 novembre 2026 pour le texte validé ; 22 au 30 novembre 2026 pour la question de l’information des personnes (à confirmer).
 
 **Livrable 6 (décisions)** : qui consulte quel avocat, avec quel budget ; notifier ou non, avec motifs du retard ; qui signe la note au client ; qui relève les statistiques aujourd’hui. Rappeler le risque porté en personne.
@@ -176,7 +176,7 @@ S’y ajoutent la **sécurité** (accès nominatifs, pas de compte partagé, sau
 2. Faut-il notifier la CNIL maintenant, avec quels motifs de retard ? Faut-il informer les personnes, surtout les artistes et les lignes personnelles ?
 3. Le délai d’un mois de l’article 14 court-il pour un fichier jamais utilisé ?
 4. Que peut dire notre note sans valoir reconnaissance de responsabilité ?
-5. Que faire des copies détenues par le client ?
+5. Que faire d’éventuelles copies détenues par le client ?
 
 **À l’assureur** : un incident connu avant la souscription est-il couvert ? (à poser lors des démarches d’assurance du livrable 7) [À confirmer].
 

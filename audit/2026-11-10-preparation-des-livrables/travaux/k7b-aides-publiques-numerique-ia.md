@@ -161,3 +161,40 @@ Aucune réponse n’est connue. À poser pendant le cadrage ou avant la signatur
 - **Livrable 8 (autre proposition, logiciel hôtelier).** Aucune aide lue ne paie un abonnement de logiciel. Région : « installation et mise en œuvre de logiciels » exclues. Cœur de Loire : informatique exclue. Seule piste à vérifier si un hébergement touristique est exploité : aide régionale au développement des activités touristiques.
 - **Livrable 9 (autorisations et échéances).** Inscrire : dossier Cœur de Loire complet avant tout début de travaux ; CNM informé dès l’étude de faisabilité, au moins neuf mois avant l’ouverture ; licence et affiliation avant toute demande au CNM ; fenêtre régionale du 15 novembre au 15 décembre pour les lieux de diffusion ; suivre les suites de « Mon centre-ville 2030 » (préemption, enseignes, vitrines).
 
+## Ce qu’il ne faut pas écrire ou promettre
+
+- « Le cadrage est finançable », « pris en charge à 50 % », un prix « après aide ».
+- « Marwin Tech est référencée », « agréée » ou « Activateur France Num ».
+- Un taux du Diag Data IA sans renvoi à la page de Bpifrance : il a changé entre 2023 et 2026.
+- « Chèque France Num » : rien de tel trouvé sur France Num en 2026.
+- « Cosne est en Petites villes de demain » : c’est Action cœur de ville.
+- « Huit ans sans impôt » : conditions strictes, faits inconnus.
+- « Le cabaret aura des aides » : rien avant licence, affiliation et projet suivi par le CNM.
+- « Impulse IA ne sert à rien » : c’est un programme public sérieux ; on dit ce qu’il ne couvre pas.
+- Le nom de l’autre prestataire ou son prix, dans un texte pour le client.
+
+## Questions à poser à un professionnel
+
+Personne n’a été contacté pour cette note.
+
+- **Région (service des aides aux entreprises).** Une galerie d’art, un cabaret ou une société qui gère des biens sont-ils des « commerces » exclus ? Que devient l’aide au conseil après le 31 décembre 2026 ? L’aide au conseil ciblé existe-t-elle encore ?
+- **Agence économique régionale.** Un logiciel de gestion des biens peut-il entrer dans Presta’INNO ? Une entreprise non industrielle est-elle admise ? Critères du prestataire ?
+- **Bpifrance.** Taux du Diag Data IA à la date du dépôt. Date du prochain appel à experts. Conditions des missions d’Expertise Conseil IA.
+- **Chambre de commerce de la Nièvre.** Critères de sélection d’Impulse IA, coût des formations, places restantes.
+- **Adebcosne ou Cœur de Loire.** Une boutique ou un cabaret relèvent-ils du taux de 40 % ou de 5 % ? La page web contredit le règlement sur les acquisitions et honoraires : lequel s’applique ? La cotisation foncière est-elle exonérée ?
+- **Expert-comptable ou avocat fiscaliste.** Exonération France Ruralités Revitalisation pour une société nouvelle du client, ou pour Marwin Tech : création réelle ou extension ? effet d’une location nue ? Où en est le client sous le plafond de 300 000 € d’aides sur trois ans ?
+- **Avocat.** Rédaction de la clause « aucune demande d’aide déposée » du bon de commande.
+- **CNM ou conseil spécialisé.** Un programme de cabaret atteint-il 70 % de musique et de variétés ? Quand ouvrir le dialogue pour une création de salle ?
+
+## Ce qui n’a pas pu être vérifié
+
+- La page officielle qui arrête le nom « IA Booster » ; un taux de 25 % du Diag Data IA au début de 2026.
+- Les conditions, pour l’entreprise, des Accélérateurs IA et des missions d’Expertise Conseil IA.
+- L’aide régionale au conseil ciblé en 2026 ; la suite de l’aide au conseil stratégique en 2027.
+- Le classement de Cosne au niveau renforcé « FRR+ » ; le vote local sur la cotisation foncière.
+- Une aide de la ville aux façades et vitrines ; la suite d’Action cœur de ville après 2026.
+- Les aides de la Direction régionale des affaires culturelles ; les articles 65 et 66 de la version du règlement du CNM entrée en vigueur le 28 octobre 2026.
+- La version 2026 de la charte des Activateurs ; les pages de France Num sur les aides à la formation.
+- Tous les faits sur le client (partie 8) ; l’expérience des associés au regard des critères de Bpifrance.
+- Limite : quatorze recherches ou lectures ; plusieurs pages lues par extraits.
+
