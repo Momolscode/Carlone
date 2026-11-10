@@ -6,19 +6,20 @@ Ce texte suit la refonte recommandée par l’audit (`audit/2026-11-09-audit-pre
 
 ## 1. Avant
 
-- La veille, jeudi 12 novembre au soir : feuille de décisions, partie « Avant vendredi 13 novembre », tranchée et signée ; relire l’antisèche et les réponses aux objections ; répéter les vingt minutes, chronomètre en main.
+- La veille, jeudi 12 novembre au soir : feuille de décisions, partie « Avant vendredi 13 novembre », tranchée et signée ; relire l’antisèche et les réponses aux objections ; répéter les vingt-huit minutes, chronomètre en main, avec les repères de fin de partie (§ 3) ; choisir la version selon V6 et V7 (complète, sans `moyens`, ou sans `ensuite` ni `moyens`).
 - Par défaut, **tout se montre à l’écran** : aucun document laissé, rien à signer, tant que les décisions V2 à V5 ne sont pas cochées (BRIEF-2, § 10.4).
-- Apporter : la présentation et la maquette sur l’ordinateur, hors connexion ; les pages imprimées seulement si la décision V2 dit « laisser » ; aucun bon de commande à signer.
-- Rôles : Morgan mène ; Mathys montre la maquette, note les mots exacts et surveille le temps.
+- **Les onze fiches** (`pour-carlone/fiches/`) se montrent ou se laissent seulement si Morgan et Mathys l’ont décidé (feuille de décisions, case V2). Sans cette décision, chaque sujet annonce sa fiche (son numéro est sur la diapositive), sans l’ouvrir ni la laisser.
+- Apporter : la présentation et la maquette sur l’ordinateur, hors connexion ; les pages imprimées, fiches comprises, seulement si la décision V2 dit « laisser » ; aucun bon de commande à signer.
+- Rôles : Morgan mène ; Mathys montre les écrans d’exemple (partie 3), note les mots exacts et annonce le temps à la fin de chaque partie.
 
-## 2. Pendant (environ une heure)
+## 2. Pendant (environ une heure trente)
 
 | Temps | Quoi |
 | --- | --- |
-| 0 à 5 min | Accueil. Une question avant toute diapositive : « Qu’est-ce qui compte le plus pour vous dans les trois prochains mois ? » Noter la réponse. |
-| 5 à 25 min | Présentation de vingt minutes (§ 3). |
-| 25 à 50 min | Échange : ses questions ; pour les suites, nombre, bâtiment, date d’ouverture (note hôtelière, § 5) ; sur l’autre proposition, s’il en parle, engagement et document écrit ; les objections (fiche dédiée). |
-| 50 à 60 min | Clôture : la décision demandée ; les trois informations (société, signataire, date du premier entretien) ; les trois phrases de clôture (`interne/rendez-vous/2026-11-10-convaincre-de-miser-sur-nous.md`, § 5) ; la suite. |
+| 0 à 10 min | Accueil. Une question avant toute diapositive : « Qu’est-ce qui compte le plus pour vous dans les trois prochains mois ? » Noter la réponse mot pour mot ; elle sert à la diapositive `compris`. |
+| 10 à 40 min | Présentation de vingt-huit minutes (§ 3), deux minutes de marge. Une question longue est notée et reprise dans l’échange. Versions courtes : 27 min 15 sans `moyens` ; 26 min 15 sans `ensuite` ni `moyens`. |
+| 40 à 75 min | Échange : ses questions ; pour les suites, nombre, bâtiment, date d’ouverture (note hôtelière, § 5) ; sur l’autre proposition, s’il en parle, engagement et document écrit ; les objections (`interne/rendez-vous/2026-11-10-reponses-aux-objections.md`) ; une diapositive d’annexe seulement s’il la demande ; les fiches seulement selon V2. |
+| 75 à 90 min | Clôture : la décision demandée ; les trois informations (société, signataire, date du premier entretien) ; les trois phrases de clôture (`interne/rendez-vous/2026-11-10-convaincre-de-miser-sur-nous.md`, § 5) ; la suite (délai du bon de commande décidé jeudi, V10). |
 
 ## 3. Les vingt minutes, diapositive par diapositive
 
