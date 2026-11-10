@@ -7,7 +7,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 1. **Ce qu’il faut décider** : `interne/decisions/2026-11-10-feuille-de-decisions.md` — les vingt et une décisions, les trois arbitrages du rendez-vous (séparer les documents clients et internes ; signataire ; prix du logiciel), ce qui est échu.
 2. **Ce qui bloque tout envoi** : `interne/prealables/2026-11-10-liste-avant-tout-envoi.md`, puis `…-questions-pour-l-avocat.md` et `…-demarches-immatriculation-et-assurance.md`.
 3. **Ce qu’on pourra montrer** (projets non envoyés) :
-   - `pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md` et `…-projet-de-bon-de-commande.md` (note : `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md`) ;
+   - `pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md` (version client propre, prête si l’arbitrage A est adopté), `…-offre-en-une-page.md` et `…-projet-de-bon-de-commande.md` (note : `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md`) ;
    - `pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md` ;
    - `pour-carlone/developpement/2026-11-10-ce-que-des-moyens-supplementaires-permettraient.md` et son annexe (note : `interne/developpement/2026-11-10-note-interne-moyens-supplementaires.md`) ;
    - `pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md` et `…-echeancier.xlsx` (note : `interne/cabaret-et-commerces/2026-11-10-sources-et-limites.md`).
@@ -42,7 +42,6 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026
 - Livrable 7 : projet d’information sur le fichier de contacts (avec l’avocat).
 - Livrable 8 : note conditionnelle sur le logiciel hôtelier, seulement si le scénario hôtelier se confirme.
 - La version 12 de la présentation : le scénario est dans le texte d’orateur ; reste à fabriquer les diapositives (outils `build-slides.js`, `review-slides.js`) et à les publier.
-- Une version client propre de la proposition de cadrage (arbitrage A).
 
 **Décisions attendues de Morgan Olsen et Mathys Couet** (détail dans la feuille de décisions) :
 1. Constater ou prendre les décisions échues (incident de données, dépôt privé, gel de la production, DL1, devis d’assurance).
