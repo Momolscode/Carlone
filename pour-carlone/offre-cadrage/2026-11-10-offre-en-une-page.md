@@ -11,9 +11,9 @@ Pour GianLuca Carlone · Marwin Tech · 10 novembre 2026 · proposition valable 
 - L’inventaire validé de vos sociétés, lieux, commerces et projets.
 - Vos trois priorités à 90 jours, chacune avec un objectif mesurable.
 - Trois tâches au plus à essayer, chacune avec sa mesure de départ.
-- Le choix argumenté de la suite : avec nous, avec votre administratrice seule, avec un autre prestataire, ou sans suite.
+- Le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune.
 
-Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, notre conseil : un logiciel du marché, que nous vous aidons à choisir, à paramétrer et à relier au reste ; nous construisons seulement ce qui manque. Si vous en faites une priorité, le cadrage fixe vos besoins et vos critères de choix ; il ne met encore aucun outil en service.
+Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous aidons à choisir un logiciel du marché et à le relier au reste ; nous construisons seulement ce qui manque. Si c’est une priorité, le cadrage fixe vos besoins et vos critères, sans mettre d’outil en service.
 
 **En combien de temps**
 
@@ -25,7 +25,7 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 
 **À quel prix**
 
-**6 500 € hors taxes, soit 7 800 € toutes taxes comprises.** Prix fixe, déplacements des deux rendez-vous compris. Moitié à la commande, moitié à la remise du dossier. Aucun paiement n’est demandé pendant les sept jours qui suivent la signature.
+**6 500 € hors taxes, soit 7 800 € toutes taxes comprises.** Prix fixe, déplacements des deux rendez-vous compris. Moitié à la commande (aucun paiement dans les sept jours qui suivent la signature), moitié à la remise du dossier.
 
 **Ce dont nous avons besoin**
 
@@ -45,7 +45,7 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 - Vos comptes, vos données et vos accès, au nom de votre société.
 - Vos décisions. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée.
 
-**Ce qui se passe ensuite.** Vous choisissez une suite dans les trente jours qui suivent la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, commandé à part, avec son prix. Pour votre logiciel aussi : une étape à la fois, chacune commandée à part.
+**Ce qui se passe ensuite.** Vous choisissez une suite dans les trente jours après la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, commandé à part, avec son prix. Votre logiciel aussi, étape par étape.
 
 **Qui nous sommes.** Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
 

@@ -2,7 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
 
-Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions-d-acceptation.md` (dix-huit objections, conditions d’un oui), note `audit/2026-11-10-preparation-des-livrables/travaux/k5-rendez-vous-de-decision.md`, feuille de décisions du 10 novembre. Toutes les objections sont des hypothèses : aucune parole directe de GianLuca Carlone n’est dans le dépôt.
+Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions-d-acceptation.md` (dix-huit objections, conditions d’un oui), note `audit/2026-11-10-preparation-des-livrables/travaux/k5-rendez-vous-de-decision.md`, feuille de décisions du 10 novembre. Mise à jour du 10 novembre au soir pour le rendez-vous du **vendredi 13 novembre 2026** : neuf suites et espace bien-être (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md`), diapositives `idees`, `hotel` et `ensuite`, objections 11 à 13. Toutes les objections sont des hypothèses : aucune parole directe de GianLuca Carlone n’est dans le dépôt.
 
 **Règles de réponse.** Écouter jusqu’au bout. Reformuler en une phrase. Répondre en deux phrases. Montrer une preuve si elle existe. Poser une question. Ne jamais promettre un résultat, ne jamais critiquer l’autre proposition, ne jamais céder sur le prix sans contrepartie (on échange, on ne cède pas ; réponse écrite sous deux jours, jamais en séance).
 
@@ -26,17 +26,21 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 
 ## 3. Le coût du logiciel : « Et mon logiciel, combien ? »
 
-**Selon la décision C de la feuille de décisions** (DL1) :
+**Deux coûts à séparer** : le logiciel des suites, abonnement du marché payé par sa société à l’éditeur ; et notre aide (choix, paramétrage, liaison, puis registre des bâtiments par étapes).
+
+**Le logiciel des suites** (tarifs publics, toujours citables avec leur source et leur date ; BRIEF-2, § 10.5) : « Les éditeurs publient leurs prix. Pour une dizaine de chambres, d’après leurs pages lues le 10 novembre 2026 : à partir de 40 € hors taxes par mois chez eviivo, 79 € par mois chez Sirvoy (formule Pro), jusqu’à 190 € par mois environ chez Thaïs avec moteur et canaux. Ce ne sont pas des devis ; s’y ajoutent selon les cas les frais de paiement, les commissions des sites, la caisse et la facture électronique. » Source : page client sur les suites ; note hôtelière, § 2.
+
+**Notre aide, selon la décision C de la feuille de décisions** (DL1) :
 - **DL1 maintenue (recommandé)** : « Nous vous remettons un prix par étape après le cadrage, sur vos volumes réels. Aujourd’hui nous vous montrons la méthode et les garanties. »
-- **DL1 levée** : « Jusqu’au bilan du pilote, comptez 15 700 à 18 700 € HT, commandés et payés étape par étape. » Puis : « Le cadrage vient avant et s’y ajoute. »
-**Ne pas dire** : un total additionné ; un chiffre improvisé ; la maintenance mensuelle.
-**Question suivante** : « Votre logiciel de gestion des propriétés fait-il partie de vos trois priorités ? »
+- **DL1 levée** : « Jusqu’au bilan du pilote, comptez 15 700 à 18 700 € HT, commandés et payés étape par étape. » Puis : « Le cadrage vient avant et s’y ajoute. » Pour le seul choix du logiciel des suites : le prix unique de la décision V8, jamais les deux lignes du 9 novembre.
+**Ne pas dire** : un total additionné ; un chiffre improvisé ; la maintenance mensuelle ; le coût sur trois ans des logiciels (estimation interne) ; une comparaison avec le prix de l’autre proposition.
+**Question suivante** : « Votre logiciel de gestion des propriétés fait-il partie de vos trois priorités ? Quand voulez-vous accueillir les premiers clients dans vos suites ? »
 
 ## 4. La comparaison avec l’autre proposition
 
 **Il dit** : « On m’a proposé autre chose pour gérer mes propriétés. »
 **Réponse** : « Nous ne commentons pas une proposition que nous n’avons pas lue. Pour vous aider à décider, voici les questions à poser à tout prestataire, nous compris : ce qui est couvert, la durée d’engagement, comment on en sort, à qui appartiennent les données. »
-**Puis poser les cinq questions** de `interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md` (§ 1), une par une, sans insister.
+**Puis poser les questions restantes** de `interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md` (§ 1 ; la 1 et la 5 sont réputées répondues), une par une, sans insister. S’il dit « pourquoi pas elle ? » : § 12.
 **Ne pas dire** : le nom de l’autre prestataire (sauf s’il le dit lui-même, et alors ne pas le répéter dans un écrit), « trop cher », « ils vous enferment », « nous ferons mieux et moins cher ».
 
 ## 5. Les modalités de démarrage
