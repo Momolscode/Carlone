@@ -47,7 +47,7 @@ const RED_CLIENT = [
   [/photo(graphie)? (du|de la|des|de votre|de vos) /i, 'ALERTE', '« photo de… » : une image générée n’est jamais présentée comme une photo réelle'],
 ]
 const EMOJI = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{FE0F}]/u
-const PRICE_OK = new Set(['6500', '7800', '3250', '3900', '1300'])
+const PRICE_OK = new Set(['6500', '7800', '3250', '3900', '1300', '650'])
 const PRICE_DOC = new Set(['3000', '5300', '10400', '15700', '18700', '7500', '6400', '1200', '2300', '700', '1000', '1400', '1500', '22200', '25200', '80', '430', '70', '275', '40', '85', '100', '46300', '68500', '79000', '97700', '57000', '240000', '14000', '10300', '37000'])
 
 let errors = 0, alerts = 0
