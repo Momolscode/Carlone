@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gestion des propriétés — maquette</title>
+<style>
+/*__POLICES__*/
+:root{--encre:#14181F;--papier:#F6F3EE;--carte:#FFFDF9;--filet:#D9D2C5;--bronze:#B08D57;--bronze-f:#7E5F31;--texte:#3D4450;--second:#5F636C;--vert:#3F6B4F;--rouge:#8A3B2E;--ambre:#9A6B1F}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--papier);color:var(--encre);font-family:'DM Sans',Arial,sans-serif;font-size:15px;line-height:1.45}
+.app{display:grid;grid-template-columns:232px 1fr;min-height:100vh}
+nav{background:var(--encre);color:#EDE8E0;padding:22px 16px;display:flex;flex-direction:column;gap:6px}
+nav .marque{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:700;margin:0 8px 18px;color:#fff}
+nav a{color:#D9D2C5;text-decoration:none;padding:10px 12px;border-radius:6px;font-size:15px}
+nav a:hover,nav a:focus{background:#262B33;color:#fff;outline:none}
+nav a.actif{background:var(--bronze-f);color:#fff}
+nav .pied{margin-top:auto;font-size:13px;color:#A9A49B;padding:8px}
+main{padding:22px 32px 40px;min-width:0}
+.barre{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:18px;flex-wrap:wrap}
+.barre h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:32px;font-weight:600;margin:0}
+.mention{border:1.5px solid var(--bronze);color:var(--bronze-f);background:var(--carte);font-weight:700;font-size:13px;letter-spacing:.04em;text-transform:uppercase;padding:6px 12px;border-radius:4px;white-space:nowrap}
+.ecran{display:none}
+.ecran.visible{display:block}
+.grille{display:grid;gap:16px}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g2{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}
+.carte{background:var(--carte);border:1px solid var(--filet);border-radius:8px;padding:16px 18px;min-width:0}
+.carte h2{font-size:16px;margin:0 0 10px;color:var(--bronze-f)}
+.chiffre{font-family:'Cormorant Garamond',Georgia,serif;font-size:44px;font-weight:700;line-height:1}
+.sous{color:var(--second);font-size:14px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{text-align:left;color:var(--second);font-weight:500;border-bottom:1px solid var(--filet);padding:8px 8px}
+td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
+.etat{display:inline-block;font-size:13px;font-weight:700;padding:2px 9px;border-radius:999px;white-space:nowrap}
+.ok{background:#E3EDE6;color:var(--vert)}
+.prevoir{background:#F4EBDB;color:var(--ambre)}
+.retard{background:#F2DEDA;color:var(--rouge)}
+.manque{background:#ECE6DC;color:var(--texte)}
+.valider{background:#E9E2F1;color:#4B3B6B}
+.btn{display:inline-block;border:1px solid var(--encre);background:var(--encre);color:#fff;border-radius:6px;padding:8px 14px;font:inherit;font-size:14px;cursor:pointer;text-decoration:none}
+.btn.clair{background:transparent;color:var(--encre)}
+.liste{margin:0;padding-left:18px}
+.liste li{margin:4px 0}
+.alerte{border-left:4px solid var(--bronze);background:#FBF6EC;padding:10px 14px;border-radius:4px;font-size:14px}
+.note{color:var(--second);font-size:13px;margin-top:22px}
+.filtres{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.puce{border:1px solid var(--filet);background:var(--carte);border-radius:999px;padding:5px 12px;font-size:13px;cursor:pointer;font-family:inherit;color:var(--encre)}
+.puce.on{background:var(--encre);color:#fff;border-color:var(--encre)}
+.ecart{color:var(--rouge);font-weight:700}
+@media (max-width:1200px){.g3{grid-template-columns:repeat(2,minmax(0,1fr))}.g2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+<nav aria-label="Navigation de la maquette">
+  <div class="marque">Vos propriétés</div>
+  <a href="#/accueil" data-lien="accueil">Vue d’ensemble</a>
+  <a href="#/batiment" data-lien="batiment">Bâtiment A</a>
+  <a href="#/echeances" data-lien="echeances">Échéances</a>
+  <a href="#/devis" data-lien="devis">Comparer des devis</a>
+  <div class="pied">Maquette — données fictives. Elle montre l’allure et le principe ; ce n’est pas un logiciel utilisable.</div>
+</nav>
+<main>
+<!--__ECRANS__-->
+</main>
+</div>
+<script>
+/*__DONNEES__*/
+/*__SCRIPTS__*/
+;(function(){
+  function montrer(){
+    var id=(location.hash||'#/accueil').replace('#/','');
+    var ecrans=document.querySelectorAll('section.ecran');
+    var trouve=false;
+    ecrans.forEach(function(s){var v=s.id==='ecran-'+id;s.classList.toggle('visible',v);if(v)trouve=true});
+    if(!trouve){document.getElementById('ecran-accueil').classList.add('visible');id='accueil'}
+    document.querySelectorAll('nav a').forEach(function(a){a.classList.toggle('actif',a.dataset.lien===id)});
+  }
+  window.addEventListener('hashchange',montrer);montrer();
+  document.querySelectorAll('.filtres .puce').forEach(function(p){p.addEventListener('click',function(){
+    document.querySelectorAll('.filtres .puce').forEach(function(q){q.classList.remove('on')});p.classList.add('on');
+    var f=p.dataset.filtre;document.querySelectorAll('#tableau-echeances tbody tr').forEach(function(tr){tr.style.display=(f==='tout'||tr.dataset.etat===f)?'':'none'});
+  })});
+})();
+</script>
+</body>
+</html>

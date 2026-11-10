@@ -1,0 +1,31 @@
+<section class="ecran" id="ecran-accueil" data-titre="Vue d’ensemble">
+  <div class="barre"><h1>Vue d’ensemble</h1><span class="mention">Maquette — données fictives</span></div>
+  <div class="grille g3">
+    <div class="carte"><h2>À traiter dans les 30 jours</h2><div class="chiffre">4</div><div class="sous">échéances, tous bâtiments</div></div>
+    <div class="carte"><h2>En attente de votre validation</h2><div class="chiffre">2</div><div class="sous">une comparaison de devis, un renouvellement</div></div>
+    <div class="carte"><h2>En retard</h2><div class="chiffre" style="color:var(--rouge)">1</div><div class="sous">pièce manquante au dossier</div></div>
+  </div>
+  <div class="grille g2" style="margin-top:16px">
+    <div class="carte">
+      <h2>Prochaines échéances</h2>
+      <table>
+        <thead><tr><th>Quoi</th><th>Où</th><th>Date</th><th>État</th></tr></thead>
+        <tbody>
+          <tr><td>Vérification électrique annuelle</td><td>Bâtiment A</td><td>15/01/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
+          <tr><td>Renouvellement de l’assurance</td><td>Bâtiment B</td><td>01/02/2027</td><td><span class="etat valider">à valider</span></td></tr>
+          <tr><td>Rapport d’entretien de la chaudière</td><td>Bâtiment A</td><td>dépassée</td><td><span class="etat retard">en retard</span></td></tr>
+          <tr><td>Échéance triennale du bail</td><td>Lieu 2</td><td>30/06/2027</td><td><span class="etat ok">à jour</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="carte">
+      <h2>Ce qui attend une décision</h2>
+      <ul class="liste">
+        <li>Toiture du Bâtiment B : trois devis comparés, <a href="#/devis">voir la comparaison</a>.</li>
+        <li>Assurance du Bâtiment B : proposition de renouvellement reçue.</li>
+      </ul>
+      <p class="alerte">L’outil prépare et rappelle. Une personne vérifie et décide : rien n’est envoyé, payé, signé ou supprimé sans validation.</p>
+    </div>
+  </div>
+  <p class="note">Maquette — données fictives : « Bâtiment A », « Lieu 2 » et « Entreprise 1 » sont inventés. Elle montre l’allure et le principe, pas le contenu détaillé de la première étape du logiciel.</p>
+</section>

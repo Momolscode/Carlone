@@ -1,0 +1,25 @@
+<section class="ecran" id="ecran-echeances" data-titre="Échéances">
+  <div class="barre"><h1>Échéances</h1><span class="mention">Maquette — données fictives</span></div>
+  <div class="carte">
+    <div class="filtres" role="group" aria-label="Filtrer par état">
+      <button class="puce on" data-filtre="tout">Toutes</button>
+      <button class="puce" data-filtre="retard">En retard</button>
+      <button class="puce" data-filtre="prevoir">À prévoir</button>
+      <button class="puce" data-filtre="valider">À valider</button>
+      <button class="puce" data-filtre="ok">À jour</button>
+    </div>
+    <table id="tableau-echeances">
+      <thead><tr><th>Échéance</th><th>Rattachée à</th><th>Qui porte l’obligation</th><th>Pièce attendue</th><th>Date</th><th>État</th></tr></thead>
+      <tbody>
+        <tr data-etat="retard"><td>Entretien de la chaudière</td><td>Bâtiment A</td><td>Propriétaire</td><td>Rapport d’entretien</td><td>dépassée</td><td><span class="etat retard">en retard</span></td></tr>
+        <tr data-etat="prevoir"><td>Vérification électrique annuelle</td><td>Bâtiment A</td><td>Exploitant</td><td>Rapport de vérification</td><td>15/01/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
+        <tr data-etat="valider"><td>Renouvellement de l’assurance</td><td>Bâtiment B</td><td>Propriétaire</td><td>Attestation</td><td>01/02/2027</td><td><span class="etat valider">à valider</span></td></tr>
+        <tr data-etat="prevoir"><td>Vérification des extincteurs</td><td>Lieu 2</td><td>Exploitant</td><td>Rapport</td><td>20/03/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
+        <tr data-etat="ok"><td>Échéance triennale du bail</td><td>Lieu 2</td><td>Propriétaire et locataire</td><td>—</td><td>30/06/2027</td><td><span class="etat ok">à jour</span></td></tr>
+        <tr data-etat="ok"><td>Déclaration annuelle de consommation d’énergie</td><td>Bâtiment B</td><td>À vérifier</td><td>Attestation</td><td>30/09/2027</td><td><span class="etat ok">à jour</span></td></tr>
+      </tbody>
+    </table>
+    <p class="alerte" style="margin-top:14px">Chaque échéance garde sa pièce et la personne chargée. L’outil rappelle à temps ; il ne dit jamais « conforme » : une personne vérifie.</p>
+  </div>
+  <p class="note">Maquette — données fictives. Les échéances réelles et leur rythme se vérifient avec vos professionnels.</p>
+</section>
