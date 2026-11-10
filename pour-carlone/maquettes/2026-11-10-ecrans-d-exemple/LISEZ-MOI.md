@@ -33,3 +33,5 @@ L’outil prépare et rappelle. Une personne vérifie et décide : rien n’est 
 ## Comment l’ouvrir
 
 Ouvrir `index.html` dans un navigateur (un seul fichier, sans connexion). Les images du dossier `images/` reprennent les onze écrans pour une présentation.
+
+*Note pour Morgan et Mathys (à retirer avant toute remise) : version publiée en page privée, lisible par Morgan seul : https://claude.ai/artifact/U856Kw7d7j5uKfAPMzVqEw*
