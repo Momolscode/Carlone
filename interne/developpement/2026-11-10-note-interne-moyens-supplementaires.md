@@ -58,9 +58,10 @@ Chemins relatifs à `audit/2026-11-10-preparation-des-livrables/travaux/`.
 3. Garder ou retirer « Si l’un de nous manque, le travail s’arrête » (page client) : c’est vrai et cela justifie la page, mais cela peut nourrir l’objection de légitimité.
 4. Valider les estimations de l’annexe, § 4 (investissement de départ, dépenses courantes), ou les retirer.
 5. Garder ou remplacer l’exemple de tarifs d’Anthropic dans l’annexe (§ 1 et § 2). Ils sont vérifiés (k13c, ligne 184), mais Anthropic ne propose qu’un traitement « global » ou aux États-Unis (k13c, ligne 258). Autre exemple possible : Mistral (tarifs vérifiés, ligne 198 ; lieu de traitement par défaut non lu).
-6. Faire relire avant toute remise : les prix de location (k13b) et le prix actuel de la DGX Spark en euros.
+6. Faire relire avant toute remise : le prix actuel de la DGX Spark en euros, et la mention « hors taxes » des prix de Scaleway sur sa page de tarifs (fermée aux robots le 10 novembre). Les prix d’OVHcloud sont relus.
+7. Garder ou retirer, dans l’annexe (§ 3), le paragraphe « Deux tendances mesurées, sans promesse » (METR, Epoch AI) et, dans la fiche 12, la phrase sur la longueur des tâches réussies par un agent : vérifiés, mais ce sont des mesures sur du logiciel et des rythmes non garantis.
 
 ## 4. Reste à faire
 
-- Vérifier k13b, k13d et k13f ; terminer k13e (outil : `outils/2026-11-10-orchestration/workflows/prep-moyens.js`).
+- Fait le 10 novembre 2026 : vérification de k13b, k13d et k13f, et alignement de la page, de l’annexe et des fiches 09 et 12. Reste : terminer k13e (outil : `outils/2026-11-10-orchestration/workflows/prep-moyens.js`) ; relire la page de tarifs de Scaleway et le prix de la DGX Spark en euros.
 - Aligner la diapositive `moyens` de la version 12 (`pour-carlone/presentation-ia/2026-11-10-version-12-projet/project/slides/moyens.html`) sur la page corrigée : « Jusqu’à cent fois plus vite » (ligne 4) n’a ni indicateur ni base ; « Vos documents chez vous » (ligne 5) et la note de l’orateur (ligne 10, lisible par qui ouvre le lien) disent que ses archives restent chez lui sans les deux conditions (logiciels qui n’envoient rien en ligne, sécurité tenue). Même remarque pour le déroulé (`interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md`, ligne 46).
