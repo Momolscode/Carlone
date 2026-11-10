@@ -2,7 +2,7 @@
 
 Note de travail interne — sources publiques consultées le 10 novembre 2026 — ce n'est pas un avis juridique, fiscal ou d'investissement.
 
-Auteur : note de recherche pour le dixième livrable (BRIEF-2, § 9.2). Elle n'est pas le livrable. Elle ne doit pas être montrée telle quelle à GianLuca Carlone.
+Auteur : note de recherche pour le dixième livrable (BRIEF-2, § 9.2). Elle n'est pas le livrable. Elle ne doit pas être montrée telle quelle à GianLuca Carlone. La partie « Vérification du 10 novembre 2026 », à la fin, l’emporte sur le reste de la note.
 
 Conventions : « HT » = hors taxes. Les prix en dollars restent en dollars, sauf mention d'un taux daté. Étiquettes : [Officiel], [Prix public daté], [Mesure publiée], [Source professionnelle], [Estimation], [À confirmer]. La note k13a (prix d'achat d'une machine locale) n'existait pas dans le dépôt au moment de la rédaction : les prix de machines cités ici sont donc à recouper avec elle.
 
@@ -58,4 +58,62 @@ Conventions : « HT » = hors taxes. Les prix en dollars restent en dollars, sau
 - **RunPod (États-Unis)** : page « mise à jour le 4 novembre 2026 ». Prix à l'heure par machine, facturation affichée à l'heure ou à la seconde. Exemples : **L4 0,59 $/h** ; L40S 1,09 $/h ; RTX 4090 0,89 $/h ; RTX 5090 1,19 $/h ; **H100 SXM 3,99 $/h** ; H200 5,29 $/h ; B200 7,99 $/h (RunPod, « GPU Cloud Pricing », https://www.runpod.io/pricing, 4 novembre 2026) [Prix public daté]. Le régime de taxes n'est pas écrit sur la partie lue [À confirmer]. Le niveau affiché (« Community Cloud », réseau de machines de tiers, ou « Secure Cloud », centres de données) n'est pas clair dans la lecture [À confirmer].
 - **Lecture** : à carte égale, les prix français ne sont pas plus chers que les prix américains. Une H100 coûte 2,80 € HT/h chez OVHcloud, contre 3,99 à 4,29 $ chez Lambda ou RunPod. Le taux de change n'a pas été appliqué ici ; la comparaison reste un ordre de grandeur [Estimation].
 - **Réserve sur les données** : envoyer des documents de GianLuca Carlone chez un hébergeur américain est un **transfert hors de l'Union européenne**. Il exige une base juridique (par exemple une adhésion de l'hébergeur au cadre de protection des données UE–États-Unis, ou des clauses contractuelles types) et une information des personnes concernées. Nous ne l'avons pas vérifié pour Lambda ni RunPod [À confirmer]. **Recommandation interne : ne pas utiliser ces hébergeurs pour ses données.** Ils restent un repère de prix.
+
+## Vérification du 10 novembre 2026
+
+Relecture sceptique, 10 novembre 2026 (vérification commune aux notes k13b, k13d et k13f). Pour cette note : aucune recherche par moteur ; la page « Tarifs Public Cloud » d’OVHcloud lue en entier ; la page de tarifs de Scaleway refuse les robots (erreur 403 et page de contrôle), ses prix ont donc été relus dans le catalogue public des prix de Scaleway (api.scaleway.com, « product-catalog », instances). Outscale, SecNumCloud, Lambda et RunPod n’ont pas été relus. La note s’arrête après la partie 2 : la « partie 4 » citée dans « En bref » n’existe pas ; l’essentiel est ajouté ci-dessous. Cette partie l’emporte sur le reste de la note.
+
+**Conclusion.** Tous les prix d’OVHcloud cités sont justes et affichés hors taxes. Le prix de la carte L4 chez Scaleway (0,79 € de l’heure) est confirmé ; ceux de la L40S et de la H100, absents de la lecture d’origine, sont trouvés (environ 1,47 € et 2,87 € de l’heure). Deux précisions : OVHcloud facture la plupart de ses services à la seconde ; ses prix mensuels de cartes ne sont pas le prix horaire multiplié par 730 heures. Le « 400 requêtes par minute » de « En bref » n’a pas de source.
+
+### Tableau des contrôles
+
+| # | Affirmation | Verdict | Source et date |
+|---|---|---|---|
+| 1 | OVHcloud : prix en « HT / heure » et « HT / mois », sans engagement ; Gravelines a le plus grand choix ; Paris propose aussi des H200 | Confirmé | OVHcloud, « Tarifs Public Cloud », https://www.ovhcloud.com/fr/public-cloud/prices/, lue le 10 novembre 2026 |
+| 2 | L4 (24 Go) 0,75 € HT/h, 540 € HT/mois ; L40S (48 Go) 1,40 €, 1 008 € ; A100 (80 Go) 2,75 € ; H100 (80 Go) 2,80 €, 1 940 € | Confirmé ; l’A100 affiche aussi 1 100 € HT/mois | Même page (l4-90, l40s-90, a100-180, h100-380) |
+| 3 | 2 × H100 5,60 € ; 4 × H100 11,20 € ; 8 × H200 42 € HT/h, environ 30 660 € HT/mois ; pas de H200 à l’unité | Confirmé ; 4 × H100 : 7 770 € HT/mois | Même page (h100-760, h100-1520, h200-1920) |
+| 4 | « Le prix mensuel est calculé sur 730 heures pour la 3e génération d’instances » | Confirmé pour les instances B3, C3 et R3 ; **ne vaut pas pour les cartes** : 540 € pour 0,75 €/h (720 h), 1 940 € pour 2,80 €/h (environ 693 h), 1 100 € pour 2,75 €/h (400 h) ; conditions du prix mensuel non lues | Même page |
+| 5 | Décompte à l’heure ou à la minute : « à confirmer » | **Précisé** : « La majorité des services Public Cloud sont facturés à la seconde, avec une durée de facturation minimale d’une minute par ressource » ; le cas des cartes n’est pas détaillé | Même page |
+| 6 | Pas d’adresse IPv4 publique par défaut ; option payante, prix visible dans l’espace client | Confirmé | Même page |
+| 7 | Savings Plans « jusqu’à 30 % » ; application aux cartes | **Non revérifié** : la page renvoie à une page « Savings Plan » non lue | Même page |
+| 8 | Scaleway : L4-1-24G 0,79 € HT/h ; 2, 4 et 8 cartes à 1,58 €, 3,15 € et 6,30 € | Confirmé : 0,0131 €, 0,0262 €, 0,0525 € et 0,105 € par minute, soit 0,79 €, 1,57 €, 3,15 € et 6,30 € de l’heure ; régions Paris 1, Paris 2 et Varsovie | Scaleway, catalogue public des prix (api.scaleway.com, product-catalog v2alpha1, instances), lu le 10 novembre 2026 |
+| 9 | Scaleway : prix des L40S, H100 et B300 « non affichés » | **Complété** : L40S-1-48G 0,0245 €/min (1,47 €/h) ; H100-1-80G 0,0478 €/min (2,87 €/h) ; H100-SXM-2-80G 0,1103 €/min (6,62 €/h) ; H100-SXM-8-80G 0,4222 €/min (25,33 €/h) ; B300-SXM-8-288G 1 €/min (60 €/h) ; Paris 2 (et Varsovie pour la L40S et la H100) | Même catalogue |
+| 10 | Scaleway : « Prix avant taxes » ; environ 574,87 € HT/mois pour la L4 | **Non relu** (page fermée aux robots) ; le catalogue ne dit pas si ses prix sont hors taxes | — |
+| 11 | Scaleway Managed Inference : 0,93 €, 1,72 €, 3,40 € et 30,06 € HT/h | **Non relu** | — |
+| 12 | OVHcloud AI Endpoints : « 400 requêtes par minute » (« En bref ») | **Sans source** dans la note ; non relu | — |
+| 13 | Outscale (prix, facturation à la seconde, +20 % en région secteur public), SecNumCloud (ANSSI, échéances), Lambda, RunPod | **Non relus** : interne seulement | — |
+
+### Corrections à appliquer
+
+1. « En bref », « entre 0,75 € et 5,20 € HT de l’heure selon le modèle (L4 à H200) … chez OVHcloud, Scaleway ou Outscale » → « pour une carte, de 0,75 € HT de l’heure (L4, OVHcloud) à 2,80 € (H100, OVHcloud) ou environ 2,87 € (H100, Scaleway) ; les 5,20 € de la H200 chez Outscale (carte seule, machine en plus) ne sont pas revérifiés ».
+2. « En bref », « Une machine allumée tout le mois coûte entre 540 € et 2 000 € HT environ » → « Les prix mensuels affichés par OVHcloud vont de 540 € (L4) à 1 940 € HT (H100) pour une carte ; leurs conditions ne sont pas lues : dans un document client, citer le prix horaire ».
+3. § 1.1, « la règle exacte de décompte … [À confirmer] » → « La majorité des services Public Cloud sont facturés à la seconde, avec un minimum d’une minute par ressource (même page) ; le cas des cartes n’est pas détaillé ».
+4. § 1.1 : ajouter « A100 : 1 100 € HT/mois affiché ; 4 × H100 : 7 770 € HT/mois ».
+5. § 1.1, « Le prix mensuel est calculé sur 730 heures pour la 3e génération d’instances » → ajouter « (B3, C3, R3) ; pas pour les cartes, dont le prix mensuel est donné à part ».
+6. § 1.2, « leur prix ne s’affichait pas » → prix du catalogue public (ligne 9 du tableau).
+7. § 1.2, « 2 cartes 1,58 € » → « 1,57 € » (0,0262 € par minute).
+8. « En bref », « 400 requêtes par minute chez OVHcloud AI Endpoints » → retirer, ou « à confirmer » : aucune source.
+9. « En bref », « voir partie 4 » : la partie 4 n’existe pas ; voir le complément ci-dessous.
+
+### Complément essentiel : louer ou acheter, en ordre de grandeur
+
+[Estimation ; interne]
+- Une machine de bureau de 128 Go coûterait de 5 500 à 7 500 € HT chez des revendeurs français (k13a, prix non relus). À 1,40 € de l’heure (L40S, OVHcloud), 6 000 € paient environ 4 300 heures de location : environ six mois jour et nuit, ou environ deux ans à huit heures par jour ouvré. À 2,80 € (H100), environ 2 150 heures.
+- Les machines ne se valent pas : une H100 louée calcule bien plus vite qu’une DGX Spark ; une DGX Spark a plus de mémoire (128 Go) qu’une L40S (48 Go). Le calcul donne un ordre de grandeur, pas un seuil.
+- À l’achat s’ajoutent l’électricité (moins de 300 € TTC par an pour une DGX Spark jour et nuit, k13a), l’installation, la sécurité et l’entretien. À la location s’ajoutent le temps de pilotage, l’envoi des données chez l’hébergeur et le risque d’oublier d’éteindre.
+- Pour les volumes envisagés (quelques centaines à quelques milliers de documents par mois), le paiement à l’usage d’un modèle reste le moins cher (k13c : environ 0,02 $ à 0,04 $ par devis de trois pages), et son coût baisse vite à qualité égale (Epoch AI, 22 septembre 2026 ; k13f, vérification). La location sert aux pointes et aux essais. L’achat se justifie par la confidentialité, pas par le prix.
+
+### Sûr à reprendre
+
+1. « Louer une carte de calcul en France, sans engagement, coûte de 0,75 € hors taxes de l’heure (carte L4) à 2,80 € (carte H100) chez OVHcloud (page « Tarifs Public Cloud », lue le 10 novembre 2026). » — **Annexe.**
+2. « Chez Scaleway, une carte L4 revient à environ 0,79 € de l’heure et une H100 à environ 2,87 €, facturées à la minute (catalogue public des prix, lu le 10 novembre 2026). » — **Annexe**, en gardant « hors taxes » d’après la page de tarifs lue par la note (« Prix avant taxes ») ; à relire sur la page avant toute remise.
+3. **Interne seulement** : les prix mensuels (conditions non lues), Outscale, SecNumCloud, Lambda, RunPod, Managed Inference, AI Endpoints, le calcul « louer ou acheter ».
+
+### Ce qui reste inconnu
+
+- La mention « avant taxes » de la page Scaleway, non relue ce soir.
+- Les conditions du prix mensuel des cartes chez OVHcloud ; l’application des Savings Plans aux cartes ; la facturation d’une instance arrêtée mais non supprimée.
+- La disponibilité réelle des cartes au moment voulu ; le prix d’une adresse IPv4 publique.
+- La vitesse et la qualité de chaque carte sur les documents réels de GianLuca Carlone ; les volumes réels à traiter.
+- Toutes les affirmations sur Outscale, SecNumCloud, Lambda et RunPod.
 

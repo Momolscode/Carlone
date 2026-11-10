@@ -45,8 +45,8 @@ Notre recommandation : avancer avec nos moyens actuels, et n’envisager un renf
 
 ## Ce qu’il ne faut pas croire
 
-- **« Tant de pour cent de temps gagné. »** Aucun pourcentage ne vaut chez vous avant d’y avoir été mesuré.
-- **« Cent fois plus de documents lus par heure. »** Une hypothèse, pour la seule première lecture de documents répétitifs traités en parallèle, face à une personne qui les lit un par un. Vérification humaine comprise, plutôt cinq à dix fois, hypothèse elle aussi. À mesurer chez vous.
+- **« Tant de pour cent de temps gagné. »** Selon la tâche, les études publiées mesurent de −19 % à +56 %. Aucun pourcentage ne vaut chez vous avant d’y avoir été mesuré.
+- **« Cent fois plus de documents lus par heure. »** Jusqu’à cent fois, c’est une hypothèse, pour la seule première lecture de documents répétitifs traités en parallèle, face à une personne qui les lit un par un. Vérification humaine comprise, plutôt cinq à dix fois, hypothèse elle aussi. À mesurer chez vous.
 - **« L’IA décide, paie ou signe. »** Elle prépare ; une personne habilitée valide.
 - **« Tout reste en Europe. »** Des modèles et un hébergement européens existent. Le lieu de traitement de vos données se choisit, s’écrit au contrat et se vérifie.
 
@@ -68,4 +68,4 @@ Notre recommandation : avancer avec nos moyens actuels, et n’envisager un renf
 - Facture électronique : quelles sociétés sont concernées, notamment une société hors TVA (expert-comptable).
 - Signalement des contenus faits par IA, image des personnes montrées (avocat).
 
-*Sources relues le 9 novembre 2026 : impots.gouv.fr et economie.gouv.fr (factures) ; Commission européenne (IA) ; deux loueurs (robots) ; Cerema, novembre 2025. Moyens : page « Ce que des moyens supplémentaires nous permettraient d’accomplir ».*
+*Sources relues le 9 novembre 2026 : impots.gouv.fr et economie.gouv.fr (factures) ; Commission européenne (IA) ; deux loueurs (robots) ; Cerema, novembre 2025. Moyens et études publiées (METR, juillet 2025 ; Peng et al., février 2023 ; relues le 10 novembre 2026) : page « Ce que des moyens supplémentaires nous permettraient d’accomplir » et son annexe, § 3.*

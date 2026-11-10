@@ -4,7 +4,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 
 **La seule décision demandée** : commander le cadrage. Pas de signature en séance : accord de principe, bon de commande dans le délai décidé jeudi (V10). **Sans les préalables (V2 à V5) : tout à l’écran, aucun document laissé.**
 
-**Le fil : 28 minutes sur 1 h 30, cinq parties** : vous et votre univers (4 min 45) ; pour chacun de vos projets, avec sa fiche (8 min 45) ; votre logiciel (4 min 30) ; comment nous travaillons, et demain (5 min 45) ; proposition et décision (4 min 15). Sans « moyens » : 27 min 15 ; sans « ensuite » ni « moyens » : 26 min 15. Fiches : seulement selon V2.
+**Le fil : 32 min, cinq parties** : vous, votre univers et les enjeux de l’IA (7 min) ; pour chacun de vos projets (8 min) ; votre logiciel (4 min) ; comment nous travaillons, notre ambition et nos offres (7 min 30) ; notre proposition, la décision du jour, puis une perspective (5 min 30). Sans « moyens » : 31 min 15 ; sans « ambition » non plus : 29 min 45.
 
 **Les chiffres exacts** (toutes taxes comprises : sous réserve de l’option pour la TVA)
 - Cadrage : **6 500 € hors taxes, soit 7 800 € toutes taxes comprises**. Prix fixe, déplacements des deux rendez-vous compris. Moitié à la commande (3 250 € HT, 3 900 € TTC), moitié à la remise du dossier.
@@ -18,13 +18,14 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 
 **Trois informations à obtenir** : la société qui commande ; la personne qui signe ; une date pour le premier entretien. Si possible : nombre de suites, bâtiment, date d’ouverture ; sur l’autre proposition, engagement et document écrit.
 
-**Six phrases à dire**
+**Sept phrases à dire**
 1. « Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Voici comment nous le ferions. »
-2. « Pour vos neuf suites et l’espace bien-être, nous vous conseillons un logiciel du marché : nous vous aidons à le choisir, à le paramétrer, à le relier au reste et à former votre administratrice. Nous construisons seulement ce qui manque autour. »
+2. « Pour vos neuf suites et l’espace bien-être, un logiciel du marché : nous vous aidons à le choisir, le paramétrer, le relier au reste, et à former votre administratrice. Nous construisons seulement ce qui manque. »
 3. « Le prix est fixe ; vous pouvez vous arrêter à chaque étape et vous gardez ce que vous avez payé. »
 4. « Tout reste à votre nom : comptes, données, documents. »
 5. « Votre administratrice est aidée, jamais remplacée ni surveillée. »
 6. « Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne. »
+7. « Notre ambition : le lieu où l’art, l’accueil et l’IA se rencontrent. Une vision, pas une promesse. »
 
 **Les trois phrases de clôture**
 1. « Nous ne vous demandons pas de miser sur tout : seulement sur trois à quatre semaines, à prix fixe, pour choisir ensemble par où commencer. »

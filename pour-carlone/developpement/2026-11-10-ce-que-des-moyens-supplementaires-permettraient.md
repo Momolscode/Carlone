@@ -8,8 +8,8 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 **Où le gain peut être très grand, et où il ne l’est pas**
 
-- **Jusqu’à cent fois plus de documents lus par heure**, pour la première lecture de documents répétitifs (devis, factures, contrats). La comparaison se fait avec une personne qui les lit un par un ; la machine en traite plusieurs à la fois. La vérification par une personne reste le goulet : sur toute la chaîne, le gain serait plutôt de cinq à dix fois. Ce sont des hypothèses, à mesurer sur vos documents.
-- **Quelques dizaines de pour cent** sur des tâches précises de rédaction et d’analyse : c’est ce que mesurent les études publiées (annexe, § 3).
+- **Jusqu’à cent fois plus de documents lus par heure**, pour la seule première lecture de documents répétitifs (devis, factures, contrats), traités en parallèle par la machine, face à une personne qui les lit un par un. La vérification par une personne reste le goulet : sur toute la chaîne, vérification comprise, plutôt cinq à dix fois. Ce sont des hypothèses, à mesurer sur vos documents.
+- **Quelques dizaines de pour cent, parfois moins**, sur des tâches précises de rédaction, d’analyse ou de programmation : selon la tâche, les études publiées mesurent de −19 % à +56 % (annexe, § 3).
 - **Pas de gain recherché** sur la relation, le jugement et la décision : ils restent humains.
 
 **Ce que chaque moyen changerait**

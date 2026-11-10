@@ -8,7 +8,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 - **Vos clients cherchent autrement.** En 2026, les moteurs de recherche affichent des réponses rédigées par l’IA, et beaucoup de gens interrogent directement un assistant. Être cité dans ces réponses compte désormais autant qu’être bien classé.
 - **Les entreprises s’y mettent.** Selon le baromètre France Num 2026 (Direction générale des entreprises et Crédoc, septembre 2026), 40 % des TPE et PME utilisent l’IA, contre 26 % en 2025.
-- **Les outils font plus.** Ils préparent un dossier entier, lisent vos documents, parlent toutes les langues, et attendent la validation d’une personne. Chaque année, ils mènent seuls des tâches plus longues.
+- **Les outils font plus.** Ils préparent un dossier entier, lisent vos documents, parlent toutes les langues, et attendent la validation d’une personne. Sur des tâches de logiciel, la longueur des tâches qu’un agent d’IA réussit seul une fois sur deux double environ tous les sept mois depuis 2019 (METR, 29 janvier 2026) : une mesure, pas une promesse ; une personne relit toujours.
 - **La loi s’installe.** Le règlement européen sur l’IA s’applique par étapes : former les personnes qui utilisent ces outils (depuis le 2 février 2025), signaler certains contenus générés par l’IA (depuis le 2 août 2026). La réception des factures électroniques est obligatoire pour toutes les entreprises depuis le 1er septembre 2026.
 
 ## 2. Les occasions pour vos projets

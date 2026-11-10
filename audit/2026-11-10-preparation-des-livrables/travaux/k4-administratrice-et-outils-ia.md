@@ -4,6 +4,8 @@ Note de travail interne — sources publiques consultées le 10 novembre 2026 �
 
 Document interne : ne pas transmettre à GianLuca Carlone ni à son administratrice. Tout ce qui touche au droit du travail est à faire valider par un avocat en droit social.
 
+Huit affirmations ont été contrôlées sur les pages officielles le 10 novembre 2026 : lire d’abord la partie « Vérification du 10 novembre 2026 », en fin de note (une correction sur la formation).
+
 Étiquettes : [Texte officiel] = texte de loi ou de règlement ; [Autorité ou organisme] = CNIL, ministère, Commission européenne, ANACT, OCDE… ; [Source professionnelle] = site spécialisé, cabinet, revue ; [À confirmer] = non vérifié ce jour, ou dit de mémoire.
 
 Point de départ : on ne sait rien de l’administratrice. Ni son nom, ni son statut (salariée ou prestataire), ni son employeur, ni sa date d’arrivée, ni ses pouvoirs (`audit/2026-11-10-preparation-des-livrables/travaux/i3-page-pour-l-administratrice.md`, § 1.6). Tout ce qui suit est donc écrit « si elle est salariée » ou « si elle est prestataire ».
@@ -308,3 +310,57 @@ Toutes consultées le 10 novembre 2026, sauf mention « lu par l’équipe » (d
 - `audit/2026-11-04-audit-strategique/annexes/travaux/rj-R3-travail-contrats.md` ; `…/rj-R4-donnees-ia.md`
 - `audit/2026-11-10-preparation-des-livrables/travaux/i3-page-pour-l-administratrice.md`
 - `pour-carlone/logiciels-et-automatisations/2026-11-09-automatisations-fiches-detaillees.md`
+
+## Vérification du 10 novembre 2026
+
+Document interne — ne pas transmettre à GianLuca Carlone ni à son administratrice. Contrôle fait le 10 novembre 2026, par lecture directe des pages officielles : Code du travail numérique (ministère du Travail, qui reproduit le texte de Légifrance), CNIL, EUR-Lex et Service d’assistance de la Commission européenne sur le règlement IA. Ce contrôle n’est pas un avis juridique.
+
+### Tableau des contrôles
+
+| N° | Affirmation de la note | Source officielle lue | Verdict |
+| --- | --- | --- | --- |
+| 1 | « Aucune information concernant personnellement un salarié ne peut être collectée par un dispositif qui n’a pas été porté préalablement à sa connaissance. » (partie 1) | Code du travail, article L1222-4, version du 1er mai 2008 (code.travail.gouv.fr) | **Confirmé mot pour mot**. Que le journal et la fiche de temps soient un « dispositif » reste une analyse à faire valider. |
+| 2 | Le comité social et économique est consulté sur les outils de contrôle de l’activité, à partir de 50 salariés (article L2312-38, cité de mémoire) (partie 1) | Code du travail, article L2312-38, version du 1er janvier 2018 (code.travail.gouv.fr) ; CNIL, page du 9 juillet 2026 | **Confirmé** : le comité est « informé et consulté, préalablement à la décision de mise en œuvre dans l’entreprise, sur les moyens ou les techniques permettant un contrôle de l’activité des salariés ». Seuil de 50 salariés : donné par la CNIL ; place de l’article dans le code non relue. |
+| 3 | Trois conditions de la CNIL : dispositif proportionné, comité consulté dans les entreprises de 50 salariés et plus, information préalable ; pas de moyen moins intrusif (partie 1) | CNIL, « Travail, ressources humaines : le contrôle de l’activité des personnes employées », publiée le 9 juillet 2026 | **Confirmé**. |
+| 4 | Surveillance permanente jugée excessive ; enregistreur de frappe disproportionné (partie 1) | Même page CNIL | **Confirmé sur le fond** ; formule relevée : « Une surveillance constante est excessive ». La citation longue de la partie 1 n’a pas été retrouvée mot pour mot (correction 2). |
+| 5 | Comptage transparent du nombre de dossiers par trimestre jugé proportionné ; mesurer sur de longues périodes ; un outil ne doit pas servir en cachette à autre chose (partie 1) | Même page CNIL | **Confirmé** (« le nombre de dossiers traités par trimestre par salarié/agent semble proportionné » ; « plus cohérent de la mesurer sur des périodes plus longues »). |
+| 6 | Article 4 du règlement IA applicable depuis le 2 février 2025 (partie 2) | Règlement 2024/1689, article 113, a, version consolidée au 27 juillet 2026 (Service d’assistance de la Commission sur le règlement IA) | **Confirmé** (chapitres I et II applicables depuis le 2 février 2025). |
+| 7 | Article 4 réécrit par le règlement 2026/1744 du 8 juillet 2026 (« omnibus IA »), publié le 24 juillet 2026 : « favoriser » la maîtrise de l’IA, sans niveau garanti ; annexe III reportée au 2 décembre 2027, annexe I au 2 août 2028 (partie 2) | EUR-Lex, règlement (UE) 2026/1744, JO L du 24 juillet 2026, article 1er, point 5 ; version consolidée du règlement 2024/1689 au 27 juillet 2026 ; Commission européenne, « Alphabétisation à l’IA — Questions et réponses » | **Confirmé** : texte cité exact. Les dates du haut risque (2 décembre 2027, 2 août 2028) sont confirmées par l’article 113, c, consolidé. Entrée en vigueur le 27 juillet 2026 : cohérente avec la date de la version consolidée ; l’article d’entrée en vigueur n’a pas été lu. |
+| 8 | Formation d’adaptation due par l’employeur (L6321-1) ; « une formation qui sert à tenir le poste se fait, en principe, sur le temps de travail (L6321-2) » (partie 3) | Code du travail, articles L6321-1 (version du 26 octobre 2025), L6321-2 (1er janvier 2019) et L6321-6 (28 janvier 2024) (code.travail.gouv.fr) | **L6321-1 confirmé ; référence à corriger** : le principe du temps de travail vient de L6321-6, pas de L6321-2 (correction 1). |
+
+### Corrections
+
+1. **Formation sur le temps de travail (En bref, point 4 ; partie 3).** L’article L6321-2 ne vise que la formation qui « conditionne l’exercice d’une activité ou d’une fonction » en application d’une convention internationale ou d’un texte (formation obligatoire) : elle est du temps de travail effectif, rémunéré. Pour les autres formations, dont la prise en main d’un outil, c’est l’article L6321-6 : elles « constituent également un temps de travail effectif » avec maintien de la rémunération, **sauf** (1°) accord collectif d’entreprise ou de branche qui en place une partie hors du temps de travail, dans une limite fixée, ou (2°), sans accord collectif, avec l’accord formalisé du salarié, dans la limite de trente heures par an (2 % du forfait pour un salarié au forfait). Conséquence : « sur le temps de travail » reste juste comme principe et comme engagement de notre méthode ; une formation hors des heures de travail demanderait son accord écrit (si elle est salariée). L6321-1 a été modifié (version du 26 octobre 2025) : l’employeur « peut proposer des formations qui participent au développement des compétences, y compris numériques ».
+2. **Citation de la CNIL (partie 1, puce « Surveillance permanente »).** La phrase « placer les membres du personnel sous surveillance permanente est en général considéré comme une atteinte excessive » n’a pas été retrouvée mot pour mot dans la lecture de ce jour ; la page porte la formule « Une surveillance constante est excessive ». Citer cette dernière, ou ne pas mettre de guillemets.
+3. **Seuil du comité (partie 1, dernière puce).** Le texte de L2312-38 est désormais lu (voir tableau, ligne 2) : retirer « cité de mémoire » pour cet article. L2311-2 (comité dès 11 salariés) reste non relu. L2312-38 prévoit aussi que le comité est informé, avant leur utilisation, des méthodes d’aide au recrutement et des traitements automatisés de gestion du personnel : utile pour les recrutements futurs du cabaret (livrable 9).
+4. **Nuance sur la mesure (partie 1, « Ce que “on mesure la tâche, jamais la personne” exige »).** La CNIL juge proportionné un comptage transparent **par salarié** et par trimestre, et conseille de longues périodes. Nos bilans « par tâche et par mois » sur un essai de huit semaines restent prudents s’ils sont tenus par elle, transparents et jamais plus fins que le mois ; avec une seule utilisatrice, ils restent une mesure qui la touche : point à faire valider par l’avocat (question 1).
+5. **Sources (liste complète).** Les numéros 2 et 3 (règlements 2024/1689 et 2026/1744) sont désormais lus ce jour sur EUR-Lex et le Service d’assistance de la Commission, et non plus seulement par la note rj-R4.
+
+### Phrases sûres pour un document client
+
+Chacune porte « à faire valider par vos professionnels » ; aucune ne suppose son statut, sauf quand la phrase le dit.
+
+- « Si elle est salariée, le code du travail interdit de collecter une information la concernant par un dispositif qui ne lui a pas été présenté avant (article L1222-4). Avant le premier usage, une page écrite lui dit donc ce que chaque outil enregistre. »
+- « Dans une société de 50 salariés ou plus, le comité social et économique est informé et consulté avant la mise en place d’un outil qui permet de contrôler l’activité (code du travail, article L2312-38 ; CNIL, 9 juillet 2026). »
+- « La CNIL juge excessive une surveillance constante ; quand on mesure, elle recommande un outil transparent et des périodes longues (CNIL, 9 juillet 2026). »
+- « Le règlement européen sur l’IA demande aux entreprises qui s’en servent de prendre des mesures pour favoriser la maîtrise de l’IA par les personnes qui l’utilisent ; depuis sa modification du 8 juillet 2026, il n’exige plus de garantir un niveau donné (article 4 ; règlement 2026/1744). »
+- « La prise en main des outils se fait pendant son temps de travail. » (engagement de méthode ; base légale, si elle est salariée : code du travail, article L6321-6)
+- À ne pas écrire : « conforme au règlement IA », « la loi impose une charte », « formation financée », « aucune donnée n’est enregistrée ».
+
+### Ce qui reste inconnu
+
+- Son statut (salariée ou prestataire), son employeur, l’effectif de cette société, sa convention collective, sa période d’essai : tout ce qui décide si L1222-4, L2312-38 et L6321-6 s’appliquent.
+- Si le journal des actions et la fiche de temps sont un « dispositif » au sens de L1222-4, la forme suffisante de l’information, la durée de conservation : questions à l’avocat.
+- Le texte exact de l’annexe III, point 4, et de l’article 5, § 1, f ; le contenu des nouvelles interdictions de l’article 5 applicables le 2 décembre 2026 (non lu).
+- Si une charte et une prise en main datée suffisent comme « mesures » au sens du nouvel article 4 : aucune source officielle lue ne le dit ; la Commission annonce des exemples pratiques.
+- La sanction de la CNIL de décembre 2024 (40 000 €) : page non rouverte.
+- Les autres points de la liste « Ce qui n’a pas pu être vérifié » ci-dessus, sauf L2312-38, L6321-1, L6321-2, l’article 4 et les dates du haut risque, lus ce jour.
+
+### Sources lues le 10 novembre 2026
+
+- Code du travail, articles L1222-4, L2312-38, L6321-1, L6321-2 et L6321-6 : https://code.travail.gouv.fr/code-du-travail/ suivi de l’article en minuscules (par exemple l6321-6)
+- CNIL, « Travail, ressources humaines : le contrôle de l’activité des personnes employées », 9 juillet 2026 : https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees
+- Règlement (UE) 2026/1744 du 8 juillet 2026, JO L du 24 juillet 2026 : https://eur-lex.europa.eu/eli/reg/2026/1744/oj/fra
+- Règlement (UE) 2024/1689, version consolidée au 27 juillet 2026 : https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX%3A02024R1689-20260727 ; article 113 : https://ai-act-service-desk.ec.europa.eu/fr/ai-act/article-113
+- Commission européenne, « Alphabétisation à l’IA — Questions et réponses » : https://digital-strategy.ec.europa.eu/fr/faqs/ai-literacy-questions-answers
+- Vues seulement en résultats de recherche (non utilisées comme preuve) : lawandtechnology.eu (30 juillet 2026), EY (6 novembre 2026).

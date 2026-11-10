@@ -58,11 +58,11 @@ Marwin Tech est une société en cours de création, immatriculée avant toute f
 
 ## À faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur)
 
-- **Avocat, notaire.** Bail dérogatoire : trois ans au plus ; sans demande écrite du bailleur dans le mois qui suit le terme, un bail commercial prend effet le lendemain (Service Public Entreprendre, fiche F32304, vérifiée le 9 juin 2026). Dépôt de garantie des baux de commerce conclus ou renouvelés depuis fin mai 2026 : un trimestre de loyer au plus (loi n° 2026-403 du 26 mai 2026, art. 62).
+- **Avocat, notaire.** Bail dérogatoire : trois ans au plus ; sans demande écrite du bailleur dans le mois qui suit le terme, un bail commercial prend effet le lendemain (Service Public Entreprendre, fiche F32304, vérifiée le 9 juin 2026). Local de commerce ou de services commerciaux ou artisanaux, bail conclu ou renouvelé depuis fin mai 2026 : dépôt de garantie d’un trimestre de loyer au plus, rendu sous trois mois après la remise des clés (code de commerce, art. L145-40).
 - **Architecte, mairie.** Déclaration préalable : un mois, deux en secteur protégé (fiche F17578, vérifiée le 22 octobre 2026). Cosne-Cours-sur-Loire a un site patrimonial remarquable : si un bâtiment s’y trouve, façade, vitrine et enseigne passent par l’architecte des Bâtiments de France. Travaux d’un lieu recevant du public : autorisation propre, même pour l’intérieur.
-- **Bureau de contrôle.** Petit lieu recevant du public (5e catégorie) : vérification des installations tous les trois ans au plus depuis le 1er juillet 2026 (arrêté du 1er décembre 2025, art. PE 4) ; registre de sécurité.
-- **Diagnostiqueur.** Amiante, performance énergétique, état des risques.
-- **Expert-comptable.** Taxe foncière, cotisation foncière des entreprises, déclaration des consommations d’énergie à partir de 1 000 m² tertiaires, zone France ruralités revitalisation.
+- **Bureau de contrôle.** Catégorie de chaque lieu à établir. En 5e catégorie : entretien et vérification des installations tous les trois ans au plus, par des techniciens compétents, depuis le 1er juillet 2026 ; avec des locaux à sommeil (vos neuf suites), vérifications avant l’ouverture par un organisme agréé (arrêté du 25 juin 1980, art. PE 4). De la 1re à la 4e catégorie : commission de sécurité tous les trois ou cinq ans (art. GE 4). Registre de sécurité, exercices d’incendie compris (art. R143-44 du code de la construction).
+- **Diagnostiqueur.** Amiante ; performance énergétique (dix ans) ; état des risques (moins de six mois) ; logement classé G : plus de location depuis le 1er janvier 2025 (fiches F16096 et F12239).
+- **Expert-comptable.** Taxe foncière (15 octobre ; 20 octobre en ligne) ; cotisation foncière des entreprises (15 décembre) ; énergie déclarée sur OPERAT avant le 30 septembre, dès 1 000 m² tertiaires (F38065) ; zone France ruralités revitalisation.
 - **Assureur.** Dommages-ouvrage avant l’ouverture d’un chantier ; attestations décennales des entreprises.
 
-Ce document n’est pas un avis juridique ; sources publiques de novembre 2026.
+Ce document n’est pas un avis juridique ; sources publiques officielles consultées le 10 novembre 2026.
