@@ -18,7 +18,7 @@ const RED_ALL = [
   [/[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[a-z]{2,}/, 'ERREUR', 'adresse électronique écrite dans le document'],
 ]
 const RED_CLIENT = [
-  [/1[,.]5\s*M\b|1[,.]5\s*million|\bmillions?\b/i, 'ERREUR', 'montant des bâtiments ou « million »'],
+  [/1[,.]5\s*M\b|1[,.]5\s*million|\bmillions?\b(?! de jetons)/i, 'ERREUR', 'montant des bâtiments ou « million »'],
   [/\bJP\b|journées?[- ]personnes?/i, 'ERREUR', '« JP » ou « journée-personne »'],
   [/\bsocle\b/i, 'ERREUR', '« socle »'],
   [/\bvoies?\b(?!\s+(publique|publiques|de recours|ferrée|d’accès|d'accès))/i, 'ERREUR', '« voie » (mot interne)'],
