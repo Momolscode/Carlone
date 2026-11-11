@@ -12,7 +12,7 @@ Angle : le dossier du 13 novembre a-t-il perdu ou contredit une décision, une l
 4. **Sept des dix-huit objections du 9 novembre n’ont plus de réponse, trois n’en ont qu’une partie**, et « Rapides et disponibles » contredit la condition « nous sommes plus lents, dit en premier » (constats 5 et 25).
 5. **Les nouveautés du 10 novembre gardent « une seule porte d’entrée », mais refont un catalogue** : une trentaine d’idées, de programmes, de formules et de projets nommés, pour deux personnes. Le risque est de vendre plusieurs choses au lieu d’une ; la formulation proposée est au § 6.
 6. **Quatorze sujets probables n’avaient aucune réponse prête** : nouveau document `interne/rendez-vous/2026-11-11-sujets-hors-presentation-que-repondre.md` (3 pages, contrôle sans erreur).
-7. **Sept constats ont été corrigés le 11 novembre, en tout ou en partie, pendant l’audit**, par le coordinateur ou un autre agent : 1, 3, 9, 22, 26, 38 et 39. Les autres restent à appliquer ou à décider.
+7. **Six constats ont été corrigés le 11 novembre, en tout ou en partie, pendant l’audit**, par le coordinateur ou un autre agent : 1, 3, 9, 26, 38 et 39 ; le constat 22 a aussi été relevé par la note des démarches, sans correction du bon de commande. Les trente-cinq autres restent à appliquer ou à décider.
 
 ## 1. Méthode, sources, abréviations
 

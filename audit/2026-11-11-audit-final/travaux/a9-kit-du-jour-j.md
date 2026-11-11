@@ -17,13 +17,13 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
 | Fichier (dossier `interne/rendez-vous/`) | À quoi il sert | Pages (`md2pdf --compact`) | Mots | `lint-doc --interne` |
 | --- | --- | --- | --- | --- |
-| `2026-11-11-jour-j-liste-de-controle.md` | La veille ; le matériel ; le minutage ; les cinq choses à ne jamais dire ; juste après | 1 (limite 1) | 685 | 0 erreur, 0 alerte |
+| `2026-11-11-jour-j-liste-de-controle.md` | La veille ; le matériel ; le minutage ; les cinq choses à ne jamais dire ; juste après | 1 (limite 1) | 683 | 0 erreur, 0 alerte |
 | `2026-11-11-feuille-de-notes-et-questions.md` | 32 questions en dix thèmes, puis trois cadres, à remplir à la main | 2 (limite 2) | 760 | 0 erreur, 0 alerte |
-| `2026-11-11-apres-le-rendez-vous-messages-types.md` | Calendrier ; relances ; trois projets de message ; trame du compte rendu interne | 3 (limite 3) | 1 630 | 0 erreur, 0 alerte |
+| `2026-11-11-apres-le-rendez-vous-messages-types.md` | Calendrier ; relances ; trois projets de message ; trame du compte rendu interne | 3 (limite 3) | 1 644 | 0 erreur, 0 alerte |
 
 Chaque document porte sous son titre « Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026 ».
 
-**La liste de contrôle.** Cinq blocs, vingt-deux cases. Elle reprend la règle par défaut de la feuille de décisions (une case vide de V1 à V5 : tout à l’écran), les durées du déroulé (7 min, 8 min, 4 min, 7 min 30, 5 min 30 ; fins à 7, 15, 19, 26 min 30 et 32 min ; 31 min d’échange et 15 min de clôture gardées) et les cinq choses à ne jamais dire, mot pour mot celles de l’antisèche d’aujourd’hui. Vérifié avant de l’écrire : la maquette est bien un seul fichier sans aucune ressource extérieure (aucune adresse en ligne, aucun `src`, aucun `url(` dans `index.html`).
+**La liste de contrôle.** Cinq blocs, dix-sept lignes à cocher. Elle reprend la règle par défaut de la feuille de décisions (une case vide de V1 à V5 : tout à l’écran), les durées du déroulé (7 min, 8 min, 4 min, 7 min 30, 5 min 30 ; fins à 7, 15, 19, 26 min 30 et 32 min ; 31 min d’échange et 15 min de clôture gardées) et les cinq choses à ne jamais dire, mot pour mot celles de l’antisèche d’aujourd’hui. Vérifié avant de l’écrire : la maquette est bien un seul fichier sans aucune ressource extérieure (aucune adresse en ligne, aucun `src`, aucun `url(` dans `index.html`).
 
 **La feuille de notes.** Un seul tableau, pour que les colonnes restent les mêmes sur les deux pages : la question à gauche, la ligne de pointillés à droite. La page 1 porte les thèmes A à F, la page 2 les thèmes G à J et les trois cadres. Les lignes font 7,6 mm de haut ; les réponses longues ont deux ou trois lignes. Le cadre « Sa décision » ne fait pas réécrire les trois informations : trois cases renvoient au thème A.
 
