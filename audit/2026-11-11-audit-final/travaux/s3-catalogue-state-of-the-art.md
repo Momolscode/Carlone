@@ -73,14 +73,25 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Qui.** Nous : tri de nuit, index, entretiens, salle. Numérisation, studio, éditeur : des tiers. Vous : la parole.
 - **Départ.** Un entretien, un carton d’archives.
 - **Mesure.** Pièces classées, questions posées.
-- **À faire valider.** Droits des photographes et des auteurs de lettres ; votre voix enregistrée, jamais imitée.
+- **À faire valider.** Droits des photographes et des auteurs de lettres ; votre voix traduite seulement avec votre accord écrit, signalée au public (règlement européen sur l’IA, article 50). Consigne pour votre administratrice : toute demande d’argent faite « de votre voix » se vérifie par un second canal.
 - **Quand.** 2027-2028.
+
+**28. Le catalogue raisonné de votre artiste**
+- **Une phrase.** L’œuvre entière d’un artiste que vous défendez, retrouvée, rangée et publiée par votre maison.
+- **Vous obtenez.** Dès 2027, chaque nuit, la veille (3) relève chaque apparition publique de ses œuvres dans les sources suivies : ventes, musées, catalogues. En 2028, une base où chaque œuvre a sa notice, ses images, ses ventes et ses doutes ; puis un premier volume.
+- **Avancé.** Sur une seule question, un assistant de l’université de Santa Clara fait apparaître plus de 70 œuvres d’un même collectionneur spolié, dans une seule base (NPR, 9 août 2026 [gal. S23]).
+- **Format.** Le relevé chaque nuit dès 2027 ; la base et le premier volume sur plusieurs années.
+- **Qui.** Nous : la base, la recherche, le rapprochement des images. Un historien de l’art écrit. Un comité, avec les ayants droit, tranche.
+- **Départ.** Le nom de l’artiste ; l’accord de ses ayants droit.
+- **Mesure.** Œuvres relevées, notices achevées, doutes levés par le comité.
+- **À faire valider.** L’IA rapproche, le comité attribue. Droits des images ; responsabilité de l’auteur du catalogue.
+- **Quand.** Relevé en 2027, comité en 2028.
 
 ### Famille II. Le cercle : connaître chacun, ne rien divulguer
 
 **5. La règle de la maison**
 - **Une phrase.** Une charte d’IA signée, à montrer à vos artistes et à vos collectionneurs, tenue chaque jour.
-- **Vous obtenez.** Une page : ce que l’IA fait, ne fait jamais, qui décide. Comptes à votre nom, droits minimaux, journal, bouton d’arrêt ; une prise en main par personne ; chaque année, le rapport de la maison, erreurs comprises.
+- **Vous obtenez.** Une page : ce que l’IA fait, ne fait jamais, qui décide. Comptes à votre nom, droits minimaux, journal, bouton d’arrêt ; une prise en main par personne ; chaque année, le rapport public de la maison, erreurs comprises, nourri par l’état de l’art de chaque saison (27).
 - **Avancé.** Sur 103 professionnels de galeries, 84 % utilisent l’IA ; 8 % des galeries ont une règle écrite ; environ huit sur dix passent par un compte personnel (Observer, 17 avril 2026 [gal. S4]).
 - **Format.** Deux semaines et un atelier de deux heures, un essai d’attaque par trimestre.
 - **Qui.** Nous rédigeons ; un spécialiste de la sécurité attaque ; votre administratrice tient le registre des accès ; votre avocat relit.
@@ -89,26 +100,26 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **À faire valider.** Maîtrise de l’IA (règlement européen, article 4) ; dire avant ce que l’outil enregistre.
 - **Quand.** Dès le cadrage, 2027.
 
-**6. Le livre des amateurs : rien ne quitte la maison**
+**6. Le livre des amateurs : rien hors de vos comptes**
 - **Une phrase.** La mémoire privée de vos relations : ce que chacun a acheté, aime, cherche.
 - **Vous obtenez.** Avant chaque rendez-vous, une fiche d’une page ; après, une note dictée en une minute ; les relances préparées, envoyées par vous. Avant chaque foire, qui viendra ; après, chaque contact suivi.
-- **Avancé.** Dans un ministère britannique, 3 549 agents équipés d’un assistant ont déclaré gagner environ 19 minutes par jour, surtout pour chercher une information (GOV.UK, 29 janvier 2026 [dir. S9]).
+- **Avancé.** Près de la moitié (49 %) des acheteurs des marchands en 2025 étaient nouveaux pour eux (rapport Art Basel et UBS 2026 [gal. S2]) : chaque nouveau visage mérite sa fiche. Dans un ministère britannique, 3 549 fonctionnaires équipés d’un assistant ont déclaré gagner environ 19 minutes par jour, surtout pour chercher une information (GOV.UK, 29 janvier 2026 [dir. S9]).
 - **Format.** Deux mois.
 - **Qui.** Nous : structure, sécurité. Un logiciel du marché hébergé en Europe ; une machine chez vous, en option. Vous et votre administratrice : la saisie.
 - **Départ.** La règle de la maison, vingt collectionneurs informés.
 - **Mesure.** Rendez-vous préparés, minutes pour retrouver un échange.
-- **À faire valider.** Information, accès, effacement ; rien sur la santé ni la fortune supposée.
+- **À faire valider.** Information, qui dit où vont les données (RGPD, article 13) ; accès, effacement ; rien sur la santé ni la fortune supposée.
 - **Quand.** 2027.
 
 **7. La salle d’une seule personne**
-- **Une phrase.** Chaque saison, quelques œuvres choisies par vous pour un seul collectionneur, présentées comme une lettre, visitées ensemble dans sa langue.
-- **Vous obtenez.** Une salle privée en ligne : cinq œuvres, un mot de votre main dans sa langue, doublée d’un envoi imprimé ; la visite à distance avec vous, traduite. Première saison : les fondateurs réservent les œuvres de l’ouverture.
-- **Avancé.** Depuis janvier 2026, Google Meet traduit la parole entre l’anglais et cinq langues, dont le français, avec une voix qui imite le ton (Google, 4 février 2026 [front. F10]).
-- **Format.** Une saison d’essai, dix collectionneurs ; six mois avant l’ouverture pour les fondateurs.
-- **Qui.** Nous : mise en page, traduction, réglages, sur un logiciel de galerie du marché. Vous : le choix, les mots, l’envoi.
+- **Une phrase.** Chaque saison, cinq œuvres choisies par vous et accrochées pour un seul collectionneur, dans une vraie salle, présentées comme une lettre. Captée en 3D, la salle s’ouvre à lui depuis chez lui ; vous la visitez ensemble, à distance.
+- **Vous obtenez.** Un accrochage réel, capté lumière comprise. Un lien pour lui seul. Un mot de votre main dans sa langue, doublé d’un envoi imprimé. La visite à distance avec vous, traduite en direct quand l’une des deux langues est l’anglais et l’autre le français, l’espagnol, l’allemand, l’italien ou le portugais ; sinon, avec un interprète. Première saison : les fondateurs réservent les œuvres de votre stock montrées à l’ouverture.
+- **Avancé.** À Bergame, une exposition entière a été capturée en 3D et rendue visitable sur le web par un seul artiste-développeur (Radiancefields, 22 février 2024 [gal. S16]). Depuis janvier 2026, Google Meet traduit la parole entre l’anglais et le français, l’espagnol, l’allemand, l’italien ou le portugais, avec une voix qui imite le ton de la personne ; une paire de langues par réunion (Google, 4 février 2026 [front. F10]).
+- **Format.** Une saison d’essai : dix salles, accrochées l’une après l’autre dans la première pièce achevée de vos lieux ; six mois avant l’ouverture pour les fondateurs.
+- **Qui.** Nous : mise en page, traduction, réglages, sur un logiciel de galerie du marché. Un régisseur accroche ; un spécialiste capte. Vous : le choix, les mots, l’envoi, la visite.
 - **Départ.** Le cabinet des œuvres, des contacts consentants.
 - **Mesure.** Salles ouvertes, demandes, ventes sans voyage.
-- **À faire valider.** Suivi des lectures consenti, accord des artistes, traduction signalée, vente à distance.
+- **À faire valider.** Suivi des lectures consenti, accord des artistes, traduction signalée, vente à distance ; reflets et vitres essayés avant de promettre.
 - **Quand.** 2027, lisible par les assistants des collectionneurs vers 2030.
 
 ### Famille III. La preuve : ce qui fonde la confiance
@@ -116,7 +127,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 **8. Le passeport de l’œuvre**
 - **Une phrase.** Chaque œuvre part avec la preuve de sa fabrication et un dossier qui la suit de main en main.
 - **Vous obtenez.** Un cartel de fabrication : la part de la main, celle de la machine ; le journal daté de la création ; au dos, un certificat signé doublé d’une puce ; pour l’acheteur, provenance, conservation, dossier de sortie s’il vit à l’étranger.
-- **Avancé.** Selon un rapport du ministère de la Culture du 16 juillet 2026, une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine [créa.]. À Art Basel, en juin 2026, chaque œuvre d’un stand avait un certificat lié à une puce (Verisart, éditeur [gal. S21]).
+- **Avancé.** Selon un rapport de mission remis au Conseil supérieur de la propriété littéraire et artistique, et publié par le ministère de la Culture le 16 juillet 2026, une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine [créa.]. C’est un avis, pas une loi ; aucun juge français ne l’a encore tranché. Le journal daté de la création sert à cette preuve. Selon son éditeur, le 22 juin 2026, chaque œuvre d’un stand d’Art Basel portait un certificat lié à une puce (Verisart [gal. S21]).
 - **Format.** Six semaines, puis à chaque œuvre.
 - **Qui.** Nous : cartel, outil du journal. Un prestataire de certificats ; votre avocat écrit les mentions. L’artiste tient son journal ; vous signez.
 - **Départ.** Trois œuvres.
@@ -125,9 +136,9 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Quand.** 2027, transmis à chaque revente vers 2030.
 
 **9. Le réel signé**
-- **Une phrase.** Une promesse de maison : chaque image que vous montrez est vraie, et le prouve.
+- **Une phrase.** Une promesse de maison : chaque photo, chaque film présentés comme réels le sont, et portent leur origine ; toute image créée ou retouchée par l’IA est signalée.
 - **Vous obtenez.** Une charte d’image ; photos et films qui portent leur origine ; le chantier filmé dès le premier jour ; un film par saison ; la revue imprimée de la maison, deux fois l’an.
-- **Avancé.** Selon une étude de juin 2025, une image générée et signalée rend une publicité de luxe moins authentique aux yeux du public (Journal of Advertising Research [ray.]).
+- **Avancé.** Le 10 juin 2026, la Commission européenne a publié un code pour marquer et signaler les contenus générés par IA [ray.]. Le réel signé va plus loin : il marque le vrai. Selon une étude de juin 2025, une image générée et signalée rend une publicité de luxe moins authentique aux yeux du public (Journal of Advertising Research [ray.]).
 - **Format.** La charte en un mois, un tournage par saison.
 - **Qui.** Nous : charte, marquage, calendrier. Photographe, réalisateur, graphiste. Vous validez chaque publication.
 - **Départ.** L’accès au chantier.
@@ -135,23 +146,23 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **À faire valider.** L’accord écrit de toute personne reconnaissable ; aucun tournage dans les suites, au sauna, au jacuzzi.
 - **Quand.** Dès les premiers travaux.
 
-**10. Les expositions qui ne meurent pas**
-- **Une phrase.** Chaque accrochage capté en 3D, où l’on marche encore des années après ; puis des œuvres commandées pour ce médium.
-- **Vous obtenez.** Chaque exposition revisitable par un lien, lumière comprise. En 2028, une œuvre faite pour un monde en 3D, que l’on explore. Vers 2030, des mondes où l’on parle.
-- **Avancé.** Le LACMA présente jusqu’au 20 décembre 2026 une œuvre faite d’objets capturés en 3D, que l’on manipule sur un téléphone [gal. S14]. Le 27 octobre 2026, Google DeepMind a présenté à des testeurs des mondes explorables où des personnages parlent [front. F8].
+**10. Les expositions que l’on garde**
+- **Une phrase.** Chaque accrochage capté en 3D, remis à votre nom dans un format ouvert : on pourra y revenir tant que vous gardez les fichiers ; puis des œuvres commandées pour ce médium.
+- **Vous obtenez.** Chaque exposition revisitable par un lien, lumière comprise. Dès l’ouverture, la maison d’avant : vos murs d’avant les travaux, devenus œuvre (phare 6). En 2028, une œuvre faite pour un monde en 3D, que l’on explore. Vers 2030, des mondes où l’on parle.
+- **Avancé.** Un monde 3D se tire aujourd’hui de quelques photos ou d’une courte vidéo d’un lieu réel ; l’outil est ouvert à tous (World Labs, 12 novembre 2025 [bât. B5]). Le LACMA présente jusqu’au 20 décembre 2026 une œuvre faite d’objets capturés en 3D, que l’on manipule sur un téléphone [gal. S14]. Le 27 octobre 2026, Google DeepMind a présenté à des testeurs des mondes explorables où des personnages parlent [front. F8].
 - **Format.** Une journée de capture par accrochage, essai de quatre semaines pour la première commande.
 - **Qui.** Un spécialiste de la capture ; nous : protocole, mise en ligne. L’artiste dirige son œuvre.
 - **Départ.** L’accord écrit des artistes exposés.
 - **Mesure.** Visites de l’archive, demandes nées d’une visite.
-- **À faire valider.** Droit de reproduction, monde signalé comme créé avec l’IA.
-- **Quand.** Captures 2027, commande 2028, mondes parlants vers 2030.
+- **À faire valider.** Droit de reproduction, monde signalé comme créé avec l’IA ; fichiers exportés dans un format ouvert, gardés par vous : un éditeur peut changer ses conditions.
+- **Quand.** Captures et maison d’avant 2027, commande 2028, mondes parlants vers 2030.
 
 ### Famille IV. Faire naître des œuvres
 
 **11. L’œuvre du seuil**
 - **Une phrase.** Une pièce permanente, commandée à un artiste pour l’entrée, qui change avec le ciel, la Loire et les saisons.
 - **Vous obtenez.** L’emblème du lieu, différent chaque jour, en lumière et en son ; ni écran géant, ni capteur sur les personnes.
-- **Avancé.** En Norvège, le parc de sculptures de Kistefos, doté d’une galerie-pont signée en 2019, a reçu 90 000 visiteurs en 2025 (Ringblad, 15 octobre 2025 [lieux]).
+- **Avancé.** En Norvège, le parc de sculptures de Kistefos, doté d’une galerie-pont signée en 2019, a reçu 90 000 visiteurs sur sa saison 2025, selon le musée (Ringblad, 15 octobre 2025 [lieux]).
 - **Format.** Six à neuf mois.
 - **Qui.** Vous choisissez l’artiste parmi trois. Nous : programme, appel, suivi. Un bureau de contrôle vérifie la pose.
 - **Départ.** L’emplacement, avant la fin des travaux.
@@ -160,26 +171,26 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Quand.** Commande 2027, pour l’ouverture.
 
 **12. Le tirage de votre nuit**
-- **Une phrase.** Une œuvre générative compose chaque nuit une image née du ciel et de la Loire de cette nuit-là ; l’hôte emporte le tirage de la sienne.
-- **Vous obtenez.** Jamais deux fois la même image ; au départ, un tirage numéroté, signé de l’artiste ; l’œuvre se montre dans le hall, aucun écran dans les suites.
+- **Une phrase.** Une œuvre générative compose chaque nuit une image née du ciel et de la Loire de cette nuit-là ; l’hôte reçoit ensuite le tirage de la sienne.
+- **Vous obtenez.** Jamais deux fois la même image ; au départ, l’hôte emporte l’image de sa nuit et son certificat ; le tirage numéroté, signé par l’artiste à son passage, chaque mois, lui est envoyé. L’œuvre se montre dans le hall, signalée ; aucun écran dans les suites.
 - **Avancé.** À Tokyo, un musée d’installations numériques qui réagissent aux visiteurs en a reçu 2 504 264 en un an (teamLab, 15 juillet 2024 [créa.]).
 - **Format.** Quatre à six mois de création.
 - **Qui.** Un artiste du génératif ; un imprimeur d’art ; nous : programme, données du ciel, suivi.
 - **Départ.** Un artiste, un format de tirage.
 - **Mesure.** Tirages emportés, demandes d’édition.
-- **À faire valider.** Contrat de droits et d’édition, signalement sans gêner l’œuvre, aucune donnée des hôtes.
+- **À faire valider.** Contrat de droits et d’édition ; statut fiscal d’un tirage né d’un programme (CGI, annexe III, article 98 A) ; jamais de feuille signée d’avance ; signalement sans gêner l’œuvre ; aucune donnée des hôtes.
 - **Quand.** 2027, à l’ouverture des suites.
 
-**13. La résidence « État de l’art », puis le laboratoire à demeure**
-- **Une phrase.** Un appel annuel lu en entier, deux artistes accueillis hors saison avec le calcul et un ingénieur ; puis des chercheurs publics à demeure.
-- **Vous obtenez.** Chaque dossier résumé dans votre langue ; deux œuvres nées chez vous par an ; un prix. Dès 2028, des travaux publiés au nom du lieu ; deux fois l’an, la tâche d’une entreprise d’ici confiée à un agent, mesurée devant tous, échecs compris.
+**13. La résidence « État de l’art », puis un laboratoire associé**
+- **Une phrase.** Un appel annuel lu en entier, deux artistes accueillis hors saison avec le calcul et un ingénieur ; puis, si un laboratoire s’associe, des chercheurs accueillis.
+- **Vous obtenez.** Chaque dossier résumé dans votre langue ; deux œuvres nées chez vous par an ; un prix. Dès 2028, des travaux publiés avec lui ; et, avec l’état de l’art de chaque saison (27), la tâche d’une entreprise d’ici confiée à un agent, mesurée devant tous, échecs compris.
 - **Avancé.** La Villa Albertine ouvre quatre résidences « Les arts à l’ère de l’IA » en 2026, quatre en 2027 (CNC, 25 février 2025 [créa.]). Première lecture des dossiers traités en parallèle : jusqu’à cent fois plus vite qu’une personne qui les lit un par un ; hypothèse à mesurer.
 - **Format.** Appel en trois mois, résidence de quatre à huit semaines, laboratoire sur deux à trois ans.
 - **Qui.** Nous : appel, lecture préparée, outils, contrats. Un jury que vous présidez ; un laboratoire universitaire, à trouver.
 - **Départ.** Un thème, des dates hors saison.
 - **Mesure.** Candidatures, œuvres nées sur place, publications.
 - **À faire valider.** L’IA résume, ne classe pas (RGPD, article 22) ; contrat de résidence.
-- **Quand.** Appel 2027, accueil 2028, laboratoire 2028-2030.
+- **Quand.** Appel 2027, accueil 2028, laboratoire 2028-2030 s’il s’associe.
 
 **14. La main d’ici**
 - **Une phrase.** Un artiste invité et un artisan de la Nièvre signent ensemble une série.
@@ -192,24 +203,24 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **À faire valider.** Co-autorat écrit, statut fiscal d’une pièce en partie faite à la machine.
 - **Quand.** 2028.
 
-**15. L’exposition d’ouverture : la main et la machine**
-- **Une phrase.** Votre stock face à des œuvres commandées, réunis par un commissaire invité.
-- **Vous obtenez.** Une ouverture qui fait date, un catalogue en deux langues, un premier cercle de collectionneurs.
+**15. L’exposition d’ouverture : « État de l’art »**
+- **Une phrase.** Les œuvres de votre stock furent l’état de l’art de leur temps ; face à elles, des œuvres commandées en 2027 montrent celui du nôtre.
+- **Vous obtenez.** Des paires d’œuvres qui se répondent à travers le temps, réunies par un commissaire invité. Sous chacune, son cartel de fabrication. Dans la première salle, la maison d’avant (phare 6). Un catalogue en deux langues, un premier cercle de collectionneurs.
 - **Avancé.** À Paris, « Le monde selon l’IA » a reçu 88 151 visiteurs en vingt-quatre semaines (Jeu de Paume, rapport d’activité 2025 [créa.]).
 - **Format.** Neuf à douze mois.
 - **Qui.** Le commissaire choisit. Nous : calendrier, contrats, cartels. Vous fixez les prix. Transporteur, assureur, scénographe.
 - **Départ.** La date d’ouverture.
 - **Mesure.** Visiteurs, ventes, articles.
 - **À faire valider.** Prêts écrits, assurance, droits de reproduction.
-- **Quand.** 2027.
+- **Quand.** Commande en janvier 2027 ; ouverture au plus tôt à l’automne 2027.
 
 ### Famille V. Recevoir : la nuit, la scène, la saison
 
 **16. Neuf suites accrochées pour leurs hôtes**
-- **Une phrase.** Avant l’arrivée d’un collectionneur, vous choisissez les œuvres de sa suite.
+- **Une phrase.** Chaque saison, vous accrochez vos neuf suites ; pour un collectionneur que vous invitez, vous choisissez l’œuvre de sa suite.
 - **Vous obtenez.** Neuf salons privés, de vraies œuvres, aucun écran ; un mot de vous au chevet ; au matin, le dossier de l’œuvre aimée et une visite privée de la galerie.
 - **Avancé.** En Écosse, The Fife Arms, propriété des fondateurs de la galerie Hauser & Wirth, dit réunir plus de 16 000 œuvres, antiquités et objets (page officielle [acc. S13]).
-- **Format.** Un mois, puis à chaque saison et à chaque invité.
+- **Format.** Un mois, puis à chaque saison ; un changement par invité choisi.
 - **Qui.** Nous : liens entre réservations, livre des amateurs et inventaire. Un régisseur accroche ; un conservateur-restaurateur règle lumière et climat.
 - **Départ.** Bons de dépôt, assurance.
 - **Mesure.** Demandes nées d’une nuit.
@@ -218,14 +229,14 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **17. La scène qui répond à la galerie**
 - **Une phrase.** Chaque exposition s’ouvre par un numéro créé pour elle ; une œuvre devient décor.
-- **Vous obtenez.** Un vernissage-spectacle par exposition ; des surtitres dans la langue de chacun, sur lunettes prêtées ; un son net à chaque table. En 2028, avec un artiste dont la machine est l’œuvre : la toile de minuit, peinte derrière une vitre.
+- **Vous obtenez.** Un vernissage-spectacle par exposition ; des surtitres préparés à l’avance, en trois ou quatre langues choisies, sur lunettes prêtées ; la traduction automatique de la voix, en essai sur un numéro parlé ; un son net à chaque table. En 2028, un artiste dont la machine est l’œuvre peint en scène, derrière une vitre.
 - **Avancé.** À La Haye, un théâtre national a annoncé le prêt de lunettes à sous-titres créés par l’IA depuis la voix des comédiens ; 223 langues annoncées (Audinate, 29 mai 2025 [scène]).
 - **Format.** Un essai d’un mois sur un numéro, puis six semaines par exposition.
 - **Qui.** Un metteur en scène décide ; des artistes jouent ; un régisseur vidéo réalise ; nous : surtitres, liens avec la galerie, droits.
 - **Départ.** Le cabaret confirmé, un acousticien avant les plans.
 - **Mesure.** Spectateurs passés à la galerie, et l’inverse.
 - **À faire valider.** L’accord de l’artiste exposé, droits des musiques, voix et image des artistes.
-- **Quand.** 2027 si le cabaret ouvre, toile de minuit en 2028.
+- **Quand.** 2027 si le cabaret ouvre, l’artiste à la machine en 2028.
 
 **18. La nuit des œuvres**
 - **Une phrase.** Le séjour introuvable ailleurs : vernissage, dîner, cabaret, une suite habitée par une œuvre, le sauna au matin, une visite privée avant le départ.
