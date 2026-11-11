@@ -48,7 +48,7 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons, des spécialistes
 - **Commencer :** l’accès au chantier. **Mesure :** images publiées avec leur origine. **Règles :** accord écrit de toute personne reconnaissable ; aucun tournage dans les suites, au sauna, au jacuzzi.
 
 **3. La visite privée à distance** · nouvelle · 2027
-- **Quoi :** un collectionneur de Londres parcourt l’exposition depuis un lien, puis avec lui en direct, chacun dans sa langue.
+- **Quoi :** un collectionneur de Londres parcourt l’exposition depuis un lien, puis la visite avec lui, chacun dans sa langue.
 - **Il obtient :** chaque accrochage capturé en 3D ; une salle privée par collectionneur ; la visite commentée, traduite.
 - **Avancé :** depuis janvier 2026, Google Meet traduit la voix entre l’anglais et le français en imitant le ton (Google, 4 février 2026).
 - **Qui, durée :** un spécialiste de la capture, une journée par accrochage ; nous (protocole, salle privée) ; lui commente.
@@ -57,7 +57,7 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons, des spécialistes
 **4. Le voyage écrit pour vous** · prolonge le livret d’accueil · 2027
 - **Quoi :** de la réservation à la clé, chaque voyageur reçoit son programme dans sa langue ; la maison répond jour et nuit.
 - **Il obtient :** un assistant écrit qui se dit IA et passe la main ; un programme par séjour (exposition, soirée, sauna, tables choisies par lui) ; formalités réglées avant l’arrivée.
-- **Avancé :** une voix IA a traité 5 487 appels en sept semaines, en 22 langues (Lighthouse, 29 avril 2026) ; dans la région, 0,5 % des sites d’hôtels classés offraient un chat (Revolution Agency, 29 septembre 2026).
+- **Avancé :** une voix IA a traité 5 487 appels en sept semaines, en 22 langues (Lighthouse, 29 avril 2026) ; en Bourgogne-Franche-Comté, 0,5 % des sites d’hôtels classés offraient un chat (Revolution Agency, 29 septembre 2026).
 - **Qui, durée :** un outil du marché relié au logiciel des suites ; nous, deux mois (base de réponses, programmes types) ; son équipe valide.
 - **Commencer :** le logiciel des suites choisi. **Mesure :** délai de réponse ; séjours avec programme. **Règles :** dire que c’est une IA (règlement européen, article 50) ; consentement.
 
@@ -89,7 +89,7 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons, des spécialistes
 **8. La scène qui répond à la galerie** · nouvelle, prolonge « Le cabaret augmenté » · 2027 ; revues, 2028
 - **Quoi :** chaque exposition s’ouvre par un numéro créé pour elle ; une œuvre devient décor ; l’étranger lit le spectacle dans sa langue.
 - **Il obtient :** un vernissage-spectacle par exposition ; des images créées en direct par la musique et le geste ; des lunettes à surtitres prêtées ; un son qui suit l’artiste.
-- **Avancé :** à La Haye, un théâtre national prête des lunettes à sous-titres créés par l’IA, 223 langues annoncées (Audinate, 29 mai 2025).
+- **Avancé :** à La Haye, un théâtre national a annoncé le prêt de lunettes à sous-titres créés par l’IA, en 223 langues (Audinate, 29 mai 2025).
 - **Qui, durée :** un metteur en scène, des artistes, un régisseur vidéo ; un acousticien avant les plans ; nous (lien galerie-scène, essais, règles).
 - **Commencer :** le cabaret confirmé. **Mesure :** spectateurs passés à la galerie, et l’inverse. **Règles :** accord écrit de l’artiste exposé ; charte voix et image ; aucune reconnaissance des visages.
 
