@@ -1,7 +1,7 @@
 # S2 — Jugement « audace » : vraiment neuf, vraiment beau
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Regard : un directeur artistique et un chercheur en IA. Trois questions par offre. Est-ce neuf à la fin de 2026 ? Est-ce beau ? Part-elle de son métier de marchand ? Les faits viennent des six portefeuilles s2, sauf deux, sourcés aux § 3 et 4.
+Regard : directeur artistique et chercheur en IA. Est-ce neuf fin 2026, beau, né de son métier de marchand ? Les faits viennent des portefeuilles s2, sauf deux, sourcés.
 
 ## 1. Les six portefeuilles
 
@@ -16,7 +16,7 @@ Regard : un directeur artistique et un chercheur en IA. Trois questions par offr
 
 ## 2. Vingt-deux offres à garder
 
-Une offre par idée : les doublons fusionnent sous le meilleur nom.
+Les doublons fusionnent sous le meilleur nom.
 
 | Offre (origine) | Pourquoi | La retouche |
 | --- | --- | --- |
@@ -43,15 +43,28 @@ Une offre par idée : les doublons fusionnent sous le meilleur nom.
 | 21. Le pupitre de l’administratrice (orch. 4, 5, 6) | L’orchestration d’agents, sous sa main. | Travail de nuit, comptes, mémoire rangés dedans. |
 | 22. Le banc d’essai des métiers d’ici (terr. 5 ; orch. 15) | Une évaluation publique, échecs compris : ce que font les laboratoires, jamais une galerie. | Le tenir aussi pour ses propres outils. |
 
-Utiles, pas audacieux : dans le cadrage, pas en vitrine. Le calendrier des dossiers (terr. 12 ; rev. 12), l’art en entreprise avant la fin de 2028 (rev. 4 ; terr. 3), la formation de l’équipe (terr. 7).
+Utiles, pas audacieux, pour le cadrage : calendrier des dossiers, art en entreprise, formation (terr. 12, 3, 7 ; rev. 12, 4).
 
 ## 3. À écarter
 
-- **Robots portraitistes, toile de minuit, enchère qui peint** (créa. 11 ; rev. 10). Vus en foire depuis des années : un gadget. Seule exception : un artiste dont la machine est l’œuvre, en résidence.
+- **Robots portraitistes, toile de minuit, enchère qui peint** (créa. 11 ; rev. 10). Vus en foire depuis des années : un gadget. Exception : un artiste dont la machine est l’œuvre.
 - **La salle des possibles** (dest. 13). Un rayon d’électronique, démodé en six mois.
-- **L’œuvre qui répond à l’hôte, la visite à trois voix** (rev. 6 ; dest. 5). Le guide sans cartels de Mona date de son ouverture, en 2011 (artprocessors.net/projects/mona, lu le 11 novembre 2026). Dans une suite, une œuvre qui parle tue le silence.
-- **Assistant écrit ou vocal, réservation directe, bureau des soirées, demande qui ne se perd pas** (dest. 4 ; orch. 8 ; rev. 7 à 9). Des outils du marché : jamais en vitrine.
-- **Le décor vivant en tête d’affiche** (créa. 9). Un métier de VJ, pas une frontière.
+- **L’œuvre qui répond à l’hôte, la visite à trois voix** (rev. 6 ; dest. 5). Le guide sans cartels de Mona date de 2011 (artprocessors.net/projects/mona, lu le 11 novembre 2026) ; dans une suite, une œuvre qui parle tue le silence.
+- **Assistants écrits ou vocaux, réservation directe, bureau des soirées** (dest. 4 ; orch. 8 ; rev. 7 à 9). Outils du marché.
+- **Décor vivant en tête d’affiche, neuf écrans pour neuf suites** (créa. 9, 2). Un métier de VJ ; un hôtel de 2015.
 - **Le conseil de la maison** (orch. 12). Deux agents qui se disputent : du théâtre.
-- **Neuf écrans dans neuf suites** (créa. 2). Un hôtel de 2015.
 - **Biennale, Rencontres, jeudis, tiers-lieu, classes, séminaire** (créa. 13 ; terr. 4, 6, 8, 9 ; rev. 5). Trop de rendez-vous pour deux associés.
+
+## 4. À oser : ce que personne n’a proposé
+
+1. **Le tirage de votre nuit.** Dans une suite, une œuvre générative nourrie du ciel et de la Loire, jamais deux fois la même. Au départ, l’hôte emporte le tirage signé de sa nuit. Aucun capteur sur les personnes.
+2. **Les expositions qui ne meurent pas.** Chaque accrochage capté par « splatting gaussien », méthode d’Inria publiée en 2023 (arxiv.org/abs/2308.04079, lu le 11 novembre 2026) : on y marche, lumière comprise. Chaque exposition se revisite.
+3. **L’œil appris.** Un petit modèle privé, appris sur ses choix passés, trie chaque semaine les lots mis en vente. Il ne décide rien ; il se transmet avec la maison.
+4. **Un laboratoire à demeure.** Chercheurs publics et artistes ensemble, publications signées du lieu. Le territoire le voit en 2028 : l’avancer.
+5. **Le rapport de la maison.** Chaque année, publier ce que l’IA a fait, erreurs comprises. Exemple dans le luxe : aucun connu, à vérifier.
+
+Ne pas oser : l’humanoïde d’accueil, sa voix imitée, l’IA qui estime.
+
+## 5. Vendredi : la manière retenue
+
+Celle de la destination, avec la carte du collectionneur. Ouvrir par une image : « Quelle œuvre voulez-vous que l’on voie le jour de l’ouverture ? » Puis une page, une journée et une nuit chez lui : des moments, jamais des outils. Il en entoure trois ; on montre les projets phares qui les servent. Il repart avec la carte à cocher. Le cadrage (6 500 € HT) est la première marche vers ses trois moments.
