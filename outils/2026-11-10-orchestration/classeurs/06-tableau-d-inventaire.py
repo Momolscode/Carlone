@@ -25,7 +25,7 @@ SHEETS = [
    {'Stade': '"projet,promesse,acquis"', 'Reçoit du public': '"oui,non,à vérifier"', 'Bail en cours': '"oui,non,à vérifier"', 'Chantier en cours': '"oui,non,à vérifier"'},
    [['1', 'Bâtiment A (exemple fictif)', 'Lot 1', 'Commune X', 'Entreprise 1', 'acquis', 'commerce', '120', '', 'à vérifier', 'oui', 'non', 'gestionnaire', '', 'diagnostic amiante']]),
   ('3 Lieux et projets', ['N°', 'Nom', 'Type', 'Bâtiment', 'Société qui exploite ou porte', 'Avancement', 'Ouverture visée', 'Interlocuteur (fonction)', 'Autorisations connues', 'Prochaine échéance', 'Fiche courte (douze au plus)'],
-   {'Type': '"galerie,cabaret-spectacle,commerce,hébergement,bureau,autre"', 'Avancement': '"idée,étude,travaux,ouvert"', 'Fiche courte (douze au plus)': '"oui,non"'},
+   {'Type': '"galerie,cabaret-spectacle,commerce,suites,espace bien-être,bureau,autre"', 'Avancement': '"idée,étude,travaux,ouvert"', 'Fiche courte (douze au plus)': '"oui,non"'},
    [['1', 'Lieu 1 (exemple fictif)', 'commerce', 'Bâtiment A', 'Entreprise 1', 'étude', '', '', '', '', 'oui']]),
   ('4 Contrats et baux', ['N°', 'Type', 'Société', 'Bâtiment ou lieu', 'Autre partie (nom de la société)', "Date d'effet", 'Durée', 'Échéance', 'Préavis', 'Montant, s’il est donné (€)', 'Pièce vue'],
    {'Type': '"bail commercial,bail d\'habitation,assurance,maintenance,abonnement,prestation,autre"', 'Pièce vue': '"oui,non"'},
@@ -42,9 +42,30 @@ SHEETS = [
   ('8 Outils et accès', ['Outil', 'Fournisseur', 'À quoi il sert', 'Compte au nom de', 'Qui y accède (fonction)', 'Accès ouvert à Marwin Tech', 'Date d’ouverture'],
    {'Accès ouvert à Marwin Tech': '"oui,non"'},
    [['Tableur (exemple fictif)', 'Entreprise 3', 'suivi des échéances', 'Entreprise 1', 'administratrice', 'non', '']]),
-  ('9 Rôles', ['Acte', 'Notre proposition', 'Personne désignée (fonction)', 'Écrit reçu le'],
+  # Feuille 9 : mêmes deux blocs que le tableau « Qui valide quoi » joint au bon de commande (11 novembre 2026).
+  # Une ligne réduite à une seule chaîne est un titre de bloc.
+  ('9 Rôles', ['Acte', 'Qui prépare', 'Notre proposition', 'Personne désignée (fonction)', 'Montant ou limite', 'En cas d’absence', 'Écrit reçu le'],
    {},
-   [['Signer le bon de commande', 'la personne habilitée de la société qui commande', '', ''], ['Choisir les trois priorités', 'le dirigeant', '', ''], ['Valider l’inventaire et la liste des tâches à essayer', 'le dirigeant, ou l’administratrice s’il l’y autorise', '', ''], ['Signer la réception', 'le dirigeant, ou la personne qu’il désigne', '', ''], ['Ouvrir des documents et des accès', 'l’administratrice, dans les limites fixées', '', ''], ['Répondre aux questions courantes', 'l’administratrice', '', ''], ['Engager une dépense', 'personne : aucune dépense pendant le cadrage', '', ''], ['Décider d’une suite', 'le dirigeant', '', '']]),
+   [['Pendant le cadrage'],
+    ['Signer le bon de commande', 'Marwin Tech', 'la personne habilitée de la société qui commande', '', '—', '', ''],
+    ['Signer l’accord sur les données', 'Marwin Tech', 'la personne habilitée de la société responsable des données', '', '—', '', ''],
+    ['Choisir les trois priorités', 'Marwin Tech', 'le dirigeant', '', '—', '', ''],
+    ['Valider l’inventaire et la liste des tâches à essayer', 'Marwin Tech', 'le dirigeant, ou l’administratrice s’il l’y autorise', '', '—', '', ''],
+    ['Signer la réception', 'Marwin Tech', 'le dirigeant, ou la personne qu’il désigne', '', '—', '', ''],
+    ['Ouvrir des documents et des accès', '', 'l’administratrice, dans les limites fixées', '', '', '', ''],
+    ['Répondre aux questions courantes', '—', 'l’administratrice', '', '—', '', ''],
+    ['Engager une dépense', '—', 'personne : aucune dépense pendant le cadrage', '', '—', '—', ''],
+    ['Décider d’une suite', 'Marwin Tech', 'le dirigeant', '', '—', '—', ''],
+    ['Au nom de la société, aujourd’hui (aucun de ces actes n’est fait par Marwin Tech pendant le cadrage)'],
+    ['Payer une facture', '', '—', '', '', '', ''],
+    ['Signer un devis ou un contrat', '', '—', '', '', '', ''],
+    ['Envoyer un courrier ou un message', '', '—', '', '', '', ''],
+    ['Publier en ligne (site, réseaux, annonces)', '', '—', '', '', '', ''],
+    ['Valider un texte ou une image à diffuser', '', '—', '', '', '', ''],
+    ['Donner ou retirer un accès', '', '—', '', '', '', ''],
+    ['Supprimer un document', '', '—', '', '', '', ''],
+    ['Répondre à un client des suites', '', '—', '', '', '', ''],
+    ['Modifier ou annuler une réservation', '', '—', '', '', '', '']]),
   ('10 Priorités et essais', ['Priorité', 'Objectif mesurable', 'Budget indicatif (€)', 'Responsable (fonction)', 'Coût actuel', 'Seuil de réussite', 'Tâche liée', 'Niveau d’aide', 'Mesure de départ', 'Condition d’essai'],
    {'Niveau d’aide': '"automatique,assistée,préparée"'},
    [['Exemple fictif : suivre les échéances des bâtiments', 'zéro échéance découverte en retard sur trois mois', '', 'administratrice', '', '', 'rappels d’échéances', 'assistée', '', 'un seul bâtiment, quatre semaines']]),
@@ -56,15 +77,16 @@ ws = wb.active
 ws.title = 'Lisez-moi'
 lines = [
   ('Tableau d’inventaire du cadrage', Font(name='Arial', size=14, bold=True, color=INK)),
-  ('Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026', Font(name='Arial', size=10, bold=True, color=BRONZE)),
+  ('Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, corrigé le 11 novembre 2026', Font(name='Arial', size=10, bold=True, color=BRONZE)),
   ('', F),
-  ('À quoi il sert : recenser, pendant le cadrage, les sociétés, bâtiments, lieux, contrats, échéances, tâches, documents et outils, à partir de ce que le client nous donne. Il nourrit le dossier remis.', F),
+  ('À quoi il sert : recenser, pendant le cadrage, les sociétés, bâtiments, lieux, commerces, projets, contrats, échéances, tâches, documents et outils, à partir de ce que le client nous donne. Il nourrit le dossier remis.', F),
   ('Comment le remplir : une ligne par élément ; une feuille par objet. Chaque feuille finit par trois colonnes communes : la source (dit par qui, ou lu dans quelle pièce), le statut (liste de choix) et qui doit compléter.', F),
   ('Statuts : « confirmé par écrit », « dit en entretien », « lu dans une pièce », « inconnu ». Un inconnu reste inconnu : on ne le remplit jamais de soi-même.', F),
   ('Bornes du cadrage : douze fiches courtes au plus ; trois sociétés au plus ; une quinzaine de documents analysés au plus, les autres seulement listés.', F),
   ('Ce que le tableau ne fait pas : il ne juge rien conforme ou non conforme ; il ne contient aucune coordonnée de personne (fonction seulement) ; aucun mot de passe ; aucune donnée bancaire ou de santé.', F),
   ('Les lignes grisées sont des exemples fictifs : à supprimer avant usage.', F),
   ('Feuille « 5 Échéances » : la colonne « Jours restants » se calcule seule à partir de la prochaine date.', F),
+  ('Feuille « 9 Rôles » : les deux blocs du tableau « Qui valide quoi » joint au bon de commande. « Pendant le cadrage » : nos propositions, à faire confirmer par écrit. « Au nom de la société, aujourd’hui » : comment ces actes se décident chez le client, pour préparer la grille de délégation ; ce relevé ne vaut pas délégation de pouvoirs.', F),
 ]
 for i, (t, f) in enumerate(lines, 1):
     c = ws.cell(row=i, column=1, value=t); c.font = f; c.alignment = WR
@@ -78,8 +100,20 @@ for title, cols, lists, examples in SHEETS:
         c = s.cell(row=1, column=j, value=h); c.font = HF; c.fill = HFILL; c.alignment = Alignment(wrap_text=True, vertical='center'); c.border = B
         s.column_dimensions[get_column_letter(j)].width = max(12, min(34, len(h) + 4))
     s.row_dimensions[1].height = 42
+    if title == '9 Rôles': s.column_dimensions['A'].width = 34
+    bloc = 0
     for r, ex in enumerate(examples, 2):
-        row = ex + ['Exemple fictif', 'inconnu', ''] if title != '9 Rôles' else ex + ['proposition du 9 novembre', 'inconnu', 'dirigeant']
+        if len(ex) == 1:  # titre de bloc (feuille 9)
+            bloc += 1
+            c = s.cell(row=r, column=1, value=ex[0]); c.font = Font(name='Arial', size=10, bold=True, color=BRONZE); c.alignment = WR; c.border = B
+            s.merge_cells(start_row=r, start_column=1, end_row=r, end_column=len(allc))
+            continue
+        if title != '9 Rôles':
+            row = ex + ['Exemple fictif', 'inconnu', '']
+        elif bloc == 1:
+            row = ex + ['proposition de cadrage, version client (10 novembre), et tableau « Qui valide quoi » (11 novembre)', 'inconnu', 'dirigeant']
+        else:
+            row = ex + ['tableau « Qui valide quoi » (11 novembre)', 'inconnu', 'dirigeant']
         for j, v in enumerate(row, 1):
             c = s.cell(row=r, column=j, value=v); c.font = F; c.alignment = WR; c.border = B
             if title != '9 Rôles': c.fill = EXFILL
