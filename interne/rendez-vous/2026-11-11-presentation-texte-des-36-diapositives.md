@@ -2,9 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Nom de fichier hérité : la version 13 compte 38 diapositives.
-
-Copie de travail, pour relire et répéter sans connexion : ce qui est à l’écran, puis ce que dit l’orateur, dans l’ordre publié. Fil principal : diapositives 1 à 28. Annexe, seulement si on la demande : 29 à 38. La source fait foi : la version 13, corrigée le 11 novembre au soir après le contrôle de cohérence, dans `/tmp/claude-0/-home-user-Carlone/5dd15790-6933-5e33-ba7c-b9089896b9b3/scratchpad/publication-v12/project/`, d’où ce texte est tiré ; la copie de `pour-carlone/presentation-ia/2026-11-10-version-12-projet/project/` est la version 13 d’avant ces corrections, à remplacer par la source (J40). Après toute correction d’une diapositive, relancer `outils/2026-11-11-dossier/extraire-le-texte-de-la-presentation.py`, puis remettre à la main la ligne « Nom de fichier hérité » et la mention sous la diapositive 27.
+Copie de travail, pour relire et répéter sans connexion : ce qui est à l’écran, puis ce que dit l’orateur, dans l’ordre publié. Fil principal : diapositives 1 à 28. Annexe, seulement si on la demande : 29 à 38. La source fait foi : `pour-carlone/presentation-ia/2026-11-10-version-12-projet/project/` ; après toute correction d’une diapositive, relancer `outils/2026-11-11-dossier/extraire-le-texte-de-la-presentation.py`.
 
 ## Vous et votre demande
 
@@ -173,8 +171,6 @@ Copie de travail, pour relire et répéter sans connexion : ce qui est à l’é
 **L’orateur dit** : Aucun paiement n’est demandé ni reçu pendant les sept jours qui suivent la signature. Si vous arrêtez en cours de route, l’acompte nous reste, le solde n’est pas dû et vous recevez le travail fait. Si nous ne pouvons pas finir, vous recevez le travail fait et nous remboursons la part non faite ; de même si vous arrêtez parce que nous avons plus de deux semaines de retard, de notre fait. À la fin, une fois le solde payé, le dossier est à vous, utilisable avec qui vous voulez, et aucune suite n’est commandée d’avance. Les comptes, les données et les accès sont au nom de votre société.
 
 ### 27. `decision`
-
-*(Proposition à valider jeudi : catalogue maître, § 11, n° 13 ; complément aux décisions, J9.)*
 
 **À l’écran** : Aujourd’hui / Une décision et deux noms / La décision / Votre accord pour le cadrage / Deux noms / L’œuvre de votre ouverture / L’artiste de votre catalogue raisonné / Après ce rendez-vous / Un bon de commande. Rien ne vous engage avant de le signer. / Jusqu’au jeudi 31 décembre 2026 / L’offre reste valable.
 
