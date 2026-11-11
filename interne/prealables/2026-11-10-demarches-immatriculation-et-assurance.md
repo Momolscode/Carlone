@@ -42,9 +42,7 @@ Point à confirmer (audit du 11 novembre 2026) : l’ordre des étapes 3 et 4. L
 
 Une date d’immatriculation ; une attestation d’assurance ; une attestation de vigilance ; « relu par notre avocat ».
 
-À arrêter (audit du 11 novembre 2026) : le projet de bon de commande écrit pourtant, à la condition 1, que Marwin Tech remet son attestation de vigilance « dès qu’elle est délivrée ». Ce n’est pas une date, mais c’est un engagement, alors que la démarche et le délai restent inconnus (En bref, point 5). Garder cette formule, ou la retirer du bon : à décider avec l’expert-comptable (`audit/2026-11-11-audit-final/travaux/a1-continuite-avec-les-audits.md`, constat sur l’attestation de vigilance).
-
-Corrigé le 11 novembre 2026 : depuis, le projet de bon de commande (condition 1) et la proposition version client (« Prochaines étapes », point 3) ne promettent plus l’attestation ; ils portent, entre crochets, « attestation de vigilance : à arrêter avec l’expert-comptable ». Reste à décider avec lui : la promettre, à quelle date, ou n’en rien dire.
+À arrêter (audit du 11 novembre 2026) : le projet de bon de commande promettait, à la condition 1, l’attestation de vigilance « dès qu’elle est délivrée », alors que la démarche et le délai restent inconnus (En bref, point 5). Corrigé le 11 novembre 2026 : le bon (condition 1) et la proposition (« Prochaines étapes », point 3) portent désormais, entre crochets, « attestation de vigilance : à arrêter avec l’expert-comptable ». La promettre ou non, et quand : à décider avec lui (`audit/2026-11-11-audit-final/travaux/a1-continuite-avec-les-audits.md`, constat 22).
 
 ## 4. Inconnus à lever
 

@@ -19,7 +19,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 ## 2. La légitimité : « Pourquoi vous, qui débutez ? »
 
 **Il craint** : servir de terrain d’essai ; que la société disparaisse.
-**Réponse** : « Nous sommes deux, notre société est en cours de création et sera immatriculée avant toute facture et tout démarrage : nous ne vous le cachons pas. C’est pourquoi nous commençons petit, à prix fixe, avec une porte de sortie à chaque étape, et tout ce que nous faisons reste à votre nom. »
+**Réponse** : « Nous sommes deux, notre société est en cours de création et sera immatriculée avant toute facture et tout démarrage : nous ne vous le cachons pas. C’est pourquoi nous commençons petit, à prix fixe, avec une porte de sortie à chaque étape, et vos comptes et vos données sont au nom de votre société. »
 **Preuve** : la diapositive `pourquoi-nous` (six raisons) ; la méthode écrite, c’est-à-dire la fiche 10 (« Travailler avec nous » : méthode, mesure, arrêt), à l’écran s’il la demande (V12) ; la maquette (données fictives) et la page d’offre. Ne jamais citer comme preuve le fichier de contacts ni les dossiers de création déjà remis. Ne pas montrer la pièce « méthode et garanties » du 9 novembre : elle promet une attestation d’assurance (`pour-carlone/logiciels-et-automatisations/2026-11-09-logiciels-sur-mesure-methode-et-garanties.md`, ligne 110).
 **Ne pas dire** : « nos clients », une référence inventée, « nous sommes assurés » avant l’attestation, « relu par notre avocat » avant la relecture.
 **Phrase possible** : « Nous n’avons pas encore de client à vous citer. Vous jugez sur pièces, étape par étape. » (à confirmer par Morgan et Mathys).
