@@ -1,6 +1,6 @@
 # Offre Marwin Tech à Carlone — rémunération et collaboration
 
-Nov 2, 2026 · @Olsen Morgan
+Nov 2, 2026 · @Olsen Morgan · [Mention du 11 novembre 2026 : offre du 2 novembre 2026 abandonnée ; pièce historique. Ne rien en extraire pour un document client. Seule offre en vigueur : pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md.]
 
 ## L'offre en une page
 

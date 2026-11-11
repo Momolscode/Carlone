@@ -1,6 +1,6 @@
 # Automatisations : fiches détaillées
 
-Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet
+Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet · [Mention du 11 novembre 2026 : pièce historique du 9 novembre 2026 ; elle n’est ni montrée ni remise au rendez-vous du 13 novembre 2026, sauf décision écrite de Morgan Olsen et Mathys Couet. Les fourchettes de prix de cette pièce (sections 1.5 et 2.0, et chaque « Coût indicatif ») ne sont ni proposées ni confirmées : seul le cadrage a un prix à ce jour ; chaque essai se commande à part, avec son prix, après le cadrage. « La présentation du 9 novembre » et ses 47 aides ne sont plus la présentation en vigueur. Pièces à jour : les douze fiches du 10 novembre 2026 et la page 2026-11-10-une-idee-pour-chacun-de-vos-projets.md.]
 
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 

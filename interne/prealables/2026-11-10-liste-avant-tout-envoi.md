@@ -18,7 +18,7 @@ Rien ne part — ni présentation, ni proposition, ni page d’offre, ni bon de 
 | ☐ | Contrôle mécanique de chaque document client : `node outils/2026-11-10-orchestration/rendu/lint-doc.js <fichier>` sans erreur (avec `--tarifs-publics` pour un document qui cite des tarifs publics ; `node outils/2026-11-10-orchestration/rendu/lint.js <dossier project>` pour les diapositives) | Mathys | sortie du contrôle | avant chaque envoi |
 | ☐ | Relecture humaine complète par celui qui n’a pas écrit | l’autre associé | « relu le … par … » | avant chaque envoi |
 | ☐ | Mentions « PROJET » retirées seulement des documents validés | Morgan | — | à l’envoi |
-| ☐ | Bon de commande et conditions relus par un avocat (avant le bon, pas avant le rendez-vous ; feuille de décisions, n° 5 ; délai d’envoi annoncé au rendez-vous : V10) | Morgan | avis écrit | lundi 30 nov. |
+| ☐ | Bon de commande, conditions et pièces jointes (tableau « qui valide quoi », page sur la rétractation, accord sur les données) relus par un avocat (avant le bon, pas avant le rendez-vous ; feuille de décisions, n° 5 ; délai d’envoi annoncé au rendez-vous : V10) | Morgan | avis écrit | lundi 30 nov. |
 
 Signatures : Morgan ……… Mathys ……… Date ………
 

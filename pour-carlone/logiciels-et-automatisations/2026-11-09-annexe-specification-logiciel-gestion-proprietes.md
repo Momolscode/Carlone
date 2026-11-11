@@ -1,6 +1,6 @@
 # Annexe : spécification du logiciel de gestion de vos propriétés
 
-Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet
+Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet · [Mention du 11 novembre 2026 : pièce historique du 9 novembre 2026 ; elle n’est ni montrée ni remise au rendez-vous du 13 novembre 2026, sauf décision écrite de Morgan Olsen et Mathys Couet. L’hébergement n’est plus une option à confirmer : il s’agit de neuf suites et d’un espace bien-être dans l’établissement de la galerie, pour lesquels nous conseillons un logiciel du marché (pièce du 10 novembre 2026 : 2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md). La proposition chiffrée à laquelle cette annexe renvoie n’est pas en vigueur : seul le cadrage a un prix à ce jour. Pièces à jour : la fiche 7 du 10 novembre 2026 et les écrans d’exemple (Maquette — données fictives).]
 
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 

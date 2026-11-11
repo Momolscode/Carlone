@@ -1,6 +1,6 @@
 # Logiciels et automatisations : guide des documents
 
-Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet
+Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet · [Mention du 11 novembre 2026 : ce guide du 9 novembre 2026 n’est plus à jour. Les quatre documents du 9 novembre qu’il présente sont des pièces historiques, ni montrées ni remises au rendez-vous du 13 novembre 2026, sauf décision écrite de Morgan Olsen et Mathys Couet ; dans ce dossier, seule la pièce du 10 novembre 2026 sur vos suites est en vigueur. Ce qui vaut pour le rendez-vous est listé dans pour-carlone/README.md.]
 
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 

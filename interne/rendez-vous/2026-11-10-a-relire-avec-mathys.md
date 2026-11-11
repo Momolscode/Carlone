@@ -35,7 +35,7 @@ Environ trois heures et demie à deux, en trois séances. Ordre : décider d’a
 
 À ne relire que si vous laissez ou envoyez des documents : le bon de commande et ses conditions, trois pages (`pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md`) ; la proposition version client (`pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md`) ; le document sur le cabaret, les commerces et les suites, avec son échéancier (`pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md` et `pour-carlone/cabaret-et-commerces/2026-11-10-echeancier.xlsx`) ; après un oui, le questionnaire préparatoire et la liste des pièces (`pour-carlone/cadrage/`).
 
-À ne pas montrer vendredi : les pièces du 9 novembre de `pour-carlone/logiciels-et-automatisations/` (prix du logiciel, tant que la décision C tient ; attestation d’assurance promise).
+À ne pas montrer vendredi : les pièces du 9 novembre de `pour-carlone/logiciels-et-automatisations/`, pièces historiques (prix du logiciel, tant que la décision C tient ; phrases qui promettent une attestation d’assurance).
 
 ## Séance 3 — S’entraîner (environ une heure)
 

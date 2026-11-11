@@ -1,6 +1,6 @@
 # Logiciels sur mesure : notre méthode et vos garanties
 
-Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet
+Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet · [Mention du 11 novembre 2026 : pièce historique du 9 novembre 2026 ; elle n’est ni montrée ni remise au rendez-vous du 13 novembre 2026, sauf décision écrite de Morgan Olsen et Mathys Couet. La phrase de la section 7 sur l’attestation d’assurance n’est pas un engagement à ce jour. Les règles de paiement et de suivi de la section 9 valent pour des étapes qui ne sont pas proposées aujourd’hui : seul le cadrage a un prix (6 500 € hors taxes, moitié à la commande, moitié à la remise du dossier). Pièces à jour : les fiches 7, 8 et 10 du 10 novembre 2026.]
 
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 

@@ -36,7 +36,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026,
 1. Le nom ou le prix de l’autre proposition ; une critique de celle-ci ; « votre hôtel » (dire « vos neuf suites »).
 2. « Mieux et moins cher grâce à l’IA » ; « cent fois plus » sans préciser la tâche.
 3. Un résultat garanti, un gain de temps chiffré non mesuré, « zéro erreur ».
-4. « Nos clients », une référence ou un témoignage ; les noms Medhi, BOJ.ART, Strates.
+4. « Nos clients », une référence ou un témoignage ; le nom de l’ancien partenaire, de son studio ou de son œuvre.
 5. « Nous sommes assurés », « relu par notre avocat », une date d’immatriculation certaine.
 
 **Si c’est oui** : compte rendu écrit sous 24 heures ouvrées, envoyé une fois la liste avant tout envoi cochée. **« Je réfléchis »** : obtenir une date de rappel. **Non** : demander ce qui a manqué, remercier, redire les quatre questions.

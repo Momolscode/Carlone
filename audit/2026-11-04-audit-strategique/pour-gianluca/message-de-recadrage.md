@@ -2,7 +2,7 @@
 
 Audit Marwin Tech × GianLuca Carlone · projet destiné au client, rattaché au livrable 13 sur 15 (13-preparation-rendez-vous.md) · 4 novembre 2026
 
-Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider et signer par Morgan Olsen et Mathys Couet. Avant tout envoi, retirer les lignes « Audit… », « Statut… » et « Sources principales… », ainsi que tout ce qui suit la signature (note interne et encadré).
+Statut : destiné à GianLuca Carlone — PROJET non envoyé, à valider et signer par Morgan Olsen et Mathys Couet. Avant tout envoi, retirer les lignes « Audit… », « Statut… » et « Sources principales… », ainsi que tout ce qui suit la signature (note interne et encadré). [Mention du 11 novembre 2026 : pièce historique, à ne pas envoyer en l’état. Ce projet du 4 novembre 2026 propose un premier rendez-vous « au plus tard le vendredi 11 décembre 2026 » : date abandonnée, le rendez-vous a lieu le vendredi 13 novembre 2026. Il est écrit avant les faits rapportés le 9 et le 10 novembre (administratrice, neuf suites) : la question 3 et « l’embauche d’un coordinateur » ne tiennent plus. Une nouvelle version datée est à écrire après le rendez-vous ; référence : pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md.]
 
 Sources principales : `travaux/strategie-retenue.md:804-812` (contenu du message), `travaux/strategie-retenue.md:219-237` (cadrage), `travaux/strategie-retenue.md:723-730` (questions) ; `travaux/ex-C2-offre.md` (versions de l'offre et ce que le client a pu voir) ; `sources/chatgpt-pages/2026-11-04/marwin-offre-accompagnement.md:7-30` (documents remplacés) ; 11-proposition-commerciale-revisee.md, sections 5.2 et 6.1 ; 13-preparation-rendez-vous.md, section 2.1.
 

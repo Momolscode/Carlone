@@ -12,18 +12,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026 
 
 **3. L’ancienne offre mensuelle du 2 novembre, s’il l’a vue.** *Il peut dire* : « On avait parlé de six mois, de vingt jours par mois. » « Vous m’aviez donné un prix à la journée. » *Position* : offre retirée en entier ; on n’en redit aucun montant, on ne parle pas d’économie pour lui (S:41 ; P § 4.2, n° 1 et 3). Ce qu’il a vu est inconnu : liste à dresser par Morgan avant vendredi (F, partie 4). *À dire* : « Cette proposition remplace nos propositions précédentes. Nous préférons commencer par ce que vous pouvez juger sur pièces : trois à quatre semaines, à prix fixe ; la suite se décide dossier en main. » *Ne pas dire* : un ancien montant, un nombre de jours, un prix à la journée ; « vous économisez » ; une remise en séance. *Lui retourner* : « Qu’aviez-vous retenu de notre première proposition ? »
 
-**4. Les huit propositions du 18 octobre.** *Il peut dire* : « Et les huit propositions que vous m’aviez faites ? » *Position* : pièce historique, sans prix (`sources/propositions-de-collaboration.pdf`, p. 1) ; l’inventaire du cadrage les reprend (P § 6.2) ; deux ont changé de nature, la 3 et la 7 (tableau). *À dire* : « Rien n’est perdu : le cadrage les reprend toutes et les classe avec vous. Deux ont changé : l’administratif reste à votre administratrice, que nous outillons, et nous n’organisons pas de séjours. » *Ne pas dire* : « nous ferons les huit » ; « gestion déléguée » ; un prix par mission. *Lui retourner* : « Laquelle comptait le plus pour vous ? »
-
-| Mission du 18 octobre | Fiche du 10 novembre | Niveau d’offre, et ce qui a changé |
-| --- | --- | --- |
-| 1. Suivi centralisé de vos établissements | 7 (logiciel), 5 | Prouver, puis construire (chef d’orchestre) ; la comptabilité reste chez son expert-comptable |
-| 2. Études de rentabilité de vos projets | Aucune (devis comparés : 4) | Hors cadrage ; construire (copilote du dirigeant) : des scénarios pour ses conseils, jamais un conseil d’investissement |
-| 3. Gestion administrative déléguée | 5 (administratrice) | Prouver (factures classées, rappels) ; plus de délégation : elle gère, nous l’outillons (S:650) |
-| 4. Coordination des prestataires locaux | 4 (bâtiments) | Prouver (devis comparés) ; aucun contact ni dépense en son nom |
-| 5. Outils après chaque rachat | 7, 4, 6 | Prouver (registre des bâtiments), puis construire ; comptes au nom de sa société |
-| 6. Catalogue privé de vos œuvres | 1 (galerie) | Prouver (fiches d’œuvres), puis construire (galerie sans murs) ; droits réglés avant toute mise en ligne |
-| 7. Organisation des séjours de vos invités | Aucune (ses suites : 2) | Aucun, hors offre : nous n’organisons ni ne vendons de séjours (S:650) ; ceux de son établissement sont à faire valider par ses professionnels |
-| 8. Événements associant art et restauration | 3 (cabaret), 6, 1 | Construire (cabaret augmenté, rayonnement) ; nous préparons et annonçons, sa société organise |
+**4. Les huit propositions du 18 octobre.** *Il peut dire* : « Et les huit propositions que vous m’aviez faites ? » *Position* : pièce historique, sans prix (`sources/propositions-de-collaboration.pdf`, p. 1) ; l’inventaire du cadrage les reprend (P § 6.2) ; deux ont changé de nature, la 3 et la 7 (tableau en fin de document). *À dire* : « Rien n’est perdu : le cadrage les reprend toutes et les classe avec vous. Deux ont changé : l’administratif reste à votre administratrice, que nous outillons, et nous n’organisons pas de séjours. » *Ne pas dire* : « nous ferons les huit » ; « gestion déléguée » ; un prix par mission. *Lui retourner* : « Laquelle comptait le plus pour vous ? »
 
 **5. L’œuvre peinte par un robot, le vernissage, l’artiste partenaire.** *Il peut dire* : « Et le tableau peint par le robot ? » « Où en est le vernissage ? » *Position* : projets de création hors de l’offre ; rien de fabriqué ni d’essayé ; aucun robot près du public (S:643-646 ; R § 8.5). La décision est orale ; l’écrit et le lien de Morgan avec le studio restent à faire (F:42, F:117). *À dire* : « Ces projets de création ne font pas partie de notre offre d’aujourd’hui : rien n’est fabriqué ni essayé, et les images que vous avez vues sont générées par IA. Si les œuvres de cet artiste vous intéressent, voyez-le directement ; Morgan a un lien avec son studio, et nous ne vous ferons donc aucune recommandation sur ses œuvres. » Sur le vernissage : « Un premier événement, sans robot, pourra s’étudier plus tard, avec votre société comme organisatrice. » *Ne pas dire* : le détail de la décision ; ce qui a été dit à l’artiste ; une date, un prix, une exclusivité ; une déduction fiscale. *Lui retourner* : « Qu’en attendiez-vous pour la galerie ? »
 
@@ -48,3 +37,16 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026 
 **Aussi.** Être payés sur ses ventes ou au résultat : « Nous ne pouvons pas être payés sur vos ventes d’œuvres ; nous proposons un prix fixe pour un résultat écrit à l’avance. » (R § 8.4). « Commencez, on règlera après » : P § 4.2, n° 4. Pas de société nommée : R § 8.6. Présence chaque jour : R § 8.1. Aide publique : ne pas en parler les premiers (F, n° 12).
 
 **Avant vendredi, ces réponses supposent** : la liste de ce qu’il a vu ou reçu (sujets 3 à 6) ; V3 et V5 (sujet 2) ; une ligne écrite à l’artiste et la phrase sur le lien de Morgan, aujourd’hui prévues pour le 19 novembre (F:117) ; une position commune sur l’emploi, les bureaux, les parts et l’exclusivité ; l’accord des deux sur la phrase du sujet 1.
+
+**Tableau du sujet 4 : les huit propositions du 18 octobre.**
+
+| Mission du 18 octobre | Fiche du 10 novembre | Niveau d’offre, et ce qui a changé |
+| --- | --- | --- |
+| 1. Suivi centralisé de vos établissements | 7 (logiciel), 5 | Prouver, puis construire (chef d’orchestre) ; la comptabilité reste chez son expert-comptable |
+| 2. Études de rentabilité de vos projets | Aucune (devis comparés : 4) | Hors cadrage ; construire (copilote du dirigeant) : des scénarios pour ses conseils, jamais un conseil d’investissement |
+| 3. Gestion administrative déléguée | 5 (administratrice) | Prouver (factures classées, rappels) ; plus de délégation : elle gère, nous l’outillons (S:650) |
+| 4. Coordination des prestataires locaux | 4 (bâtiments) | Prouver (devis comparés) ; aucun contact ni dépense en son nom |
+| 5. Outils après chaque rachat | 7, 4, 6 | Prouver (registre des bâtiments), puis construire ; comptes au nom de sa société |
+| 6. Catalogue privé de vos œuvres | 1 (galerie) | Prouver (fiches d’œuvres), puis construire (galerie sans murs) ; droits réglés avant toute mise en ligne |
+| 7. Organisation des séjours de vos invités | Aucune (ses suites : 2) | Aucun, hors offre : nous n’organisons ni ne vendons de séjours (S:650) ; ceux de son établissement sont à faire valider par ses professionnels |
+| 8. Événements associant art et restauration | 3 (cabaret), 6, 1 | Construire (cabaret augmenté, rayonnement) ; nous préparons et annonçons, sa société organise |

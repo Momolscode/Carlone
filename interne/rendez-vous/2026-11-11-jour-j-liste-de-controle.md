@@ -8,19 +8,19 @@ Rendez-vous du vendredi 13 novembre 2026. **Rien ne se signe en séance** : un 
 
 - ☐ Décisions V1 à V14 cochées, datées, signées à deux (et les n° 6, 13, 20, 21). Une case vide de V1 à V5 : tout à l’écran, rien laissé, rien signé.
 - ☐ Rôles écrits. Mène : ………………………… Montre la maquette : ………………………… Note et annonce le temps : …………………………
-- ☐ Une répétition chronométrée, à voix haute. Version (V7, V11, V14) : ☐ 32 min ☐ 31 min 15 ☐ 29 min 45.
-- ☐ Délai à annoncer pour le bon de commande et pour toute réponse écrite (V10) : …………………………………… Pas avant le jeudi 19 novembre.
+- ☐ Une répétition chronométrée, à voix haute. Version (V7, V11, V14) : ☐ 32 min ☐ 31 min 15 ☐ 30 min 30 ☐ 29 min 45.
+- ☐ Délai à annoncer (V10) pour le bon de commande et tout écrit, pas avant le 19 novembre : ………………………………
 - ☐ Deux ou trois dates à proposer pour le premier entretien, début janvier 2027 : ………………………………………………………………
 - ☐ Liste écrite de ce qu’il a déjà vu ou reçu de nous, relue à deux.
 
 **Le matériel**
 
-- ☐ Ordinateur chargé et chargeur ; notifications coupées ; rien d’ouvert hors la présentation et la maquette.
+- ☐ Ordinateur chargé et chargeur ; notifications coupées ; rien d’ouvert hors la présentation et la maquette ; en secours, un partage de connexion prêt.
 - ☐ Présentation exportée en PDF depuis sa page (menu de la page), pour la montrer sans connexion.
 - ☐ Maquette : un seul fichier, qui s’ouvre sans connexion, `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/index.html`. Essai fait jeudi, connexion coupée : ☐ présentation ☐ maquette.
 - ☐ À l’écran, s’il le demande : la page d’offre, la page pour son administratrice, les fiches (V12).
-- ☐ À laisser, seulement si V2 dit « laisser » : au plus ces deux pages, notées sur la liste des documents remis (n° 21) ; le texte sur le fichier de contacts, seulement si V3 est « validé ». Jamais de bon de commande, jamais la maquette.
-- ☐ Imprimés pour nous, gardés de notre côté de la table : antisèche, référentiel, feuille de notes (deux exemplaires). De quoi écrire : deux stylos, du papier. Aucun enregistrement.
+- ☐ À laisser seulement si V2 le dit : au plus ces deux pages, notées sur la liste des documents remis (n° 21) ; le texte sur le fichier de contacts si V3 est « validé ». Ni bon de commande, ni maquette.
+- ☐ Imprimés pour nous, gardés de notre côté de la table : antisèche, référentiel, sujets hors présentation, feuille de notes (deux exemplaires). De quoi écrire : deux stylos, du papier. Aucun enregistrement.
 - ☐ Une adresse et un téléphone professionnels qui fonctionnent, à lui donner s’il les demande.
 
 **Le minutage** (celui qui note annonce la fin de chaque partie)
@@ -36,7 +36,7 @@ Rendez-vous du vendredi 13 novembre 2026. **Rien ne se signe en séance** : un 
 1. Le nom ou le prix de l’autre proposition ; une critique de celle-ci ; « votre hôtel » (dire « vos neuf suites »).
 2. « Mieux et moins cher grâce à l’IA » ; « cent fois plus » sans préciser la tâche.
 3. Un résultat garanti, un gain de temps chiffré non mesuré, « zéro erreur ».
-4. « Nos clients », une référence ou un témoignage.
+4. « Nos clients », une référence ou un témoignage ; les noms Medhi, BOJ.ART, Strates.
 5. « Nous sommes assurés », « relu par notre avocat », une date d’immatriculation certaine.
 
 **Juste après**

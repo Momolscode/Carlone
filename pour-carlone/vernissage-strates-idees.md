@@ -1,6 +1,6 @@
 # Vernissage « Strates » — un événement à ajouter à l'offre
 
-Nov 4, 2026 · @Olsen Morgan
+Nov 4, 2026 · @Olsen Morgan · [Mention du 11 novembre 2026 : pièce historique, hors du rendez-vous du 13 novembre 2026 ; ni montrée ni remise à GianLuca Carlone. Document de travail du 4 novembre 2026 : il cite un partenaire qui n’est plus dans l’offre, un taux à la journée et une formule mensuelle abandonnés. Seule offre en vigueur : le cadrage (pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md). Index du dossier : pour-carlone/README.md.]
 
 Une soirée qui montre une œuvre dans tous ses états : imaginée par l'IA, construite couche par couche par les imprimantes 3D, peinte par le bras et par la main de Medhi, puis dévoilée dans un lieu de Carlone. Elle peut entrer dans l'offre Marwin Tech dès la formule de base.
 

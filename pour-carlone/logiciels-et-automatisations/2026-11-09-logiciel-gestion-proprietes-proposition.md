@@ -1,6 +1,6 @@
 # Votre logiciel de gestion des propriétés
 
-Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet
+Marwin Tech · pour GianLuca Carlone · 9 novembre 2026 · PROJET non envoyé, à valider par Morgan Olsen et Mathys Couet · [Mention du 11 novembre 2026 : pièce historique du 9 novembre 2026 ; elle n’est ni montrée ni remise au rendez-vous du 13 novembre 2026, sauf décision écrite de Morgan Olsen et Mathys Couet. Seul le cadrage a un prix à ce jour (6 500 € hors taxes) : les autres montants de cette pièce ne sont ni proposés ni confirmés ; un prix par étape sera établi après le cadrage, sur vos volumes réels. Aucune attestation d’assurance n’est promise à ce jour. L’hébergement n’est plus une hypothèse : pour vos neuf suites et l’espace bien-être, la pièce à jour est 2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md ; pour le logiciel, la fiche 7 du 10 novembre 2026.]
 
 Ce document ne remplace pas l'avis d'un avocat, d'un expert-comptable ou de tout autre professionnel.
 

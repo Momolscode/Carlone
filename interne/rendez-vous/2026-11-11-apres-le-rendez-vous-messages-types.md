@@ -2,7 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-**En bref.** Rien ne part avant que la liste avant tout envoi soit cochée en entier (`interne/prealables/2026-11-10-liste-avant-tout-envoi.md`) : au plus tôt le jeudi 19 novembre 2026. D’ici là, tout reste interne : les notes, le compte rendu, les projets de message. Chaque message est relu par celui qui ne l’a pas écrit, puis signé à deux. Ce document n’est pas un avis juridique.
+**En bref.** Rien ne part avant que la liste avant tout envoi soit cochée en entier (`interne/prealables/2026-11-10-liste-avant-tout-envoi.md`) : au plus tôt le jeudi 19 novembre 2026. D’ici là, tout reste interne : les notes, le compte rendu, les projets de message. Le compte rendu écrit sous 24 heures ouvrées est pour nous ; ce qui part ensuite vers lui, c’est le message : il vaut compte rendu pour lui. Chaque message est relu par celui qui ne l’a pas écrit, puis signé à deux. Ce document n’est pas un avis juridique.
 
 ## 1. Le calendrier des jours qui suivent
 
@@ -12,7 +12,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 | **Le soir même** | ☐ Liste de ce qu’il a déjà vu ou reçu : complétée avec ses réponses.<br>☐ Une question de sa part sur l’incident de données ou sur le fichier de contacts : transmise au conseil, sans réponse écrite de notre part.<br>☐ Une demande de prix, de remise ou de version réduite : décision à deux, jamais seul. | Aucun document. Aucun lien vers la présentation ou la maquette. |
 | **Lundi 16 novembre** | ☐ Compte rendu interne terminé (24 heures ouvrées ; trame en partie 3).<br>☐ Registre des décisions à jour.<br>☐ Si une société est nommée : vérification dans les registres publics, sans contact.<br>☐ Projet de message choisi, champs remplis, relu par l’autre associé.<br>☐ Point sur la liste avant tout envoi : ce qui manque, qui le lève, pour quand. | Le message reste un projet. |
 | **Jeudi 19 novembre** | ☐ Premier envoi possible, si toutes les cases de la liste sont cochées. Le message part alors, signé à deux.<br>☐ Toute autre réponse écrite promise vendredi, version réduite comprise : pas avant ce jour.<br>☐ Sinon, rien ne part. La date glisse, et nous l’écrivons au registre. | Le bon de commande, tant qu’un avocat ne l’a pas relu (date de la liste : lundi 30 novembre). |
-| **Dans le délai annoncé vendredi (V10)** | ☐ Si c’est oui : bon de commande et ses pièces, après relecture par l’avocat. Signature selon l’arbitrage B (recommandé : après l’immatriculation). | Aucune facture avant l’immatriculation. Aucun paiement demandé ni reçu pendant les sept jours qui suivent la signature. |
+| **Dans le délai annoncé vendredi (V10)** | ☐ Si c’est oui : bon de commande et ses pièces. Avant, selon l’audit du 9 novembre : l’information écrite sur le fichier de contacts lui est remise ; l’avocat a relu le bon, ses conditions et l’accord sur les données ; notre signataire est nommé. Signature selon l’arbitrage B (recommandé : après l’immatriculation). | Aucune facture avant l’immatriculation. Aucun paiement demandé ni reçu pendant les sept jours qui suivent la signature. |
 | **Mi-décembre, puis jeudi 31 décembre 2026** | Une commande signée avant la mi-décembre permet de viser un démarrage début janvier 2027. L’offre est valable jusqu’au jeudi 31 décembre 2026. | Aucune autre date. Ces deux-là ont été dites vendredi : elles ne servent pas à presser. |
 
 Lecture retenue ici : la dernière case de la liste (relecture par un avocat) retient le bon de commande, pas le message. À confirmer à deux, jeudi.
@@ -52,10 +52,10 @@ Champs entre crochets : à remplir d’après la feuille de notes. Rien ne s’
 Avant de l’envoyer :
 
 - « Soit 7 800 € toutes taxes comprises » ne reste que si Marwin Tech opte pour la TVA ; sinon : « 6 500 €, TVA non applicable (franchise en base) ».
-- Les pièces du bon de commande : ses conditions, le tableau « qui valide quoi », le formulaire de rétractation si l’avocat le retient (projet de bon de commande, partie 7). Avec elles : le questionnaire avant le premier entretien et la liste des pièces à rassembler.
+- Les pièces du bon de commande, en projet dans `pour-carlone/offre-cadrage/` : ses conditions, le tableau « Qui valide quoi », l’accord sur les données, et la page sur la rétractation seulement si la condition 2 est retenue. Avec elles, après un oui seulement : le questionnaire avant le premier entretien et la liste des pièces à rassembler.
 - Une information qui manque s’écrit « à nous préciser » ; pour la date, « à fixer ensemble ». La date est « visée » : aucune date ferme avant la signature, l’immatriculation et l’acompte.
 - Ce message redit un prix par écrit avant l’immatriculation : le faire relire avec le bon de commande (questions pour l’avocat, n° 7).
-- À décider à deux. Si aucun document ne lui a été laissé vendredi, ajouter : « Pour rappel, Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. » S’il a vu une ancienne offre (feuille de notes, question 30), ajouter : « Cette proposition remplace nos documents précédents. »
+- À décider à deux. Si aucun document ne lui a été laissé vendredi, ajouter : « Pour rappel, Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. » S’il a vu une ancienne offre (feuille de notes, question 30), ajouter : « Cette proposition remplace nos propositions précédentes. »
 
 ### Après « je réfléchis »
 

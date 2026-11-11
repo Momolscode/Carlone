@@ -7,7 +7,7 @@ Sources : note `audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de
 ## Avant d’y aller
 
 - Relire le compte rendu du rendez-vous de présentation et la liste des pièces demandées.
-- Imprimer : ce guide, le tableau « qui valide quoi », la liste des pièces, deux exemplaires de l’accord sur les données si des documents en contiennent (projets du tableau et de l’accord, datés du 11 novembre, dans `pour-carlone/offre-cadrage/` ; l’accord est à faire valider par l’avocat avant toute signature).
+- Imprimer : ce guide ; le tableau « qui valide quoi », deux exemplaires par société ; la liste des pièces ; deux exemplaires par société de l’accord sur les données, si des documents contiennent des données personnelles (projets du tableau et de l’accord, datés du 11 novembre, dans `pour-carlone/offre-cadrage/` ; l’accord est à faire valider par l’avocat avant toute signature).
 - Ouvrir le tableau d’inventaire (`06-tableau-d-inventaire.xlsx`) sur l’ordinateur de celui qui note.
 - Répartir les rôles : l’un mène, l’autre note les mots exacts entre guillemets. Pas d’enregistrement.
 
@@ -19,8 +19,8 @@ Sources : note `audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de
 | Semaine type | 30 min | Voir le travail réel | « Racontez-moi votre dernière semaine. » « Qu’est-ce qui vous a pris le plus de temps ? » |
 | Trois cas récents | 45 min | Des faits, pas des souhaits | « La dernière fois qu’une échéance a failli être manquée, que s’est-il passé ? » « Le dernier devis de travaux : qui l’a reçu, comparé, validé ? » « Si vous étiez absent un mois, qu’est-ce qui s’arrêterait ? » |
 | Pause | 10 min | | |
-| Documents et outils | 30 min | Remplir les feuilles 4, 7 et 8 | Où sont rangés baux, contrats, devis ; quels outils ; au nom de quelle société |
-| Qui décide quoi | 20 min | Remplir la feuille 9 | Le tableau « qui valide quoi », acte par acte |
+| Documents et outils | 30 min | Remplir les feuilles 4, 7 et 8 | Où sont rangés baux, contrats, devis ; quels outils ; au nom de quelle société. Aucun document qui nomme des personnes n’est ouvert avant la signature de l’accord sur les données |
+| Qui décide quoi | 20 min | Remplir la feuille 9 (actes du cadrage) et la feuille 6 (actes courants) | Le tableau « qui valide quoi », acte par acte ; le faire dater et signer en deux exemplaires |
 | Clôture | 15 min | Repartir avec des engagements | Reformuler en cinq phrases ; pièces encore à rassembler (l’offre les attend dans les dix jours ouvrés qui suivent la commande) ; date du compte rendu (sous 24 heures ouvrées) ; date de la restitution |
 
 ## Questions par domaine (à piocher, pas à lire)
@@ -42,6 +42,6 @@ Mots de passe, accès bancaires, données de santé, opinions ; le salaire ou le
 
 1. Relire à voix haute les trois sujets prioritaires notés.
 2. Confirmer la liste des pièces et la personne qui les envoie.
-3. Faire signer l’accord sur les données si des documents en contiennent.
+3. Vérifier que l’accord sur les données est signé avant d’emporter ou de recevoir un document qui contient des données personnelles ; sinon, ne rien emporter.
 4. Fixer la date de restitution.
 5. Remercier l’administratrice nommément pour son temps.

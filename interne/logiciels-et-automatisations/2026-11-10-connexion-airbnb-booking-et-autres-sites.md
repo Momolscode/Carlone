@@ -1,6 +1,6 @@
 # Relier les neuf suites à Airbnb, Booking.com et aux autres sites : est-ce faisable ?
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, une mention ajoutée le 11 novembre 2026 (audit final, § 5) · Ce document n’est pas un avis juridique.
 
 ## En bref
 
