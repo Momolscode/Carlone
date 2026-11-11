@@ -6,7 +6,7 @@ Note de chercheur. Vingt recherches et douze pages lues le 11 novembre 2026 : pl
 ## 1. En bref
 
 1. Le cabaret pèse : près de 200 établissements et 2,7 millions de spectateurs en France en 2023. Un music-hall de village alsacien annonce plus de 200 000 spectateurs par an.
-2. La technique remplit des salles : plus de 3 millions de billets à Las Vegas pour un film agrandi par l’IA ; plus de 3,5 millions de visiteurs à Londres pour un concert d’avatars.
+2. La technique remplit des salles : plus de 3 millions de billets à Las Vegas pour un film agrandi par l’IA ; plus de 3 millions de visiteurs à Londres pour un concert d’avatars.
 3. Le gain le plus sûr est modeste : des sous-titres traduits en direct dans des lunettes, un son où chaque table entend net.
 4. L’IA seule déçoit : huées à Bayreuth en 2026, à Londres en 2025. Le public paie pour des artistes vivants.
 5. Pour GianLuca Carlone : un cabaret où la machine sert l’artiste, avec des règles écrites sur la voix, l’image et les prix. Nous concevons et orchestrons ; artistes, régisseurs et intégrateurs réalisent.
@@ -14,14 +14,14 @@ Note de chercheur. Vingt recherches et douze pages lues le 11 novembre 2026 : pl
 ## 2. Ce qui se fait de mieux aujourd’hui
 
 1. **The Wizard of Oz at Sphere (Las Vegas).** Film de 1939 agrandi et complété par l’IA générative de Google, pour un écran 16K et 17 600 places. Ouvert le 28 août 2025. Mesuré par l’exploitant : plus de 3 millions de billets, plus de 400 millions de dollars. Sphere Entertainment, 16 juin 2026 ; blog de Google, 8 avril 2025. Lus.
-2. **ABBA Voyage (Londres).** Concert d’avatars. Étude faite avec le producteur : plus de 3,5 millions de visiteurs depuis 2022, 18 % venus de l’étranger. Sound Diplomacy, 10 décembre 2025. Lu.
+2. **ABBA Voyage (Londres).** Concert d’avatars. Étude faite avec le producteur : plus de 3,5 millions de visiteurs depuis 2022, 18 % venus de l’étranger. Sound Diplomacy, 10 décembre 2025. Lu. Un autre compte rendu dit 3 millions (vu).
 3. **LiveText (Het Nationale Theater, La Haye).** Lunettes à sous-titres créés par l’IA depuis les micros des comédiens : une couleur par personnage, 223 langues annoncées, prêt sans supplément. Première en juin 2025, service annoncé pour l’automne. Communiqué d’Audinate, 29 mai 2025. Lu.
 4. **Surtitres ailleurs.** France : lunettes et téléphone de Panthea, texte préparé, suivi par un opérateur. Corée du Sud : lunettes de traduction prêtées aux spectateurs étrangers, essai de quatre mois. Vus.
 5. **Son spatialisé (Lyric Theatre, Belfast).** Système L-ISA du français L-Acoustics, 380 places, permanent en 2026. Selon l’équipe technique, des spectateurs malentendants ont dit mieux entendre les dialogues. Installation, 8 avril 2026. Lu.
 6. **Captation (National Theatre, Londres).** Étude, plus de 5 500 répondants : 89 % préfèrent la salle ; 93 % du public du théâtre filmé va aussi au théâtre ; 60 % voient plus de pièces grâce aux films. Communiqué du 11 mai 2026. Lu.
 7. **Royal Palace (Kirrwiller, Alsace).** Music-hall de village, dîner et revue. Plus de 200 000 spectateurs par an selon la presse régionale ; chiffre non officiel. JDS, 4 juin 2026. Lu. Le modèle le plus proche du projet de la Nièvre.
-8. **Plan Cabaret (ministère de la Culture).** Première reconnaissance publique : 5 000 emplois, 225 millions d’euros de chiffre d’affaires en 2023 ; fonds de création de 150 000 euros, résidences, aides du Centre national de la musique. Communiqué du 21 janvier 2025. Lu.
-9. **Bayreuth, le Ring « 10010110 ».** Été 2026 : décors choisis par une douzaine de modèles d’IA. Trente secondes de huées pour l’équipe, dix-sept minutes d’ovation pour les chanteurs. Dépêche AP, 4 août 2026. Vu.
+8. **Plan Cabaret (ministère de la Culture).** Première reconnaissance publique : 5 000 emplois, 225 millions d’euros de chiffre d’affaires en 2023 ; fonds de création de 150 000 euros, résidences, information sur les aides du Centre national de la musique. Communiqué du 21 janvier 2025. Lu.
+9. **Bayreuth, le Ring « 10010110 ».** Été 2026 : décors choisis par une douzaine de modèles d’IA. Trente secondes de huées pour l’équipe, dix-sept minutes d’ovation pour le chef et les chanteurs. Dépêche AP, 4 août 2026. Vu.
 10. **Elvis Evolution (Londres).** Le public espérait un concert d’avatars ; il a vu du théâtre et des archives agrandies. Huées relevées par le critique ; billets de 75 à 300 livres. Time Out, 7 janvier 2026. Lu.
 11. **Billetterie (Royaume-Uni).** Vente des billets d’Oasis : pas de prix dynamique trouvé, mais des billets « platine » près de 2,5 fois plus chers, sans avantage. Le vendeur s’engage à prévenir 24 heures avant et à afficher la fourchette des prix. gov.uk, 25 septembre 2025. Lu.
 12. **Drones en salle.** Des essaims lumineux volent en intérieur, derrière un filet ou loin du public. Vu.
@@ -34,7 +34,7 @@ Note de chercheur. Vingt recherches et douze pages lues le 11 novembre 2026 : pl
 | Fin 2026 | Étude du ministère et du Centre national de la musique sur l’économie des grandes salles. | Annoncé. Lu. |
 | 20 janvier 2027 | Règlement européen sur les machines : robots, machines de scène. | Texte de droit. Dépôt. |
 | 1er juin 2027 | Nouvel arrêté de sécurité incendie pour les demandes de travaux déposées dès cette date. | Texte de droit. Dépôt ; non analysé. |
-| 2027 | France : loi demandée sur la voix et l’image des artistes face à l’IA. Texte voté au Sénat le 8 avril 2026, non débattu à l’Assemblée en juin. | En discussion. Vu. |
+| 2027 | France : loi demandée sur la voix et l’image des artistes face à l’IA. Un texte voisin, sur l’usage des œuvres par l’IA, voté au Sénat le 8 avril 2026, n’a pas été débattu à l’Assemblée en juin. | En discussion. Vu. |
 | 2028 | Spectacle d’avatars de KISS, par le producteur d’ABBA Voyage : annoncé pour 2027, puis 2028, sans salle. | Annoncé, en retard. Vu. |
 | 2028 | Lunettes plus légères ; décor créé en direct assez net pour une scène. | Supposé. Aucune date publiée. |
 | 2030 | Traduction dans les écouteurs du spectateur ; captation sans opérateur. | Supposé. |
@@ -72,13 +72,13 @@ Dix faits, lus le 11 novembre 2026. Écrits sans le mot « million » ni montant
 
 1. « En 2023, selon le ministère de la Culture, le cabaret comptait en France près de 200 établissements, 5 000 emplois et 2 700 000 spectateurs. » Communiqué du 21 janvier 2025.
 2. « Dans un village d’Alsace, un music-hall accueille plus de 200 000 spectateurs par an, selon la presse régionale. » JDS, 4 juin 2026. Chiffre non officiel.
-3. « À Las Vegas, un film de 1939 agrandi et complété par l’IA a vendu plus de 3 000 000 de billets depuis le 28 août 2025, selon son exploitant. » Sphere Entertainment, 16 juin 2026.
-4. « À Londres, un concert d’avatars a reçu plus de 3 500 000 visiteurs depuis 2022, dont 18 % venus de l’étranger, selon une étude réalisée avec son producteur. » Sound Diplomacy, 10 décembre 2025.
+3. « À Las Vegas, un film de 1939 agrandi et complété par l’IA a vendu plus de 3 000 000 de billets entre le 28 août 2025 et la mi-juin 2026, selon son exploitant. » Sphere Entertainment, 16 juin 2026.
+4. « À Londres, un concert d’avatars a reçu plus de 3 000 000 de visiteurs depuis 2022, dont 18 % venus de l’étranger, selon une étude réalisée avec son producteur. » Sound Diplomacy, 10 décembre 2025. La page lue dit 3,5 ; nous retenons le chiffre le plus bas.
 5. « En mai 2025, un théâtre national néerlandais a annoncé le prêt de lunettes qui affichent des sous-titres créés par l’IA à partir de la voix des comédiens ; 223 langues sont annoncées. » Communiqué d’Audinate, 29 mai 2025.
 6. « À Belfast, un théâtre de 380 places a rendu permanent en 2026 un système de son spatialisé d’un fabricant français ; selon son équipe, des spectateurs malentendants ont dit mieux entendre les dialogues. » Installation, 8 avril 2026.
 7. « Selon une étude commandée par le National Theatre de Londres auprès de plus de 5 500 personnes, 89 % des spectateurs préfèrent la salle à l’écran. » Communiqué du 11 mai 2026.
 8. « Au Royaume-Uni, l’autorité de la concurrence a obtenu le 25 septembre 2025 qu’un grand vendeur de billets prévienne 24 heures à l’avance quand plusieurs niveaux de prix sont prévus. » gov.uk.
-9. « Le code européen de bonnes pratiques sur le signalement des contenus créés par l’IA, publié le 10 juin 2026, prévoit une icône commune et, pour le son seul, une annonce sonore. » Jones Day, 26 juin 2026 ; à recouper sur le site de la Commission.
+9. « Le code européen de bonnes pratiques sur le signalement des contenus créés par l’IA, publié le 10 juin 2026, prévoit une icône européenne ou un signe équivalent et, pour le son seul, une annonce sonore. » Jones Day, 26 juin 2026 ; à recouper sur le site de la Commission.
 10. « À Londres, en 2025, un spectacle consacré à Elvis Presley a été en partie hué : le public espérait un concert d’avatars, selon le critique de Time Out. » Time Out, 7 janvier 2026.
 
 ## 6. Règles et limites
@@ -100,10 +100,10 @@ Dix faits, lus le 11 novembre 2026. Écrits sans le mot « million » ni montant
 - L’IA à la place de la mise en scène : Bayreuth, 2026. Le responsable a parlé d’une « expérience » (vu).
 - La promesse non tenue : Elvis Evolution ; des spectateurs ont demandé un remboursement (vu).
 - Le retard : les avatars de KISS, de 2027 à 2028.
-- Les sous-titres automatiques : délai d’environ 0,3 seconde annoncé (vu) ; un micro par artiste ; chant et noms propres à préparer à la main.
+- Les sous-titres automatiques : délai d’environ 0,3 seconde annoncé (vu) ; un micro par artiste ; chant et noms propres à préparer à la main (notre lecture).
 - Les chiffres de Las Vegas, de Londres et de l’Alsace viennent de l’exploitant, du producteur ou de la presse locale.
 - Aucun chiffre français sur l’IA dans les salles ; la dernière enquête du secteur sur le numérique date de 2021 (vu).
-- Las Vegas : plus de 90 % du film retouché par l’IA, défauts d’image relevés (vu).
+- Las Vegas : plus de 90 % du film retouché par l’IA selon un responsable de Google ; défauts d’image relevés par la presse (vu).
 
 ## 7. Sources
 
