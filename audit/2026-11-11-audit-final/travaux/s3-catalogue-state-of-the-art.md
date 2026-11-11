@@ -67,7 +67,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **4. Les archives d’un regard**
 - **Une phrase.** Vos années de marchand, mises en ordre et racontées par vous.
-- **Vous obtenez.** Lettres et catalogues numérisés ; quatre entretiens enregistrés ; une salle où l’archive répond par vos seuls textes, page source à l’appui ; un livre, si vous le voulez. Si vous le voulez, votre voix dans la langue de chacun : en direct au vernissage et pendant vos visites à distance ; plus tard, vos commentaires enregistrés, traduits avec votre voix, signalés comme tels, gardés dans vos comptes.
+- **Vous obtenez.** Lettres et catalogues numérisés ; quatre entretiens enregistrés ; une salle où l’archive répond par vos seuls textes, page source à l’appui ; un livre, si vous le voulez. Et, à votre choix, votre voix dans la langue de chacun : en direct au vernissage et pendant vos visites à distance ; plus tard, vos commentaires enregistrés, traduits avec votre voix, signalés comme tels, gardés dans vos comptes.
 - **Avancé.** Au muséum d’Autun, voisin de la Nièvre, un guide conversationnel répond sur trente œuvres à partir de 300 pages de notes ; les questions sans réponse remontent à l’équipe (Ask Mona, éditeur, 19 mai 2025 [gal. S9]). En juin 2026, Google a ouvert en préversion une traduction de la voix dans plus de soixante-dix langues, qui garde l’intonation et suit à quelques secondes (annonce du 9 juin 2026 [front. F11] ; qualité affirmée par l’éditeur, à essayer avant de promettre).
 - **Format.** Six mois.
 - **Qui.** Nous : tri de nuit, index, entretiens, salle. Numérisation, studio, éditeur : des tiers. Vous : la parole.
@@ -125,7 +125,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 ### Famille III. La preuve : ce qui fonde la confiance
 
 **8. Le passeport de l’œuvre**
-- **Une phrase.** Chaque œuvre part avec la preuve de sa fabrication et un dossier qui la suit de main en main.
+- **Une phrase.** Chaque œuvre part avec un dossier qui la suit de main en main ; celles nées chez vous, avec le journal daté de leur fabrication.
 - **Vous obtenez.** Un cartel de fabrication : la part de la main, celle de la machine ; le journal daté de la création ; au dos, un certificat signé doublé d’une puce ; pour l’acheteur, provenance, conservation, dossier de sortie s’il vit à l’étranger.
 - **Avancé.** Selon un rapport de mission remis au Conseil supérieur de la propriété littéraire et artistique, et publié par le ministère de la Culture le 16 juillet 2026, une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine [créa.]. C’est un avis, pas une loi ; aucun juge français ne l’a encore tranché. Le journal daté de la création sert à cette preuve. Selon son éditeur, le 22 juin 2026, chaque œuvre d’un stand d’Art Basel portait un certificat lié à une puce (Verisart [gal. S21]).
 - **Format.** Six semaines, puis à chaque œuvre.
@@ -177,7 +177,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Format.** Quatre à six mois de création.
 - **Qui.** Un artiste du génératif ; un imprimeur d’art ; nous : programme, données du ciel, suivi.
 - **Départ.** Un artiste, un format de tirage.
-- **Mesure.** Tirages emportés, demandes d’édition.
+- **Mesure.** Tirages envoyés, demandes d’édition.
 - **À faire valider.** Contrat de droits et d’édition ; statut fiscal d’un tirage né d’un programme (CGI, annexe III, article 98 A) ; jamais de feuille signée d’avance ; signalement sans gêner l’œuvre ; aucune donnée des hôtes.
 - **Quand.** 2027, à l’ouverture des suites.
 
@@ -243,7 +243,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Vous obtenez.** Trois programmes, vendus par une agence de voyages immatriculée, ou par votre société une fois immatriculée chez Atout France ; à 18 heures, chacun dans la maison reçoit sa conduite de la soirée ; la suite est prête quand le rideau tombe.
 - **Avancé.** À Kirrwiller, en Alsace, un cabaret de village a annoncé hôtel et spa au 28 août 2026 (page officielle [acc. S12]). Notre recherche du 11 novembre 2026 n’a trouvé aucun lieu qui réunisse art, scène, soin et nuit autour d’une galerie marchande.
 - **Format.** Deux mois ; la conduite, trois mois avant l’ouverture du cabaret.
-- **Qui.** Vos professionnels fixent le cadre ; une agence de voyages immatriculée vend ; nous : programmes, conduite, liens.
+- **Qui.** Vos professionnels fixent le cadre ; une agence de voyages immatriculée vend, ou votre société une fois immatriculée ; nous : programmes, conduite, liens.
 - **Départ.** Le cadre de vente validé.
 - **Mesure.** Nuits par visiteur, délai entre le rideau et la suite prête.
 - **À faire valider.** Forfait touristique probable : immatriculation chez Atout France, garantie financière, assurance (code du tourisme, articles L211-1 et suivants ; DGCCRF, 16 mars 2026 [acc. S21]). Le vendre sans immatriculation est une infraction.
@@ -387,7 +387,7 @@ Le cadrage reste la première marche recommandée : trois à quatre semaines, 6 
 
 **Ce que vous pouvez choisir en plus.** L’angle du cadrage, au même prix : par les œuvres, par le cercle, par l’ouverture ou par la maison. Au plus une offre qui n’attend pas. Un projet phare en conception. Chacune avec son prix écrit avant toute commande.
 
-**La phrase de la décision.** « Aujourd’hui, nous vous demandons une décision et deux noms. La décision : votre accord pour le cadrage, tourné vers les trois moments que vous avez choisis. Les deux noms : l’œuvre que vous voulez que l’on voie le jour de l’ouverture, et l’artiste dont vous aimeriez un jour le catalogue raisonné. Si vous le voulez, nous chiffrons en plus l’offre de votre choix. Le bon de commande suit ; rien ne vous engage avant de le signer. »
+**La phrase de la décision.** « Aujourd’hui, nous vous demandons une décision et deux noms. La décision : votre accord pour le cadrage, tourné vers les trois moments que vous avez choisis. Les deux noms : l’œuvre que vous voulez montrer le jour de l’ouverture, et l’artiste dont vous aimeriez un jour le catalogue raisonné. Si vous le voulez, nous chiffrons en plus l’offre de votre choix. Le bon de commande suit ; rien ne vous engage avant de le signer. »
 
 ## 5. Le chemin : 2027, 2028, 2030
 
@@ -523,7 +523,7 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 
 **(a) Une page « State Of The Art : le programme ».** Mention PROJET, phrase-titre et sous-titre, dix lignes, « Pourquoi maintenant », sept familles et six phares en une ligne chacun, « Par où votre maison commence-t-elle ? », le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
 
-**(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
+**(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ». Contrôle : `lint-doc.js --tarifs-publics` ; le seuil de 10 000 € de l’offre 2 est un seuil de loi, pas un prix.
 
 **(c) Les diapositives.** Environ quatre minutes de plus. `offres` (23) garde ses quatre niveaux. Anciens noms : chef d’orchestre et copilote 20, galerie sans murs 1 et 7, séjours signature 16 et 18, cabaret augmenté 17, rayonnement 24, bouclier et pass IA 5, résidence et laboratoire 13, bâtiments qui préviennent 21, réseau de vos partenaires 14 et 26.
 
@@ -566,18 +566,18 @@ La diapositive `evolution` reste. Sa mesure de METR passe à celle du § 5 ; sa 
 Les trente remarques du 11 novembre sont appliquées. Ce qui suit n’a pas été repris mot pour mot ; quand les deux critiques se contredisaient, l’ambition est gardée et la phrase rendue vraie.
 
 1. **Remarque 1, ligne 9.** « Invisible pour vos hôtes » devient « discrète » : l’assistant de l’offre 23 se dit IA (article 50), il ne peut être invisible.
-2. **Remarques 1 et 16, ligne 6.** « La preuve de la main » et « chaque image prouvera qu’elle est vraie » sont écartés : ils garantiraient une attribution ou démentiraient les offres 10, 12 et 26. Restent le journal de l’artiste et « le réel signé », limité aux photos et films présentés comme réels.
+2. **Remarques 1 et 16, ligne 6.** « La preuve de la main » et « chaque image prouvera qu’elle est vraie » sont écartés : ils garantiraient une attribution ou démentiraient les offres 10, 12 et 26. Restent le journal de l’artiste et « le réel signé », limité aux photos et films présentés comme réels. Même correction à la phrase de l’offre 8, qui promettait « la preuve de sa fabrication ».
 3. **Remarque 2.** « Testé en mars 2026 » devient « au printemps 2026 », formule imposée par la remarque 24. « Une maison qui ouvre en 2027 » devient « qui se construit aujourd’hui » : l’ouverture peut glisser au printemps 2028 (remarque 25).
 4. **Remarque 3.** Le doublement « tous les sept mois » n’entre pas dans l’offre 27 : aucune note ne l’a lu (remarque 24). Les seize heures et les 2 h 17 le remplacent.
 5. **Remarque 6.** Le fait du Jeu de Paume reste dans l’offre 15 : il prouve le public ; l’exposition ne reprend pas son sujet.
 6. **Remarque 7.** « Toute apparition publique » devient « chaque apparition publique dans les sources suivies » : aucune veille ne voit tout. « Publiée sous votre nom » devient « publiée par votre maison » : le comité attribue, et un nom d’auteur engagerait sa responsabilité.
 7. **Remarque 9.** « Chacun dans sa langue » n’est pas tenu : la traduction en direct ne couvre que l’anglais face à cinq langues (remarque 27). « Dans le même espace » devient « la première pièce achevée de vos lieux » : la galerie n’existe pas six mois avant l’ouverture.
-8. **Remarque 10.** La voix traduite en direct au vernissage reste offerte au choix, marquée préversion, à essayer avant de promettre : sa qualité n’est affirmée que par l’éditeur.
+8. **Remarque 10.** La voix traduite en direct au vernissage reste proposée au choix, marquée préversion, à essayer avant de promettre : sa qualité n’est affirmée que par l’éditeur.
 9. **Remarque 12.** « Si le rythme se maintient » devient « si la progression mesurée continue » (remarque 24).
 10. **Remarque 13, offres 6 et 23.** Le fait jugé faible n’est pas supprimé : il passe en second, corrigé selon la remarque 23, parce qu’il reste mesuré.
 11. **Remarque 21, offre 12.** Le texte s’adresse à lui, pas à l’hôte : l’hôte part avec l’image et le certificat ; le tirage numéroté, signé au passage mensuel de l’artiste, lui est envoyé.
 12. **Remarque 25.** « Cinq projets phares » devient « Six » : la remarque 4 ajoute la maison d’avant. Trente collectionneurs reçoivent une lettre, dix une salle (remarque 9) : les deux chiffres tiennent ensemble.
 13. **Remarque 27, offre 7.** La phrase garde la vraie salle captée en 3D (remarque 9) ; la limite des langues passe dans « Vous obtenez ».
 14. **Remarques 4 et 7, lignes « Interne ».** Elles sont rangées au § 7 (notes de charge), pour que les parties 1 à 5 restent prêtes à reprendre.
-15. **Remarque 11, première preuve.** Inscrite au § 11, n° 11, sans recommandation : sa charge n’est pas encore estimée.
+15. **Remarque 11.** « L’œuvre que vous voulez que l’on voie » devient « que vous voulez montrer » : le contrôle des documents client refuse le mot « voie ». La première preuve est inscrite au § 11, n° 11, sans recommandation : sa charge n’est pas encore estimée.
 16. **Remarque 30.** Les articles L210-6 du code de commerce et L6351-1 du code du travail ne viennent d’aucune note s1 : ils restent internes (§ 8, § 11), à faire confirmer par un avocat.
