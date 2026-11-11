@@ -45,3 +45,47 @@ Chaque offre : ce que c’est ; ce qu’il obtient ; ce qu’elle a d’avancé 
 - **Format, qui.** Dès le cadrage, puis chaque trimestre. Nous écrivons ; un spécialiste de la sécurité attaque ; votre administratrice tient le registre.
 - **Commencer, mesurer.** La liste des comptes. Accès en trop retirés ; délai de détection lors de l’essai.
 - **Règles, quand.** Note CIANum-CNIL de juillet 2026 : validation humaine, journal, mémoire cloisonnée, arrêt (dir., r1). Janvier 2027.
+
+### Famille II — L’orchestre : au service de votre administratrice
+
+**4. Le pupitre de l’administratrice** — *prolonge « le chef d’orchestre » et « le pass IA »*
+- **Ce que c’est.** Une équipe d’assistants, un par lieu, et un coordinateur. Votre administratrice les dirige depuis un seul écran.
+- **Il obtient.** Une seule file « à valider » pour la galerie, les suites, le cabaret, les bâtiments et les commerces ; la page du matin ; une attestation datée de sa prise en main.
+- **Avancé.** Une équipe d’agents coordonnés a fait 90 % mieux qu’un agent seul, pour environ quinze fois plus de calcul, selon son éditeur [dir. S7, 13 juin 2025]. Des tâches programmées tournent dans le nuage depuis le 6 octobre 2026 (dir., r1).
+- **Format, qui.** Un essai de huit semaines sur une partition, puis lieu par lieu. Assistants du marché ; nous montons la file et les liaisons ; elle choisit ce que font les assistants.
+- **Commencer, mesurer.** Les offres 1 et 3. Délai entre réception et validation ; erreurs trouvées à l’échantillon de la semaine.
+- **Règles, quand.** Aucun paiement, envoi ou signature sans elle ; favoriser la maîtrise de l’IA (règlement européen, article 4). 2027 ; direction à la voix vers 2030 (supposé).
+
+**5. Le travail de nuit** — *nouvelle*
+- **Ce que c’est.** Les longues tâches confiées le soir, rendues au matin.
+- **Il obtient.** Par exemple : les archives d’un bâtiment racheté triées ; les factures d’un chantier rapprochées des devis ; le dossier d’une exposition préparé. Un échantillon contrôlé chaque matin.
+- **Avancé.** METR estime qu’un modèle testé au printemps 2026 réussit une fois sur deux des tâches de logiciel d’au moins seize heures d’expert [dir. S1, S3]. Hypothèse à mesurer : jusqu’à cent fois plus vite sur la première lecture de documents répétitifs, traités en parallèle, face à une personne qui les lit un par un.
+- **Format, qui.** Un chantier de nuit dure une à trois semaines. Nous écrivons la consigne ; l’outil travaille ; elle contrôle.
+- **Commencer, mesurer.** Une copie des documents. Durée ; erreurs à l’échantillon.
+- **Règles, quand.** La mesure METR vaut pour le logiciel, pas pour le bureau. Rien n’est écrit hors d’un dossier de travail. 2027.
+
+**6. Les comptes de la maison, sans saisie** — *prolonge l’essai « factures »*
+- **Ce que c’est.** Pour chacune de ses sociétés : factures reçues, rangées, rapprochées des devis et des paiements ; le mois clos prêt pour l’expert-comptable.
+- **Il obtient.** Les écarts vus avant de payer ; un dossier mensuel par société ; la trésorerie de toute la maison, chaque chiffre avec sa pièce.
+- **Avancé.** Au 4 octobre 2026, trois entreprises sur quatre déclarant la TVA avaient choisi leur plateforme ; les PME émettront leurs factures électroniques à partir du 1er septembre 2027 [dir. S16].
+- **Format, qui.** Huit semaines par société. Plateforme agréée ; nous relions ; l’expert-comptable valide.
+- **Commencer, mesurer.** La liste des sociétés et de leurs banques. Minutes par facture, avant et après ; écarts trouvés avant paiement.
+- **Règles, quand.** Relier une banque à un assistant lève le secret bancaire sur ce point (r1). Aucun conseil fiscal. 2027 ; émission au 1er septembre 2027.
+
+### Famille III — Le fil de l’invité : une seule maison pour qui vient
+
+**7. Le fil de l’invité** — *nouvelle*
+- **Ce que c’est.** Avec son accord, l’invité n’est connu qu’une fois pour toute la maison : galerie, suite, cabaret, espace bien-être.
+- **Il obtient.** La langue, l’œuvre aimée, la table, le créneau du sauna, connus de chacun. Après le séjour, une lettre signée de lui, avec le dossier de l’œuvre aimée.
+- **Avancé.** Aucun lieu trouvé ne réunit l’art, la nuit, le spectacle et le soin autour d’une galerie marchande (acc., § 1). Dans un groupe hôtelier américain, un seul message ouvre trois tâches [acc. S5, 6 novembre 2026]. 89 % de 3 250 voyageurs veulent un mélange d’IA et de service humain [acc. S2].
+- **Format, qui.** Douze semaines avant l’ouverture des suites. Logiciels des suites, de billetterie et de galerie du marché ; nous écrivons les règles et la liaison ; l’accueil garde la relation.
+- **Commencer, mesurer.** Les trois logiciels choisis. Part des invités qui consentent ; réservations d’un lieu à l’autre ; demandes nées dans les suites.
+- **Règles, quand.** Consentement et effacement ; préférences déclarées seulement, aucune donnée de santé. 2027.
+
+**8. Une seule voix pour toute la maison** — *prolonge les réponses préparées*
+- **Ce que c’est.** Un assistant écrit, puis vocal, qui répond pour tous ses lieux depuis une seule base, dit qu’il est une IA et passe la main.
+- **Il obtient.** Les questions de la nuit traitées au matin ; chaque appel manqué devenu une fiche de rappel.
+- **Avancé.** Dans treize hôtels d’une enseigne européenne, une voix IA a traité 5 487 appels en sept semaines, la moitié sans intervention humaine, en 22 langues, selon son éditeur [acc. S3]. Le 29 septembre 2026, 0,5 % des sites d’hôtels classés de Bourgogne-Franche-Comté proposaient un chat [acc. S10].
+- **Format, qui.** L’écrit en huit semaines, la voix ensuite. Éditeur du marché ; nous écrivons la base ; l’équipe relit.
+- **Commencer, mesurer.** Ses textes validés. Questions réglées sans relais ; appels rappelés.
+- **Règles, quand.** Article 50 du règlement européen ; une réponse fausse engage l’exploitant. Un éditeur déconseille la voix sous dix chambres (vu) : l’essayer avant de la promettre. 2027.
