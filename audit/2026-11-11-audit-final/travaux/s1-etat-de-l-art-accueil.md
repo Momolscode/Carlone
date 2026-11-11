@@ -104,7 +104,7 @@ Toutes consultées le 11 novembre 2026.
 - [S5] Hotel Management, 6 novembre 2026, lue — https://www.hotelmanagement.net/hospitality-show/hm-location-hotel-ai-delivers-unexpected-results
 - [S6] Google, FAQ « UCP for Lodging », non datée, lue — https://developers.google.com/hotels/ucp/faq
 - [S7] Vues : Lumina Frontier, 3 octobre 2026 — https://www.luminafrontier.ai/blog/hotel-mcp-direct-booking/ ; Conduit, non datée — https://www.conduit.ai/blog/direct-bookings-from-chatgpt-ai-agents ; hotelmatrix, non datée — https://www.hotelmatrix.io/insights/once-ai-discovers-your-hotel-can-it-book-it
-- [S8] HOTREC, 15 septembre 2026, lue — https://www.hotrec.eu/media/static/files/import/all_news_2026_2026_35/press-release_european-hotel-distribution-study-2026_hotrec.pdf
+- [S8] HOTREC, 15 septembre 2026, lue (première page ; la seconde, vue) — https://www.hotrec.eu/media/static/files/import/all_news_2026_2026_35/press-release_european-hotel-distribution-study-2026_hotrec.pdf
 - [S9] Vues : HOTREC, 30 octobre 2026 — https://www.hotrec.eu/en/news_over-18-000-european-hotels-to-pursue-landmark-collective-action-against-booking-holdings.html ; Hotelpost, 8 octobre 2026 — https://hotelpost.org/post/hotrec-booking-com-dma-changes-review
 - [S10] Revolution Agency, 29 septembre 2026, lue — https://revolutionagency.ai/fr/etudes/chat-sites-hotels
 - [S11] Prostay, 18 septembre 2026, lue — https://www.prostay.com/blog/hotel-dynamic-pricing-automation-2026/
