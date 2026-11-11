@@ -1,7 +1,7 @@
 # Portefeuille « State Of The Art » — La maison orchestrée
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Angle : tous ses lieux tournés comme une seule maison, par un orchestre d’agents d’IA au service de son administratrice et de lui. Faits tirés des dix notes s1 du 11 novembre 2026, avec leur niveau de preuve. Renvois : [dir. S7] = note « direction », source S7 ; acc., bât., gal., créa., ray., front., terr. = accueil, bâtiments, galerie, création, rayonnement, frontière, territoire. Neuf offres sur quinze sont nouvelles : absentes des pages déjà écrites pour lui.
+Angle : tous ses lieux tournés comme une seule maison, par un orchestre d’agents d’IA au service de son administratrice et de lui. Faits des dix notes s1 du 11 novembre 2026, avec leur niveau de preuve. Renvois : [dir. S7] = note « direction », source S7 ; acc., bât., gal., créa., ray., front., terr. = accueil, bâtiments, galerie, création, rayonnement, frontière, territoire. Neuf offres sur quinze sont nouvelles : absentes des pages déjà écrites pour lui.
 
 ## 1. Le concept : une maison, pas cinq affaires
 
@@ -18,7 +18,7 @@ Angle : tous ses lieux tournés comme une seule maison, par un orchestre d’age
 
 ## 2. Quinze offres, cinq familles
 
-Partout : outil du marché quand il existe, lecture seule d’abord, une personne valide, un prix écrit avant toute commande, « à faire valider par vos professionnels ».
+Partout : outil du marché, lecture seule d’abord, une personne valide, un prix écrit avant toute commande, « à faire valider par vos professionnels ».
 
 ### I. La partition : une seule maison
 
@@ -46,7 +46,7 @@ Partout : outil du marché quand il existe, lecture seule d’abord, une personn
 - **Ce que c’est.** Un assistant par lieu, un coordinateur ; votre administratrice les dirige depuis un seul écran. **Il obtient :** une seule file « à valider » pour les cinq lieux ; la page du matin ; une attestation datée de sa prise en main.
 - **Avancé.** Une équipe d’agents coordonnés a fait 90 % mieux qu’un agent seul, pour environ quinze fois plus de calcul, selon son éditeur [dir. S7, 13 juin 2025].
 - **Format, qui.** Essai de huit semaines sur une partition, puis lieu par lieu ; elle choisit ce que font les assistants. **Mesure :** délai entre réception et validation ; erreurs à l’échantillon.
-- **Règles.** Rien de payé, envoyé ou signé sans elle ; favoriser la maîtrise de l’IA (règlement européen, article 4). Direction à la voix vers 2030 (supposé).
+- **Règles.** Rien de payé, envoyé ou signé sans elle ; favoriser la maîtrise de l’IA (règlement européen, article 4).
 
 **5. Le travail de nuit** (*nouvelle*, 2027)
 - **Ce que c’est.** Les longues tâches confiées le soir, rendues au matin. **Il obtient :** les archives d’un bâtiment racheté triées ; les factures d’un chantier rapprochées des devis.
@@ -65,7 +65,7 @@ Partout : outil du marché quand il existe, lecture seule d’abord, une personn
 **7. Le fil de l’invité** (*nouvelle*, 2027)
 - **Ce que c’est.** Avec son accord, l’invité n’est connu qu’une fois pour toute la maison. **Il obtient :** sa langue, l’œuvre aimée, sa table, son créneau de sauna connus de chacun ; après le séjour, une lettre signée de lui.
 - **Avancé.** Aucun lieu trouvé ne réunit art, nuit, spectacle et soin autour d’une galerie marchande (acc., § 1). Dans un groupe hôtelier américain, un seul message ouvre trois tâches [acc. S5, 6 novembre 2026].
-- **Format, qui.** Douze semaines avant l’ouverture des suites ; logiciels du marché pour les suites, la billetterie, la galerie ; l’accueil garde la relation. **Mesure :** consentements ; réservations d’un lieu à l’autre.
+- **Format, qui.** Douze semaines avant l’ouverture ; trois logiciels du marché (suites, billetterie, galerie) ; l’accueil garde la relation. **Mesure :** consentements ; réservations d’un lieu à l’autre.
 - **Règles.** Consentement, effacement ; préférences déclarées seulement, aucune donnée de santé.
 
 **8. Une seule voix pour toute la maison** (*prolonge les réponses préparées*, 2027)
@@ -124,14 +124,14 @@ Partout : outil du marché quand il existe, lecture seule d’abord, une personn
 
 Ce qu’il verrait le jour de l’ouverture (date à fixer).
 
-1. **La nuit orchestrée** (offres 7, 8, 9). Une collectionneuse milanaise arrive. Accueil en italien. L’œuvre de sa suite lui raconte son histoire, dans les mots validés par l’artiste. Au cabaret, sa table l’attend. À minuit, la suite passe en scène « Nuit » ; au matin, son créneau de sauna et le dossier de l’œuvre aimée. Chacun a reçu sa conduite à 18 heures.
+1. **La nuit orchestrée** (offres 7, 8, 9). Une collectionneuse milanaise arrive. Accueil en italien. L’œuvre de sa suite lui raconte son histoire, validée par l’artiste. Au cabaret, sa table l’attend. À minuit, la suite passe en scène « Nuit » ; au matin, son créneau de sauna et le dossier de l’œuvre aimée. Chacun a reçu sa conduite à 18 heures.
 2. **Le pupitre** (1, 3, 4, 5, 6). Votre administratrice tient cinq lieux depuis un écran. La file de la nuit : factures rapprochées, écarts signalés, dernière analyse de l’eau du jacuzzi jointe. Elle valide, corrige, refuse.
 3. **Le cabinet du marchand** (2, 11). Chaque œuvre accrochée a son dossier vivant. Un collectionneur approche son téléphone du châssis : le certificat s’affiche. Le lot nommé la veille a son dossier à 7 heures.
 4. **La partition visible** (14). Dans le hall, la maison joue son propre rythme en lumière et en son. Aucun visage, rien d’enregistré.
 
 ## 4. Ce que l’on demande vendredi
 
-Le cadrage reste la première marche recommandée ; il n’est plus la seule chose proposée. On présente le programme comme une direction, et trois portes. Il en choisit une ; le cadrage se dessine vers elle.
+Le cadrage reste la première marche recommandée, plus la seule proposée. On présente le programme comme une direction, et trois portes. Il en choisit une ; le cadrage se dessine vers elle.
 
 - **Porte A, la maison :** cadrage, puis partition et pupitre (1, 3, 4).
 - **Porte B, le marchand :** cadrage, puis cabinet de nuit sur vingt œuvres (11, 2).
@@ -139,7 +139,7 @@ Le cadrage reste la première marche recommandée ; il n’est plus la seule cho
 
 **Sans attendre** (à faire entrer dans le cadrage ou à proposer à part : décision des deux associés) :
 - la laisse : comptes à son nom ; 84 % des professionnels de galerie utilisent l’IA, 8 % des galeries ont une règle écrite [gal. S4] ;
-- la liste des choix de câblage (scènes des suites, capteurs, réseau à part), à remettre à son architecte avant la fin des travaux ;
+- les choix de câblage (scènes, capteurs, réseau à part), à remettre à son architecte avant la fin des travaux ;
 - le calendrier des aides, car un devis signé vaut commencement : Région, jusqu’à 30 % des travaux de l’hôtellerie indépendante ; LEADER, jusqu’à 80 % (terr.) ;
 - la plateforme de réception des factures de chaque société.
 
@@ -152,20 +152,20 @@ Le cadrage reste la première marche recommandée ; il n’est plus la seule cho
 ## 5. Comment deux associés tiennent cela
 
 - **Ordre.** Début 2027 : cadrage, laisse, partitions, artiste choisi. Printemps : pupitre, comptes, cabinet, état zéro des murs. Avant les ouvertures : fil de l’invité, voix, soirée. 2028 : ambassadeur, simulateur.
-- **Partage proposé.** Morgan Olsen : conception, partitions, orchestre. Mathys Couet : exploitation, liaisons, logiciel de gestion de vos propriétés, mesure.
+- **Partage proposé.** Morgan Olsen conçoit et orchestre ; Mathys Couet exploite, relie et mesure.
 - **Partenaires à trouver, aucun approché.** Intégrateur sécurité et réseau ; intégrateur de scènes ; relevé 3D ; avocat ; expert-comptable ; conservateur-restaurateur ; artiste.
 - **S’achète :** assistants, logiciels des suites, billetterie, galerie, factures, voix, capteurs, certificats. **Se construit :** partitions, file « à valider », liaisons, mesures. Export ouvert exigé : un éditeur racheté change ses conditions [bât. B6].
-- **Calcul budgété** : une équipe d’agents consomme environ quinze fois plus [dir. S7] ; plafond mensuel.
+- **Calcul budgété.** Une équipe d’agents consomme environ quinze fois plus [dir. S7] ; plafond mensuel.
 - **Capacité.** Au-delà d’une porte à la fois : une troisième personne ou des sous-traitants. Pacte écrit avant tout investissement de sa part.
 
 ## 6. Effort interne (aucun prix de vente)
 
-Nos jours, estimés par le concepteur, à reprendre dans la grille interne.
+Nos jours estimés, pour la grille interne.
 
 | Offre | Mise en place | Suivi | Tiers |
 | --- | --- | --- | --- |
 | 1 | 8 à 12 | 1 par mois | avocat |
-| 2 | 10 à 15 | 1 par mois | abonnement ; option machine, 5 500 à 7 500 € HT (k13a) |
+| 2 | 10 à 15 | 1 par mois | abonnement ; option machine d’IA chez lui, 5 500 à 7 500 € HT (k13a) |
 | 3 | 4 à 6 | 1 par trimestre | spécialiste sécurité, 2 à 3 jours par trimestre |
 | 4 | 15 à 25 | 2 à 4 par mois | abonnements, calcul |
 | 5 | 4 à 8 par chantier | — | numérisation |

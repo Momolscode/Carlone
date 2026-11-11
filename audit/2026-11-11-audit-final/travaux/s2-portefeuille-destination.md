@@ -140,3 +140,49 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 - **La galerie qui parle toutes les langues** (3, 5, 6). Des murs sans cartels ; un visiteur japonais qui interroge une œuvre dans sa langue ; un collectionneur de New York qui a parcouru l’accrochage depuis un lien et le visite le soir avec lui ; la réserve ouverte sur rendez-vous.
 - **Solstice** (12, 7, 9). Décembre 2027, un mois avant l’ouverture de Bourges 2028 : les façades reliées par une œuvre de lumière, la revue d’hiver, le sauna ouvert la nuit, des suites et des maisons voisines pleines quand la Nièvre se vide.
 - **La salle des possibles** (13, 2). Des visiteurs qui essaient des lunettes qui sous-titrent et entrent dans l’exposition en monde 3D ; au mur, le film de la transformation des bâtiments, chaque image signée de son origine.
+
+## 4. Ce que l’on demande vendredi
+
+**Choisir des moments, pas des outils.** Une page montre le parcours du visiteur. Une question : « Quel moment voulez-vous que vos visiteurs racontent en rentrant chez eux ? » Il en entoure trois ; on lui montre les offres et le projet phare qui les servent.
+
+**Trois façons de commencer**, à valider par les deux associés :
+1. **Le cadrage tourné vers la destination** : même prix (6 500 € HT), même dossier ; ses trois priorités à 90 jours prises dans ses trois moments. Notre recommandation.
+2. **Le cadrage et un projet phare** choisi vendredi : le cadrage en pose les conditions ; la conception suit, avec un prix écrit avant toute commande.
+3. **Le cadrage et une commande qui n’attend pas**, prise dans la liste suivante.
+
+**Sans attendre**, parce qu’un calendrier l’impose : les scènes des suites et le son du cabaret, avant que les plans se figent ; le tournage du chantier dès le premier jour ; la page de vérité dès que le lieu a un nom ; le dossier de Bourges 2028. Garde-fou : les aides aux travaux se déposent avant tout devis signé (note « territoire »).
+
+**D’abord le cadrage :** ses données, son stock, ses collectionneurs (6, 11) ; le logiciel des suites (4) ; le cadre des séjours (10) ; le cabaret, tant qu’il n’est pas confirmé (8).
+
+**À lui demander :** la date d’ouverture ; le cabaret, oui ou non ; le nom du lieu ; s’il prête sa voix ; s’il montre son stock.
+
+## 5. Comment deux associés tiennent cela
+
+**Une base, treize usages.** Nous construisons une seule chose : la base des faits et des récits (œuvres, artistes, lieux, soirées), validée par lui ; elle nourrit le guide, l’assistant, la page de vérité, la carte, la lettre. S’y ajoutent les liens, les règles, la mesure. Le reste s’achète : logiciel des suites, billetterie, moteur de réservation, guide de visite, assistant écrit, lunettes, certificats, outil d’envoi.
+
+**L’ordre.** Les fondations pendant le cadrage (1, 2, la mesure) ; le jour pour l’ouverture de la galerie (3, 5, 6, 7) ; la nuit à l’ouverture des suites (4, 9, puis 10) ; le soir, une fois le cabaret confirmé (8) ; les saisons ensuite (11, 12, 13). Deux mises en place au plus à la fois.
+
+**Partenaires à trouver au premier trimestre 2027 :** artistes ; metteur en scène ; intégrateur son et lumière ; acousticien ; spécialiste de la capture 3D ; photographe et réalisateur ; avocat (droits, voix, séjours) ; agence de voyages immatriculée ; assureur d’œuvres.
+
+## 6. Estimation interne de l’effort
+
+Journées de travail pour nous ; tiers sur devis. Base d’une grille à décider par les deux associés.
+
+| Offre | Mise en place | Ensuite | Tiers |
+| --- | --- | --- | --- |
+| 1 | 6 à 8 | 0,5 par mois | aucun |
+| 2 | 5 à 7 | 2 par saison | photographe, réalisateur, graphiste |
+| 3 | 6 à 8 | 1 par accrochage | capture 3D (scanner portable : 500 à 3 000 € par jour, Messe Frankfurt, 22 mai 2026) |
+| 4 | 12 à 16 | 1 par mois | abonnements |
+| 5 | 12 à 15 | 2 par exposition | studio, outil de guide, voix payées |
+| 6 | 10 à 14 | 1 par mois | scénographe, vitrines, assureur |
+| 7 | 8 à 10 | 1 par étape | avocat, transport, assurance |
+| 8 | 10 à 14 | 6 à 8 par saison | metteur en scène, artistes, régisseur, lunettes : le poste le plus lourd |
+| 9 | 10 à 12 | 1 par saison | intégrateur, électricien, artiste |
+| 10 | 8 à 10 | 1 par mois | avocat ; immatriculation ou agence |
+| 11 | 8 à 10 | 1 par trimestre | certificats, outil d’envoi |
+| 12 | 25 à 33 | 20 à 25 par an | artistes, lumière, sécurité |
+| 13 | 8 à 10 | 1 par trimestre | location (lunettes à écran : 899 € en France, Selectra, 26 septembre 2026) |
+| Mesure | 4 à 6 | 0,5 par mois | aucun |
+
+**Total :** 132 à 173 jours de mise en place, soit une année d’un associé ; en régime, 9 à 12 jours par mois. Le portefeuille se tient sur 2027 et 2028, pas en six mois.
