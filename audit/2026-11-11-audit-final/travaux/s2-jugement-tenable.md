@@ -5,7 +5,7 @@ Regard : directeur de projet et juriste. Sources : les six portefeuilles s2, lus
 
 ## 1. Le constat
 
-Quatre-vingts offres. Leurs mises en place, additionnées, pèsent 800 à 1 050 jours. Deux associés, une société en création : en 2027, cent cinquante jours pour lui seraient déjà beaucoup.
+Quatre-vingts offres : 800 à 1 050 jours de mise en place, additionnés. Deux associés, une société en création : en 2027, cent cinquante jours pour lui seraient déjà beaucoup.
 
 Les idées se recoupent : le certificat à puce, l’œuvre dans les suites, Bourges 2028 reviennent chacune quatre fois. Il faut fusionner, pas additionner. L’ambition tient à trois conditions : un ordre écrit, l’achat plutôt que la construction, un partenaire pour chaque métier que nous n’exerçons pas.
 
@@ -16,7 +16,7 @@ Les idées se recoupent : le certificat à puce, l’œuvre dans les suites, Bou
 | Collectionneur | 16 | Part de son métier. Droit précis : décret de 1981, blanchiment, RGPD. Effort lucide. | Oublie presque son administratrice. Machine locale à exploiter. Catalogue raisonné très loin. |
 | Maison orchestrée | 15 | Sa demande littérale. Sécurité sérieuse. Factures électroniques. | Cinq lieux orchestrés avant d’exister. Coût du calcul. Monopole de l’expert-comptable non dit. |
 | Destination | 15 | Le parcours du visiteur. « Une base, treize usages » : la meilleure architecture. | Suspendue au cabaret. Solstice trop lourd. Affichage des prix oublié. |
-| Revenus | 14 | D’où vient chaque recette. Aides avant devis. Garde-fou de dépendance. | Frôle le conseil fiscal. Rétractation oubliée. Un CRM « déjà construit » à confirmer entre associés. |
+| Revenus | 14 | D’où vient chaque recette. Aides avant devis. Garde-fou de dépendance. | Frôle le conseil fiscal. Rétractation oubliée. Un CRM « déjà construit » à confirmer. |
 | Création | 13 | Le plus « jamais vu ». La preuve de la main. Échec public nommé. | Ni producteurs ni artistes. Robots près du public. Biennale. 155 à 211 jours. |
 | Territoire | 11 | Généreux. Réduit notre dépendance. Droit de la concurrence vu. | Loin de sa demande. « Nos bureaux » dans un lieu qu’il financerait. École sans organisme déclaré. Mécénat fragile. |
 
@@ -24,7 +24,7 @@ Les idées se recoupent : le certificat à puce, l’œuvre dans les suites, Bou
 
 Fusionnées, dans l’ordre de livraison. Le contrat prévoit une suite à la fois : la file se déroule. Ensemble, 260 à 340 jours de mise en place : deux années.
 
-**Sans attendre, pendant ou à côté du cadrage**
+**Sans attendre, avec le cadrage**
 
 | Offre | Origine | Pourquoi | Retouche |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Fusionnées, dans l’ordre de livraison. Le contrat prévoit une suite à la fo
 | 3. La règle de la maison | Collectionneur 4, Maison 3 | Comptes à son nom, journal, arrêt. | Y joindre le pass IA de l’équipe (Territoire 7). |
 | 4. Le cabinet des œuvres | Collectionneur 1 | La base de tout. | Registre des objets mobiliers et champs de vigilance dès le début. |
 
-**2027 : un essai à la fois, sur ses données**
+**2027 : un essai à la fois**
 
 | Offre | Origine | Pourquoi | Retouche |
 | --- | --- | --- | --- |
@@ -72,26 +72,26 @@ Fusionnées, dans l’ordre de livraison. Le contrat prévoit une suite à la fo
 
 - **Les robots qui dessinent les invités assis** (Création 11). Public au contact de la machine, hors de la norme ; droit à l’image. La toile de minuit derrière une vitre reste possible en 2028, avec un intégrateur.
 - **L’enchère qui peint.** Réservée à un opérateur de ventes volontaires.
-- **Biennale, Solstice, Rencontres en 2027.** De 25 à 35 jours chacun, sécurité, licences. Un seul rendez-vous, dès 2028, porté par un producteur.
+- **Biennale, Solstice, Rencontres en 2027.** 25 à 35 jours chacun, sécurité, licences. Un seul rendez-vous dès 2028, porté par un producteur.
 - **Le tiers-lieu et « nos bureaux ».** Conflit d’intérêts. Bureaux et investissement se traitent à part, avec un avocat.
 - **L’école ouverte au territoire, les classes par une association, le consortium européen.** Organisme déclaré requis, mécénat fragile, taille hors de portée.
-- **Le conseil de la maison, l’ambassadeur, la salle des possibles avec robot.** Un horizon, pas une offre.
-- **Le catalogue raisonné, les collections d’autrui.** Des années, un historien, un risque de litige sur les attributions. En réserve.
-- **Les séjours vendus ensemble, partout.** Une seule formule, vendue par une agence immatriculée, ou par lui s’il s’immatricule.
+- **Le conseil de la maison, l’ambassadeur, la salle des possibles avec robot.** Horizon, pas offre.
+- **Le catalogue raisonné, les collections d’autrui.** Des années, un historien, des litiges d’attribution. En réserve.
+- **Les séjours vendus ensemble.** Une seule formule, vendue par une agence immatriculée ou par lui, immatriculé.
 
 ## 5. Ce qu’il faudrait oser
 
-- **Le lot numérique des travaux.** Être son assistant à maîtrise d’ouvrage pour le réseau, les scènes, les serrures, le son et les capteurs de tous ses bâtiments. Notre métier exact, et le chantier presse. Assurance professionnelle vérifiée avant de signer.
+- **Le lot numérique des travaux.** Assister sa maîtrise d’ouvrage : réseau, scènes, serrures, son, capteurs de tous ses bâtiments. Notre métier ; le chantier presse. Assurance professionnelle vérifiée avant de signer.
 - **Le tableau des autorisations d’ouverture.** Déclaration d’entrepreneur de spectacles, licence de boissons et permis d’exploitation, commission de sécurité, déclaration du jacuzzi, taxe de séjour. Préparé par l’IA, tenu par son administratrice, validé par ses professionnels.
-- **La galerie accessible.** Description audio de chaque œuvre, sous-titres, langage simple. L’obligation d’accessibilité des services en ligne dépend de la taille de ses sociétés : à vérifier.
-- **La répétition générale.** Avant chaque ouverture, des invités fictifs traversent la maison pour éprouver les outils, sans une donnée réelle.
+- **La galerie accessible.** Description audio de chaque œuvre, sous-titres, langage simple. Obligation d’accessibilité en ligne selon la taille de ses sociétés : à vérifier.
+- **La répétition générale.** Avant chaque ouverture, des invités fictifs éprouvent les outils, sans aucune donnée réelle.
 
 ## 6. Vendredi : la présentation retenue
 
-La question de la destination, la carte du collectionneur. Une page : son parcours (avant, le jour, le soir, la nuit, après) et, dessous, la maison ; les vingt-quatre offres posées dessus. Une question : « Quel moment voulez-vous que l’on raconte en rentrant chez soi ? » Il en entoure trois.
+La question de la destination, la carte du collectionneur. Une page : son parcours (avant, le jour, le soir, la nuit, après), la maison dessous, les vingt-quatre offres posées dessus. Une question : « Quel moment voulez-vous que l’on raconte en rentrant chez soi ? » Il en entoure trois.
 
-Puis le calendrier : ce qui n’attend pas (offres 1 à 4) ; le cadrage, 6 500 € HT, qui fait de ses trois moments trois priorités à 90 jours ; les marches suivantes, une à la fois. Il garde la carte, à cocher : « j’en ai envie », « plus tard », « pas pour moi ». Deux associés sans référence convainquent par l’ordre, pas par le nombre.
+Puis le calendrier : ce qui n’attend pas (offres 1 à 4) ; le cadrage, 6 500 € HT, qui fait de ces moments trois priorités à 90 jours ; ensuite, une marche à la fois. Il garde la carte, à cocher : « j’en ai envie », « plus tard », « pas pour moi ». Deux associés sans référence convainquent par l’ordre, pas par le nombre.
 
 ## 7. À trancher entre associés
 
-Dans la feuille de décisions : deux chantiers à la fois au plus, dont un seul sur ses données ? La part de notre temps qui lui revient en 2027. Les trois partenaires à trouver d’abord : un avocat (marché de l’art, données), une agence de voyages immatriculée, un intégrateur. L’accord de Mathys Couet sur la décision du 11 novembre.
+Dans la feuille de décisions : deux chantiers à la fois au plus, dont un seul sur ses données ? Notre temps pour lui en 2027. Trois partenaires à trouver d’abord : un avocat (marché de l’art, données), une agence de voyages immatriculée, un intégrateur. L’accord de Mathys Couet sur la décision du 11 novembre.
