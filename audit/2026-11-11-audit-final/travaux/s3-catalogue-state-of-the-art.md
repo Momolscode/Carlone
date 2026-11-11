@@ -120,7 +120,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **9. Le réel signé**
 - **Une phrase.** Une promesse de maison : chaque image que vous montrez est vraie, et le prouve.
-- **Vous obtenez.** Une charte d’image ; photos et films qui portent leur origine ; le chantier filmé dès le premier jour ; un film par saison ; deux fois l’an, la revue imprimée de la maison, en deux langues.
+- **Vous obtenez.** Une charte d’image ; photos et films qui portent leur origine ; le chantier filmé dès le premier jour ; un film par saison ; la revue imprimée de la maison, deux fois l’an.
 - **Avancé.** Selon une étude de juin 2025, une image générée et signalée rend une publicité de luxe moins authentique aux yeux du public (Journal of Advertising Research [ray.]).
 - **Format.** La charte en un mois, un tournage par saison.
 - **Qui.** Nous : charte, marquage, calendrier. Photographe, réalisateur, graphiste. Vous validez chaque publication.
@@ -249,7 +249,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Une phrase.** Un assistant par lieu, un seul écran : votre administratrice dirige ; vous recevez une page chaque matin.
 - **Vous obtenez.** Les tâches qui reviennent, écrites comme des partitions ; une seule file « à valider » ; les longues tâches du soir rendues au matin ; les factures rapprochées des devis et des paiements ; une mémoire qui répond, page source à l’appui.
 - **Avancé.** Une boutique tenue par un agent d’IA est passée des pertes à des semaines presque toutes bénéficiaires une fois dotée d’outils et de procédures ; son éditeur la juge encore vulnérable (Anthropic, 18 décembre 2025 [dir. S8]).
-- **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu, société par société.
+- **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu.
 - **Qui.** Nous : partitions, réglages, mesure, sur des outils du marché. Votre administratrice, aidée, jamais remplacée, choisit et valide ; votre expert-comptable tient les comptes.
 - **Départ.** L’inventaire du cadrage.
 - **Mesure.** Délai entre réception et validation ; minutes par facture ; erreurs à l’échantillon : la tâche, jamais la personne.
@@ -350,7 +350,7 @@ Le cadrage reste la première marche recommandée : trois à quatre semaines, 6 
 
 La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 ; une mesure du passé, pas une prévision.
 
-- **2027. Ce qui ouvre :** le cadrage en janvier ; la règle de la maison, le cabinet des œuvres, le pupitre, les salles des fondateurs ; la galerie, son exposition, l’œuvre du seuil ; les suites et le cabaret si leurs dates le permettent. **L’IA :** des tâches de logiciel de seize heures d’expert réussies une fois sur deux (mesuré) ; la voix traduite en français dans une réunion (disponible) ; un monde 3D tiré d’une image (disponible). **Les règles :** machines au 20 janvier ; vigilance contre le blanchiment au 10 juillet ; factures émises par les PME au 1er septembre.
+- **2027. Ce qui ouvre :** le cadrage en janvier ; la règle de la maison, le cabinet des œuvres, le pupitre, les salles des fondateurs ; la galerie, son exposition, l’œuvre du seuil ; les suites et le cabaret si leurs dates le permettent. **L’IA :** des tâches de logiciel d’au moins seize heures d’expert, réussies une fois sur deux (mesuré) ; la voix traduite en français dans une réunion (disponible) ; un monde 3D tiré d’une image (disponible). **Les règles :** machines au 20 janvier ; vigilance contre le blanchiment au 10 juillet ; factures émises par les PME au 1er septembre.
 - **2028. Ce qui ouvre :** la résidence, la main d’ici, l’œil appris, l’ambassadeur, la toile de minuit ; Bourges 2028, ouverture annoncée les 22 et 23 janvier ; Solstice en décembre ; le laboratoire. **L’IA :** des tâches de plusieurs jours si le rythme se maintient (supposé) ; un programmeur automatisé, situé par deux prévisionnistes entre fin 2027 et début 2030 (prévision très incertaine). **Les règles :** déduction des achats d’œuvres par les entreprises jusqu’au 31 décembre 2028.
 - **2030. Ce qui ouvre :** le passeport transmis à chaque revente ; des salles que lisent les assistants des collectionneurs ; des mondes où l’on parle ; le carnet des murs interrogé en langage courant. En réserve, si vous le demandez : un catalogue raisonné, l’inventaire des collections de vos clients. **L’IA :** selon Epoch AI, une IA qui écrit seule du logiciel bien défini, 10 à 20 % gagnés par tâche, un déploiement en retard (prévision, 2025) ; un humanoïde utile près du public, pas avant (supposé ; aucune livraison domestique vérifiée à la mi-octobre 2026).
 
@@ -433,8 +433,8 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 
 Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 
-1. Seize heures d’expert en logiciel, réussies une fois sur deux (METR, 8 septembre 2026 ; § 5).
-2. De 2,5 % à 41,3 % de missions réelles jugées acceptables en un an (Scale AI, novembre 2026 ; offre 26).
+1. Des tâches de logiciel d’au moins seize heures d’expert, réussies une fois sur deux (METR, 8 septembre 2026 ; § 5).
+2. De 2,5 % fin 2025 à 41,3 % en novembre 2026 de missions réelles jugées acceptables (Scale AI ; offre 26).
 3. La voix traduite qui imite le ton (Google Meet, 4 février 2026 ; offre 7).
 4. Des mondes explorables où l’on parle (Google DeepMind, 27 octobre 2026 ; offre 10).
 5. Des objets capturés en 3D, manipulés sur un téléphone (LACMA, jusqu’au 20 décembre 2026 ; offre 10).
@@ -444,7 +444,7 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 9. Une création avec l’IA protégeable si la direction humaine se prouve (ministère de la Culture, 16 juillet 2026 ; offre 8).
 10. Des lunettes de surtitres, 223 langues annoncées (Audinate, 29 mai 2025 ; offre 17).
 11. Plus de 16 000 œuvres et objets à The Fife Arms, hôtel de galeristes (page officielle ; offre 16).
-12. Un cabaret de village avec hôtel et spa au 28 août 2026 (Kirrwiller, page officielle ; offre 18).
+12. Un cabaret de village qui annonce hôtel et spa au 28 août 2026 (Kirrwiller, page officielle ; offre 18).
 13. 306 601 nuitées pour un festival d’hiver (Pulse Tasmania, 22 septembre 2026 ; offre 19).
 14. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 (bourges2028.org, 16 décembre 2025 ; offre 19).
 15. Une chambre réservée dans le mode IA de Google (PPC Land, 28 août 2026 ; offre 24).
@@ -458,7 +458,7 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 
 **(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
 
-**(c) Les diapositives.** Environ quatre minutes de plus, à arbitrer (V14). `offres` (23) garde ses quatre niveaux. Anciens noms : chef d’orchestre et copilote 20, galerie sans murs 1 et 7, séjours signature 16 et 18, cabaret augmenté 17, rayonnement 24, bouclier et pass IA 5, résidence et laboratoire 13, bâtiments qui préviennent 21, réseau de vos partenaires 14 et 26.
+**(c) Les diapositives.** Environ quatre minutes de plus. `offres` (23) garde ses quatre niveaux. Anciens noms : chef d’orchestre et copilote 20, galerie sans murs 1 et 7, séjours signature 16 et 18, cabaret augmenté 17, rayonnement 24, bouclier et pass IA 5, résidence et laboratoire 13, bâtiments qui préviennent 21, réseau de vos partenaires 14 et 26.
 
 | Id, place | Titre | À l’écran | L’orateur dit |
 | --- | --- | --- | --- |
