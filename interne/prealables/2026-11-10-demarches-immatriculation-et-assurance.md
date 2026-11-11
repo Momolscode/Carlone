@@ -44,7 +44,7 @@ Une date d’immatriculation ; une attestation d’assurance ; une attestation d
 
 À arrêter (audit du 11 novembre 2026) : le projet de bon de commande écrit pourtant, à la condition 1, que Marwin Tech remet son attestation de vigilance « dès qu’elle est délivrée ». Ce n’est pas une date, mais c’est un engagement, alors que la démarche et le délai restent inconnus (En bref, point 5). Garder cette formule, ou la retirer du bon : à décider avec l’expert-comptable (`audit/2026-11-11-audit-final/travaux/a1-continuite-avec-les-audits.md`, constat sur l’attestation de vigilance).
 
-Corrigé le 11 novembre 2026 : depuis, le projet de bon de commande (condition 1) et la proposition version client (« Prochaines étapes », point 3) ne promettent plus l’attestation ; ils portent, entre crochets, « [Attestation de vigilance : à arrêter avec l’expert-comptable.] ». Reste à décider avec lui : la promettre, à quelle date, ou n’en rien dire.
+Corrigé le 11 novembre 2026 : depuis, le projet de bon de commande (condition 1) et la proposition version client (« Prochaines étapes », point 3) ne promettent plus l’attestation ; ils portent, entre crochets, « attestation de vigilance : à arrêter avec l’expert-comptable ». Reste à décider avec lui : la promettre, à quelle date, ou n’en rien dire.
 
 ## 4. Inconnus à lever
 

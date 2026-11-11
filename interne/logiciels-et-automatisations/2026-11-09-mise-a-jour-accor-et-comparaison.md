@@ -11,6 +11,8 @@ Codes : [FV] fait vérifié sur une source primaire ; [PR] presse ou source seco
 
 Rédaction en cours
 
+[Mention du 11 novembre 2026 : note restée inachevée ; remplacée par `interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`.]
+
 ---
 
 ## 1. Ce qui est établi, ce qui est rapporté, ce qui reste inconnu

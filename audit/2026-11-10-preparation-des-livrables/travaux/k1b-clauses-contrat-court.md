@@ -303,7 +303,7 @@ Relecture sceptique. Document interne — ne pas transmettre à GianLuca Carlone
 1. L’article L441-10 du Code de commerce est désormais lu : l’indemnité de 40 € est due par « tout professionnel » en retard ; la fiche F23211 la limite aux actes de commerce (k1a, ligne 302). La divergence va à l’avocat.
 2. Médiateur des entreprises : une médiation dure « de quelques heures à 2 ou 3 mois maximum » ; il intervient dans des relations d’affaires régulières, en général pour des litiges de plus de 1 500 €. « Contrat de droit privé » n’a pas été relu.
 3. Rétractation : le critère légal est le contrat « hors établissement », pas « hors de nos locaux ».
-4. L’article L221-10 interdit de recevoir un paiement avant sept jours ; il n’interdit pas de démarrer. Le démarrage avant le quinzième jour suit l’article L221-25.
+4. L’article L221-10 interdit de recevoir un paiement avant sept jours ; il n’interdit pas de démarrer. Le démarrage avant le quinzième jour suit l’article L221-25. [Mention du 11 novembre 2026 : voir la mention datée sous la correction 4.]
 5. Le projet de bon de commande cède les droits sans les nommer un par un, sans lieu ni durée. La note (partie 1) demande l’inverse (CPI, art. L131-3).
 6. Le projet de bon de commande écrit « aucun paiement n’est demandé » ; l’article L221-10 vise aussi le paiement reçu.
 

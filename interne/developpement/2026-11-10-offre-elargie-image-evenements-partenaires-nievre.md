@@ -1,6 +1,6 @@
 # Offre élargie : image en ligne, événements, partenaires, Nièvre
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour et corrigé le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
 Demande de Morgan Olsen (10 novembre, nuit) : ajouter à l’offre générale la gestion de l’identité en ligne de GianLuca Carlone et de ses événements, l’IA chez ses collaborateurs qui accepteraient nos offres, la signature visuelle, les sites web et vitrines de ses collaborateurs, « emmener l’IA dans la Nièvre », automatisations, audits, conseil, nouvelles façons de travailler.
 
@@ -13,7 +13,7 @@ Demande de Morgan Olsen (10 novembre, nuit) : ajouter à l’offre générale la
    - Depuis le 2 août 2026, transparence sur les contenus générés par IA (règlement européen sur l’IA, article 50 ; non reporté par l’« omnibus », sauf le marquage lisible par machine des systèmes déjà sur le marché, jusqu’au 2 décembre 2026 d’après des cabinets ; à vérifier au Journal officiel).
    - Droit à l’image des artistes, invités et clients filmés ou photographiés.
    - Pour les sites : mentions légales, cookies selon la CNIL, accessibilité selon la taille de l’entreprise. À faire valider par un avocat.
-5. **Écosystème local.** La CCI Nièvre propose un programme « Impulse IA » : diagnostics individuels et formations à l’IA générative pour les TPE et PME du département, d’après un article d’info.fr de 2026 ; la page de la CCI Nièvre elle-même (3 avril 2026) a été lue le 10 novembre par la note k7 (`audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de-cadrage.md`, § 1.2 ; cette note n’a pas de partie « Vérification »). En région, l’ARNIA (agence régionale du numérique et de l’IA) accompagne de la sensibilisation aux preuves de concept (catalogue « ambassadeurs IA » de la DREETS Bourgogne-Franche-Comté). Nous nous positionnons en complément, pas en concurrence : orienter vers ces dispositifs quand ils conviennent.
+5. **Écosystème local.** La CCI Nièvre propose un programme « Impulse IA » : diagnostics individuels et formations à l’IA générative pour les TPE et PME du département, d’après un article d’info.fr de 2026 ; la page de la CCI Nièvre elle-même (3 avril 2026) a été lue le 10 novembre par la note k7 (`audit/2026-11-10-preparation-des-livrables/travaux/k7-methode-de-cadrage.md`, § 1.2 ; cette note n’a de partie « Vérification » que depuis le 11 novembre 2026, limitée aux chiffres repris dans la fiche 12 : la page de la CCI n’y est pas relue). En région, l’ARNIA (agence régionale du numérique et de l’IA) accompagne de la sensibilisation aux preuves de concept (catalogue « ambassadeurs IA » de la DREETS Bourgogne-Franche-Comté). Nous nous positionnons en complément, pas en concurrence : orienter vers ces dispositifs quand ils conviennent.
 
 ## 1. Les services, la chaîne et les conditions
 

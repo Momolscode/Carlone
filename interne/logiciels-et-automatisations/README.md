@@ -58,3 +58,5 @@ R1 à R3 gardent leur propre découpe en modules ; une note ajoutée à la fin d
 - Le client s'appelle **GianLuca Carlone**.
 
 Relu et contrôlé : 9 novembre 2026 — chemins relatifs à la racine du dépôt ; prénom du client vérifié ; chiffres repris de l'étude après mise en cohérence.
+
+[Mention du 11 novembre 2026 : quatre notes du 10 novembre complètent ce dossier : choisir un logiciel hôtelier (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md`) ; connexion aux sites de réservation (`…/2026-11-10-connexion-airbnb-booking-et-autres-sites.md`) ; construire nous-mêmes (`…/2026-11-10-construire-nous-memes-le-logiciel-des-suites.md`) ; questions sur l’autre proposition (`…/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md`). Pour les neuf suites, elles l’emportent sur l’étude.]
