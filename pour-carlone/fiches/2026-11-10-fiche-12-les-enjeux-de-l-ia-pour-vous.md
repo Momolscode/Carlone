@@ -2,11 +2,11 @@
 
 Fiche 12 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
-**En bref.** L’IA n’est plus une curiosité : elle change la façon dont vos clients vous trouvent et dont vos équipes travaillent, et 40 % des TPE et PME déclarent déjà utiliser au moins un outil d’IA (partie 1). Elle apporte des occasions réelles et des risques réels. L’enjeu n’est pas d’y aller ou non, mais d’y aller bien : vite sur ce qui rapporte, prudemment sur ce qui engage.
+**En bref.** L’IA n’est plus une curiosité : elle change la façon dont on vous trouve et dont vos équipes travaillent, et 40 % des TPE et PME déclarent déjà utiliser au moins un outil d’IA (partie 1). Elle apporte des occasions réelles et des risques réels. L’enjeu n’est pas d’y aller ou non, mais d’y aller bien : vite sur ce qui rapporte, prudemment sur ce qui engage.
 
 ## 1. Ce qui est en train de changer autour de vous
 
-- **Vos clients cherchent autrement.** En 2026, les moteurs de recherche affichent des réponses rédigées par l’IA, et beaucoup de gens interrogent directement un assistant. Être cité dans ces réponses compte désormais, en plus d’être bien classé.
+- **La recherche change.** En 2026, les moteurs de recherche affichent des réponses rédigées par l’IA, et beaucoup de gens interrogent directement un assistant. Être cité dans ces réponses compte désormais, en plus d’être bien classé.
 - **Les entreprises s’y mettent.** Selon le baromètre France Num 2026 (Direction générale des entreprises et Crédoc, septembre 2026), 40 % des TPE et PME déclarent utiliser au moins un outil d’IA, contre 26 % en 2025.
 - **Les outils font plus.** Ils préparent un dossier entier, lisent vos documents, travaillent en de nombreuses langues, et attendent la validation d’une personne. Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 (METR, janvier 2026) : une mesure du passé, pas une prévision. Une personne relit toujours.
 - **La loi s’installe.** Le règlement européen sur l’IA s’applique par étapes : favoriser la maîtrise de l’IA par les personnes qui utilisent ces outils (depuis le 2 février 2025 ; sans niveau imposé depuis sa modification du 8 juillet 2026), signaler certains contenus générés par l’IA (depuis le 2 août 2026). La réception des factures électroniques est obligatoire pour toute entreprise soumise à la TVA depuis le 1er septembre 2026.
