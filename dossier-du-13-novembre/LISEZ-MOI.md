@@ -68,7 +68,7 @@ Tout ce dont Morgan Olsen et Mathys Couet ont besoin avant, pendant et après le
 
 ## `2-pour-gianluca-carlone-projets.pdf` — Pour GianLuca Carlone — projets de documents
 
-Tous les documents que GianLuca Carlone pourrait voir, dans l’ordre de lecture. 80 pages.
+Tous les documents que GianLuca Carlone pourrait voir, dans l’ordre de lecture. 81 pages.
 
 Ce dossier relié sert à relire, et à imprimer une pièce à la fois. Il ne se remet pas tel quel : rien n’est laissé ni envoyé avant les décisions V1 à V5 de la feuille de décisions.
 
@@ -77,43 +77,43 @@ Ce dossier relié sert à relire, et à imprimer une pièce à la fois. Il ne se
 | | **1. L’offre** | | | | |
 | 1 | Votre premier pas : l’offre en une page | 3 | 1 | `pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md` | `a-imprimer/09-votre-premier-pas-l-offre-en-une-page.pdf` |
 | 2 | Une page pour votre administratrice | 4 | 1 | `pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md` | `a-imprimer/10-une-page-pour-votre-administratrice.pdf` |
-| 3 | Proposition de cadrage | 5 | 6 | `pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md` |  |
-| 4 | Projet de bon de commande et conditions | 11 | 3 | `pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md` |  |
-| 5 | Tableau « qui valide quoi » | 14 | 1 | `pour-carlone/offre-cadrage/2026-11-11-tableau-qui-valide-quoi.md` |  |
-| 6 | Votre droit de rétractation : information et formulaire (projet conditionnel) | 15 | 1 | `pour-carlone/offre-cadrage/2026-11-11-projet-de-formulaire-de-retractation.md` |  |
-| 7 | Projet d’accord sur les données | 16 | 3 | `pour-carlone/offre-cadrage/2026-11-11-projet-d-accord-sur-les-donnees.md` |  |
+| 3 | Proposition de cadrage | 5 | 7 | `pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md` |  |
+| 4 | Projet de bon de commande et conditions | 12 | 3 | `pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md` |  |
+| 5 | Tableau « qui valide quoi » | 15 | 1 | `pour-carlone/offre-cadrage/2026-11-11-tableau-qui-valide-quoi.md` |  |
+| 6 | Votre droit de rétractation : information et formulaire (projet conditionnel) | 16 | 1 | `pour-carlone/offre-cadrage/2026-11-11-projet-de-formulaire-de-retractation.md` |  |
+| 7 | Projet d’accord sur les données | 17 | 3 | `pour-carlone/offre-cadrage/2026-11-11-projet-d-accord-sur-les-donnees.md` |  |
 | | **2. State Of The Art : le programme et les offres** | | | | |
-| 8 | State Of The Art : le programme | 19 | 2 | `pour-carlone/developpement/2026-11-11-state-of-the-art-le-programme.md` |  |
-| 9 | State Of The Art : le catalogue des offres | 21 | 14 | `pour-carlone/developpement/2026-11-11-catalogue-des-offres-state-of-the-art.md` |  |
-| 10 | Votre intérêt à travailler avec nous | 35 | 1 | `pour-carlone/developpement/2026-11-10-votre-interet-a-travailler-avec-nous.md` |  |
-| 11 | Nos offres : de la première marche aux grands projets | 36 | 1 | `pour-carlone/developpement/2026-11-10-nos-offres-de-la-premiere-marche-aux-grands-projets.md` |  |
-| 12 | Une ambition pour votre établissement : 2027, 2028, 2030 | 37 | 1 | `pour-carlone/developpement/2026-11-10-une-ambition-pour-votre-etablissement.md` |  |
-| 13 | Une idée concrète pour chacun de vos projets | 38 | 2 | `pour-carlone/developpement/2026-11-10-une-idee-pour-chacun-de-vos-projets.md` |  |
-| 14 | Après le cadrage : ce que nous pourrions prendre en charge | 40 | 1 | `pour-carlone/developpement/2026-11-10-ce-que-nous-pourrions-faire-ensuite.md` |  |
-| 15 | Votre présence en ligne : bien plus qu’un site | 41 | 1 | `pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md` |  |
-| 16 | Ce que des moyens supplémentaires nous permettraient d’accomplir | 42 | 1 | `pour-carlone/developpement/2026-11-10-ce-que-des-moyens-supplementaires-permettraient.md` |  |
-| 17 | Annexe : comparaisons et calculs | 43 | 4 | `pour-carlone/developpement/2026-11-10-annexe-comparaisons-et-calculs.md` |  |
+| 8 | State Of The Art : le programme | 20 | 2 | `pour-carlone/developpement/2026-11-11-state-of-the-art-le-programme.md` |  |
+| 9 | State Of The Art : le catalogue des offres | 22 | 14 | `pour-carlone/developpement/2026-11-11-catalogue-des-offres-state-of-the-art.md` |  |
+| 10 | Votre intérêt à travailler avec nous | 36 | 1 | `pour-carlone/developpement/2026-11-10-votre-interet-a-travailler-avec-nous.md` |  |
+| 11 | Nos offres : de la première marche aux grands projets | 37 | 1 | `pour-carlone/developpement/2026-11-10-nos-offres-de-la-premiere-marche-aux-grands-projets.md` |  |
+| 12 | Une ambition pour votre établissement : 2027, 2028, 2030 | 38 | 1 | `pour-carlone/developpement/2026-11-10-une-ambition-pour-votre-etablissement.md` |  |
+| 13 | Une idée concrète pour chacun de vos projets | 39 | 2 | `pour-carlone/developpement/2026-11-10-une-idee-pour-chacun-de-vos-projets.md` |  |
+| 14 | Après le cadrage : ce que nous pourrions prendre en charge | 41 | 1 | `pour-carlone/developpement/2026-11-10-ce-que-nous-pourrions-faire-ensuite.md` |  |
+| 15 | Votre présence en ligne : bien plus qu’un site | 42 | 1 | `pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md` |  |
+| 16 | Ce que des moyens supplémentaires nous permettraient d’accomplir | 43 | 1 | `pour-carlone/developpement/2026-11-10-ce-que-des-moyens-supplementaires-permettraient.md` |  |
+| 17 | Annexe : comparaisons et calculs | 44 | 4 | `pour-carlone/developpement/2026-11-10-annexe-comparaisons-et-calculs.md` |  |
 | | **3. Les douze fiches** | | | | |
-| 18 | Fiche 1 — Votre galerie et votre métier de marchand d’art | 47 | 2 | `pour-carlone/fiches/2026-11-10-fiche-01-la-galerie-et-le-marche-de-l-art.md` |  |
-| 19 | Fiche 2 — Vos neuf suites et l’espace bien-être | 49 | 2 | `pour-carlone/fiches/2026-11-10-fiche-02-vos-neuf-suites-et-l-espace-bien-etre.md` |  |
-| 20 | Fiche 3 — Votre cabaret-spectacle | 51 | 2 | `pour-carlone/fiches/2026-11-10-fiche-03-le-cabaret-spectacle.md` |  |
-| 21 | Fiche 4 — Vos bâtiments et vos commerces | 53 | 2 | `pour-carlone/fiches/2026-11-10-fiche-04-vos-batiments-et-vos-commerces.md` |  |
-| 22 | Fiche 5 — Votre administratrice | 55 | 2 | `pour-carlone/fiches/2026-11-10-fiche-05-votre-administratrice.md` |  |
-| 23 | Fiche 6 — Votre présence en ligne | 57 | 2 | `pour-carlone/fiches/2026-11-10-fiche-06-votre-presence-en-ligne.md` |  |
-| 24 | Fiche 7 — Le logiciel de gestion de vos propriétés | 59 | 2 | `pour-carlone/fiches/2026-11-10-fiche-07-le-logiciel-de-gestion-de-vos-proprietes.md` |  |
-| 25 | Fiche 8 — Vos données et la sécurité | 61 | 2 | `pour-carlone/fiches/2026-11-10-fiche-08-vos-donnees-et-la-securite.md` |  |
-| 26 | Fiche 9 — L’IA en 2026 et demain | 63 | 2 | `pour-carlone/fiches/2026-11-10-fiche-09-l-ia-en-2026-et-demain.md` |  |
-| 27 | Fiche 10 — Travailler avec nous | 65 | 2 | `pour-carlone/fiches/2026-11-10-fiche-10-travailler-avec-nous.md` |  |
-| 28 | Fiche 11 — Vos partenaires et la Nièvre | 67 | 2 | `pour-carlone/fiches/2026-11-10-fiche-11-vos-partenaires-et-la-nievre.md` |  |
-| 29 | Fiche 12 — Les enjeux de l’IA pour vous | 69 | 2 | `pour-carlone/fiches/2026-11-10-fiche-12-les-enjeux-de-l-ia-pour-vous.md` |  |
+| 18 | Fiche 1 — Votre galerie et votre métier de marchand d’art | 48 | 2 | `pour-carlone/fiches/2026-11-10-fiche-01-la-galerie-et-le-marche-de-l-art.md` |  |
+| 19 | Fiche 2 — Vos neuf suites et l’espace bien-être | 50 | 2 | `pour-carlone/fiches/2026-11-10-fiche-02-vos-neuf-suites-et-l-espace-bien-etre.md` |  |
+| 20 | Fiche 3 — Votre cabaret-spectacle | 52 | 2 | `pour-carlone/fiches/2026-11-10-fiche-03-le-cabaret-spectacle.md` |  |
+| 21 | Fiche 4 — Vos bâtiments et vos commerces | 54 | 2 | `pour-carlone/fiches/2026-11-10-fiche-04-vos-batiments-et-vos-commerces.md` |  |
+| 22 | Fiche 5 — Votre administratrice | 56 | 2 | `pour-carlone/fiches/2026-11-10-fiche-05-votre-administratrice.md` |  |
+| 23 | Fiche 6 — Votre présence en ligne | 58 | 2 | `pour-carlone/fiches/2026-11-10-fiche-06-votre-presence-en-ligne.md` |  |
+| 24 | Fiche 7 — Le logiciel de gestion de vos propriétés | 60 | 2 | `pour-carlone/fiches/2026-11-10-fiche-07-le-logiciel-de-gestion-de-vos-proprietes.md` |  |
+| 25 | Fiche 8 — Vos données et la sécurité | 62 | 2 | `pour-carlone/fiches/2026-11-10-fiche-08-vos-donnees-et-la-securite.md` |  |
+| 26 | Fiche 9 — L’IA en 2026 et demain | 64 | 2 | `pour-carlone/fiches/2026-11-10-fiche-09-l-ia-en-2026-et-demain.md` |  |
+| 27 | Fiche 10 — Travailler avec nous | 66 | 2 | `pour-carlone/fiches/2026-11-10-fiche-10-travailler-avec-nous.md` |  |
+| 28 | Fiche 11 — Vos partenaires et la Nièvre | 68 | 2 | `pour-carlone/fiches/2026-11-10-fiche-11-vos-partenaires-et-la-nievre.md` |  |
+| 29 | Fiche 12 — Les enjeux de l’IA pour vous | 70 | 2 | `pour-carlone/fiches/2026-11-10-fiche-12-les-enjeux-de-l-ia-pour-vous.md` |  |
 | | **4. Vos suites et vos lieux** | | | | |
-| 30 | Vos neuf suites : un logiciel du marché, bien choisi | 71 | 1 | `pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md` |  |
-| 31 | Cabaret, commerces et suites : autorisations et échéances | 72 | 5 | `pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md` |  |
+| 30 | Vos neuf suites : un logiciel du marché, bien choisi | 72 | 1 | `pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md` |  |
+| 31 | Cabaret, commerces et suites : autorisations et échéances | 73 | 5 | `pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md` |  |
 | | **5. Pour démarrer le cadrage** | | | | |
-| 32 | Questionnaire avant le premier entretien | 77 | 1 | `pour-carlone/cadrage/2026-11-10-questionnaire-preparatoire.md` |  |
-| 33 | Les pièces à rassembler pour le cadrage | 78 | 1 | `pour-carlone/cadrage/2026-11-10-liste-des-pieces-a-rassembler.md` |  |
+| 32 | Questionnaire avant le premier entretien | 78 | 1 | `pour-carlone/cadrage/2026-11-10-questionnaire-preparatoire.md` |  |
+| 33 | Les pièces à rassembler pour le cadrage | 79 | 1 | `pour-carlone/cadrage/2026-11-10-liste-des-pieces-a-rassembler.md` |  |
 | | **6. La maquette du logiciel** | | | | |
-| 34 | Écrans d’exemple du logiciel : mode d’emploi | 79 | 2 | `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/LISEZ-MOI.md` |  |
+| 34 | Écrans d’exemple du logiciel : mode d’emploi | 80 | 2 | `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/LISEZ-MOI.md` |  |
 
 ## Reconstruire ce dossier
 
