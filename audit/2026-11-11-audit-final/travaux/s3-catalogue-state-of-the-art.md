@@ -325,3 +325,108 @@ Rubriques du brief, dans l’ordre ; « avancé » : un fait, sa source, sa date
 - **Mesure.** Œuvres placées ; entreprises qui reviennent.
 - **À faire valider.** Déduction des achats faits avant le 31 décembre 2028 (article 238 bis AB) : jamais un argument chiffré.
 - **Quand.** 2027-2028.
+
+## 3. Cinq projets phares pour l’ouverture de 2027
+
+Ce que l’on verrait le jour venu, si la commande part au premier trimestre 2027. Dates d’ouverture à fixer avec lui.
+
+1. **La première nuit des œuvres** (offres 12, 16, 18, 23). *Le client des suites.* Un couple arrive de Milan ; la veille, il a reçu son programme en italien. Dans sa suite, une toile choisie pour lui, un mot au chevet, aucun écran. Après le vernissage et le cabaret, la suite est prête quand le rideau tombe. Au matin : le sauna à son heure, le dossier de l’œuvre aimée, une visite privée. Il repart avec le tirage signé de sa nuit.
+2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux, à Londres, a visité l’accrochage avec vous, chacun dans sa langue. Le jour venu, il approche son téléphone du châssis de l’œuvre réservée : le certificat s’affiche.
+3. **La main et la machine** (8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Dans la galerie, votre stock fait face aux œuvres commandées ; sous chacune, la part de la main et celle de la machine. Dans dix ans, on marchera encore dans cette exposition.
+4. **Le vernissage-spectacle** (17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. Des artistes vivants : aucun avatar, aucune voix imitée.
+5. **Le matin de la maison** (2, 20, 22). *Vous et votre administratrice.* Sept heures. Sur un écran, la nuit de tous vos lieux : factures du chantier rapprochées des devis, deux écarts signalés, l’analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
+
+## 4. Trois façons de commencer, vendredi
+
+Le cadrage reste la première marche recommandée : trois à quatre semaines, 6 500 € hors taxes, prix fixe. Ce qui change : il se tourne vers les trois moments que vous choisissez, au même prix, avec le même dossier.
+
+1. **Tout de suite.** Votre accord pour le cadrage. Un conseil, donné le jour même : aucun devis de travaux signé avant d’avoir vérifié les aides. Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la règle de la maison (5), le film du chantier (9), la note pour votre architecte (21), le calendrier des aides (25).
+2. **D’abord par le cadrage.** Tout ce qui touche vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret : offres 1 à 4, 6 à 8, 16 à 18, 20, 22 à 24, 26. Le cadrage en tire vos trois priorités à 90 jours ; puis un essai à la fois.
+3. **Ce qui se prépare pour plus tard.** Ce qui demande des mois : les mondes (10), les commandes d’œuvres (11, 12, 15), la résidence (13), la main d’ici (14), Bourges et Solstice (19). La conception peut commencer pendant le cadrage ; aucun artiste n’est contacté sans votre accord.
+
+**Ce que vous pouvez choisir en plus.** L’angle du cadrage, au même prix : par les œuvres, par le cercle, par l’ouverture ou par la maison. Au plus une offre qui n’attend pas. Un projet phare en conception. Chacune avec son prix écrit avant toute commande.
+
+**La phrase de la décision.** « Aujourd’hui, nous vous demandons une décision : votre accord pour le cadrage, tourné vers les trois moments que vous avez choisis, et, si vous le voulez, le nom de l’offre que nous vous chiffrons en plus. Le bon de commande suit ; rien ne vous engage avant de le signer. »
+
+## 5. Le chemin : 2027, 2028, 2030
+
+La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 ; une mesure du passé, pas une prévision.
+
+- **2027. Ce qui ouvre :** le cadrage en janvier ; la règle de la maison, le cabinet des œuvres, le pupitre, les salles des fondateurs ; la galerie, son exposition, l’œuvre du seuil ; les suites et le cabaret si leurs dates le permettent. **L’IA :** des tâches de logiciel de seize heures d’expert réussies une fois sur deux (mesuré) ; la voix traduite en français dans une réunion (disponible) ; un monde 3D tiré d’une image (disponible). **Les règles :** machines au 20 janvier ; vigilance contre le blanchiment au 10 juillet ; factures émises par les PME au 1er septembre.
+- **2028. Ce qui ouvre :** la résidence, la main d’ici, l’œil appris, l’ambassadeur, la toile de minuit ; Bourges 2028, ouverture annoncée les 22 et 23 janvier ; Solstice en décembre ; le laboratoire. **L’IA :** des tâches de plusieurs jours si le rythme se maintient (supposé) ; un programmeur automatisé, situé par deux prévisionnistes entre fin 2027 et début 2030 (prévision très incertaine). **Les règles :** déduction des achats d’œuvres par les entreprises jusqu’au 31 décembre 2028.
+- **2030. Ce qui ouvre :** le passeport transmis à chaque revente ; des salles que lisent les assistants des collectionneurs ; des mondes où l’on parle ; le carnet des murs interrogé en langage courant. En réserve, s’il le demande : un catalogue raisonné, l’inventaire des collections de ses clients. **L’IA :** selon Epoch AI, une IA qui écrit seule du logiciel bien défini, 10 à 20 % gagnés par tâche, un déploiement en retard (prévision, 2025) ; un humanoïde utile près du public, pas avant (supposé ; aucune livraison domestique vérifiée à la mi-octobre 2026).
+
+## 6. Comment nous le tenons
+
+- **Les deux associés** (partage proposé). Morgan Olsen : la relation, les artistes, les spécialistes, les projets phares. Mathys Couet : les outils, les données, les liens, la sécurité, la mesure. L’un mène, l’autre relit et prend le relais.
+- **Les spécialistes à réunir** (aucun approché) : avocats du marché de l’art, des données, de la propriété artistique ; agence de voyages immatriculée ; intégrateur réseau, scène et sécurité ; relevé et capture 3D ; commissaire ; artistes ; metteur en scène ; régisseur d’œuvres ; conservateur-restaurateur ; assureur d’œuvres ; producteur ; laboratoire universitaire. Son expert-comptable reste le sien.
+- **Ce qui s’achète :** logiciels de galerie, des suites, de billetterie, de réservation ; assistants ; traduction ; certificats ; capture 3D ; plateforme de factures. **Ce que nous construisons :** une seule base des faits et des récits, validée par lui, qui nourrit toutes les offres ; la file « à valider » ; les liens ; la mesure.
+- **Ce que fait son équipe :** son administratrice dirige le pupitre et tient les registres ; l’accueil garde la relation ; lui choisit, écrit, signe.
+- **L’ordre qui rend cela tenable :** deux chantiers à la fois au plus, dont un seul sur ses données ; un essai à la fois ; chaque marche mesurée avant la suivante ; tout à son nom, tout exportable, un relais nommé si l’un de nous manque.
+- **Ce que nous refusons :** authentifier, estimer, vendre une œuvre comme un placement ; un conseil fiscal ou juridique ; déposer un dossier à sa place ; une machine près du public sans analyse des risques ; un humanoïde d’accueil ; une voix imitée ; un capteur sur le corps ; la reconnaissance des visages ; une IA qui note une personne ; une administratrice remplacée ou surveillée ; une image générée présentée comme réelle.
+
+## 7. Grille interne
+
+**INTERNE — à décider par Morgan Olsen et Mathys Couet.** Jamais montrée ni citée au client.
+
+Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société sur leurs devis, hors grille ; leur part se lit face à nos honoraires. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
+
+| N° | Nos jours : mise en place ; suivi | Tiers, part | € HT |
+| --- | --- | --- | --- |
+| 1 | 12-18 ; 1/mois | logiciel, faible | 9 000-18 500 |
+| 2 | 8-12 ; 0,5/dossier | laboratoire, bases, moyenne | 6 000-12 500 ; 400-500 le dossier |
+| 3 | 8-10 ; 1/mois ; œil appris 8-12 | bases, moyenne | 6 000-10 500 ; 6 000-12 500 |
+| 4 | 12-16 ; 2/mois six mois | numérisation, studio, forte | 9 000-16 500 |
+| 5 | 4-6 ; 3/an | sécurité, avocat, moyenne | 3 000-6 000 |
+| 6 | 10-14 ; 1/mois | logiciel, avocat ; machine 5 500-7 500 (k13a, à revérifier) | 7 500-14 500 |
+| 7 | 12-18 ; 2/saison | salles, impression, moyenne | 9 000-18 500 |
+| 8 | 10-14 ; 0,25/vente | certificats, avocat, moyenne | 7 500-14 500 |
+| 9 | 5-7 ; 2/saison | photographe, réalisateur, forte | 4 000-7 000 |
+| 10 | 6-8 ; 1/accrochage | capture, 500-3 000 par jour [bât. B3] | 4 500-8 500 |
+| 11 | 12-16 ; 1/trimestre | artiste, production, très forte | 9 000-16 500 |
+| 12 | 8-12 ; 1/mois | artiste, imprimeur, forte | 6 000-12 500 |
+| 13 | 12-16 ; 4/artiste ; laboratoire 15-25 | bourses, laboratoire, forte | 9 000-16 500 ; 11 000-26 000 |
+| 14 | 6-10 ; 2/binôme | artisans, relevé, forte | 4 500-10 500 |
+| 15 | 15-20 | commissaire, transport, très forte | 11 000-20 500 |
+| 16 | 6-10 ; 1/saison | régisseur, restaurateur, moyenne | 4 500-10 500 |
+| 17 | 10-14 ; 4-6/exposition | scène, artistes, très forte | 7 500-14 500 |
+| 18 | 8-10 ; 1/mois | avocat, agence, moyenne | 6 000-10 500 |
+| 19 | Bourges 8-12 ; Solstice 12-18/édition | producteur, sécurité, très forte | 6 000-12 500 ; 9 000-18 500 |
+| 20 | 23-37 ; 3-6/mois | abonnements, calcul plafonné, faible | 17 000-38 500 |
+| 21 | note 3-5 ; carnet 10-15 ; 1/mois | relevé, capteurs, forte | 2 500-5 000 ; 7 500-15 500 |
+| 22 | 6-8 ; 2-3/répétition | ses professionnels, moyenne | 4 500-8 500 |
+| 23 | 12-18 ; 1-2/mois | logiciels, voix, moyenne | 9 000-18 500 |
+| 24 | 6-8 ; 0,5/mois ; ambassadeur 8-12 | outil, faible | 4 500-8 500 ; 6 000-12 500 |
+| 25 | 5-7 ; 1-5/dossier | aucun | 4 000-7 000 |
+| 26 | 10-14 ; 2/entreprise | expert-comptable, faible | 7 500-14 500 |
+
+**Total.** 247 à 355 jours de mise en place sur 2027-2030, prolongements exclus ; environ 185 000 à 370 000 € HT hors tiers et hors suivi. **2027 tient en 150 jours au plus** : cadrage, 5, 25, note du 21, 9, 1, 20 (essai), 2, 7, 8, 11, 15, soit 110 à 157 jours. Les suites (16, 18, 23) au-delà : une troisième personne ou des sous-traitants. Son administratrice : deux à cinq jours de prise en main par offre.
+
+## 8. Réserves de droit et de sécurité
+
+1. Registre des objets mobiliers ; droits des images ; export ouvert.
+2. Décret de 1981 ; anti-blanchiment au 10 juillet 2027 ; ni authentification ni estimation.
+3. Licences des bases ; aucun droit d’agir ; modèle privé nourri de ses seules données.
+4. Droits des photographes et des épistoliers ; voix enregistrée, jamais imitée.
+5. Article 4 ; code du travail, L1222-4 ; note CIANum-CNIL : journal, arrêt, mémoire cloisonnée.
+6. RGPD : information, effacement, chiffrement ; analyse d’impact possible.
+7. Suivi consenti ; rétractation des ventes à distance ; accord des auteurs.
+8. Le papier signé fait foi ; droit de suite ; certificat d’exportation.
+9. Droit à l’image ; article 50 ; aucun tournage dans l’intimité ; drone autorisé d’abord.
+10. Reproduction et droit moral ; article 50 ; une image 3D n’est pas une mesure.
+11. Contrat de commande ; pose contrôlée ; aucune captation.
+12. Statut fiscal d’un tirage fait à la machine (CGI, annexe III, art. 98 A) ; article 50, § 4.
+13. RGPD, article 22 ; contrats de résidence ; données d’entreprise effacées après essai.
+14. Co-autorat ; statut fiscal ; machines sous capot (règlement machines, 20 janvier 2027).
+15. Prêts, transport, assurance ; droits de reproduction.
+16. Bons de dépôt ; assurance ; climat ; jamais un placement.
+17. Spectacle, ERP, boissons ; voix des artistes ; ISO 10218-2:2025 ne couvre pas le public : analyse propre au lieu.
+18. Forfait touristique (code du tourisme, L211-1 et L211-2) ; Atout France.
+19. Sécurité du public ; boissons ; nom de Bourges 2028 ; vente de séjours.
+20. Instruction cachée : droits minimaux ; secret bancaire ; monopole de l’expert-comptable.
+21. Réseau séparé ; capteurs des suites : données personnelles ; jamais la maîtrise d’œuvre.
+22. Jamais « conforme » ; jacuzzi : déclaration en mairie, analyses accréditées au 1er janvier 2027.
+23. Article 50 ; une réponse fausse engage l’exploitant ; partage entre sociétés consenti.
+24. Mêmes prix partout ; prix personnalisé déclaré ; aucune réservation sans validation.
+25. Un devis signé vaut commencement ; sa société dépose ; aucune aide promise.
+26. 238 bis AB, achats avant le 31 décembre 2028 ; aucun chiffre d’avantage.
