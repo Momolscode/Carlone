@@ -11,7 +11,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 1. **Le cœur de l’offre tient** : un seul prix affiché (6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA), une décision demandée, rien signé en séance, tout à son nom, son administratrice aidée et jamais remplacée.
 2. **Dix relectures indépendantes** ont trouvé environ 450 constats (exactitude, droit, cohérence, clarté, continuité avec les audits du 4 et du 9 novembre). Les constats d’exactitude, de droit et de cohérence sont appliqués dans les documents ; ceux qui réduisaient l’ambition sont écartés (décision de Morgan Olsen) ; ceux qui reviennent aux associés sont réunis en une liste (§ 4).
 3. **Ce qui manquait est écrit** : les trois pièces jointes du bon de commande, le kit du jour J, les réponses aux sujets que la présentation ne traite pas, le référentiel des chiffres et des mots, l’index du dossier client, la note de reprise, le dossier relié.
-4. **L’ambition l’emporte** : un programme « State Of The Art » (état de l’art, six portefeuilles d’offres, jugement, catalogue unique) est en cours ; il nourrira la présentation refaite.
+4. **L’ambition l’emporte** : un programme « State Of The Art » a été conçu (dix notes d’état de l’art, six portefeuilles concurrents, trois jugements, un catalogue unique critiqué et révisé : sept familles, 29 offres, six projets phares pour l’ouverture, trois façons de commencer), puis écrit pour GianLuca Carlone (page du programme, catalogue des offres) et porté dans la présentation, refaite et republiée (version 13).
 
 ## 2. Ce qui a été trouvé et corrigé
 
@@ -40,10 +40,22 @@ Morgan Olsen a tranché le 11 novembre : on peut proposer bien d’autres choses
 
 `travaux/c0-decisions-a-prendre-liste-brute.md` : 81 points, sans doublon, rattachés à la feuille de décisions : 44 à trancher jeudi 12 novembre au soir, 34 avant le premier envoi (jeudi 19 novembre au plus tôt), 3 plus tard. Les plus lourds : que montrer sans l’accord écrit des deux (V4) ; l’information écrite sur le fichier de contacts avant tout bon de commande (V3, V5) ; le retrait écrit de l’ancien partenaire avant vendredi ; la date des statuts (16 ou 30 novembre) ; l’option pour la TVA ; une seule règle pour le solde ; le délai annoncé pour tout écrit après le rendez-vous (V10) ; la position commune sur bureaux, emploi, participation et exclusivité.
 
-## 5. Ce qui est en cours
+## 5. Le programme « State Of The Art » (fait le 11 novembre)
 
-- **Programme « State Of The Art »** (`travaux/BRIEF-STATE-OF-THE-ART.md`) : dix notes d’état de l’art (`travaux/s1-…`), six portefeuilles d’offres (`travaux/s2-portefeuille-…`) écrits ; jugements, catalogue unique (`travaux/s3-catalogue-state-of-the-art.md`), critique et révision en cours. Ensuite : documents pour GianLuca Carlone, présentation refaite, complément à la feuille de décisions.
-- **Dossier relié** : `outils/2026-11-11-dossier/construire-le-dossier.py`, à lancer une fois la présentation refaite.
+| Pièce | Fichier |
+| --- | --- |
+| Décision de Morgan Olsen et brief | `travaux/BRIEF-STATE-OF-THE-ART.md` |
+| Dix notes d’état de l’art (galerie, création, accueil, scène, bâtiments, direction et agents, où va l’IA, lieux de référence, rayonnement, territoire et financements) | `travaux/s1-etat-de-l-art-….md` |
+| Six portefeuilles d’offres (destination, maison orchestrée, revenus, création, territoire, regard du marchand) et trois jugements | `travaux/s2-portefeuille-….md`, `travaux/s2-jugement-….md` |
+| Catalogue maître (interne : grille, réserves, décisions) | `travaux/s3-catalogue-state-of-the-art.md` |
+| Pour GianLuca Carlone (projets) | `pour-carlone/developpement/2026-11-11-state-of-the-art-le-programme.md` (2 pages) ; `pour-carlone/developpement/2026-11-11-catalogue-des-offres-state-of-the-art.md` (29 offres, carte à cocher) |
+| Interne | `interne/developpement/2026-11-11-grille-de-prix-interne-state-of-the-art.md` ; `interne/decisions/2026-11-11-complement-a-la-feuille-de-decisions.md` |
+| Présentation version 13 | Plan `travaux/s4-plan-de-la-presentation.md` ; 38 diapositives (28 dans le fil, environ 33 minutes ; 10 en annexe) ; page privée https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg (version 20 de la page) |
+| Documents du rendez-vous alignés | déroulé, antisèche, objections (dont « c’est beaucoup pour deux personnes »), stratégie, kit du jour J, référentiel, plan de relecture |
+
+**Contrôle de cohérence final.** Les deux relectures automatiques prévues n’ont pas pu tourner (limite d’usage des agents, jusqu’au 16 novembre). Fait à la place par le coordinateur : contrôle mécanique de tous les documents clients (0 erreur) et des 38 diapositives (0 erreur, aucun débordement) ; recherche des formules interdites ou périmées (anciens noms de programmes, « votre hôtel », noms retirés, promesses d’assurance, « relais nommé ») ; deux corrections (« un relais nommé » remplacé ; « le dossier, une fois payé »). Une relecture humaine complète reste à faire jeudi (plan : `interne/rendez-vous/2026-11-10-a-relire-avec-mathys.md`).
+
+**Dossier relié** : `dossier-du-13-novembre/` (deux PDF et les pages à imprimer), construit par `outils/2026-11-11-dossier/construire-le-dossier.py`.
 
 ## 6. Limites
 

@@ -14,7 +14,7 @@
     "",
     "**Ce qui n’est pas dans les PDF**",
     "",
-    "- La présentation (36 diapositives, 28 dans le fil) : page privée https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg ; l’exporter en PDF depuis le menu de la page pour pouvoir la montrer sans connexion. Sources : `pour-carlone/presentation-ia/2026-11-10-version-12-projet/`.",
+    "- La présentation « State Of The Art » (38 diapositives, 28 dans le fil, environ 33 minutes) : page privée https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg ; l’exporter en PDF depuis le menu de la page pour pouvoir la montrer sans connexion. Sources : `pour-carlone/presentation-ia/2026-11-10-version-12-projet/`.",
     "- La maquette du logiciel (onze écrans, données fictives) : page privée https://claude.ai/artifact/U856Kw7d7j5uKfAPMzVqEw ; ou le fichier `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/index.html`, qui s’ouvre sans connexion.",
     "- Les classeurs : `pour-carlone/cabaret-et-commerces/2026-11-10-echeancier.xlsx` et `interne/cadrage/2026-11-10-kit/06-tableau-d-inventaire.xlsx`.",
     "",
@@ -47,63 +47,190 @@
         {
           "titre": "1. Avant : décider (jeudi 12 novembre au soir)",
           "documents": [
-            {"source": "interne/rendez-vous/2026-11-10-a-relire-avec-mathys.md", "titre": "À relire avec Mathys avant vendredi", "imprimer": true},
-            {"source": "interne/decisions/2026-11-10-feuille-de-decisions.md", "titre": "Feuille de décisions (V1 à V14)", "paysage": true, "imprimer": true},
-            {"source": "interne/prealables/2026-11-10-liste-avant-tout-envoi.md", "titre": "Liste avant tout envoi"}
+            {
+              "source": "interne/rendez-vous/2026-11-10-a-relire-avec-mathys.md",
+              "titre": "À relire avec Mathys avant vendredi",
+              "imprimer": true
+            },
+            {
+              "source": "interne/decisions/2026-11-10-feuille-de-decisions.md",
+              "titre": "Feuille de décisions (V1 à V14)",
+              "paysage": true,
+              "imprimer": true
+            },
+            {
+              "source": "interne/decisions/2026-11-11-complement-a-la-feuille-de-decisions.md",
+              "titre": "Complément à la feuille de décisions (11 novembre)",
+              "paysage": true,
+              "imprimer": true
+            },
+            {
+              "source": "interne/prealables/2026-11-10-liste-avant-tout-envoi.md",
+              "titre": "Liste avant tout envoi"
+            }
           ]
         },
         {
           "titre": "2. Le jour du rendez-vous",
           "documents": [
-            {"source": "interne/rendez-vous/2026-11-11-jour-j-liste-de-controle.md", "titre": "Jour J : liste de contrôle", "imprimer": true, "max_pages": 1},
-            {"source": "interne/rendez-vous/2026-11-10-antiseche-une-page.md", "titre": "Antisèche du rendez-vous", "imprimer": true, "max_pages": 1},
-            {"source": "interne/rendez-vous/2026-11-11-referentiel-chiffres-dates-mots.md", "titre": "Référentiel : chiffres, dates et mots qui font foi", "imprimer": true, "max_pages": 2},
-            {"source": "interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md", "titre": "Déroulé et texte d’orateur", "paysage": true},
-            {"source": "interne/rendez-vous/2026-11-11-presentation-texte-des-36-diapositives.md", "titre": "Présentation : texte des 36 diapositives et notes"},
-            {"source": "interne/rendez-vous/2026-11-10-reponses-aux-objections.md", "titre": "Réponses aux objections"},
-            {"source": "interne/rendez-vous/2026-11-11-sujets-hors-presentation-que-repondre.md", "titre": "Sujets hors présentation : que répondre", "imprimer": true, "max_pages": 3},
-            {"source": "interne/rendez-vous/2026-11-10-convaincre-de-miser-sur-nous.md", "titre": "Le convaincre de miser sur nous"},
-            {"source": "interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md", "titre": "L’autre proposition : questions à poser"},
-            {"source": "interne/rendez-vous/2026-11-11-feuille-de-notes-et-questions.md", "titre": "Feuille de notes et questions", "imprimer": true, "max_pages": 2}
+            {
+              "source": "interne/rendez-vous/2026-11-11-jour-j-liste-de-controle.md",
+              "titre": "Jour J : liste de contrôle",
+              "imprimer": true,
+              "max_pages": 1
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-10-antiseche-une-page.md",
+              "titre": "Antisèche du rendez-vous",
+              "imprimer": true,
+              "max_pages": 1
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-11-referentiel-chiffres-dates-mots.md",
+              "titre": "Référentiel : chiffres, dates et mots qui font foi",
+              "imprimer": true,
+              "max_pages": 2
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md",
+              "titre": "Déroulé et texte d’orateur",
+              "paysage": true
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-11-presentation-texte-des-36-diapositives.md",
+              "titre": "Présentation : texte des 38 diapositives et notes"
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-10-reponses-aux-objections.md",
+              "titre": "Réponses aux objections"
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-11-sujets-hors-presentation-que-repondre.md",
+              "titre": "Sujets hors présentation : que répondre",
+              "imprimer": true,
+              "max_pages": 3
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-10-convaincre-de-miser-sur-nous.md",
+              "titre": "Le convaincre de miser sur nous"
+            },
+            {
+              "source": "interne/logiciels-et-automatisations/2026-11-10-questions-a-poser-et-comparaison-a-refaire.md",
+              "titre": "L’autre proposition : questions à poser"
+            },
+            {
+              "source": "interne/rendez-vous/2026-11-11-feuille-de-notes-et-questions.md",
+              "titre": "Feuille de notes et questions",
+              "imprimer": true,
+              "max_pages": 2
+            }
           ]
         },
         {
           "titre": "3. Après le rendez-vous",
           "documents": [
-            {"source": "interne/rendez-vous/2026-11-11-apres-le-rendez-vous-messages-types.md", "titre": "Après le rendez-vous : calendrier et projets de message", "max_pages": 3},
-            {"source": "interne/prealables/2026-11-10-demarches-immatriculation-et-assurance.md", "titre": "Démarches : immatriculation et assurances"},
-            {"source": "interne/prealables/2026-11-10-questions-pour-l-avocat.md", "titre": "Questions pour l’avocat, l’expert-comptable et l’assureur"},
-            {"source": "interne/prealables/2026-11-10-projet-d-information-sur-le-fichier-de-contacts.md", "titre": "Projet d’information sur le fichier de contacts"}
+            {
+              "source": "interne/rendez-vous/2026-11-11-apres-le-rendez-vous-messages-types.md",
+              "titre": "Après le rendez-vous : calendrier et projets de message",
+              "max_pages": 3
+            },
+            {
+              "source": "interne/prealables/2026-11-10-demarches-immatriculation-et-assurance.md",
+              "titre": "Démarches : immatriculation et assurances"
+            },
+            {
+              "source": "interne/prealables/2026-11-10-questions-pour-l-avocat.md",
+              "titre": "Questions pour l’avocat, l’expert-comptable et l’assureur"
+            },
+            {
+              "source": "interne/prealables/2026-11-10-projet-d-information-sur-le-fichier-de-contacts.md",
+              "titre": "Projet d’information sur le fichier de contacts"
+            }
           ]
         },
         {
           "titre": "4. Si c’est oui : mener le cadrage",
           "documents": [
-            {"source": "interne/cadrage/2026-11-10-kit/01-guide-du-premier-entretien.md", "titre": "Guide du premier entretien"},
-            {"source": "interne/cadrage/2026-11-10-kit/02-plan-des-semaines.md", "titre": "Plan des semaines du cadrage"},
-            {"source": "interne/cadrage/2026-11-10-kit/03-grille-de-choix-des-priorites.md", "titre": "Grille de choix des priorités"},
-            {"source": "interne/cadrage/2026-11-10-kit/04-trame-du-dossier-remis.md", "titre": "Trame du dossier remis"},
-            {"source": "interne/cadrage/2026-11-10-kit/05-modele-de-compte-rendu.md", "titre": "Modèle de compte rendu d’entretien"}
+            {
+              "source": "interne/cadrage/2026-11-10-kit/01-guide-du-premier-entretien.md",
+              "titre": "Guide du premier entretien"
+            },
+            {
+              "source": "interne/cadrage/2026-11-10-kit/02-plan-des-semaines.md",
+              "titre": "Plan des semaines du cadrage"
+            },
+            {
+              "source": "interne/cadrage/2026-11-10-kit/03-grille-de-choix-des-priorites.md",
+              "titre": "Grille de choix des priorités"
+            },
+            {
+              "source": "interne/cadrage/2026-11-10-kit/04-trame-du-dossier-remis.md",
+              "titre": "Trame du dossier remis"
+            },
+            {
+              "source": "interne/cadrage/2026-11-10-kit/05-modele-de-compte-rendu.md",
+              "titre": "Modèle de compte rendu d’entretien"
+            }
           ]
         },
         {
           "titre": "5. Notes de fond",
           "documents": [
-            {"source": "interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md", "titre": "Note interne : offre et bon de commande"},
-            {"source": "interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md", "titre": "Choisir un logiciel hôtelier du marché pour les neuf suites", "paysage": true},
-            {"source": "interne/logiciels-et-automatisations/2026-11-10-connexion-airbnb-booking-et-autres-sites.md", "titre": "Relier les suites à Airbnb, Booking.com et aux autres sites"},
-            {"source": "interne/logiciels-et-automatisations/2026-11-10-construire-nous-memes-le-logiciel-des-suites.md", "titre": "Construire nous-mêmes le logiciel des suites ?"},
-            {"source": "interne/developpement/2026-11-10-offre-elargie-image-evenements-partenaires-nievre.md", "titre": "Offre élargie : image, événements, partenaires, Nièvre"},
-            {"source": "interne/developpement/2026-11-10-note-interne-presence-en-ligne.md", "titre": "Note interne : présence en ligne"},
-            {"source": "interne/developpement/2026-11-10-note-interne-moyens-supplementaires.md", "titre": "Note interne : moyens supplémentaires"},
-            {"source": "interne/cabaret-et-commerces/2026-11-10-sources-et-limites.md", "titre": "Cabaret, commerces et suites : sources et limites"}
+            {
+              "source": "interne/developpement/2026-11-11-grille-de-prix-interne-state-of-the-art.md",
+              "titre": "State Of The Art : grille de prix interne",
+              "paysage": true
+            },
+            {
+              "source": "audit/2026-11-11-audit-final/travaux/s3-catalogue-state-of-the-art.md",
+              "titre": "State Of The Art : catalogue maître (interne)"
+            },
+            {
+              "source": "interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md",
+              "titre": "Note interne : offre et bon de commande"
+            },
+            {
+              "source": "interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md",
+              "titre": "Choisir un logiciel hôtelier du marché pour les neuf suites",
+              "paysage": true
+            },
+            {
+              "source": "interne/logiciels-et-automatisations/2026-11-10-connexion-airbnb-booking-et-autres-sites.md",
+              "titre": "Relier les suites à Airbnb, Booking.com et aux autres sites"
+            },
+            {
+              "source": "interne/logiciels-et-automatisations/2026-11-10-construire-nous-memes-le-logiciel-des-suites.md",
+              "titre": "Construire nous-mêmes le logiciel des suites ?"
+            },
+            {
+              "source": "interne/developpement/2026-11-10-offre-elargie-image-evenements-partenaires-nievre.md",
+              "titre": "Offre élargie : image, événements, partenaires, Nièvre"
+            },
+            {
+              "source": "interne/developpement/2026-11-10-note-interne-presence-en-ligne.md",
+              "titre": "Note interne : présence en ligne"
+            },
+            {
+              "source": "interne/developpement/2026-11-10-note-interne-moyens-supplementaires.md",
+              "titre": "Note interne : moyens supplémentaires"
+            },
+            {
+              "source": "interne/cabaret-et-commerces/2026-11-10-sources-et-limites.md",
+              "titre": "Cabaret, commerces et suites : sources et limites"
+            }
           ]
         },
         {
           "titre": "6. Audit final et index",
           "documents": [
-            {"source": "audit/2026-11-11-audit-final/README.md", "titre": "Audit final du 11 novembre 2026"},
-            {"source": "pour-carlone/README.md", "titre": "Index du dossier pour-carlone : ce qui vaut pour le 13 novembre"}
+            {
+              "source": "audit/2026-11-11-audit-final/README.md",
+              "titre": "Audit final du 11 novembre 2026"
+            },
+            {
+              "source": "pour-carlone/README.md",
+              "titre": "Index du dossier pour-carlone : ce qui vaut pour le 13 novembre"
+            }
           ]
         }
       ]
@@ -120,63 +247,190 @@
         {
           "titre": "1. L’offre",
           "documents": [
-            {"source": "pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md", "titre": "Votre premier pas : l’offre en une page", "imprimer": true, "max_pages": 1},
-            {"source": "pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md", "titre": "Une page pour votre administratrice", "imprimer": true, "max_pages": 1},
-            {"source": "pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md", "titre": "Proposition de cadrage"},
-            {"source": "pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md", "titre": "Projet de bon de commande et conditions"},
-            {"source": "pour-carlone/offre-cadrage/2026-11-11-tableau-qui-valide-quoi.md", "titre": "Tableau « qui valide quoi »", "max_pages": 1},
-            {"source": "pour-carlone/offre-cadrage/2026-11-11-projet-de-formulaire-de-retractation.md", "titre": "Votre droit de rétractation : information et formulaire (projet conditionnel)", "max_pages": 1},
-            {"source": "pour-carlone/offre-cadrage/2026-11-11-projet-d-accord-sur-les-donnees.md", "titre": "Projet d’accord sur les données", "max_pages": 3}
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md",
+              "titre": "Votre premier pas : l’offre en une page",
+              "imprimer": true,
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md",
+              "titre": "Une page pour votre administratrice",
+              "imprimer": true,
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md",
+              "titre": "Proposition de cadrage"
+            },
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md",
+              "titre": "Projet de bon de commande et conditions"
+            },
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-11-tableau-qui-valide-quoi.md",
+              "titre": "Tableau « qui valide quoi »",
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-11-projet-de-formulaire-de-retractation.md",
+              "titre": "Votre droit de rétractation : information et formulaire (projet conditionnel)",
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/offre-cadrage/2026-11-11-projet-d-accord-sur-les-donnees.md",
+              "titre": "Projet d’accord sur les données",
+              "max_pages": 3
+            }
           ]
         },
         {
-          "titre": "2. Pourquoi nous, et jusqu’où",
+          "titre": "2. State Of The Art : le programme et les offres",
           "documents": [
-            {"source": "pour-carlone/developpement/2026-11-10-votre-interet-a-travailler-avec-nous.md", "titre": "Votre intérêt à travailler avec nous", "max_pages": 1},
-            {"source": "pour-carlone/developpement/2026-11-10-nos-offres-de-la-premiere-marche-aux-grands-projets.md", "titre": "Nos offres : de la première marche aux grands projets"},
-            {"source": "pour-carlone/developpement/2026-11-10-une-ambition-pour-votre-etablissement.md", "titre": "Une ambition pour votre établissement : 2027, 2028, 2030"},
-            {"source": "pour-carlone/developpement/2026-11-10-une-idee-pour-chacun-de-vos-projets.md", "titre": "Une idée concrète pour chacun de vos projets"},
-            {"source": "pour-carlone/developpement/2026-11-10-ce-que-nous-pourrions-faire-ensuite.md", "titre": "Après le cadrage : ce que nous pourrions prendre en charge"},
-            {"source": "pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md", "titre": "Votre présence en ligne : bien plus qu’un site"},
-            {"source": "pour-carlone/developpement/2026-11-10-ce-que-des-moyens-supplementaires-permettraient.md", "titre": "Ce que des moyens supplémentaires nous permettraient d’accomplir", "max_pages": 1},
-            {"source": "pour-carlone/developpement/2026-11-10-annexe-comparaisons-et-calculs.md", "titre": "Annexe : comparaisons et calculs"}
+            {
+              "source": "pour-carlone/developpement/2026-11-11-state-of-the-art-le-programme.md",
+              "titre": "State Of The Art : le programme",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-11-catalogue-des-offres-state-of-the-art.md",
+              "titre": "State Of The Art : le catalogue des offres"
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-votre-interet-a-travailler-avec-nous.md",
+              "titre": "Votre intérêt à travailler avec nous",
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-nos-offres-de-la-premiere-marche-aux-grands-projets.md",
+              "titre": "Nos offres : de la première marche aux grands projets"
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-une-ambition-pour-votre-etablissement.md",
+              "titre": "Une ambition pour votre établissement : 2027, 2028, 2030"
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-une-idee-pour-chacun-de-vos-projets.md",
+              "titre": "Une idée concrète pour chacun de vos projets"
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-ce-que-nous-pourrions-faire-ensuite.md",
+              "titre": "Après le cadrage : ce que nous pourrions prendre en charge"
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md",
+              "titre": "Votre présence en ligne : bien plus qu’un site"
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-ce-que-des-moyens-supplementaires-permettraient.md",
+              "titre": "Ce que des moyens supplémentaires nous permettraient d’accomplir",
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/developpement/2026-11-10-annexe-comparaisons-et-calculs.md",
+              "titre": "Annexe : comparaisons et calculs"
+            }
           ]
         },
         {
           "titre": "3. Les douze fiches",
           "documents": [
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-01-la-galerie-et-le-marche-de-l-art.md", "titre": "Fiche 1 — Votre galerie et votre métier de marchand d’art", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-02-vos-neuf-suites-et-l-espace-bien-etre.md", "titre": "Fiche 2 — Vos neuf suites et l’espace bien-être", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-03-le-cabaret-spectacle.md", "titre": "Fiche 3 — Votre cabaret-spectacle", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-04-vos-batiments-et-vos-commerces.md", "titre": "Fiche 4 — Vos bâtiments et vos commerces", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-05-votre-administratrice.md", "titre": "Fiche 5 — Votre administratrice", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-06-votre-presence-en-ligne.md", "titre": "Fiche 6 — Votre présence en ligne", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-07-le-logiciel-de-gestion-de-vos-proprietes.md", "titre": "Fiche 7 — Le logiciel de gestion de vos propriétés", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-08-vos-donnees-et-la-securite.md", "titre": "Fiche 8 — Vos données et la sécurité", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-09-l-ia-en-2026-et-demain.md", "titre": "Fiche 9 — L’IA en 2026 et demain", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-10-travailler-avec-nous.md", "titre": "Fiche 10 — Travailler avec nous", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-11-vos-partenaires-et-la-nievre.md", "titre": "Fiche 11 — Vos partenaires et la Nièvre", "max_pages": 2},
-            {"source": "pour-carlone/fiches/2026-11-10-fiche-12-les-enjeux-de-l-ia-pour-vous.md", "titre": "Fiche 12 — Les enjeux de l’IA pour vous", "max_pages": 2}
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-01-la-galerie-et-le-marche-de-l-art.md",
+              "titre": "Fiche 1 — Votre galerie et votre métier de marchand d’art",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-02-vos-neuf-suites-et-l-espace-bien-etre.md",
+              "titre": "Fiche 2 — Vos neuf suites et l’espace bien-être",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-03-le-cabaret-spectacle.md",
+              "titre": "Fiche 3 — Votre cabaret-spectacle",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-04-vos-batiments-et-vos-commerces.md",
+              "titre": "Fiche 4 — Vos bâtiments et vos commerces",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-05-votre-administratrice.md",
+              "titre": "Fiche 5 — Votre administratrice",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-06-votre-presence-en-ligne.md",
+              "titre": "Fiche 6 — Votre présence en ligne",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-07-le-logiciel-de-gestion-de-vos-proprietes.md",
+              "titre": "Fiche 7 — Le logiciel de gestion de vos propriétés",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-08-vos-donnees-et-la-securite.md",
+              "titre": "Fiche 8 — Vos données et la sécurité",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-09-l-ia-en-2026-et-demain.md",
+              "titre": "Fiche 9 — L’IA en 2026 et demain",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-10-travailler-avec-nous.md",
+              "titre": "Fiche 10 — Travailler avec nous",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-11-vos-partenaires-et-la-nievre.md",
+              "titre": "Fiche 11 — Vos partenaires et la Nièvre",
+              "max_pages": 2
+            },
+            {
+              "source": "pour-carlone/fiches/2026-11-10-fiche-12-les-enjeux-de-l-ia-pour-vous.md",
+              "titre": "Fiche 12 — Les enjeux de l’IA pour vous",
+              "max_pages": 2
+            }
           ]
         },
         {
           "titre": "4. Vos suites et vos lieux",
           "documents": [
-            {"source": "pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md", "titre": "Vos neuf suites : un logiciel du marché, bien choisi", "max_pages": 1},
-            {"source": "pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md", "titre": "Cabaret, commerces et suites : autorisations et échéances"}
+            {
+              "source": "pour-carlone/logiciels-et-automatisations/2026-11-10-vos-suites-un-logiciel-du-marche-bien-choisi.md",
+              "titre": "Vos neuf suites : un logiciel du marché, bien choisi",
+              "max_pages": 1
+            },
+            {
+              "source": "pour-carlone/cabaret-et-commerces/2026-11-10-autorisations-et-echeances.md",
+              "titre": "Cabaret, commerces et suites : autorisations et échéances"
+            }
           ]
         },
         {
           "titre": "5. Pour démarrer le cadrage",
           "documents": [
-            {"source": "pour-carlone/cadrage/2026-11-10-questionnaire-preparatoire.md", "titre": "Questionnaire avant le premier entretien"},
-            {"source": "pour-carlone/cadrage/2026-11-10-liste-des-pieces-a-rassembler.md", "titre": "Les pièces à rassembler pour le cadrage"}
+            {
+              "source": "pour-carlone/cadrage/2026-11-10-questionnaire-preparatoire.md",
+              "titre": "Questionnaire avant le premier entretien"
+            },
+            {
+              "source": "pour-carlone/cadrage/2026-11-10-liste-des-pieces-a-rassembler.md",
+              "titre": "Les pièces à rassembler pour le cadrage"
+            }
           ]
         },
         {
           "titre": "6. La maquette du logiciel",
           "documents": [
-            {"source": "pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/LISEZ-MOI.md", "titre": "Écrans d’exemple du logiciel : mode d’emploi"}
+            {
+              "source": "pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/LISEZ-MOI.md",
+              "titre": "Écrans d’exemple du logiciel : mode d’emploi"
+            }
           ]
         }
       ]

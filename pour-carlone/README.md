@@ -21,8 +21,8 @@ Dans l’ordre de lecture. Toutes ces pièces sont des projets non envoyés, dat
 
 | Document | Rôle |
 | --- | --- |
-| `presentation-ia/2026-11-10-version-12-projet/project/deck.json` | La présentation, version 12 : 36 diapositives, 28 dans le fil, 8 en annexe. Ce fichier fait foi pour l’ordre. Page privée : https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg |
-| `presentation-ia/2026-11-10-version-12-projet/project/slides/` | Les 36 diapositives, une par fichier |
+| `presentation-ia/2026-11-10-version-12-projet/project/deck.json` | La présentation, version 13 « State Of The Art » (projet privé, publiée le 11 novembre 2026 à la même adresse) : 38 diapositives, 28 dans le fil (environ 33 minutes), 10 en annexe. Ce fichier fait foi pour l’ordre. Page privée : https://claude.ai/artifact/NGWE17VQB7zDfTtvKHDFSg |
+| `presentation-ia/2026-11-10-version-12-projet/project/slides/` | Les diapositives, une par fichier (seules celles de deck.json, clé « order », sont montrées) |
 | `presentation-ia/2026-11-10-version-12-projet/LISEZ-MOI.md` | Mode d’emploi des sources ; seul son dernier paragraphe décrit l’ordre publié |
 
 ### L’offre
