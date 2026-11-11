@@ -1,6 +1,6 @@
 # Feuille de notes et questions
 
-Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026, aligné sur la version 13 et « State Of The Art »
+Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026 (version 13)
 
 Vendredi 13 novembre 2026 · Présents : …………………………………………………………………………………… · De ………………… à …………………
 
@@ -49,46 +49,10 @@ Vendredi 13 novembre 2026 · Présents : ………………………………�
 | 31. Son avocat ? Son expert-comptable ? | …………………………………………………………………………………………………………………………………… |
 | 32. Son bureau de contrôle ? Son assureur ? | …………………………………………………………………………………………………………………………………… |
 
-> **Ce qu’il retient du programme : offres, projets phares** (diapositives `sota-phares`, `sota-familles`, `sota-maison`, `sota-commencer`, `decision`)
->
-> Les trois moments qu’il entoure : ☐ 1 La première nuit des œuvres ☐ 2 L’ouverture choisie avant d’ouvrir ☐ 3 État de l’art ☐ 4 Le vernissage-spectacle ☐ 5 Le matin de la maison ☐ 6 La maison d’avant
->
-> Offres, par numéro : « j’en ai envie » ……………………………… « plus tard » ……………………………… « pas pour moi » ………………………………
->
-> Une offre qui n’attend pas (J10) : ☐ 5 la règle de la maison ☐ 9 le film du chantier ☐ 21 la note pour l’architecte, l’état zéro ☐ 25 le calendrier des aides ☐ aucune
->
-> Les deux noms (si J9) : l’œuvre de l’ouverture ……………………………………… l’artiste du catalogue raisonné ………………………………………
->
-> Une offre à chiffrer en plus (prix écrit après le rendez-vous, jamais en séance) : ………………………………………………………………………
->
-> Ses mots sur « State Of The Art », ce qui l’a fait réagir : ……………………………………………………………………………………………………………
+> **Ce qu’il retient du programme : offres, projets phares** (`sota-phares` à `decision`)<br>Trois moments entourés : ☐ 1 Première nuit des œuvres ☐ 2 Ouverture choisie ☐ 3 État de l’art ☐ 4 Vernissage-spectacle ☐ 5 Matin de la maison ☐ 6 Maison d’avant<br>Offres, par numéro : « j’en ai envie » ……………………………… « plus tard » ……………………………… « pas pour moi » ………………………………<br>Offre qui n’attend pas (J10) : ☐ 5 règle de la maison ☐ 9 film du chantier ☐ 21 note à l’architecte, état zéro ☐ 25 aides ☐ aucune<br>Deux noms (J9) : l’œuvre de l’ouverture ……………………………………… l’artiste du catalogue raisonné ………………………………………<br>Offre à chiffrer en plus (prix écrit après le rendez-vous, jamais en séance) : ………………………………………………………………………
 
-> **Sa décision** (une seule case ; rien ne se signe en séance)
->
-> ☐ **Oui**, accord de principe pour le cadrage. Notées en A : ☐ la société ☐ le signataire ☐ la date
->
-> ☐ **Il réfléchit.** Rappel convenu le ………………………………………………………… Qui appelle : ……………………………………………………<br>Ce qui l’aiderait à décider : ………………………………………………………………………………………………………………………………………………………………
->
-> ☐ **Non.** Ce qui a manqué, dans ses mots : ……………………………………………………………………………………………………………………………………<br>…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+> **Sa décision** (une seule case ; rien ne se signe en séance)<br>☐ **Oui**, accord de principe pour le cadrage. Notées en A : ☐ la société ☐ le signataire ☐ la date<br>☐ **Il réfléchit.** Rappel convenu le ………………………………………………………… Qui appelle : ……………………………………………………<br>Ce qui l’aiderait à décider : ………………………………………………………………………………………………………………………………………………………………<br>☐ **Non.** Ce qui a manqué, dans ses mots : ……………………………………………………………………………………………………………………………………<br>…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
 
-> **Ce que nous avons dit que nous ferions, et pour quand**
->
-> **1.** Bon de commande et ses pièces, délai annoncé : ………………………………………………………………………………………………
->
-> **2.** …………………………………………………………………………………………………………………………………………………… pour le …………………………………………
->
-> **3.** …………………………………………………………………………………………………………………………………………………… pour le …………………………………………
->
-> **Où lui écrire** (l’adresse qu’il donne) : ……………………………………………………………………………………………………………………………………
+> **Ce que nous avons dit que nous ferions, et pour quand**<br>**1.** Bon de commande et ses pièces, délai annoncé : ………………………………………………………………………………………………<br>**2.** …………………………………………………………………………………………………………………………………………………… pour le …………………………………………<br>**3.** …………………………………………………………………………………………………………………………………………………… pour le …………………………………………<br>**Où lui écrire** (l’adresse qu’il donne) : ……………………………………………………………………………………………………………………………………
 
-> **Ses mots à lui** : les expressions qu’il emploie pour ses projets, à reprendre telles quelles
->
-> Ses suites : « ……………………………………………………………… » L’espace bien-être : « ……………………………………………………………… »
->
-> Le cabaret : « ……………………………………………………………… » Son administratrice : « ……………………………………………………………… »
->
-> Son logiciel : « ……………………………………………………………… » Ses bâtiments : « ……………………………………………………………… »
->
-> Ses objections, mot pour mot : …………………………………………………………………………………………………………………………………………………………
->
-> Sujets qu’il a soulevés hors de la présentation : ……………………………………………………………………………………………………………………
+> **Ses mots à lui** : les expressions qu’il emploie pour ses projets, à reprendre telles quelles<br>Ses suites : « ………………………………………… » L’espace bien-être : « ………………………………………… » Le cabaret : « ………………………………………… »<br>Son administratrice : « ………………………………………… » Son logiciel : « ………………………………………… » Ses bâtiments : « ………………………………………… »<br>Ses objections, mot pour mot : …………………………………………………………… Sujets hors de la présentation : ……………………………………………………………
