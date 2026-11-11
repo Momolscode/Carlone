@@ -20,11 +20,11 @@ Source unique des rédacteurs : page programme, catalogue client, diapositives. 
 
 Nom de travail. Marque non vérifiée : recherche dans la base de l’INPI avant tout document laissé (décision V13).
 
-## 2. Sept familles, vingt-sept offres
+## 2. Sept familles, vingt-six offres
 
 Partout : nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main ; vous décidez. Un outil du marché plutôt qu’un outil construit. Lecture seule d’abord. Rien n’est envoyé, payé, signé ou publié sans une personne habilitée. Comptes et données au nom de votre société. Un prix écrit avant toute commande. Aucun résultat promis : chaque gain se mesure.
 
-Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fait, sa source, sa date) ; format et durée ; qui fait quoi ; pour commencer ; mesure ; à faire valider par vos professionnels ; quand. Entre crochets, pour les rédacteurs seulement : l’origine, et le programme déjà montré que l’offre prolonge (diapositive `offres`).
+Rubriques du brief, dans l’ordre ; « avancé » : un fait, sa source, sa date. Entre crochets, pour les rédacteurs seulement : l’origine, et le programme déjà montré que l’offre prolonge.
 
 ### Famille I. L’œil : servir votre goût
 
@@ -97,7 +97,7 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **Quand.** 2027.
 
 **7. La salle d’une seule personne** [coll. 6 et 7, rev. 1 et 2, dest. 3 ; prolonge « la galerie sans murs »]
-- **Une phrase.** Chaque saison, pour chaque grand collectionneur, quelques œuvres choisies par vous, présentées comme une lettre, puis visitées ensemble, chacun dans sa langue.
+- **Une phrase.** Chaque saison, quelques œuvres choisies par vous pour un seul collectionneur, présentées comme une lettre, visitées ensemble dans sa langue.
 - **Vous obtenez.** Une salle privée en ligne : cinq œuvres, un mot de votre main, dans la langue du destinataire, doublée d’un envoi imprimé ; la visite à distance avec vous, traduite. Première saison : les fondateurs, qui réservent les œuvres de l’ouverture avant qu’elle ait lieu.
 - **Avancé.** Depuis janvier 2026, Google Meet traduit la parole entre l’anglais et cinq langues, dont le français, avec une voix qui imite le ton (Google, 4 février 2026 [front. F10]).
 - **Format.** Une saison d’essai, dix collectionneurs ; six mois avant l’ouverture pour les fondateurs.
@@ -247,29 +247,18 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 
 ### Famille VI. La maison orchestrée : tout tenir d’un écran
 
-**20. Le pupitre de votre administratrice** [orch. 1, 2, 4, 5, 15 ; prolonge « le chef d’orchestre » et « le copilote »]
+**20. Le pupitre de votre administratrice** [orch. 1, 2, 4, 5, 6, 15 ; prolonge « le chef d’orchestre » et « le copilote »]
 - **Une phrase.** Un assistant par lieu, un seul écran : votre administratrice dirige ; vous recevez une page chaque matin.
-- **Vous obtenez.** Les tâches qui reviennent, écrites une fois comme des partitions ; une seule file « à valider » ; les longues tâches confiées le soir, rendues au matin ; une mémoire qui répond avec la page source ; les nouveaux outils essayés chaque trimestre sur une copie.
+- **Vous obtenez.** Les tâches qui reviennent, écrites une fois comme des partitions ; une seule file « à valider » ; les longues tâches confiées le soir, rendues au matin ; les factures rapprochées des devis et des paiements, le mois prêt pour l’expert-comptable ; une mémoire qui répond avec la page source.
 - **Avancé.** Une boutique tenue par un agent d’IA est passée des pertes à des semaines presque toutes bénéficiaires une fois dotée d’outils et de procédures ; son éditeur la juge encore vulnérable (Anthropic, 18 décembre 2025 [dir. S8]).
-- **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu.
-- **Qui.** Nous : partitions, réglages, mesure. Des assistants du marché. Votre administratrice choisit et valide.
+- **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu, société par société.
+- **Qui.** Nous : partitions, réglages, mesure. Des assistants du marché ; une plateforme de factures agréée. Votre administratrice choisit et valide ; votre expert-comptable tient les comptes.
 - **Pour commencer.** L’inventaire du cadrage.
-- **Mesure.** Délai entre réception et validation ; erreurs à l’échantillon ; la tâche, jamais la personne.
-- **À faire valider.** Rien de payé, envoyé ou signé sans elle ; dire avant ce que l’outil enregistre.
-- **Quand.** Essai 2027.
+- **Mesure.** Délai entre réception et validation ; minutes par facture ; erreurs à l’échantillon : la tâche, jamais la personne.
+- **À faire valider.** Rien de payé, envoyé ou signé sans elle ; émission des factures par les PME au 1er septembre 2027 ; aucun conseil fiscal.
+- **Quand.** Essai 2027 ; vers 2030, l’assistant écrit en comptabilité après validation (supposé).
 
-**21. Les comptes de la maison, sans saisie** [orch. 6]
-- **Une phrase.** Pour chaque société, les factures rapprochées des devis et des paiements ; le mois prêt pour l’expert-comptable.
-- **Vous obtenez.** Les écarts vus avant paiement ; la trésorerie de toute la maison, chaque chiffre avec sa pièce, calculé par formule.
-- **Avancé.** Au 4 octobre 2026, trois entreprises sur quatre déclarant la TVA avaient choisi leur plateforme de factures électroniques ; les PME émettront les leurs au 1er septembre 2027 (communiqué ministériel, 9 octobre 2026 [dir. S16]).
-- **Format.** Huit semaines par société.
-- **Qui.** Nous relions. Une plateforme agréée, à votre nom. Votre expert-comptable tient les comptes.
-- **Pour commencer.** La plateforme de chaque société.
-- **Mesure.** Minutes par facture ; écarts trouvés.
-- **À faire valider.** Aucun conseil fiscal ; banque reliée à un assistant : secret bancaire.
-- **Quand.** 2027.
-
-**22. Le carnet vivant des murs** [orch. 13 ; jugement tenable, « le lot numérique des travaux » ; prolonge « les bâtiments qui préviennent »]
+**21. Le carnet vivant des murs** [orch. 13 ; jugement tenable, « le lot numérique des travaux » ; prolonge « les bâtiments qui préviennent »]
 - **Une phrase.** Chaque bâtiment câblé pour ce qui viendra, relevé en 3D avant les travaux, puis suivi pièce par pièce.
 - **Vous obtenez.** Tout de suite, une note pour votre architecte : réseau à part, scènes de lumière, son du cabaret, places des œuvres. Puis l’état zéro en 3D ; chaque lundi, les échéances ; chaque facture de chantier face au devis.
 - **Avancé.** Un scanner portable relève un étage en une trentaine de minutes, à 5 à 15 mm près (Messe Frankfurt, 22 mai 2026 [bât. B3]).
@@ -280,7 +269,7 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **À faire valider.** Une image 3D n’est pas une mesure ; réseau séparé.
 - **Quand.** Note maintenant ; carnet 2027 ; bâtiment interrogé en langage courant vers 2030.
 
-**23. Le tableau d’ouverture et la répétition générale** [jugement tenable, à oser]
+**22. Le tableau d’ouverture et la répétition générale** [jugement tenable, à oser]
 - **Une phrase.** Toutes vos autorisations d’ouverture sur un tableau ; puis une répétition où des invités fictifs éprouvent chaque outil.
 - **Vous obtenez.** Spectacle, boissons, sécurité, déclaration du jacuzzi, analyses de l’eau, taxe de séjour : pièces et dates. Un séjour, une soirée, une vente joués sans donnée réelle, et la liste de ce qui a cassé.
 - **Avancé.** Gartner prévoit l’abandon de plus de 40 % des projets d’agents d’IA d’ici fin 2027 : coûts, valeur peu claire, risques mal maîtrisés (25 juin 2025 [dir. S20]).
@@ -291,7 +280,7 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **À faire valider.** Toutes les démarches ; nous ne déclarons jamais un lieu conforme.
 - **Quand.** 2027, avant chaque ouverture.
 
-**24. Le fil de l’invité** [orch. 7 et 8, dest. 4, rev. 9]
+**23. Le fil de l’invité** [orch. 7 et 8, dest. 4, rev. 9]
 - **Une phrase.** Avec son accord, chaque invité n’est connu qu’une fois pour toute la maison, et une seule voix lui répond.
 - **Vous obtenez.** Sa langue, l’œuvre aimée, sa table, son créneau de sauna connus de chacun ; un assistant écrit, puis vocal, qui se dit IA et passe la main ; après le séjour, une lettre signée de vous.
 - **Avancé.** Le 29 septembre 2026, 0,5 % des sites d’hôtels classés de Bourgogne-Franche-Comté proposaient une discussion en ligne (Revolution Agency [acc. S10]).
@@ -304,7 +293,7 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 
 ### Famille VII. Rayonner et financer
 
-**25. La maison lisible par les assistants** [dest. 1, orch. 10 ; prolonge « le rayonnement »]
+**24. La maison lisible par les assistants** [dest. 1, orch. 10 ; prolonge « le rayonnement »]
 - **Une phrase.** Demander à un assistant d’IA où passer un week-end d’art mène à votre maison, décrite juste.
 - **Vous obtenez.** Une page de vérité reprise partout ; chaque mois, cinquante questions posées à quatre assistants, erreurs corrigées. En 2028, un ambassadeur qui répond aux assistants des voyageurs et des collectionneurs, ouvre une demande, ne vend jamais seul.
 - **Avancé.** Depuis le 27 août 2026, aux États-Unis, le mode IA de la recherche Google réserve une chambre auprès de dix partenaires (PPC Land, 28 août 2026 [ray.]).
@@ -315,7 +304,7 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **À faire valider.** Mêmes prix partout ; aucune place promise.
 - **Quand.** 2027 ; ambassadeur 2028.
 
-**26. L’argent qui attend** [rev. 12, terr. 12]
+**25. L’argent qui attend** [rev. 12, terr. 12]
 - **Une phrase.** Le calendrier des aides et des prêts possibles, avec l’ordre des actes.
 - **Vous obtenez.** Dès vendredi, un conseil : aucun devis de travaux signé avant d’avoir vérifié les aides. Puis une fiche par aide, les dossiers préparés, une alerte avant toute signature.
 - **Avancé.** La Région aide l’hôtellerie indépendante jusqu’à 30 % des travaux, logiciel de gestion admis, dossier déposé avant tout commencement (règlement du 6 mars 2026 [terr.]). Un appel national pour l’IA dans la culture a fermé le 20 octobre 2026, crédits épuisés (Bpifrance [terr.]).
@@ -326,7 +315,7 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **À faire valider.** Un devis signé vaut commencement ; aucune aide promise.
 - **Quand.** Maintenant.
 
-**27. L’art en entreprise** [rev. 4, terr. 3]
+**26. L’art en entreprise** [rev. 4, terr. 3]
 - **Une phrase.** Des œuvres d’artistes vivants pour les entreprises, votre galerie servant de salon d’essai.
 - **Vous obtenez.** Un dossier par entreprise, préparé la nuit, relu le matin : artistes, accrochage simulé et signalé, note pour son expert-comptable ; puis le suivi.
 - **Avancé.** Sur de vraies missions d’indépendants, l’agent d’IA en tête du classement rend un travail acceptable dans 41,3 % des cas en novembre 2026, contre 2,5 % fin 2025 (Scale AI [dir. S5]) : il prépare, une personne relit.
@@ -336,112 +325,3 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **Mesure.** Œuvres placées ; entreprises qui reviennent.
 - **À faire valider.** Déduction des achats faits avant le 31 décembre 2028 (article 238 bis AB) : jamais un argument chiffré.
 - **Quand.** 2027-2028.
-
-## 3. Cinq projets phares pour l’ouverture de 2027
-
-Ce que l’on verrait le jour venu, si la commande part au premier trimestre 2027. Dates d’ouverture à fixer avec lui.
-
-1. **La première nuit des œuvres** (offres 12, 16, 18, 24). *Le client des suites.* Un couple arrive de Milan le soir de l’ouverture ; la veille, il a reçu son programme en italien. Dans sa suite, une toile choisie pour lui, un mot au chevet, aucun écran. Après le vernissage et le cabaret, la suite est prête quand le rideau tombe. Au matin : le sauna à son heure, le dossier de l’œuvre aimée, une visite privée. Il repart avec le tirage signé de sa nuit.
-2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu chacun leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux, à Londres, a visité l’accrochage avec vous, chacun parlant la sienne. Le jour venu, il retrouve l’œuvre réservée, approche son téléphone du châssis : le certificat s’affiche. Le soir, il reçoit le passeport de l’œuvre.
-3. **La main et la machine** (8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel du jour. Dans la galerie, votre stock fait face aux œuvres commandées ; sous chacune, la part de la main et celle de la machine. Une visiteuse ouvre le journal daté d’une pièce. Dans dix ans, on marchera encore dans cette exposition.
-4. **Le vernissage-spectacle** (17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. À chaque table, le son est net. Des artistes vivants : aucun avatar, aucune voix imitée.
-5. **Le matin de la maison** (2, 20, 21, 23). *Vous et votre administratrice.* Sept heures. Sur un seul écran, la nuit de tous vos lieux : factures du chantier rapprochées des devis, deux écarts signalés, la dernière analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
-
-## 4. Trois façons de commencer, vendredi
-
-Le cadrage reste la première marche recommandée : trois à quatre semaines, 6 500 € hors taxes, prix fixe. Ce qui change : il se tourne vers les trois moments que vous choisissez dans le programme, au même prix, avec le même dossier.
-
-1. **Ce que l’on peut décider tout de suite.** Votre accord pour le cadrage. Un conseil, sans attendre : aucun devis de travaux signé avant d’avoir vérifié les aides (26). Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la note pour votre architecte (22), le film du chantier (9), la règle de la maison (5) ou le calendrier des aides (26).
-2. **Ce qui passe d’abord par le cadrage.** Tout ce qui touche vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret : offres 1 à 4, 6, 7, 16 à 18, 20, 21, 23 à 25, 27. Le cadrage en tire vos trois priorités à 90 jours ; puis un essai à la fois.
-3. **Ce qui se prépare pour plus tard.** Ce qui demande des mois : les commandes d’œuvres (11, 12, 15), la résidence (13), la main d’ici (14), les mondes (10), Bourges et Solstice (19). Leur conception peut commencer pendant le cadrage ; aucun artiste n’est contacté sans votre accord.
-
-**Ce que vous pouvez choisir en plus.** L’angle du cadrage, au même prix : par les œuvres, par le cercle, par l’ouverture ou par la maison. Au plus une offre qui n’attend pas. Un projet phare en conception. Chacune avec son prix écrit avant toute commande.
-
-**La phrase de la décision.** « Aujourd’hui, nous vous demandons une décision : votre accord pour le cadrage, tourné vers les trois moments que vous avez choisis, et, si vous le voulez, le nom de l’offre que nous vous chiffrons en plus. Le bon de commande suit ; rien ne vous engage avant de le signer. »
-
-## 5. Le chemin : 2027, 2028, 2030
-
-La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 ; une mesure du passé, pas une prévision.
-
-- **2027. Ce qui ouvre :** le cadrage en janvier ; la règle de la maison, le cabinet des œuvres, le pupitre, les salles des fondateurs ; la galerie, son exposition, l’œuvre du seuil ; les suites et le cabaret si leurs dates le permettent. **L’IA :** des tâches de logiciel de seize heures d’expert réussies une fois sur deux (mesuré) ; la voix traduite en français dans une réunion (disponible) ; un monde 3D tiré d’une image (disponible). **Les règles :** machines au 20 janvier ; vigilance contre le blanchiment au 10 juillet ; factures émises par les PME au 1er septembre.
-- **2028. Ce qui ouvre :** la résidence, la main d’ici, l’œil appris, l’ambassadeur, la toile de minuit ; Bourges 2028, ouverture annoncée les 22 et 23 janvier ; Solstice en décembre ; le laboratoire. **L’IA :** des tâches de plusieurs jours si le rythme se maintient (supposé) ; un programmeur automatisé, situé par deux prévisionnistes indépendants entre fin 2027 et début 2030 (prévision très incertaine). **Les règles :** déduction des achats d’œuvres par les entreprises jusqu’au 31 décembre 2028.
-- **2030. Ce qui ouvre :** le passeport transmis à chaque revente ; des salles que lisent les assistants des collectionneurs ; des mondes où l’on parle ; un carnet des murs interrogé en langage courant. En réserve, s’il le demande : le catalogue raisonné d’un artiste, l’inventaire des collections de ses clients. **L’IA :** selon Epoch AI, une IA qui écrit seule du logiciel bien défini, avec 10 à 20 % gagnés par tâche et un déploiement en retard (prévision, 2025) ; l’assistant du collectionneur qui prépare l’achat (supposé) ; un humanoïde utile près du public, pas avant (supposé ; aucune livraison domestique vérifiée à la mi-octobre 2026).
-
-## 6. Comment nous le tenons
-
-- **Les deux associés** (partage proposé). Morgan Olsen : la relation, les artistes, les spécialistes, les projets phares. Mathys Couet : les outils, les données, les liens, la sécurité, la mesure. L’un mène, l’autre relit et prend le relais.
-- **Les spécialistes à réunir** (aucun approché) : avocats du marché de l’art, des données et de la propriété artistique ; votre expert-comptable ; une agence de voyages immatriculée ; un intégrateur réseau, scène et sécurité ; un spécialiste du relevé 3D ; un commissaire ; des artistes ; un metteur en scène ; un régisseur d’œuvres ; un conservateur-restaurateur ; un assureur d’œuvres ; un producteur ; un laboratoire universitaire.
-- **Ce qui s’achète :** logiciels de galerie, des suites, de billetterie, de réservation ; assistants ; traduction ; certificats ; capture 3D ; plateforme de factures. **Ce que nous construisons :** une seule base des faits et des récits, validée par vous, qui nourrit toutes les offres ; la file « à valider » ; les liens ; la mesure.
-- **Ce que fait votre équipe :** votre administratrice dirige le pupitre et tient les registres ; votre accueil garde la relation ; vous choisissez, écrivez, signez.
-- **L’ordre :** deux chantiers à la fois au plus, dont un seul sur vos données ; un essai à la fois ; chaque marche mesurée avant la suivante. Tout à votre nom, tout exportable, un relais nommé si l’un de nous manque.
-- **Ce que nous refusons :** authentifier, estimer, vendre une œuvre comme un placement ; un conseil fiscal ou juridique ; déposer un dossier à votre place ; une machine près du public sans analyse des risques ; un humanoïde d’accueil ; une voix imitée ; un capteur sur le corps ; la reconnaissance des visages ; une IA qui note une personne ; une administratrice remplacée ou surveillée ; une image générée présentée comme réelle.
-
-## 7. Grille interne
-
-**INTERNE — à décider par Morgan Olsen et Mathys Couet.** Jamais montrée ni citée au client.
-
-Hypothèse de calcul : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société sur leurs devis, hors grille ; leur part se lit face à nos honoraires. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
-
-| N° | Nous, en jours : mise en place ; suivi | Tiers (part) | Fourchette HT |
-| --- | --- | --- | --- |
-| 1 | 12 à 18 ; 1 par mois | logiciel (faible) | 9 000 à 18 500 € |
-| 2 | 8 à 12 ; 0,5 par dossier | laboratoire, bases (moyenne) | 6 000 à 12 500 € ; 400 à 500 € le dossier |
-| 3 | 8 à 10 ; 1 par mois ; œil appris 8 à 12 | bases (moyenne) | 6 000 à 10 500 € ; œil appris 6 000 à 12 500 € |
-| 4 | 12 à 16 ; 2 par mois, six mois | numérisation, studio (forte) | 9 000 à 16 500 € |
-| 5 | 4 à 6 ; 3 par an | sécurité, avocat (moyenne) | 3 000 à 6 000 € |
-| 6 | 10 à 14 ; 1 par mois | logiciel, avocat ; machine 5 500 à 7 500 € HT (k13a, à revérifier) | 7 500 à 14 500 € |
-| 7 | 12 à 18 ; 2 par saison | salles, impression (moyenne) | 9 000 à 18 500 € |
-| 8 | 10 à 14 ; 0,25 par vente | certificats, avocat (moyenne) | 7 500 à 14 500 € |
-| 9 | 5 à 7 ; 2 par saison | photographe, réalisateur (forte) | 4 000 à 7 000 € |
-| 10 | 6 à 8 ; 1 par accrochage | capture, 500 à 3 000 € par jour [bât. B3] | 4 500 à 8 500 € |
-| 11 | 12 à 16 ; 1 par trimestre | artiste, production (très forte) | 9 000 à 16 500 € |
-| 12 | 8 à 12 ; 1 par mois | artiste, imprimeur (forte) | 6 000 à 12 500 € |
-| 13 | 12 à 16 ; 4 par artiste ; laboratoire 15 à 25 | bourses, laboratoire (forte) | 9 000 à 16 500 € ; laboratoire 11 000 à 26 000 € |
-| 14 | 6 à 10 ; 2 par binôme | artisans, relevé (forte) | 4 500 à 10 500 € |
-| 15 | 15 à 20 | commissaire, transport, assurance (très forte) | 11 000 à 20 500 € |
-| 16 | 6 à 10 ; 1 par saison | régisseur, restaurateur (moyenne) | 4 500 à 10 500 € |
-| 17 | 10 à 14 ; 4 à 6 par exposition | scène, artistes (très forte) | 7 500 à 14 500 € |
-| 18 | 8 à 10 ; 1 par mois | avocat, agence (moyenne) | 6 000 à 10 500 € |
-| 19 | Bourges 8 à 12 ; Solstice 12 à 18 par édition | producteur, sécurité (très forte) | 6 000 à 12 500 € ; 9 000 à 18 500 € |
-| 20 | 15 à 25 ; 2 à 4 par mois | abonnements, calcul plafonné (faible) | 11 000 à 26 000 € |
-| 21 | 8 à 12 par société ; 1 à 2 par mois | plateforme (faible) | 6 000 à 12 500 € par société |
-| 22 | note 3 à 5 ; carnet 10 à 15 ; 1 par mois | relevé, capteurs (forte) | 2 500 à 5 000 € ; 7 500 à 15 500 € |
-| 23 | 6 à 8 ; 2 à 3 par répétition | ses professionnels (moyenne) | 4 500 à 8 500 € |
-| 24 | 12 à 18 ; 1 à 2 par mois | logiciels, voix (moyenne) | 9 000 à 18 500 € |
-| 25 | 6 à 8 ; 0,5 par mois ; ambassadeur 8 à 12 | outil (faible) | 4 500 à 8 500 € ; 6 000 à 12 500 € |
-| 26 | 5 à 7 ; 1 à 5 par dossier | aucun | 4 000 à 7 000 € |
-| 27 | 10 à 14 ; 2 par entreprise | expert-comptable (faible) | 7 500 à 14 500 € |
-
-**Total.** 247 à 355 jours de mise en place sur 2027-2030, sans les prolongements ; environ 185 000 à 370 000 € HT, hors tiers et hors suivi. **2027 tient en 150 jours au plus** : cadrage, 5, 26, note du 22, 9, 1, 20, 2, 7, 8, 11, 15 (110 à 157 jours). Les suites (16, 18, 24) au-delà : une troisième personne ou des sous-traitants. Votre administratrice : deux à cinq jours de prise en main par offre, sur son temps de travail.
-
-## 8. Réserves de droit et de sécurité
-
-À faire valider par ses professionnels, offre par offre.
-
-1. Registre des objets mobiliers ; droits des images ; export ouvert exigé.
-2. Décret de 1981 ; anti-blanchiment au 10 juillet 2027 ; jamais d’authentification ni d’estimation.
-3. Licences des bases ; aucun droit d’agir ; modèle privé, données à lui seul.
-4. Droits des photographes et des épistoliers ; voix enregistrée, jamais imitée ; article 50.
-5. Article 4 ; code du travail, L1222-4 ; note CIANum-CNIL : journal, arrêt, mémoire cloisonnée.
-6. RGPD : information, accès, effacement, chiffrement ; analyse d’impact possible ; pièces d’identité à part.
-7. Suivi consenti ; rétractation des ventes à distance ; accord des auteurs.
-8. Le papier signé fait foi ; droit de suite ; certificat d’exportation ; prestataire qui disparaît.
-9. Droit à l’image ; article 50 ; aucun tournage dans l’intimité ; drone : autorisation préalable.
-10. Reproduction et droit moral ; article 50 ; une image 3D n’est pas une mesure.
-11. Contrat de commande ; pose contrôlée ; aucune captation.
-12. Statut fiscal d’un tirage fait à la machine (CGI, annexe III, art. 98 A) ; article 50, § 4.
-13. RGPD, article 22 ; contrats de résidence ; données d’entreprise effacées après essai.
-14. Co-autorat ; statut fiscal ; machines sous capot (règlement machines, 20 janvier 2027).
-15. Prêts, transport, assurance ; droits de reproduction.
-16. Bons de dépôt ; assurance ; climat ; jamais un placement.
-17. Spectacle, ERP, boissons ; voix des artistes ; machine : ISO 10218-2:2025 ne couvre pas le public, analyse propre au lieu.
-18. Forfait touristique (code du tourisme, L211-1 et L211-2) ; Atout France ; directive 2026/1024 en 2029.
-19. Sécurité du public ; boissons ; nom de Bourges 2028 ; vente de séjours.
-20. Lecture seule ; instruction cachée : comptes séparés, droits minimaux ; calcul plafonné.
-21. Monopole de l’expert-comptable ; secret bancaire ; aucun conseil fiscal.
-22. Réseau séparé ; capteurs des suites : données personnelles ; jamais la maîtrise d’œuvre ; assurance vérifiée.
-23. Jamais « conforme » ; jacuzzi : déclaration en mairie, analyses accréditées au 1er janvier 2027.
-24. Article 50 ; une réponse fausse engage l’exploitant ; partage entre sociétés consenti.
-25. Mêmes prix partout ; prix personnalisé déclaré ; aucune réservation sans validation.
-26. Un devis signé vaut commencement ; sa société dépose ; aucune aide promise.
-27. 238 bis AB, achats avant le 31 décembre 2028 ; œuvre originale ; aucun chiffre d’avantage.
