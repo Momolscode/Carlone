@@ -1,68 +1,74 @@
 # Catalogue maître « State Of The Art »
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Source unique des rédacteurs. Le meilleur des six portefeuilles s2, retouché selon les trois jugements. Chaque fait « avancé » vient d’une note s1 du 11 novembre 2026, à source lue ; entre crochets, la note (gal., créa., lieux, acc., scène, ray., dir., front., bât., terr.). Parties 1 à 5 : prêtes à reprendre, au vouvoiement. Parties 7, 8, 9 et 11 : jamais montrées. Dans un document client, seul le cadrage a un prix.
+Source unique des rédacteurs. Le meilleur des six portefeuilles s2, retouché selon les trois jugements. Chaque fait « avancé » vient d’une note s1 du 11 novembre 2026, à source lue ; entre crochets, la note (gal., créa., lieux, acc., scène, ray., dir., front., bât., terr.). Parties 1 à 5 : prêtes à reprendre, au vouvoiement. Parties 7, 8, 9, 11 et 12 : jamais montrées. Dans un document client, seul le cadrage a un prix. Révisé le 11 novembre 2026 après deux critiques, l’une sur l’audace, l’autre sur ce qui serait faux ou intenable ; ce qui n’a pas été repris est dit au § 12.
 
 ## 1. Le programme en dix lignes
 
-**Phrase-titre.** State Of The Art : une maison d’art que l’on vient voir de loin, où ce que l’IA fait de plus avancé sert votre œil, jamais à sa place.
+**Phrase-titre.** Les œuvres que vous aimez furent l’état de l’art de leur temps. Votre maison sera l’état de l’art du nôtre.
+
+**Sous-titre.** Une maison d’art que l’on vient voir de loin, où l’IA la plus avancée sert votre œil.
 
 1. Avenue Montaigne, on ne vend pas des œuvres : on les confie à des personnes.
 2. Dans la Nièvre, vous offrirez ce que Paris n’offre plus : le temps de regarder, une scène, une nuit.
 3. On viendra de loin pour une œuvre, on restera une nuit, on reviendra à la saison suivante.
-4. Chaque collectionneur sera connu comme un ami ; rien de ce qu’il confie ne quittera votre maison.
+4. Chaque collectionneur sera connu comme un ami ; ce qu’il confie restera dans vos comptes, à votre nom, chez un hébergeur en Europe que vous choisissez.
 5. Des œuvres naîtront chez vous, commandées à des artistes qui travaillent avec les outils de leur temps.
-6. Chacune partira avec son histoire écrite et la preuve de la main qui l’a faite.
-7. Le soir, la scène répondra à la galerie ; la nuit, une œuvre choisie par vous veillera dans la suite de chaque hôte.
+6. Celles qui naissent chez vous partiront avec leur histoire écrite et le journal daté de leur fabrication, tenu par l’artiste. Chaque photo, chaque film que la maison présente comme réels porteront leur origine : le réel signé.
+7. Le soir, la scène répondra à la galerie ; la nuit, une œuvre choisie par vous veillera dans chaque suite.
 8. Derrière votre administratrice, des assistants travailleront la nuit ; au matin, une page : ce qui est prêt, ce qui attend votre accord.
-9. Les outils les plus avancés resteront dans l’ombre : chercher, traduire, préparer, se souvenir. Rien n’est montré, vendu ou signé sans vous.
-10. Ce n’est pas plus de machines. C’est plus de maison.
+9. L’IA la plus avancée sera discrète pour vos hôtes, visible dans les œuvres, décisive pour vous : chercher, traduire, préparer, se souvenir, créer. Rien n’est montré, vendu ou signé sans vous.
+10. Les machines travaillent ; la maison reçoit.
+
+**Pourquoi maintenant.** Sur de vraies missions de travailleurs indépendants, le meilleur agent d’IA rendait un travail acceptable dans 2,5 % des cas fin 2025, et dans 41,3 % en novembre 2026 (Scale AI [dir. S5]). Sur des tâches de logiciel, METR mesurait en août 2025 des tâches de 2 h 17 d’expert réussies une fois sur deux. Pour un modèle testé au printemps 2026, au moins seize heures ; METR ne sait plus mesurer au-delà (8 septembre 2026 [dir. S1]). Ce sont des mesures du passé, pas des prévisions. Une maison qui se construit aujourd’hui peut être bâtie pour ce rythme, au lieu de le rattraper.
 
 Nom de travail ; marque non vérifiée (V13).
 
-## 2. Sept familles, vingt-six offres
+## 2. Sept familles, vingt-neuf offres
+
+Les offres 27, 28 et 29, ajoutées le 11 novembre, sont rangées dans leur famille.
 
 Partout : nous concevons et orchestrons, des spécialistes exécutent, votre équipe garde la main, vous décidez. Un outil du marché d’abord ; lecture seule d’abord ; rien d’envoyé, payé ou signé sans une personne habilitée ; tout à votre nom ; un prix écrit avant toute commande ; aucun résultat promis, chaque gain se mesure.
 
 ### Famille I. L’œil : servir votre goût
 
 **1. Le cabinet des œuvres**
-- **Une phrase.** Votre stock documenté comme la collection d’un musée.
-- **Vous obtenez.** Par œuvre : images, cartel en deux langues, provenance, expositions, état, description audio. À chaque mouvement, un constat d’état comparé au précédent.
-- **Avancé.** Les logiciels de galerie importent un inventaire en masse ; les descriptions nourrissent la recherche (Artsy, 1er octobre 2025 [gal. S24]).
+- **Une phrase.** Votre réserve devient une pièce que l’on visite sur rendez-vous ; chaque œuvre y attend avec son dossier, préparé la nuit et signé par vous.
+- **Vous obtenez.** Une réserve ouverte à vos collectionneurs, derrière une vitre. Par œuvre : images, cartel en deux langues, provenance, expositions, état, description audio et dossier de nuit imprimé (2). À chaque mouvement, un constat d’état comparé au précédent.
+- **Avancé.** Dans le Var, la Commanderie de Peyrassol annonce pour 2026 une réserve que l’on visite (site [lieux], à relire). Les logiciels de galerie importent un inventaire en masse ; les descriptions nourrissent la recherche (Artsy, 1er octobre 2025 [gal. S24]).
 - **Format.** Essai de huit semaines sur vingt œuvres, puis tout le stock.
-- **Qui.** Nous : réglages, textes proposés, sur un logiciel de galerie du marché. Votre équipe relit ; vous tranchez.
+- **Qui.** Nous : réglages, textes proposés, sur un logiciel de galerie du marché. Votre équipe relit ; vous tranchez. Un scénographe et un assureur, pendant les travaux.
 - **Départ.** Vingt œuvres et leurs pièces.
-- **Mesure.** Minutes par fiche, avant et après.
-- **À faire valider.** Registre des objets mobiliers, s’il s’applique ; droits des images publiées.
-- **Quand.** 2027 : premier essai après le cadrage.
+- **Mesure.** Minutes par fiche, avant et après ; rendez-vous en réserve ; œuvres sorties de la réserve.
+- **À faire valider.** Registre des objets mobiliers, s’il s’applique ; droits des images publiées ; assurance et accueil du public dans la réserve.
+- **Quand.** Les fiches en 2027, premier essai après le cadrage ; la pièce, à l’ouverture de la galerie.
 
 **2. Le cabinet de nuit**
 - **Une phrase.** Le soir, vous nommez une œuvre ; le matin, son dossier de vigilance est prêt.
 - **Vous obtenez.** Avant d’acheter, de prendre en dépôt ou de vendre, une page à signer : provenance, recherche datée dans les bases d’œuvres volées et spoliées, ventes comparables, questions ouvertes.
-- **Avancé.** À l’université de Santa Clara, un assistant de provenance rend, sur une simple question, plus de 70 œuvres d’un même collectionneur spolié (NPR, 9 août 2026 [gal. S23]).
+- **Avancé.** Sur une seule question, un assistant de l’université de Santa Clara fait apparaître plus de 70 œuvres d’un même collectionneur spolié, dans une seule base (NPR, 9 août 2026 [gal. S23]).
 - **Format.** Trois semaines de méthode, puis un dossier par œuvre.
 - **Qui.** Nous : méthode, recherche. Laboratoire et bases de prix : des tiers. Vous concluez.
 - **Départ.** Trois œuvres récentes.
 - **Mesure.** Dossiers faits avant décision, heures par dossier.
-- **À faire valider.** Décret du 3 mars 1981 ; vigilance contre le blanchiment (règlement européen, 10 juillet 2027). L’IA n’authentifie ni n’estime.
+- **À faire valider.** Décret du 3 mars 1981 ; vigilance contre le blanchiment, déjà due pour toute opération de 10 000 € et plus (code monétaire et financier, article L561-2) ; le règlement européen la renforce au 10 juillet 2027. La déclaration de soupçon reste la vôtre. L’IA n’authentifie ni n’estime.
 - **Quand.** 2027.
 
 **3. La veille du marchand, puis l’œil appris**
-- **Une phrase.** Chaque nuit, un assistant lit ce que vous n’avez plus le temps de lire ; en 2028, il apprend votre œil.
-- **Vous obtenez.** Le lundi, une page sourcée : vos artistes aux enchères, en musée, dans la presse ; les œuvres apparues qui répondent aux souhaits de vos collectionneurs. En 2028, un petit modèle privé, appris sur vos choix passés, classe les lots de la semaine ; il ne décide rien.
+- **Une phrase.** Chaque nuit, un assistant lit ce que vous n’avez plus le temps de lire ; dès 2028, il apprend votre œil, et cet œil reste à la maison.
+- **Vous obtenez.** Le lundi, une page sourcée : vos artistes aux enchères, en musée, dans la presse ; les œuvres apparues qui répondent aux souhaits de vos collectionneurs. En 2028, un petit modèle privé, appris sur vos seuls choix passés, trie les lots de la semaine ; vous choisissez. Il se transmet avec la maison.
 - **Avancé.** Des outils lisent déjà 400 maisons de ventes ; plus de 60 % des ventes, faites chez les marchands, leur échappent (Bloomberg, 18 février 2026 [gal. S20]) : votre réseau reste l’avantage.
 - **Format.** Un mois de montage, puis chaque semaine.
 - **Qui.** Nous : sources, montage, tri. Bases sous abonnement. Vous : qui appeler.
 - **Départ.** Vos artistes, dix souhaits de collectionneurs.
-- **Mesure.** Pistes retenues par mois.
+- **Mesure.** Pistes retenues par mois. Parmi ses dix premiers lots, combien vous en auriez retenu.
 - **À faire valider.** Conditions d’usage des bases, lecture seule.
 - **Quand.** Veille 2027, œil appris 2028.
 
 **4. Les archives d’un regard**
 - **Une phrase.** Vos années de marchand, mises en ordre et racontées par vous.
-- **Vous obtenez.** Lettres et catalogues numérisés ; quatre entretiens enregistrés ; une salle où l’archive répond par vos seuls textes, page source à l’appui ; un livre, si vous le voulez.
-- **Avancé.** Au muséum d’Autun, voisin de la Nièvre, un guide conversationnel répond sur trente œuvres à partir de 300 pages de notes ; les questions sans réponse remontent à l’équipe (Ask Mona, éditeur, 19 mai 2025 [gal. S9]).
+- **Vous obtenez.** Lettres et catalogues numérisés ; quatre entretiens enregistrés ; une salle où l’archive répond par vos seuls textes, page source à l’appui ; un livre, si vous le voulez. Si vous le voulez, votre voix dans la langue de chacun : en direct au vernissage et pendant vos visites à distance ; plus tard, vos commentaires enregistrés, traduits avec votre voix, signalés comme tels, gardés dans vos comptes.
+- **Avancé.** Au muséum d’Autun, voisin de la Nièvre, un guide conversationnel répond sur trente œuvres à partir de 300 pages de notes ; les questions sans réponse remontent à l’équipe (Ask Mona, éditeur, 19 mai 2025 [gal. S9]). En juin 2026, Google a ouvert en préversion une traduction de la voix dans plus de soixante-dix langues, qui garde l’intonation et suit à quelques secondes (annonce du 9 juin 2026 [front. F11] ; qualité affirmée par l’éditeur, à essayer avant de promettre).
 - **Format.** Six mois.
 - **Qui.** Nous : tri de nuit, index, entretiens, salle. Numérisation, studio, éditeur : des tiers. Vous : la parole.
 - **Départ.** Un entretien, un carton d’archives.
