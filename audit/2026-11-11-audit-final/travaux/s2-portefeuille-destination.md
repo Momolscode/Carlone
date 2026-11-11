@@ -1,7 +1,7 @@
 # S2 — Portefeuille « State Of The Art » : la destination
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Angle « La destination » : un lieu que l’on vient voir de loin, pensé du premier clic au départ. Chaque fait vient d’une note s1 du 11 novembre 2026, avec sa source ; « annoncé » et « vu » restent dits. « Nouvelle » : absente des pages écrites pour lui ; « prolonge » : va plus loin qu’une offre nommée. Aucun prix de vente.
+Angle « La destination » : un lieu que l’on vient voir de loin, pensé du premier clic au départ. Chaque fait vient d’une note s1 du 11 novembre 2026. « Nouvelle » : absente des pages écrites pour lui ; « prolonge » : va plus loin qu’une offre nommée. Aucun prix de vente.
 
 ## 1. Le concept
 
@@ -25,11 +25,11 @@ Angle « La destination » : un lieu que l’on vient voir de loin, pensé du pr
 >
 > State Of The Art : le lieu où l’art, l’accueil, la scène et l’intelligence artificielle se rencontrent, et que l’on vient voir de loin.
 
-Nom de travail, marque non vérifiée. Les familles suivent le parcours du visiteur.
+Nom de travail, marque non vérifiée.
 
 ## 2. Treize offres en cinq familles
 
-Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, des spécialistes exécutent, son équipe garde la main, une personne valide ; le droit est « à faire valider par vos professionnels » ; un prix est écrit avant toute commande.
+Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, des spécialistes exécutent, son équipe garde la main, une personne valide ; droit « à faire valider par vos professionnels » ; prix écrit avant toute commande.
 
 ### Famille 1 — Avant : être désiré de loin, préparer le voyage
 
@@ -50,14 +50,14 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 **3. La visite privée à distance** · nouvelle · 2027
 - **Quoi :** un collectionneur de Londres marche dans l’exposition depuis un lien, puis la visite en direct avec lui, chacun dans sa langue.
 - **Il obtient :** chaque accrochage capturé en 3D et archivé ; une salle privée par collectionneur ; la visite commentée, traduite.
-- **Avancé :** depuis janvier 2026, Google Meet traduit la voix entre l’anglais et le français en imitant le ton (Google, 4 février 2026) ; le LACMA montre des objets capturés en 3D, manipulés sur téléphone (note « galerie »).
+- **Avancé :** depuis janvier 2026, Google Meet traduit la voix entre l’anglais et le français en imitant le ton (Google, 4 février 2026).
 - **Qui, durée :** un spécialiste de la capture, une journée par accrochage ; nous (protocole, salle privée) ; lui commente.
 - **Commencer :** l’accord écrit des artistes. **Mesure :** demandes nées d’une visite. **Règles :** droit de reproduction ; participants informés ; vitres et reflets essayés avant de promettre.
 
 **4. Le voyage écrit pour vous** · prolonge le livret d’accueil · 2027
 - **Quoi :** de la réservation à la clé, chaque voyageur reçoit son programme dans sa langue ; la maison répond jour et nuit.
 - **Il obtient :** un assistant écrit qui se dit IA et passe la main ; un programme par séjour (exposition, soirée, créneau au sauna, tables choisies par lui) ; formalités réglées avant l’arrivée.
-- **Avancé :** une voix IA a traité 5 487 appels en sept semaines dans treize établissements, en 22 langues (Lighthouse, 29 avril 2026) ; en Bourgogne-Franche-Comté, 0,5 % des sites d’hôtels classés offraient un chat (Revolution Agency, 29 septembre 2026).
+- **Avancé :** une voix IA a traité 5 487 appels en sept semaines, en 22 langues (Lighthouse, 29 avril 2026) ; dans la région, 0,5 % des sites d’hôtels classés offraient un chat (Revolution Agency, 29 septembre 2026).
 - **Qui, durée :** un outil du marché relié au logiciel des suites ; nous, deux mois (base de réponses, programmes types) ; son équipe valide.
 - **Commencer :** le logiciel des suites choisi. **Mesure :** délai de réponse ; séjours avec programme. **Règles :** dire que c’est une IA (règlement européen, article 50) ; consentement.
 
@@ -73,7 +73,7 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 **6. La réserve visitable** · nouvelle · 2027-2028
 - **Quoi :** son stock, ce qu’aucun musée n’a, montré derrière une vitre, sur rendez-vous.
 - **Il obtient :** une réserve ouverte aux collectionneurs ; fiche, provenance et dossier de chaque œuvre préparés par l’IA, signés par lui ; un dossier de vigilance avant tout achat.
-- **Avancé :** la Commanderie de Peyrassol annonce pour 2026 une réserve visitable (site, annoncé) ; à Santa Clara, un assistant retrouve sur une question courante plus de 70 œuvres d’un collectionneur spolié (9 août 2026).
+- **Avancé :** à Santa Clara, un assistant retrouve sur une question courante plus de 70 œuvres d’un collectionneur spolié (9 août 2026) ; Peyrassol annonce une réserve visitable (site).
 - **Qui, durée :** nous, l’inventaire en deux mois ; un scénographe et un assureur, pendant les travaux.
 - **Commencer :** l’inventaire photographié. **Mesure :** rendez-vous ; œuvres sorties de la réserve. **Règles :** l’IA ne fixe ni prix ni attribution ; jamais un placement.
 
@@ -89,7 +89,7 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 **8. La scène qui répond à la galerie** · nouvelle, prolonge « Le cabaret augmenté » · 2027 ; revues, 2028
 - **Quoi :** chaque exposition s’ouvre par un numéro créé pour elle ; une œuvre devient décor ; l’étranger lit le spectacle dans sa langue.
 - **Il obtient :** un vernissage-spectacle par exposition ; des images créées en direct par la musique et le geste ; des lunettes à surtitres prêtées ; un son qui suit l’artiste.
-- **Avancé :** à La Haye, un théâtre national prête des lunettes à sous-titres créés par l’IA, 223 langues annoncées (Audinate, 29 mai 2025). Leçon : à Bayreuth, en 2026, l’IA à la place de la mise en scène a été huée (vu).
+- **Avancé :** à La Haye, un théâtre national prête des lunettes à sous-titres créés par l’IA, 223 langues annoncées (Audinate, 29 mai 2025).
 - **Qui, durée :** un metteur en scène, des artistes, un régisseur vidéo, un numéro par exposition ; un acousticien avant les plans ; nous (lien galerie-scène, essais, règles).
 - **Commencer :** le cabaret confirmé. **Mesure :** spectateurs passés à la galerie, et l’inverse. **Règles :** accord écrit de l’artiste exposé ; charte voix et image ; aucune reconnaissance des visages.
 
@@ -114,13 +114,13 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 **11. L’œuvre qui rentre avec vous** · nouvelle · 2027
 - **Quoi :** l’acheteur repart avec l’œuvre et toute son histoire ; le visiteur, avec son parcours, et la maison le retrouve s’il l’accepte.
 - **Il obtient :** un carnet numérique par œuvre vendue ; un certificat papier doublé d’une puce au dos ; une lettre trimestrielle signée de sa main.
-- **Avancé :** à Art Basel, en juin 2026, un stand liait chaque œuvre à un certificat sur puce (Verisart, éditeur, 22 juin 2026) ; 22 % des collectionneurs fortunés se renseignent avec l’IA, contre 4 % en 2024 (Art Basel et UBS, 8 octobre 2026).
+- **Avancé :** à Art Basel, en juin 2026, un stand liait chaque œuvre à un certificat sur puce (Verisart, éditeur, 22 juin 2026).
 - **Qui, durée :** nous, six semaines ; un prestataire de certificats, un outil d’envoi ; il signe.
 - **Commencer :** les fiches d’œuvres. **Mesure :** ventes à un visiteur revenu. **Règles :** consentement ; double papier signé ; jamais un placement.
 
 **12. Le calendrier de la destination** · nouvelle · décembre 2027, puis 2028
-- **Quoi :** deux rendez-vous qui font venir de loin : « Solstice », un long week-end d’hiver quand la Nièvre se vide ; l’étape nivernaise de Bourges, capitale européenne de la culture.
-- **Il obtient :** lumière sur les façades, revue d’hiver, sauna de nuit ; une exposition liée à Bourges 2028 et un séjour « la capitale le jour, la galerie le soir ».
+- **Quoi :** deux rendez-vous qui font venir de loin : « Solstice », un long week-end d’hiver ; l’étape nivernaise de Bourges, capitale européenne de la culture en 2028.
+- **Il obtient :** lumière sur les façades, revue d’hiver, sauna de nuit ; une exposition et un séjour liés à Bourges 2028.
 - **Avancé :** en Tasmanie, un festival d’hiver a fait 306 601 nuitées en 2026 (Pulse Tasmania, 22 septembre 2026) ; Nevers et La Charité-sur-Loire sont dans le réseau de Bourges 2028 (bourges2028.org, 16 décembre 2025).
 - **Qui, durée :** nous (conception, coordination), six mois par édition ; artistes, éclairagistes, hébergeurs voisins, mairie.
 - **Commencer :** une date ; le dossier de Bourges, dernier appel probable avant le 15 avril 2027 (supposé). **Mesure :** nuitées ; visiteurs venus de plus de 200 km. **Règles :** jauges, sécurité ; rien n’est acquis.
@@ -132,14 +132,14 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 - **Qui, durée :** nous (choix, programme, veille), trois mois ; matériel loué ; un médiateur de son équipe.
 - **Commencer :** une pièce. **Mesure :** soirées remplies. **Règles :** pas de lunettes à caméra dans les suites, au sauna, au jacuzzi ; robot du commerce, jamais seul avec le public.
 
-**La mesure commune.** Une page par mois pour tout le portefeuille : d’où l’on vient, combien de nuits, première visite ou retour, part du direct, ce que disent les assistants. C’est le compteur d’une destination.
+**La mesure commune.** Une page par mois : d’où l’on vient, combien de nuits, première visite ou retour, part du direct, ce que disent les assistants. Le compteur d’une destination.
 
 ## 3. Quatre projets phares pour 2027
 
-- **La première nuit des œuvres** (offres 4, 5, 8, 9, 10). Le jour de l’ouverture, il verrait : un couple venu de Londres, son programme reçu la veille ; la visite à sa voix ; un vernissage ouvert par un numéro créé pour l’exposition ; dans la suite, une toile de l’exposition ; au petit-déjeuner, son dossier demandé.
+- **La première nuit des œuvres** (offres 4, 5, 8, 9, 10). Le jour de l’ouverture : un couple venu de Londres, son programme reçu la veille ; la visite à sa voix ; un vernissage ouvert par un numéro ; une toile de l’exposition dans leur suite ; son dossier demandé au petit-déjeuner.
 - **La galerie qui parle toutes les langues** (3, 5, 6). Des murs sans cartels ; un visiteur japonais qui interroge une œuvre dans sa langue ; un collectionneur de New York qui a parcouru l’accrochage depuis un lien et le visite le soir avec lui ; la réserve ouverte sur rendez-vous.
-- **Solstice** (12, 7, 9). Décembre 2027, un mois avant l’ouverture de Bourges 2028 : les façades reliées par une œuvre de lumière, la revue d’hiver, le sauna ouvert la nuit, des suites et des maisons voisines pleines quand la Nièvre se vide.
-- **La salle des possibles** (13, 2). Des visiteurs qui essaient des lunettes qui sous-titrent et entrent dans l’exposition en monde 3D ; au mur, le film de la transformation des bâtiments, chaque image signée de son origine.
+- **Solstice** (12, 7, 9). Décembre 2027, un mois avant Bourges 2028 : les façades reliées par une œuvre de lumière, la revue d’hiver, le sauna ouvert la nuit, des suites pleines quand la Nièvre se vide.
+- **La salle des possibles** (13, 2). Des visiteurs essaient des lunettes qui sous-titrent, entrent dans l’exposition en monde 3D ; au mur, le film du chantier, chaque image signée de son origine.
 
 ## 4. Ce que l’on demande vendredi
 
@@ -147,10 +147,10 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 
 **Trois façons de commencer**, à valider par les deux associés :
 1. **Le cadrage tourné vers la destination** : même prix (6 500 € HT), même dossier ; ses trois priorités à 90 jours prises dans ses trois moments. Notre recommandation.
-2. **Le cadrage et un projet phare** choisi vendredi : le cadrage en pose les conditions ; la conception suit, avec un prix écrit avant toute commande.
-3. **Le cadrage et une commande qui n’attend pas**, prise dans la liste suivante.
+2. **Le cadrage et un projet phare** choisi vendredi : le cadrage en pose les conditions ; prix écrit avant toute commande.
+3. **Le cadrage et une commande qui n’attend pas**, ci-dessous.
 
-**Sans attendre**, parce qu’un calendrier l’impose : les scènes des suites et le son du cabaret, avant que les plans se figent ; le tournage du chantier dès le premier jour ; la page de vérité dès que le lieu a un nom ; le dossier de Bourges 2028. Garde-fou : les aides aux travaux se déposent avant tout devis signé (note « territoire »).
+**Sans attendre**, car un calendrier l’impose : scènes des suites et son du cabaret, avant que les plans se figent ; tournage du chantier dès le premier jour ; page de vérité dès que le lieu a un nom ; dossier de Bourges 2028. Garde-fou : les aides aux travaux se déposent avant tout devis signé (note « territoire »).
 
 **D’abord le cadrage :** ses données, son stock, ses collectionneurs (6, 11) ; le logiciel des suites (4) ; le cadre des séjours (10) ; le cabaret, tant qu’il n’est pas confirmé (8).
 
@@ -158,7 +158,7 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 
 ## 5. Comment deux associés tiennent cela
 
-**Une base, treize usages.** Nous construisons une seule chose : la base des faits et des récits (œuvres, artistes, lieux, soirées), validée par lui ; elle nourrit le guide, l’assistant, la page de vérité, la carte, la lettre. S’y ajoutent les liens, les règles, la mesure. Le reste s’achète : logiciel des suites, billetterie, moteur de réservation, guide de visite, assistant écrit, lunettes, certificats, outil d’envoi.
+**Une base, treize usages.** Nous construisons une seule chose : la base des faits et des récits, validée par lui, qui nourrit le guide, l’assistant, la page de vérité, la carte, la lettre ; plus les liens, les règles, la mesure. Le reste s’achète : logiciel des suites, billetterie, moteur de réservation, guide, assistant écrit, lunettes, certificats, outil d’envoi.
 
 **L’ordre.** Les fondations pendant le cadrage (1, 2, la mesure) ; le jour pour l’ouverture de la galerie (3, 5, 6, 7) ; la nuit à l’ouverture des suites (4, 9, puis 10) ; le soir, une fois le cabaret confirmé (8) ; les saisons ensuite (11, 12, 13). Deux mises en place au plus à la fois.
 
@@ -185,4 +185,4 @@ Journées de travail pour nous ; tiers sur devis. Base d’une grille à décide
 | 13 | 8 à 10 | 1 par trimestre | location (lunettes à écran : 899 € en France, Selectra, 26 septembre 2026) |
 | Mesure | 4 à 6 | 0,5 par mois | aucun |
 
-**Total :** 132 à 173 jours de mise en place, soit une année d’un associé ; en régime, 9 à 12 jours par mois. Le portefeuille se tient sur 2027 et 2028, pas en six mois.
+**Total :** 132 à 173 jours de mise en place, une année d’un associé ; en régime, 9 à 12 jours par mois. Le portefeuille se tient sur 2027 et 2028.
