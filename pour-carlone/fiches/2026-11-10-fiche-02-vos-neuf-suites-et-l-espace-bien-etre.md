@@ -24,7 +24,7 @@ Fiche 2 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys C
 | Choisir le logiciel des suites : trois logiciels du marché au plus, comparés par écrit, essayés sur des réservations fictives | Un choix argumenté, avant tout engagement | Essai (le choix) |
 | Paramétrer : suites, tarifs, taxe de séjour, fiches de police, sites de réservation | Un seul calendrier pour tous les sites ; moins de saisies en double | Ensuite |
 | Les relevés de l’eau, les vidanges et les analyses du jacuzzi au calendrier ; le carnet sanitaire tenu à jour | Chaque vérification arrive avec un rappel ; une personne mesure, note et décide | Essai : bassin installé |
-| Les créneaux du sauna et du jacuzzi, rattachés au séjour | Pas de créneau en double, ni au-delà de la fréquentation affichée | Ensuite |
+| Les créneaux du sauna et du jacuzzi, rattachés au séjour | Pas de créneau en double, ni au-delà de la fréquentation maximale fixée | Ensuite |
 | Un livret d’accueil et des réponses aux questions fréquentes, en plusieurs langues, relus par une personne | Vos clients informés avant d’arriver ; un assistant dit qu’il est une IA | Ensuite |
 | Des séjours qui réunissent nuit, vernissage, soirée au cabaret et espace bien-être | Une offre propre à votre établissement | Ensuite : lieux ouverts |
 | Les totaux des suites (nuitées, occupation, taxe de séjour), sans nom de client, dans la vue d’ensemble de vos lieux | Vos chiffres sur une page | Ensuite |
