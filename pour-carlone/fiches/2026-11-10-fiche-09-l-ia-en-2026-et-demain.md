@@ -23,12 +23,12 @@ Tout se vérifie sur vos propres pièces, pendant un essai.
 
 ## Ce qui pourrait venir pour vos projets
 
-Une ambition, sous conditions. Pas une promesse. Tout dépend d’un essai mesuré, de vos décisions et de l’ouverture de vos lieux. Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 (METR, janvier 2026) : une mesure du passé, pas une prévision.
+Une ambition, sous conditions. Pas une promesse. Tout dépend d’un essai mesuré, de vos décisions et de l’ouverture de vos lieux. Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 (METR, janvier 2026) ; un modèle testé au printemps 2026 en réussit qui demandent au moins seize heures à un expert (METR, septembre 2026). Des mesures du passé, pas des prévisions. Le chemin complet : « State Of The Art : le programme » et le catalogue des offres (entre parenthèses, le numéro de l’offre).
 
-- **En 2027**, si l’essai a réussi : le registre de vos bâtiments ; le logiciel du marché de vos neuf suites, choisi et relié au reste ; une page chaque semaine pour vos décisions. Une règle à préparer : le 1er septembre 2027, les PME et micro-entreprises soumises à la TVA devront émettre leurs factures sous forme électronique.
-- **En 2028** : étendre ce qui a fait ses preuves, par exemple à un guide de visite de la galerie en plusieurs langues.
-- **D’ici 2030** : votre établissement, lieu de rencontres sur l’IA utile dans la Nièvre.
-- **Une machine d’IA chez vous : plus tard, sous conditions**, si vos documents confidentiels le demandent.
+- **En 2027**, si l’essai a réussi : le registre de vos bâtiments, dans le carnet vivant des murs (21) ; le logiciel du marché de vos neuf suites, choisi et relié au reste ; le pupitre de votre administratrice, avec une page pour vos décisions (20). Une règle à préparer : le 1er septembre 2027, les PME et micro-entreprises soumises à la TVA devront émettre leurs factures sous forme électronique.
+- **En 2028** : étendre ce qui a fait ses preuves, par exemple à un guide de visite de la galerie en plusieurs langues (1 et 4).
+- **De 2028 à 2030** : votre établissement, lieu de rencontres sur l’IA utile dans la Nièvre : la tâche d’une entreprise d’ici, mesurée devant tous (27), puis un laboratoire associé, s’il s’associe (13).
+- **Une machine d’IA chez vous : en option (6)**, si vos documents confidentiels le demandent.
 - **La robotique : plus tard, sous conditions.** Aujourd’hui, en France, des robots roulants portent des plats en salle. Ils portent ; votre équipe sert. Pour vos lieux, aucune date : il faudrait un financement, une sécurité tenue et des partenaires.
 
 Une règle dit la loi, pas son application à vos sociétés : le cadrage vérifiera. Partout, on mesure d’abord, on équipe ensuite.

@@ -31,7 +31,7 @@ L’idée : un lieu où l’on voit l’IA utile à l’œuvre, au service des m
 
 - **Ce qui s’y passerait** : des rencontres, des démonstrations et des ateliers pour les entrepreneurs d’ici. Par exemple, un dossier préparé par un assistant puis validé par une personne ; des documents lus, avec les lignes douteuses signalées.
 - **Ce que cela pourrait vous apporter** : un établissement connu aussi comme point de rencontre des entrepreneurs du territoire, en plus de la galerie, du cabaret et de vos suites.
-- **Quand** : plus tard, sans date promise ; dans notre ambition (« Le laboratoire de la Nièvre »), d’ici 2030. Après les premières étapes, et seulement si vous le souhaitez.
+- **Quand** : plus tard, sans date promise ; dans le catalogue des offres « State Of The Art », dès 2028 au plus tôt, la tâche d’une entreprise d’ici, mesurée devant tous (l’état de l’art, chaque saison, offre 27), puis, de 2028 à 2030, un laboratoire associé à la résidence, s’il s’associe (offre 13). Après les premières étapes, et seulement si vous le souhaitez.
 - **Avec qui** : la chambre de commerce et d’industrie et les dispositifs régionaux accompagnent déjà les entreprises. Nous viendrions en complément, pas en concurrence, et nous orienterions vers eux quand leurs dispositifs conviennent. Aucune aide n’est promise : chacune se vérifie auprès de l’organisme. Aucun contact ne sera pris sans votre accord.
 
 ## De nouvelles façons de travailler
@@ -56,7 +56,7 @@ Pour vous, votre administratrice et vos équipes, puis pour vos partenaires qui 
 - Aucune aide publique, aucun financement.
 - Aucun nombre de participants, de clients ou de ventes.
 - Aucun gain chiffré pour vos partenaires avant de l’avoir mesuré chez eux.
-- Aucune date promise pour les rencontres : une ambition pour 2030, pas un engagement.
+- Aucune date promise pour les rencontres : une ambition pour 2028 à 2030, pas un engagement.
 - Pas tout à la fois : à deux, une étape à la fois.
 
 ## À faire valider par vos professionnels

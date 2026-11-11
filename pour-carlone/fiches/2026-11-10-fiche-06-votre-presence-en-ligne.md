@@ -5,7 +5,7 @@ Fiche 6 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys C
 **En bref**
 
 - Plus qu’un site vitrine : des contenus vivants, une place dans les moteurs de recherche et dans les réponses des assistants d’IA, des visites qui deviennent des demandes, des réservations ou des venues.
-- Sept formules, à combiner selon vos priorités. Chacune se commande à part, après le cadrage, avec sa mesure de départ.
+- Sept formules, à combiner selon vos priorités. Elles prolongent en ligne le catalogue des offres « State Of The Art » (entre parenthèses, le numéro de l’offre). Chacune se commande à part, après le cadrage, avec sa mesure de départ.
 - Vous validez avant chaque publication. Comptes et contenus restent au nom de votre société. Aucun classement n’est promis.
 
 ## Ce que nous avons compris (à confirmer avec vous)
@@ -20,12 +20,12 @@ Fiche 6 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys C
 
 | Formule | Ce que cela change pour vous | Quand |
 | --- | --- | --- |
-| **Séjours** : des pages pour vos neuf suites et l’espace bien-être ; la réservation directe par le logiciel choisi ; des séjours combinés avec la galerie et le cabaret ; des réponses préparées aux avis. Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la vente de séjours : à faire valider par vos professionnels | Vos suites présentées par vous, réservables sans détour ; on mesure la part des réservations directes | Ensuite, avec l’ouverture des suites |
-| **Rayonnement** : un calendrier de contenus ; des pages utiles et vérifiées ; votre fiche d’établissement, vos horaires, vos avis ; votre visibilité dans les réponses des assistants d’IA, suivie chaque mois | Un établissement plus facile à trouver ; on mesure les recherches qui mènent à vous et les demandes | Ensuite |
-| **Galerie ouverte** : une page par œuvre, en plusieurs langues ; les expositions et les artistes ; un formulaire de demande d’information | Vos œuvres visibles hors de la galerie ; on mesure les demandes reçues | Ensuite, une fois les droits réglés |
-| **Soirées** : l’annonce de chaque soirée et de chaque vernissage, textes, visuels, lettre d’information aux personnes inscrites ; billets par un logiciel du marché | Des événements annoncés à temps ; on mesure les inscriptions et les places vendues | Ensuite, avec l’ouverture du cabaret |
-| **Studio** : visuels, vidéos courtes, traductions, préparés avec l’IA et retouchés par une personne ; la vidéo avec un partenaire choisi avec vous | Des contenus prêts à temps, signalés quand ils sont générés | Ensuite, en appui |
-| **Réseau** : pour vos partenaires qui le souhaitent, site, contenus et référencement local, chacun avec son propre contrat | Un territoire qui se renforce autour de votre établissement | Plus tard, sous conditions |
+| **Séjours** : des pages pour vos neuf suites et l’espace bien-être ; la réservation directe par le logiciel choisi ; les séjours de la nuit des œuvres (18) ; des réponses préparées aux avis. Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la vente de séjours : à faire valider par vos professionnels | Vos suites présentées par vous, réservables sans détour ; on mesure la part des réservations directes | Ensuite, avec l’ouverture des suites |
+| **La maison lisible par les assistants** (24) : une page de vérité reprise partout ; des pages utiles et vérifiées ; votre fiche d’établissement, vos horaires, vos avis ; chaque mois, cinquante questions posées à quatre assistants d’IA, erreurs corrigées | Un établissement plus facile à trouver, et décrit juste ; on mesure les réponses justes, les recherches qui mènent à vous et les demandes | Ensuite |
+| **Galerie ouverte** : une page par œuvre, en plusieurs langues, tirée du cabinet des œuvres (1) ; les expositions (10) et les artistes ; un formulaire de demande d’information | Vos œuvres visibles hors de la galerie ; on mesure les demandes reçues | Ensuite, une fois les droits réglés |
+| **Soirées** : l’annonce de chaque soirée et de chaque vernissage-spectacle (17), textes, visuels, lettre d’information aux personnes inscrites ; billets par un logiciel du marché | Des événements annoncés à temps ; on mesure les inscriptions et les places vendues | Ensuite, avec l’ouverture du cabaret |
+| **Studio** : un calendrier de contenus ; visuels, vidéos courtes, traductions, préparés avec l’IA et retouchés par une personne, selon la charte du réel signé (9) ; la vidéo avec un partenaire choisi avec vous | Des contenus prêts à temps, signalés quand ils sont générés | Ensuite, en appui |
+| **Vos partenaires** : pour ceux qui le souhaitent, site, contenus et référencement local, chacun avec son propre contrat | Un territoire qui se renforce autour de votre établissement | Plus tard, sous conditions |
 | **Pilotage** : une page par mois, ce qui a été publié, trouvé, ce qui a rapporté des demandes | Des décisions prises sur des chiffres, chacun avec sa source | Avec toute formule suivie dans la durée |
 
 Le cadrage choisit par où commencer. Nous sommes deux : au début, une seule formule suivie dans la durée à la fois.
