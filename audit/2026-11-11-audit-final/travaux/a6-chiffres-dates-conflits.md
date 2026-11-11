@@ -17,7 +17,7 @@ Rapport de l’agent a6 pour le coordinateur de l’audit final (`audit/2026-11-
 
 - **Lu** : tous les fichiers Markdown du 10 novembre de `pour-carlone/` (offre, développement, douze fiches, cabaret et commerces, cadrage, suites, LISEZ-MOI de la maquette et de la version 12) ; le texte des 36 diapositives, de la maquette et des deux classeurs (extraits du bloc-notes de session, recoupés avec `pour-carlone/presentation-ia/2026-11-10-version-12-projet/project/slides/` et `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/index.html`) ; `interne/rendez-vous/` et `interne/decisions/` ; le sommaire `audit/2026-11-10-preparation-des-livrables/README.md` ; `REPRISE-2026-11-10.md`, partie « État le plus récent ». En plus, parce qu’ils sont apparus pendant l’audit : les pièces datées du 11 novembre de `interne/rendez-vous/` et de `pour-carlone/offre-cadrage/`. Le dossier `crm/` n’a pas été ouvert ; aucune commande git ; aucune recherche en ligne.
 - **Méthode** : recherche par familles de motifs (montants ; durées ; dates et jours de la semaine ; comptes ; références de droit ; sources chiffrées), puis comparaison des occurrences. Les jours de la semaine, les sommes et les nombres de pages ont été recalculés. Pour un fait de droit ou un chiffre externe, la valeur de référence est celle de la partie « Vérification du 10 novembre 2026 » de la note `k…` correspondante ; pour l’offre, la page d’offre, puis le bon de commande, puis la feuille de décisions (brief, § 4).
-- **État des fichiers** : d’autres relectures corrigeaient les documents internes pendant cet audit. Les lignes citées sont celles des fichiers le 11 novembre 2026 à 00 h 09 (heure de la machine de travail), au moment où ce rapport a été généré : chaque « texte actuel » y a été retrouvé mot pour mot, avec les espaces ordinaires des sources. Les écarts que ces relectures ont corrigés entre-temps sont listés au § 6.
+- **État des fichiers** : d’autres relectures corrigeaient les documents internes pendant cet audit. Les lignes citées sont celles des fichiers le 11 novembre 2026 à 00 h 10 (heure de la machine de travail), au moment où ce rapport a été généré : chaque « texte actuel » y a été retrouvé mot pour mot, avec les espaces ordinaires des sources. Les écarts que ces relectures ont corrigés entre-temps sont listés au § 6.
 - **Colonne « Fait »** : « non » : correction à faire, sans décision à prendre ; « à décider par les associés » : la correction dépend d’un choix qui leur revient ; « à vérifier par le coordinateur » : hors de portée de cet audit.
 
 ## 3. Conflits bloquants avant vendredi
@@ -219,6 +219,7 @@ Une ligne par fait. « Occurrences » : nombre de lignes où le fait est écrit,
 | Cession « une fois le prix dû payé » | 14 dans 11 fichiers | une exception : C7 |
 | « une étape et un essai à la fois » | 15 dans 13 fichiers |  |
 | Indemnité forfaitaire de 40 € ; pénalités au taux de la Banque centrale européenne majoré de dix points | 1 dans 1 fichier | bon de commande ; note k1b |
+| Autre proposition reçue : 6 000 € par trimestre (rapporté par Morgan Olsen, non vérifié) | 1 dans 1 fichier | interne seulement ; absente de tout document client ; même valeur dans la note interne sur les questions à poser |
 
 **Les dates et les jours de la semaine**
 
