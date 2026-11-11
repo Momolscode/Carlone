@@ -27,17 +27,17 @@ Angle : faire de son lieu la tête d’un réseau. Faits tirés des notes s1 du 
 
 Nom de travail, marque non vérifiée.
 
-## 2. Quinze offres en cinq familles
+## 2. Treize offres en cinq familles
 
-Onze nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, des spécialistes exécutent, son équipe garde la main, une personne valide, prix écrit avant toute commande. « Porté par » : ce que des aides ou des partenaires peuvent prendre en charge.
+Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, des spécialistes exécutent, son équipe garde la main, une personne valide, prix écrit avant toute commande. « Porté par » : ce que des aides ou des partenaires peuvent prendre en charge.
 
 ### Famille I — Le réseau : sa maison, tête de réseau
 
 **1. Le cercle State Of The Art** · prolonge « Le réseau de vos partenaires » · 2027
 - **Quoi :** les artistes, artisans, vignerons, hébergeurs et commerçants qu’il choisit, liés par une charte, un agenda et une vitrine communs.
-- **Il obtient :** la carte du cercle au mur de la galerie ; un agenda partagé ; une page par membre et des itinéraires de week-end, en plusieurs langues, lisibles par les assistants des voyageurs.
-- **Avancé :** la Commission européenne annonce pour 2027 l’essai d’agents d’IA de réservation reliés au portefeuille d’identité numérique (Commission, 4 novembre 2026 ; Travolution, 9 novembre 2026).
-- **Qui, durée :** nous, deux mois ; un outil d’agenda du marché ; son administratrice valide. **Porté par :** chaque membre tient sa page.
+- **Il obtient :** la carte du cercle au mur de la galerie ; un agenda partagé ; une page par membre et des itinéraires de week-end, en plusieurs langues, lisibles par les assistants des voyageurs ; chaque trimestre, le tableau du territoire (fréquentation publique, semaines creuses où placer vernissages et revues).
+- **Avancé :** la Commission européenne annonce pour 2027 l’essai d’agents d’IA de réservation reliés au portefeuille d’identité numérique (Commission, 4 novembre 2026 ; Travolution, 9 novembre 2026). Nièvre Attractive suit déjà la fréquentation par téléphonie anonymisée (note territoire).
+- **Qui, durée :** nous, deux mois, puis un jour par mois ; un outil d’agenda du marché ; son administratrice valide. **Porté par :** chaque membre tient sa page.
 - **Commencer :** dix noms. **Mesure :** membres actifs, demandes croisées. **Règles :** chacun garde ses données ; aucun prix fixé en commun entre concurrents (droit de la concurrence) ; personne n’est contacté sans son accord.
 
 **2. Les ateliers associés** · nouvelle · 2027, éditions en 2028
@@ -92,3 +92,56 @@ Onze nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, 
 - **Avancé :** dans un ministère britannique, 3 549 agents ont gagné environ 19 minutes par jour avec un assistant ; gains déclarés (GOV.UK, 29 janvier 2026). À mesurer chez lui.
 - **Qui, durée :** nous concevons, deux mois ; un organisme certifié Qualiopi délivre. **Porté par :** les opérateurs de compétences : huit modules IA à 100 % pour les moins de 50 salariés des branches Atlas, jusqu’au 31 décembre 2026 (Opco Atlas, 7 septembre 2026) ; « IA Box » de L’Opcommerce ; dans la limite des fonds.
 - **Commencer :** ses sociétés et leurs postes. **Mesure :** personnes formées, temps mesuré. **Règles :** sur le temps de travail ; personne n’est noté ; votre administratrice aidée, jamais remplacée.
+
+**9. L’académie des métiers du lieu** · nouvelle · 2028
+- **Quoi :** une école pour les jeunes et les personnes en reconversion de la Nièvre : médiation multilingue, accueil, régie, fabrication.
+- **Il obtient :** une promotion par an, formée sur ses vrais outils ; des recrues pour lui et ses voisins.
+- **Avancé :** la stratégie européenne du tourisme durable annonce pour 2027 une académie et un observatoire du tourisme, et veut y intégrer l’IA (Commission, 4 novembre 2026).
+- **Qui, durée :** nous, trois à quatre mois ; un organisme certifié porte la formation. **Porté par :** financeurs de la formation et de l’emploi, à identifier.
+- **Commencer :** les métiers qu’il recrutera. **Mesure :** personnes formées, embauchées ici. **Règles :** conventions de stage ; aucune promesse d’embauche.
+
+**10. Les classes à la galerie** · nouvelle · 2028
+- **Quoi :** écoles, collèges et lycées visitent chaque exposition, avec un médiateur et un guide qui répond dans la langue de l’élève, sous une association distincte de la galerie.
+- **Il obtient :** un programme par année scolaire ; une association des publics d’intérêt général. La Nièvre n’a plus de centre d’art labellisé en activité (note lieux) : ne jamais le dire comme l’échec d’autrui.
+- **Avancé :** dans le Somerset, une galerie marchande installée dans une ferme a accueilli plus de 800 établissements scolaires (The Art Newspaper, 4 juillet 2025).
+- **Qui, durée :** nous, deux mois ; un médiateur, un avocat. **Porté par :** le mécénat des entreprises à l’association (article 238 bis), à vérifier par leur expert-comptable ; la galerie, commerciale, n’en reçoit pas.
+- **Commencer :** un établissement volontaire. **Mesure :** classes reçues. **Règles :** autorisations parentales ; aucune donnée d’élève.
+
+### Famille IV — Le rendez-vous
+
+**11. Les Rencontres State Of The Art** · nouvelle · édition zéro à l’automne 2027, puis chaque année
+- **Quoi :** un long week-end où le réseau se montre : exposition, ateliers associés, prototypes des fablabs, essais du laboratoire, soirée au cabaret, un prix.
+- **Il obtient :** un thème nouveau chaque année ; des invités européens qui suivent tout dans leur langue.
+- **Avancé :** Chaumont-sur-Loire renouvelle son thème chaque année : 536 000 visiteurs en 2025 (TourMaG, 4 février 2026). Google traduit la voix dans plus de soixante-dix langues, en préversion (9 juin 2026).
+- **Qui, durée :** nous, cinq à six mois ; régisseur, sécurité, artistes ; les fablabs nivernais, réunis à Luzy le 2 octobre 2026 (Le Journal du Centre, 16 octobre 2026). **Porté par :** exposants ; mécènes de l’association.
+- **Commencer :** une date, un thème. **Mesure :** visiteurs, exposants, ventes. **Règles :** sécurité du public ; débit de boissons ; robot derrière une protection (ISO 10218-2:2025 ne traite pas l’accès du public) ; marque à vérifier.
+
+**12. La porte de Bourges 2028** · nouvelle · dossier 2027, saison 2028
+- **Quoi :** sa galerie, une étape de la capitale européenne de la culture, côté Loire.
+- **Il obtient :** une exposition liée au programme ; un séjour « Bourges le jour ; galerie, cabaret et suite le soir ».
+- **Avancé :** Nevers et La Charité-sur-Loire sont dans la Matrice de Bourges 2028 : seize villes françaises, près de quarante en Europe (bourges2028.org, 16 décembre 2025). Ouverture annoncée les 22 et 23 janvier 2028 (Sweet FM, 9 octobre 2026).
+- **Qui, durée :** nous, deux à trois mois ; commissaire d’exposition ; agence de voyages immatriculée. **Porté par :** la communication de la capitale.
+- **Commencer :** le programme (janvier 2027) ; appel probable avant le 15 avril 2027 (supposé). **Mesure :** dossier retenu ou non ; séjours vendus. **Règles :** nom et label selon l’association ; vente de séjours encadrée (Atout France).
+
+**13. La résidence des villages** · prolonge « La résidence art et IA » · appel 2027, accueil 2028, parcours 2030
+- **Quoi :** deux artistes par an logés chez l’habitant, qui créent avec les artisans et les entreprises d’ici ; une œuvre à la galerie, une au village.
+- **Il obtient :** des œuvres nées de la Nièvre ; d’ici 2030, un parcours de village en village le long de la Loire, avec un guide audio multilingue.
+- **Avancé :** dans la Meuse, six villages font vivre 150 œuvres sur 45 km, avec plus de 120 bénévoles et 80 artisans (Vent des Forêts, lu le 11 novembre 2026).
+- **Qui, durée :** nous, deux mois, puis quatre à cinq jours par résidence. **Porté par :** communes, habitants, mécènes ; aide régionale aux artistes close au 31 décembre 2026, suite inconnue.
+- **Commencer :** une commune volontaire. **Mesure :** œuvres créées, habitants engagés. **Règles :** contrat et droits ; accord des communes.
+
+### Famille V — L’effort partagé
+
+**14. Le calendrier des dossiers** · nouvelle · dès le cadrage
+- **Quoi :** une fiche par aide possible et par projet, préparée par l’IA, tenue par son administratrice, avec l’ordre des actes.
+- **Il obtient :** un calendrier sur deux ans ; les dossiers préparés ; une alerte avant toute signature de devis.
+- **Avancé :** la Région aide l’hôtellerie indépendante jusqu’à 30 % des travaux et admet serrures connectées, arrivée autonome et logiciel de gestion ; trois étoiles visées ; jusqu’au 31 décembre 2028 (règlement du 6 mars 2026).
+- **Qui, durée :** nous, trois semaines, puis trois à cinq jours par dossier ; sa société dépose. **Porté par :** LEADER (jusqu’à 80 %), Fondation du patrimoine (façade), CNAP (après douze mois de ventes), IFCIC (garantie de 50 à 70 % des crédits de la galerie).
+- **Commencer :** ses projets, ses sociétés, les devis signés. **Mesure :** dossiers déposés à temps. **Règles :** un devis signé vaut commencement ; aucune aide promise ; aucun conseil fiscal.
+
+**15. Le consortium de recherche** · nouvelle · 2028-2030
+- **Quoi :** sa galerie, terrain d’essai d’un projet de recherche sur la médiation par l’IA, avec un laboratoire.
+- **Il obtient :** des outils essayés chez lui avant d’être diffusés ; des chercheurs sur place.
+- **Avancé :** en 2026, « Culture immersive » (France 2030) a retenu 20 projets sur 77, dont des personnages historiques interactifs animés par l’IA (ministère de la Culture, 9 juillet 2026).
+- **Qui, durée :** nous, trois à quatre mois quand un appel s’ouvre ; un laboratoire universitaire, à trouver. **Porté par :** fonds nationaux ou européens ; appels Horizon Europe annoncés pour 2027.
+- **Commencer :** un laboratoire intéressé. **Mesure :** dossier retenu ou non. **Règles :** guichets culture et IA fermés en 2026 ; résultats et consentements écrits.
