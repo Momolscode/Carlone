@@ -139,3 +139,53 @@ Ajouté le 11 novembre 2026 (audit du 9 novembre, objections n° 8 et 9).
 **Réponse** : « Si nous ne pouvons pas finir, vous recevez le travail fait et nous remboursons la part non faite ; vos comptes, vos données et vos accès sont au nom de votre société dès le premier jour. Le dossier et ce que nous faisons pour votre société lui sont cédés une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte) ; nos méthodes et nos outils génériques restent à nous, et votre société en garde l’usage, sans limite de durée. »
 **Preuve** : la diapositive `garanties` ; la page d’offre, rubriques « Comment vous arrêter » et « Ce qui reste à vous ».
 **Ne pas dire** : « cela n’arrivera pas » ; « un partenaire reprendra » ; « tout est à vous », sans la réserve sur nos outils génériques.
+
+## 18. « C’est beaucoup pour deux personnes. »
+
+Ajouté le 11 novembre 2026 (programme « State Of The Art » ; catalogue maître, § 6 et § 10 d).
+**Il craint** : que nous promettions plus que nous ne pouvons tenir ; dépendre de deux personnes.
+**Réponse** : « Oui, si nous faisions tout. Nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main. Deux chantiers à la fois, sur quatre ans. Tout est à votre nom, avec un relais nommé : vous pouvez continuer sans nous. »
+**Preuve** : la diapositive `sota-tenir` ; la page « State Of The Art : le programme », partie « Comment deux associés le tiennent », à l’écran (J17).
+**S’il demande qui fait quoi** : « L’un de nous mène votre dossier ; l’autre le relit et prend le relais. » (notes de `societe`). Le partage des rôles du catalogue est une proposition : ne pas l’annoncer comme décidé (J13). Si un spécialiste est utile, sa société l’engage directement ; aucun n’est approché sans son accord.
+**Consigne** : « Deux chantiers à la fois » et « un relais nommé » sont des recommandations du catalogue, à confirmer jeudi (J10, J13) ; si un autre choix est coché, dire celui-là.
+**Ne pas dire** : « nous ferons tout » ; « nous avons une équipe » ; le nom d’un spécialiste ou d’un partenaire ; une mention d’assurance (J26) ; une date d’embauche.
+**Question suivante** : « Parmi les six moments, lesquels voulez-vous voir en premier ? Le cadrage en fera vos trois priorités. »
+
+## 19. « Combien coûte tout cela ? »
+
+Ajouté le 11 novembre 2026 (catalogue maître, § 4 et § 10 d ; règle des prix du brief « State Of The Art », § 5).
+**Il craint** : un engagement sans fin ; une facture qui grossit.
+**Réponse** : « Seul le cadrage a un prix aujourd’hui : 6 500 € hors taxes, à prix fixe. Chaque autre offre aura le sien, écrit avant toute commande, et se commande à part : vous choisissez une marche à la fois. »
+**S’il insiste** : « Si vous le voulez, nous chiffrons l’offre de votre choix : son prix vous est écrit après ce rendez-vous. » Il se chiffre à deux, jamais en séance, dans le délai décidé jeudi (J3, J38) ; un écrit ne part qu’une fois la liste avant tout envoi cochée.
+**Preuve** : la diapositive `sota-commencer` (« Chaque offre se choisit à part, prix écrit avant toute commande ») ; `etapes` (« L’offre suivante, prix connu avant »).
+**Ne pas dire** : un total ; une fourchette ; un prix journalier ; un chiffre de la grille interne (`interne/developpement/2026-11-11-grille-de-prix-interne-state-of-the-art.md`), même arrêté jeudi ; une comparaison avec l’autre proposition. Pour le logiciel : n° 3.
+**Question suivante** : « Laquelle de ces offres aimeriez-vous voir chiffrée en premier ? »
+
+## 20. « Par quoi commencer ? »
+
+Ajouté le 11 novembre 2026 (catalogue maître, § 4 ; diapositive `sota-commencer`).
+**Il craint** : se perdre dans vingt-neuf offres.
+**Réponse** : « Par le cadrage : trois à quatre semaines, à prix fixe, tourné vers les trois moments que vous avez choisis. Il en tire vos trois priorités à 90 jours ; puis un essai à la fois. Si une date l’impose, une offre qui n’attend pas peut partir en même temps : la règle de la maison, le film du chantier, la note pour votre architecte, l’état zéro de vos murs, ou le calendrier des aides. »
+**Un rappel, le jour même** : « Avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable. »
+**S’il veut commencer par une œuvre** : « Sa conception peut commencer pendant le cadrage ; aucun artiste n’est contacté sans votre accord. »
+**Preuve** : la diapositive `sota-commencer` ; la page programme, « Par où votre maison commence-t-elle ? », à l’écran (J17).
+**Consigne** : au plus une offre qui n’attend pas, avec son prix écrit avant toute commande : recommandation du catalogue, à trancher (J10). Rien n’est dit ni écrit d’une « première preuve » livrée pendant le cadrage tant que J11 n’est pas tranché.
+**Ne pas dire** : « tout peut commencer en janvier » ; une date d’ouverture certaine ; un prix d’offre.
+**Question suivante** : « Lesquels des six moments voulez-vous que vos invités racontent en rentrant chez eux ? »
+
+## 21. « Qu’est-ce que l’état de l’art veut dire ici ? »
+
+Ajouté le 11 novembre 2026 (brief « State Of The Art », § 2 ; catalogue maître, § 1 et offre 27).
+**Il craint** : un mot à la mode ; des outils dépassés dans un an.
+**Réponse** : « Deux choses. Un nom de travail pour votre programme : les œuvres que vous aimez furent l’état de l’art de leur temps ; votre maison sera l’état de l’art du nôtre. Et une exigence : chaque offre dit ce qu’elle a d’avancé, avec un fait daté et sa source. »
+**Un exemple, si on le demande** : la mesure de METR, toujours ainsi : « Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 (METR, janvier 2026) ; un modèle testé au printemps 2026 en réussit qui demandent au moins seize heures à un expert (METR, septembre 2026). Des mesures du passé, pas des prévisions. » Ou l’un des quatre faits de `sota-faits`, avec sa source et sa date.
+**Preuve** : les diapositives `sota-vision`, `sota-faits` et `evolution`.
+**Ne pas dire** : « le meilleur du marché », « la technologie la plus puissante » ; « invisible » (dire « discrète pour vos hôtes ») ; que « State Of The Art » est une marque (non vérifié : V13, J15) ; une prévision dite comme une certitude ; un fait sans sa source et sa date.
+**Question suivante** : « Dans votre maison, qu’est-ce qui devrait être le plus en avance : les œuvres, l’accueil, ou la façon de la diriger ? »
+
+## 22. « Dans un an, tout cela sera dépassé. »
+
+Ajouté le 11 novembre 2026 (catalogue maître, § 10 d et offre 27).
+**Réponse** : « C’est pour cela que notre programme prévoit l’état de l’art, chaque saison : tous les six mois, ce que font vos assistants est rejoué sur les modèles les plus récents, échecs compris, et votre administratrice décide de ce qui change. »
+**Preuve** : les notes de `evolution` et de `sota-chemin`.
+**Ne pas dire** : que nos choix d’aujourd’hui resteront les meilleurs ; une date pour une capacité future.
