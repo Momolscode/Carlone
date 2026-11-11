@@ -1,11 +1,11 @@
 # Vos données et la sécurité
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 8 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
 - Vos comptes et vos données sont au nom de votre société, dès le premier jour. Ce que nous développons pour elle lui est cédé une fois le prix dû payé.
-- Des offres d’IA professionnelles, sans entraînement sur vos données ; un accord écrit sur leur traitement avant toute donnée personnelle.
+- Des offres d’IA professionnelles, sans entraînement sur vos données ; l’accord sur les données, signé avant toute donnée personnelle.
 - Une personne valide tout ce qui engage. Vous pouvez tout exporter, et partir, à tout moment.
 
 ## Ce que nous avons compris (à confirmer avec vous)
@@ -20,9 +20,9 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 | Idée | Ce que cela change pour vous | Quand |
 | --- | --- | --- |
-| Comptes au nom de votre société, avec des accès nominatifs : un compte par personne, double authentification, droits par société et par lieu | Vous gardez la main sur les accès ; un départ se règle en fermant un compte | Dès le cadrage |
-| Un accord sur le traitement des données (article 28 du RGPD), signé avec la société responsable avant tout document qui contient des données personnelles ; d’ici là, nous travaillons sans | Chacun sait qui fait quoi avec vos données | Dès le cadrage |
-| Des offres d’IA professionnelles, sans entraînement sur vos données ; un traitement dans l’Union européenne, sinon des données pseudonymisées et un transfert encadré par écrit | Vos documents ne servent qu’à vos projets | Dès le cadrage |
+| Comptes au nom de votre société, avec des accès nominatifs : un compte par personne, double authentification, droits par société et par lieu | Vous gardez la main sur les accès ; chaque accès se retire en fermant un compte, le nôtre compris | Dès le cadrage |
+| L’accord sur les données (article 28 du RGPD), signé avec la société responsable avant tout document qui contient des données personnelles ; d’ici là, nous travaillons sans | Chacun sait qui fait quoi avec vos données | Dès le cadrage |
+| Des offres d’IA professionnelles, sans entraînement sur vos données ; un traitement dans l’Union européenne, sinon des données pseudonymisées (noms changés en codes) et un transfert encadré par écrit | Vos documents ne servent qu’à vos projets | Dès le cadrage |
 | Ce que chaque outil enregistre, écrit avant le premier usage | Personne n’est pris au dépourvu | Essai |
 | Un journal que personne ne peut modifier, et un bouton d’arrêt utilisable sans nous | Une erreur se retrouve ; tout automatisme peut être arrêté | Essai |
 | Sauvegardes testées et export complet, lancé par vous ou votre administratrice | Une panne ne fait pas tout perdre ; vos données peuvent sortir à tout moment | Essai |
@@ -31,7 +31,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Comment nous procéderions
 
-**Une personne valide.** Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée, même après un essai. Une instruction trouvée dans un document ou un message est signalée, jamais exécutée. L’un de nous relit tout ce qui vous est remis.
+**Une personne valide.** Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée, même après un essai. Si un document ou un message reçu contient une consigne adressée à l’IA, elle est signalée, jamais exécutée. L’un de nous relit tout ce qui vous est remis.
 
 **Ce que chaque outil enregistre**, dit par écrit avant le premier usage :
 
@@ -45,13 +45,13 @@ Qui lit ces traces et combien de temps on les garde se fixe avec vous avant le d
 
 **Sauvegardes et sortie.** Export régulier, copie hors du fournisseur principal, restauration testée dans un espace neuf. À la fin de notre travail, tout vous est rendu sous quinze jours ouvrés : documents, fichiers, réglages, accès. Vos documents sont rendus ou effacés, à votre choix. Ce qui est développé pour votre société lui est cédé une fois le prix dû payé.
 
-**La machine installée chez vous**, si elle devient utile : vos archives restent dans vos murs, à condition que les logiciels n’envoient rien en ligne et que la sécurité de la machine soit tenue. La CNIL juge un tel déploiement sur site « généralement plus opportun et plus sécurisé » pour des données personnelles ou sensibles (questions-réponses sur l’IA générative, 18 juillet 2024). Elle trie et résume bien ; le raisonnement difficile reste mieux fait par les modèles de pointe en ligne.
+**La machine installée chez vous**, si elle devient utile, garderait vos archives chez vous, si ses logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue. La CNIL juge un tel déploiement sur site « généralement plus opportun et plus sécurisé » pour des données personnelles ou sensibles (questions-réponses sur l’IA générative, 18 juillet 2024). Elle trie et résume bien ; le raisonnement difficile reste mieux fait par les modèles de pointe en ligne.
 
 ## Ce qui reste à vous
 
 - Désigner, pour chaque société, qui est responsable des données, et signer l’accord.
 - Tenir le registre des traitements et informer les personnes concernées quand c’est dû : clients, salariés, artistes, votre administratrice.
-- Décider qui accède à quoi ; revoir les accès avec nous chaque trimestre.
+- Décider qui accède à quoi ; revoir les accès chaque trimestre, avec nous tant que nous intervenons.
 
 ## Ce que nous ne faisons pas
 
@@ -62,5 +62,7 @@ Qui lit ces traces et combien de temps on les garde se fixe avec vous avant le d
 
 ## À faire valider par vos professionnels
 
-- **Avocat** : l’accord sur le traitement des données, le rôle de chaque société, l’information des personnes, la durée de conservation des traces, les transferts hors de l’Union européenne.
+- **Avocat** : l’accord sur les données, le rôle de chaque société, l’information des personnes, la durée de conservation des traces, les transferts hors de l’Union européenne.
 - **Délégué à la protection des données**, s’il y en a un : faut-il une analyse d’impact ?
+
+Ce document n’est pas un avis juridique ; textes et pages officielles consultés le 10 novembre 2026. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage.

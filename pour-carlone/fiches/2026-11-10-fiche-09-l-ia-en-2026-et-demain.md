@@ -1,6 +1,6 @@
 # L’IA en 2026, et ce qui pourrait venir pour vos projets
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 9 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
@@ -14,20 +14,21 @@ Tout se vérifie sur vos propres pièces, pendant un essai.
 
 | Ce qui est possible aujourd’hui | Chez vous |
 | --- | --- |
-| Un assistant peut préparer le dossier d’un bâtiment à partir de vos messages et de vos fichiers. Rien ne part sans votre accord. | Le dossier d’un bâtiment, prêt avant un rendez-vous avec un artisan ou votre notaire. |
+| Un assistant peut préparer le dossier d’un bâtiment à partir des messages et des fichiers que vous lui confiez. Rien ne part sans votre accord. | Le dossier d’un bâtiment, prêt avant un rendez-vous avec un artisan ou votre notaire. |
 | Vos factures, baux et diagnostics peuvent être lus et rangés dans un tableau. Les lignes douteuses sont signalées. Une personne vérifie. | Le registre de vos bâtiments ; trois devis comparés sur les mêmes points. |
-| Chaque lundi, votre administratrice peut recevoir la liste des échéances de la semaine, tirée de l’agenda et des dossiers. Elle garde la main. | Contrats, assurances, contrôles de l’espace bien-être : une seule liste pour tous vos lieux. |
+| Chaque lundi, votre administratrice peut recevoir la liste des échéances de la semaine, tirée des échéances saisies et des dossiers. Elle garde la main. | Contrats, assurances, contrôles de l’espace bien-être : une seule liste pour tous vos lieux. |
 | Affiches et courtes vidéos peuvent être préparées par IA ; vous choisissez. Depuis le 2 août 2026, un trucage réaliste fait par IA doit être signalé. | Vos vernissages et vos soirées. Une affiche dessinée n’est pas un trucage. |
 
 **Deux règles en vigueur.** Depuis le 1er septembre 2026, toute entreprise soumise à la TVA doit pouvoir recevoir des factures électroniques. Depuis le 2 août 2026, une personne doit savoir qu’elle parle à une IA, et non à un humain.
 
 ## Ce qui pourrait venir pour vos projets
 
-Une ambition, sous conditions. Pas une promesse. Tout dépend d’un essai mesuré, de vos décisions et de l’ouverture de vos lieux.
+Une ambition, sous conditions. Pas une promesse. Tout dépend d’un essai mesuré, de vos décisions et de l’ouverture de vos lieux. Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 (METR, janvier 2026) : une mesure du passé, pas une prévision.
 
 - **En 2027**, si l’essai a réussi : le registre de vos bâtiments ; le logiciel du marché de vos neuf suites, choisi et relié au reste ; une page chaque semaine pour vos décisions. Une règle à préparer : le 1er septembre 2027, les PME et micro-entreprises soumises à la TVA devront émettre leurs factures sous forme électronique.
 - **En 2028** : étendre ce qui a fait ses preuves, par exemple à un guide de visite de la galerie en plusieurs langues.
-- **D’ici 2030** : votre établissement, lieu de rencontres sur l’IA utile dans la Nièvre ; une machine d’IA chez vous, si vos documents confidentiels le demandent.
+- **D’ici 2030** : votre établissement, lieu de rencontres sur l’IA utile dans la Nièvre.
+- **Une machine d’IA chez vous : plus tard, sous conditions**, si vos documents confidentiels le demandent.
 - **La robotique : plus tard, sous conditions.** Aujourd’hui, en France, des robots roulants portent des plats en salle. Ils portent ; votre équipe sert. Pour vos lieux, aucune date : il faudrait un financement, une sécurité tenue et des partenaires.
 
 Une règle dit la loi, pas son application à vos sociétés : le cadrage vérifiera. Partout, on mesure d’abord, on équipe ensuite.
@@ -36,8 +37,8 @@ Une règle dit la loi, pas son application à vos sociétés : le cadrage vérif
 
 Le cadrage se tient avec nos moyens actuels. Rien de ce qui suit n’en est une condition ; nous ne vous demandons rien. Nous sommes deux : une étape à la fois.
 
-- **Une machine d’IA chez vous, au nom de votre société** : vos archives lues sans quitter vos murs, si rien n’est envoyé en ligne et si sa sécurité est tenue.
-- **Des outils d’équipe et du calcul à la demande** : plusieurs traitements en même temps.
+- **Une machine d’IA chez vous, au nom de votre société** : elle garderait vos archives chez vous, si ses logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue.
+- **Des outils d’équipe et de la puissance de calcul louée à l’heure** : plusieurs traitements en même temps.
 - **Un ou deux collaborateurs formés** : plusieurs chantiers en parallèle, une relève en cas d’absence, des emplois, si possible dans la Nièvre.
 - **Du temps pour expérimenter** : des prototypes pour vos lieux, essayés avant d’être proposés.
 
@@ -68,4 +69,4 @@ Notre recommandation : avancer avec nos moyens actuels, et n’envisager un renf
 - Facture électronique : quelles sociétés sont concernées, notamment une société hors TVA (expert-comptable).
 - Signalement des contenus faits par IA, image des personnes montrées (avocat).
 
-*Sources relues le 9 novembre 2026 : impots.gouv.fr et economie.gouv.fr (factures) ; Commission européenne (IA) ; deux loueurs (robots) ; Cerema, novembre 2025. Moyens et études publiées (METR, juillet 2025 ; Peng et al., février 2023 ; relues le 10 novembre 2026) : page « Ce que des moyens supplémentaires nous permettraient d’accomplir » et son annexe, § 3.*
+*Ce document n’est pas un avis juridique. Sources relues le 9 novembre 2026 : impots.gouv.fr et economie.gouv.fr (factures) ; Commission européenne (IA) ; deux loueurs (robots). Moyens et études publiées (METR, juillet 2025 ; Peng et al., février 2023 ; relues le 10 novembre 2026) : page « Ce que des moyens supplémentaires nous permettraient d’accomplir » et son annexe, § 3.*
