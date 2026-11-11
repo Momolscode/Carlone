@@ -23,11 +23,11 @@ Note de chercheur pour le catalogue « State Of The Art » : vingt et une recher
 6. **IFCIC.** Garantie de 50 à 70 % des crédits bancaires des galeries ; prêts de 12 mois à 10 ans sans caution personnelle (ifcic.fr, lue ; France Num, 5 janvier 2026, lue).
 7. **Région, hôtellerie indépendante.** Études 50 % (20 000 € d’aide au plus) ; travaux 30 % (180 000 € au plus), 40 % avec bonus. Admis : serrures connectées, arrivée autonome, logiciel de gestion. Exclus : bien-être, site internet. Trois étoiles visées ; jusqu’au 31 décembre 2028 (Région, règlement du 6 mars 2026, lu).
 8. **LEADER, Pays Val de Loire Nivernais (de Cosne à Decize).** **Mesuré :** 2 119 335 € pour 2023-2027 ; jusqu’à 80 % ; transition numérique et éco-tourisme ; contact avant démarrage ; le porteur avance l’argent (valdeloirenivernais.fr, lue).
-9. **Tiers-lieux.** **Mesuré :** 39 lieux existants ou en projet sur ce Pays, 82 % liés à la culture ou au numérique (étude pour l’ANCT, 15 juillet 2025, lue). À Lormes, « La Tisserie », Fabrique de territoire, relie tiers-lieu, manufacture et mission numérique (France Tiers-Lieux, 30 juillet 2025, lue). Fablabs nivernais réunis à Luzy le 2 octobre 2026 (Le Journal du Centre, 16 octobre 2026, lue).
+9. **Tiers-lieux.** **Mesuré :** 39 lieux existants ou en projet sur ce Pays, 82 % liés à la culture ou au numérique (étude du Pays avec l’ANCT, 15 juillet 2025, lue). À Lormes, « La Tisserie », Fabrique de territoire, relie tiers-lieu, manufacture et mission numérique (France Tiers-Lieux, 30 juillet 2025, lue). Fablabs nivernais réunis à Luzy le 2 octobre 2026 (Le Journal du Centre, 16 octobre 2026, lue).
 10. **Impulse IA et Cafés IA.** Impulse IA : 32 rendez-vous collectifs jusqu’en juin 2027, puis un réseau régional de référents IA (CCI Nièvre, 3 avril 2026, lue). Cafés IA : gratuits, ouverts ; deux à Varzy en avril 2026 (Internet Society France, 29 mars 2026, lue).
-11. **Opérateurs de compétences.** Huit modules IA payés à 100 % pour les moins de 50 salariés, jusqu’au 31 décembre 2026 (Opco Atlas, 7 septembre 2026, lue) ; « IA Box » et catalogue IA (L’Opcommerce, mars 2026, lu).
+11. **Opérateurs de compétences.** Huit modules IA payés à 100 % pour les moins de 50 salariés des branches Atlas (conseil, numérique), jusqu’au 31 décembre 2026 (Opco Atlas, 7 septembre 2026, lue) ; « IA Box » et catalogue IA (L’Opcommerce, mars 2026, lu).
 12. **Mesurer le territoire.** Nièvre Attractive suit la fréquentation par téléphonie anonymisée sur dix territoires (lue). **Mesuré :** 5,82 M de nuitées en 2025, en baisse de 5,4 % (Nevers Tourisme, rapport 2025, lu) ; Cœur de Loire : 886 640 en 2024 (Nièvre Attractive, rapport 2024, lu) ; hôtels : 348 000 en 2025 (Insee, 20 mai 2026, lue).
-13. **Cité des Présents – François Mitterrand.** Deux musées rouverts le 10 mai 2026 après sept ans ; billetterie estimée à 140 000 € (Conseil départemental, 13 et 14 avril 2026, lu).
+13. **Cité des Présents – François Mitterrand.** Deux musées rouverts après sept ans, inauguration annoncée le 10 mai 2026 ; billetterie estimée à 140 000 € (Conseil départemental, 13 et 14 avril 2026, lu).
 
 ## 3. Ce qui arrive en 2027, 2028, 2030
 
@@ -35,9 +35,9 @@ Note de chercheur pour le catalogue « State Of The Art » : vingt et une recher
 | --- | --- | --- |
 | 31 décembre 2026 | Fin des règlements régionaux « création en arts visuels » (4 000 € par artiste) et « conseil stratégique » ; suite inconnue | Texte officiel (lu) |
 | Janvier 2027 | Programme artistique de Bourges 2028 | Annoncé (lu) |
-| 2027 | Académie, observatoire et données européennes du tourisme ; essai d’agents IA de réservation liés au portefeuille d’identité numérique ; appels Horizon Europe sur le tourisme culturel et l’IA | Annoncé (Commission, 4 novembre 2026, lue) |
+| 2027 | Académie, observatoire et données européennes du tourisme ; essai d’agents IA de réservation liés au portefeuille d’identité numérique ; appels Horizon Europe sur le tourisme culturel et l’IA | Annoncé (Commission, 4 novembre 2026 ; Travolution, 9 novembre 2026 ; lues) |
 | Avant le 15 avril 2027 | Dernier « appel à intentions » probable de Bourges 2028 | Calendrier 2025-2027 annoncé en 2024 (lu) ; date supposée |
-| Fin 2027 | Fin de LEADER 2023-2027 et d’Impulse IA | Texte officiel ; annoncé |
+| Fin 2027 | Fin de la programmation LEADER 2023-2027 et d’Impulse IA | Texte officiel ; annoncé |
 | 22 et 23 janvier 2028 | Ouverture de Bourges 2028 ; date déjà déplacée une fois | Annoncé (Sweet FM, 9 octobre 2026, lue) |
 | 31 décembre 2028 | Fin du 238 bis AB pour les achats d’œuvres ; fin des règlements régionaux hôtellerie et spectacle vivant | Texte officiel (lu) |
 | 2028-2034 | Budget européen proposé : AgoraEU (culture), fonds de compétitivité, plans régionaux | Annoncé ; non voté |
@@ -91,7 +91,7 @@ Rédaction prudente. Les montants en euros se contrôlent avec l’option `--tar
 - **Conditions qui excluent.** CNAP : douze mois de ventes certifiés, pas de subvention régulière de fonctionnement. IFCIC : pas d’entreprise individuelle. Hôtellerie : trois étoiles, bien-être exclu. Fondation du patrimoine : propriétaire privé ou société civile immobilière, travaux extérieurs, commune de moins de 20 000 habitants ; conservation quinze ans selon un formulaire régional (à confirmer).
 - **Mécénat et achat d’œuvres.** Une galerie commerciale ne reçoit pas de mécénat. Le 238 bis AB (déduction, achats avant le 31 décembre 2028) n’est pas le 238 bis (réduction). Aucune œuvre vendue comme un placement.
 - **Guichets fermés en 2026.** Culture et IA (20 octobre, crédits épuisés), « Services numériques innovants » (30 juin), Horizon Europe culture et IA (23 septembre), EIT Culture & Creativity (30 octobre). Formations : « dans la limite des fonds disponibles », organisme Qualiopi ; depuis le 1er octobre 2026, prise en charge hors taxes et paiement direct limité (sources professionnelles, vues).
-- **Budgets contraints.** Département : 12 M€ d’efforts en 2024 et 2025, baisses de subventions associatives en 2025, culture tenue à 3,15 M€ de fonctionnement en 2026 (lu). Bourges 2028 : gares végétales ramenées de cinq à trois (lu). Tiers-lieux : « le contexte économique global rend difficile » leur essor (étude de 2025, lue). Le centre d’art labellisé de la Nièvre a cessé son activité (`s1-etat-de-l-art-lieux.md`).
+- **Budgets contraints.** Département : 12 M€ d’efforts en 2024 et 2025, baisses de subventions associatives en 2025, culture tenue à 3,15 M€ de fonctionnement en 2026 (lus). Bourges 2028 : gares végétales ramenées de cinq à trois (lu). Tiers-lieux : « le contexte économique global rend difficile » leur essor (étude de 2025, lue). Le centre d’art labellisé de la Nièvre a cessé son activité (`s1-etat-de-l-art-lieux.md`).
 - **Marwin Tech.** Ni agréée, ni certifiée Qualiopi, sans numéro SIRET : elle prépare ; l’entité de GianLuca Carlone dépose.
 - **IA.** Signaler les contenus générés ; respecter droits d’auteur et données personnelles.
 
@@ -133,7 +133,7 @@ Toutes consultées le 11 novembre 2026. « Lue » : page entière ou long extrai
 - Le Journal des Arts, 18 novembre 2024 : https://www.lejournaldesarts.fr/actualites/bourges-2028-affine-sa-copie-174757 (lue) ; L’Écho du Berry, 11 octobre 2026 (vue)
 
 **Europe**
-- Commission européenne, 4 novembre 2026 : https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en (lue) ; texte : https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52026DC0777 (lu)
+- Commission européenne, 4 novembre 2026 : https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en (lue) ; texte : https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52026DC0777 (lu) ; Travolution, 9 novembre 2026 : https://www.travolution.com/mobilite/tourisme-durable-l-europe-veut-changer-de-modele (lue)
 - Apply AI : https://digital-strategy.ec.europa.eu/en/policies/apply-ai (lue) ; Horizon Europe : https://www.horizon-europe.gouv.fr/ai-integration-ccsi-work-practice-catalysing-innovation-and-competitiveness-42759 (lue) ; EIT : https://www.eit.europa.eu/our-activities/opportunities/eit-culture-creativity-innovation-projects-open-call (lue)
 
 **Patrimoine et mécénat**
