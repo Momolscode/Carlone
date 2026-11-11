@@ -1,7 +1,7 @@
 # S2 — Jugement : rendre l’ambition tenable
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Regard : un directeur de projet et un juriste. Sources : les six portefeuilles s2 du 11 novembre 2026, lus en entier. Le droit cité est à faire valider par des professionnels. Rien n’est vérifié auprès du client.
+Regard : directeur de projet et juriste. Sources : les six portefeuilles s2, lus en entier. Droit à faire valider par des professionnels.
 
 ## 1. Le constat
 
@@ -22,7 +22,7 @@ Les idées se recoupent : le certificat à puce, l’œuvre dans les suites, Bou
 
 ## 3. Vingt-quatre offres à garder
 
-Fusionnées, dans l’ordre de livraison. Le contrat prévoit une suite à la fois : la file se déroule, elle ne part pas d’un bloc. Ensemble, 260 à 340 jours de mise en place : deux années.
+Fusionnées, dans l’ordre de livraison. Le contrat prévoit une suite à la fois : la file se déroule. Ensemble, 260 à 340 jours de mise en place : deux années.
 
 **Sans attendre, pendant ou à côté du cadrage**
 
@@ -67,3 +67,31 @@ Fusionnées, dans l’ordre de livraison. Le contrat prévoit une suite à la fo
 | 22. Le fil de l’invité | Maison 7 et 9 | Le « jamais vu » de la maison. | Après le choix des logiciels ; partage entre ses sociétés consenti. |
 | 23. La scène qui répond à la galerie | Destination 8, Création 9 et 10 | L’art et la scène se répondent. | Cabaret confirmé ; le metteur en scène mène. |
 | 24. La résidence | Création 4, Collectionneur 8, Territoire 11 | Des œuvres nées sur place. | 2028 ; l’IA résume, ne classe pas. |
+
+## 4. À écarter ou à repousser
+
+- **Les robots qui dessinent les invités assis** (Création 11). Public au contact de la machine, hors de la norme ; droit à l’image. La toile de minuit derrière une vitre reste possible en 2028, avec un intégrateur.
+- **L’enchère qui peint.** Réservée à un opérateur de ventes volontaires.
+- **Biennale, Solstice, Rencontres en 2027.** De 25 à 35 jours chacun, sécurité, licences. Un seul rendez-vous, dès 2028, porté par un producteur.
+- **Le tiers-lieu et « nos bureaux ».** Conflit d’intérêts. Bureaux et investissement se traitent à part, avec un avocat.
+- **L’école ouverte au territoire, les classes par une association, le consortium européen.** Organisme déclaré requis, mécénat fragile, taille hors de portée.
+- **Le conseil de la maison, l’ambassadeur, la salle des possibles avec robot.** Un horizon, pas une offre.
+- **Le catalogue raisonné, les collections d’autrui.** Des années, un historien, un risque de litige sur les attributions. En réserve.
+- **Les séjours vendus ensemble, partout.** Une seule formule, vendue par une agence immatriculée, ou par lui s’il s’immatricule.
+
+## 5. Ce qu’il faudrait oser
+
+- **Le lot numérique des travaux.** Être son assistant à maîtrise d’ouvrage pour le réseau, les scènes, les serrures, le son et les capteurs de tous ses bâtiments. Notre métier exact, et le chantier presse. Assurance professionnelle vérifiée avant de signer.
+- **Le tableau des autorisations d’ouverture.** Déclaration d’entrepreneur de spectacles, licence de boissons et permis d’exploitation, commission de sécurité, déclaration du jacuzzi, taxe de séjour. Préparé par l’IA, tenu par son administratrice, validé par ses professionnels.
+- **La galerie accessible.** Description audio de chaque œuvre, sous-titres, langage simple. L’obligation d’accessibilité des services en ligne dépend de la taille de ses sociétés : à vérifier.
+- **La répétition générale.** Avant chaque ouverture, des invités fictifs traversent la maison pour éprouver les outils, sans une donnée réelle.
+
+## 6. Vendredi : la présentation retenue
+
+La question de la destination, la carte du collectionneur. Une page : son parcours (avant, le jour, le soir, la nuit, après) et, dessous, la maison ; les vingt-quatre offres posées dessus. Une question : « Quel moment voulez-vous que l’on raconte en rentrant chez soi ? » Il en entoure trois.
+
+Puis le calendrier : ce qui n’attend pas (offres 1 à 4) ; le cadrage, 6 500 € HT, qui fait de ses trois moments trois priorités à 90 jours ; les marches suivantes, une à la fois. Il garde la carte, à cocher : « j’en ai envie », « plus tard », « pas pour moi ». Deux associés sans référence convainquent par l’ordre, pas par le nombre.
+
+## 7. À trancher entre associés
+
+Dans la feuille de décisions : deux chantiers à la fois au plus, dont un seul sur ses données ? La part de notre temps qui lui revient en 2027. Les trois partenaires à trouver d’abord : un avocat (marché de l’art, données), une agence de voyages immatriculée, un intégrateur. L’accord de Mathys Couet sur la décision du 11 novembre.
