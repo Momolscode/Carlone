@@ -32,7 +32,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Les logiciels de galerie importent un inventaire en masse ; les descriptions nourrissent la recherche (Artsy, 1er octobre 2025 [gal. S24]).
 - **Format.** Essai de huit semaines sur vingt œuvres, puis tout le stock.
 - **Qui.** Nous : réglages, textes proposés, sur un logiciel de galerie du marché. Votre équipe relit ; vous tranchez.
-- **Pour commencer.** Vingt œuvres et leurs pièces.
+- **Départ.** Vingt œuvres et leurs pièces.
 - **Mesure.** Minutes par fiche, avant et après.
 - **À faire valider.** Registre des objets mobiliers, s’il s’applique ; droits des images publiées.
 - **Quand.** 2027 : premier essai après le cadrage.
@@ -40,10 +40,10 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 **2. Le cabinet de nuit**
 - **Une phrase.** Le soir, vous nommez une œuvre ; le matin, son dossier de vigilance est prêt.
 - **Vous obtenez.** Avant d’acheter, de prendre en dépôt ou de vendre, une page à signer : provenance, recherche datée dans les bases d’œuvres volées et spoliées, ventes comparables, questions ouvertes.
-- **Avancé.** À l’université de Santa Clara, un assistant de provenance rend, sur une question en langage courant, plus de 70 œuvres d’un même collectionneur spolié (NPR, 9 août 2026 [gal. S23]).
+- **Avancé.** À l’université de Santa Clara, un assistant de provenance rend, sur une simple question, plus de 70 œuvres d’un même collectionneur spolié (NPR, 9 août 2026 [gal. S23]).
 - **Format.** Trois semaines de méthode, puis un dossier par œuvre.
 - **Qui.** Nous : méthode, recherche. Laboratoire et bases de prix : des tiers. Vous concluez.
-- **Pour commencer.** Trois œuvres récentes.
+- **Départ.** Trois œuvres récentes.
 - **Mesure.** Dossiers faits avant décision, heures par dossier.
 - **À faire valider.** Décret du 3 mars 1981 ; vigilance contre le blanchiment (règlement européen, 10 juillet 2027). L’IA n’authentifie ni n’estime.
 - **Quand.** 2027.
@@ -54,7 +54,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Des outils lisent déjà 400 maisons de ventes ; plus de 60 % des ventes, faites chez les marchands, leur échappent (Bloomberg, 18 février 2026 [gal. S20]) : votre réseau reste l’avantage.
 - **Format.** Un mois de montage, puis chaque semaine.
 - **Qui.** Nous : sources, montage, tri. Bases sous abonnement. Vous : qui appeler.
-- **Pour commencer.** Vos artistes, dix souhaits de collectionneurs.
+- **Départ.** Vos artistes, dix souhaits de collectionneurs.
 - **Mesure.** Pistes retenues par mois.
 - **À faire valider.** Conditions d’usage des bases, lecture seule.
 - **Quand.** Veille 2027, œil appris 2028.
@@ -65,7 +65,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Au muséum d’Autun, voisin de la Nièvre, un guide conversationnel répond sur trente œuvres à partir de 300 pages de notes ; les questions sans réponse remontent à l’équipe (Ask Mona, éditeur, 19 mai 2025 [gal. S9]).
 - **Format.** Six mois.
 - **Qui.** Nous : tri de nuit, index, entretiens, salle. Numérisation, studio, éditeur : des tiers. Vous : la parole.
-- **Pour commencer.** Un entretien, un carton d’archives.
+- **Départ.** Un entretien, un carton d’archives.
 - **Mesure.** Pièces classées, questions posées.
 - **À faire valider.** Droits des photographes et des auteurs de lettres ; votre voix enregistrée, jamais imitée.
 - **Quand.** 2027-2028.
@@ -78,7 +78,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Sur 103 professionnels de galeries, 84 % utilisent l’IA ; 8 % des galeries ont une règle écrite ; environ huit sur dix passent par un compte personnel (Observer, 17 avril 2026 [gal. S4]).
 - **Format.** Deux semaines et un atelier de deux heures, un essai d’attaque par trimestre.
 - **Qui.** Nous rédigeons ; un spécialiste de la sécurité attaque ; votre administratrice tient le registre des accès ; votre avocat relit.
-- **Pour commencer.** La liste des outils déjà utilisés.
+- **Départ.** La liste des outils déjà utilisés.
 - **Mesure.** Accès en trop retirés, aucune donnée de collectionneur hors de vos comptes.
 - **À faire valider.** Maîtrise de l’IA (règlement européen, article 4) ; dire avant ce que l’outil enregistre.
 - **Quand.** Dès le cadrage, 2027.
@@ -89,7 +89,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Dans un ministère britannique, 3 549 agents équipés d’un assistant ont déclaré gagner environ 19 minutes par jour, surtout pour chercher une information (GOV.UK, 29 janvier 2026 [dir. S9]).
 - **Format.** Deux mois.
 - **Qui.** Nous : structure, sécurité. Un logiciel du marché hébergé en Europe ; une machine chez vous, en option. Vous et votre administratrice : la saisie.
-- **Pour commencer.** La règle de la maison, vingt collectionneurs informés.
+- **Départ.** La règle de la maison, vingt collectionneurs informés.
 - **Mesure.** Rendez-vous préparés, minutes pour retrouver un échange.
 - **À faire valider.** Information, accès, effacement ; rien sur la santé ni la fortune supposée.
 - **Quand.** 2027.
@@ -100,7 +100,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Depuis janvier 2026, Google Meet traduit la parole entre l’anglais et cinq langues, dont le français, avec une voix qui imite le ton (Google, 4 février 2026 [front. F10]).
 - **Format.** Une saison d’essai, dix collectionneurs ; six mois avant l’ouverture pour les fondateurs.
 - **Qui.** Nous : mise en page, traduction, réglages, sur un logiciel de galerie du marché. Vous : le choix, les mots, l’envoi.
-- **Pour commencer.** Le cabinet des œuvres, des contacts consentants.
+- **Départ.** Le cabinet des œuvres, des contacts consentants.
 - **Mesure.** Salles ouvertes, demandes, ventes sans voyage.
 - **À faire valider.** Suivi des lectures consenti, accord des artistes, traduction signalée, vente à distance.
 - **Quand.** 2027, lisible par les assistants des collectionneurs vers 2030.
@@ -113,7 +113,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Selon un rapport du ministère de la Culture du 16 juillet 2026, une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine [créa.]. À Art Basel, en juin 2026, chaque œuvre d’un stand avait un certificat lié à une puce (Verisart, éditeur [gal. S21]).
 - **Format.** Six semaines, puis à chaque œuvre.
 - **Qui.** Nous : cartel, outil du journal. Un prestataire de certificats ; votre avocat écrit les mentions. L’artiste tient son journal ; vous signez.
-- **Pour commencer.** Trois œuvres.
+- **Départ.** Trois œuvres.
 - **Mesure.** Certificats vérifiés, reventes revenues à la galerie.
 - **À faire valider.** Le papier signé fait foi, droit de suite, certificat d’exportation des biens culturels.
 - **Quand.** 2027, transmis à chaque revente vers 2030.
@@ -124,7 +124,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Selon une étude de juin 2025, une image générée et signalée rend une publicité de luxe moins authentique aux yeux du public (Journal of Advertising Research [ray.]).
 - **Format.** La charte en un mois, un tournage par saison.
 - **Qui.** Nous : charte, marquage, calendrier. Photographe, réalisateur, graphiste. Vous validez chaque publication.
-- **Pour commencer.** L’accès au chantier.
+- **Départ.** L’accès au chantier.
 - **Mesure.** Images publiées avec leur origine.
 - **À faire valider.** L’accord écrit de toute personne reconnaissable ; aucun tournage dans les suites, au sauna, au jacuzzi.
 - **Quand.** Dès les premiers travaux.
@@ -132,10 +132,10 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 **10. Les expositions qui ne meurent pas**
 - **Une phrase.** Chaque accrochage capté en 3D, où l’on marche encore des années après ; puis des œuvres commandées pour ce médium.
 - **Vous obtenez.** Chaque exposition revisitable par un lien, lumière comprise. En 2028, une œuvre faite pour un monde en 3D, que l’on explore. Vers 2030, des mondes où l’on parle.
-- **Avancé.** Le LACMA présente jusqu’au 20 décembre 2026 une œuvre faite d’objets capturés en 3D, que l’on manipule dans le navigateur d’un téléphone [gal. S14]. Le 27 octobre 2026, Google DeepMind a présenté à des testeurs des mondes explorables où des personnages parlent [front. F8].
+- **Avancé.** Le LACMA présente jusqu’au 20 décembre 2026 une œuvre faite d’objets capturés en 3D, que l’on manipule sur un téléphone [gal. S14]. Le 27 octobre 2026, Google DeepMind a présenté à des testeurs des mondes explorables où des personnages parlent [front. F8].
 - **Format.** Une journée de capture par accrochage, essai de quatre semaines pour la première commande.
 - **Qui.** Un spécialiste de la capture ; nous : protocole, mise en ligne. L’artiste dirige son œuvre.
-- **Pour commencer.** L’accord écrit des artistes exposés.
+- **Départ.** L’accord écrit des artistes exposés.
 - **Mesure.** Visites de l’archive, demandes nées d’une visite.
 - **À faire valider.** Droit de reproduction, monde signalé comme créé avec l’IA.
 - **Quand.** Captures 2027, commande 2028, mondes parlants vers 2030.
@@ -148,7 +148,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** En Norvège, le parc de sculptures de Kistefos, doté d’une galerie-pont signée en 2019, a reçu 90 000 visiteurs en 2025 (Ringblad, 15 octobre 2025 [lieux]).
 - **Format.** Six à neuf mois.
 - **Qui.** Vous choisissez l’artiste parmi trois. Nous : programme, appel, suivi. Un bureau de contrôle vérifie la pose.
-- **Pour commencer.** L’emplacement, avant la fin des travaux.
+- **Départ.** L’emplacement, avant la fin des travaux.
 - **Mesure.** Visiteurs venus « pour l’œuvre », articles.
 - **À faire valider.** Contrat de commande : droits, entretien, fin de vie.
 - **Quand.** Commande 2027, pour l’ouverture.
@@ -159,7 +159,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** À Tokyo, un musée d’installations numériques qui réagissent aux visiteurs en a reçu 2 504 264 en un an (teamLab, 15 juillet 2024 [créa.]).
 - **Format.** Quatre à six mois de création.
 - **Qui.** Un artiste du génératif ; un imprimeur d’art ; nous : programme, données du ciel, suivi.
-- **Pour commencer.** Un artiste, un format de tirage.
+- **Départ.** Un artiste, un format de tirage.
 - **Mesure.** Tirages emportés, demandes d’édition.
 - **À faire valider.** Contrat de droits et d’édition, signalement sans gêner l’œuvre, aucune donnée des hôtes.
 - **Quand.** 2027, à l’ouverture des suites.
@@ -170,7 +170,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** La Villa Albertine ouvre quatre résidences « Les arts à l’ère de l’IA » en 2026, quatre en 2027 (CNC, 25 février 2025 [créa.]). Première lecture des dossiers traités en parallèle : jusqu’à cent fois plus vite qu’une personne qui les lit un par un ; hypothèse à mesurer.
 - **Format.** Appel en trois mois, résidence de quatre à huit semaines, laboratoire sur deux à trois ans.
 - **Qui.** Nous : appel, lecture préparée, outils, contrats. Un jury que vous présidez ; un laboratoire universitaire, à trouver.
-- **Pour commencer.** Un thème, des dates hors saison.
+- **Départ.** Un thème, des dates hors saison.
 - **Mesure.** Candidatures, œuvres nées sur place, publications.
 - **À faire valider.** L’IA résume, ne classe pas (RGPD, article 22) ; contrat de résidence.
 - **Quand.** Appel 2027, accueil 2028, laboratoire 2028-2030.
@@ -181,7 +181,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Dans la Meuse, six villages font vivre 150 œuvres sur 45 km, avec plus de 80 artisans et plus de 120 bénévoles (Vent des Forêts, site, 11 novembre 2026 [lieux]).
 - **Format.** Six mois par binôme.
 - **Qui.** Nous : repérage, protocole, dossier. Un spécialiste du relevé 3D. L’artiste et l’artisan créent.
-- **Pour commencer.** Trois artisans volontaires.
+- **Départ.** Trois artisans volontaires.
 - **Mesure.** Pièces achevées, vendues.
 - **À faire valider.** Co-autorat écrit, statut fiscal d’une pièce en partie faite à la machine.
 - **Quand.** 2028.
@@ -192,7 +192,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** À Paris, « Le monde selon l’IA » a reçu 88 151 visiteurs en vingt-quatre semaines (Jeu de Paume, rapport d’activité 2025 [créa.]).
 - **Format.** Neuf à douze mois.
 - **Qui.** Le commissaire choisit. Nous : calendrier, contrats, cartels. Vous fixez les prix. Transporteur, assureur, scénographe.
-- **Pour commencer.** La date d’ouverture.
+- **Départ.** La date d’ouverture.
 - **Mesure.** Visiteurs, ventes, articles.
 - **À faire valider.** Prêts écrits, assurance, droits de reproduction.
 - **Quand.** 2027.
@@ -205,7 +205,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** En Écosse, The Fife Arms, propriété des fondateurs de la galerie Hauser & Wirth, dit réunir plus de 16 000 œuvres, antiquités et objets (page officielle [acc. S13]).
 - **Format.** Un mois, puis à chaque saison et à chaque invité.
 - **Qui.** Nous : liens entre réservations, livre des amateurs et inventaire. Un régisseur accroche ; un conservateur-restaurateur règle lumière et climat.
-- **Pour commencer.** Bons de dépôt, assurance.
+- **Départ.** Bons de dépôt, assurance.
 - **Mesure.** Demandes nées d’une nuit.
 - **À faire valider.** Assurance, humidité loin du sauna et du jacuzzi, jamais un placement.
 - **Quand.** À l’ouverture des suites.
@@ -216,7 +216,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** À La Haye, un théâtre national a annoncé le prêt de lunettes à sous-titres créés par l’IA depuis la voix des comédiens ; 223 langues annoncées (Audinate, 29 mai 2025 [scène]).
 - **Format.** Un essai d’un mois sur un numéro, puis six semaines par exposition.
 - **Qui.** Un metteur en scène décide ; des artistes jouent ; un régisseur vidéo réalise ; nous : surtitres, liens avec la galerie, droits.
-- **Pour commencer.** Le cabaret confirmé, un acousticien avant les plans.
+- **Départ.** Le cabaret confirmé, un acousticien avant les plans.
 - **Mesure.** Spectateurs passés à la galerie, et l’inverse.
 - **À faire valider.** L’accord de l’artiste exposé, droits des musiques, voix et image des artistes.
 - **Quand.** 2027 si le cabaret ouvre, toile de minuit en 2028.
@@ -227,7 +227,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** À Kirrwiller, en Alsace, un cabaret de village a annoncé hôtel et spa au 28 août 2026 (page officielle [acc. S12]). Notre recherche du 11 novembre 2026 n’a trouvé aucun lieu qui réunisse art, scène, soin et nuit autour d’une galerie marchande.
 - **Format.** Deux mois ; la conduite, trois mois avant l’ouverture du cabaret.
 - **Qui.** Vos professionnels fixent le cadre ; une agence de voyages immatriculée vend ; nous : programmes, conduite, liens.
-- **Pour commencer.** Le cadre de vente validé.
+- **Départ.** Le cadre de vente validé.
 - **Mesure.** Nuits par visiteur, délai entre le rideau et la suite prête.
 - **À faire valider.** Forfait touristique probable : immatriculation chez Atout France.
 - **Quand.** 2027-2028.
@@ -238,7 +238,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** En Tasmanie, un festival d’hiver a reçu 115 988 visiteurs en 2026, pour 306 601 nuitées (Pulse Tasmania, 22 septembre 2026 [lieux]). Nevers et La Charité-sur-Loire sont dans le réseau de Bourges 2028 (bourges2028.org, 16 décembre 2025 [terr.]).
 - **Format.** Dossier en deux à trois mois, Solstice en six mois.
 - **Qui.** Nous : conception, dossier. Un producteur porte Solstice ; une agence immatriculée vend le séjour.
-- **Pour commencer.** Le programme de Bourges, attendu en janvier 2027.
+- **Départ.** Le programme de Bourges, attendu en janvier 2027.
 - **Mesure.** Nuitées, visiteurs venus de plus de 200 km.
 - **À faire valider.** Sécurité du public, vente de séjours, usage du nom de Bourges 2028.
 - **Quand.** Dossier 2027, préfiguration en décembre 2027 si vos lieux sont ouverts, Solstice en décembre 2028.
@@ -251,7 +251,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Une boutique tenue par un agent d’IA est passée des pertes à des semaines presque toutes bénéficiaires une fois dotée d’outils et de procédures ; son éditeur la juge encore vulnérable (Anthropic, 18 décembre 2025 [dir. S8]).
 - **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu, société par société.
 - **Qui.** Nous : partitions, réglages, mesure, sur des outils du marché. Votre administratrice, aidée, jamais remplacée, choisit et valide ; votre expert-comptable tient les comptes.
-- **Pour commencer.** L’inventaire du cadrage.
+- **Départ.** L’inventaire du cadrage.
 - **Mesure.** Délai entre réception et validation ; minutes par facture ; erreurs à l’échantillon : la tâche, jamais la personne.
 - **À faire valider.** Rien de payé, envoyé ou signé sans elle ; émission des factures par les PME au 1er septembre 2027 ; aucun conseil fiscal.
 - **Quand.** Essai 2027 ; vers 2030, l’assistant écrit en comptabilité après validation (supposé).
@@ -262,7 +262,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Un scanner portable relève un étage en une trentaine de minutes, à 5 à 15 mm près (Messe Frankfurt, 22 mai 2026 [bât. B3]).
 - **Format.** Note en deux semaines, état zéro avant les travaux, un carnet par bâtiment.
 - **Qui.** Nous : note, carnet, rapprochements. Un prestataire de relevé. Votre architecte décide.
-- **Pour commencer.** Les plans en cours.
+- **Départ.** Les plans en cours.
 - **Mesure.** Dépassements vus avant paiement.
 - **À faire valider.** Une image 3D n’est pas une mesure, réseau séparé.
 - **Quand.** Note maintenant, carnet 2027, bâtiment interrogé en langage courant vers 2030.
@@ -273,7 +273,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Gartner prévoit l’abandon de plus de 40 % des projets d’agents d’IA d’ici fin 2027 : coûts, valeur peu claire, risques mal maîtrisés (25 juin 2025 [dir. S20]).
 - **Format.** Six semaines, deux jours par répétition.
 - **Qui.** Nous préparons ; votre administratrice tient le tableau ; vos professionnels déposent et signent.
-- **Pour commencer.** Les dates d’ouverture visées.
+- **Départ.** Les dates d’ouverture visées.
 - **Mesure.** Pièces prêtes à date, défauts trouvés avant l’ouverture.
 - **À faire valider.** Toutes les démarches, nous ne déclarons jamais un lieu conforme.
 - **Quand.** 2027, avant chaque ouverture.
@@ -284,7 +284,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Le 29 septembre 2026, 0,5 % des sites d’hôtels classés de Bourgogne-Franche-Comté proposaient une discussion en ligne (Revolution Agency [acc. S10]).
 - **Format.** Douze semaines avant l’ouverture, l’écrit d’abord.
 - **Qui.** Trois logiciels du marché reliés ; nous : base de réponses ; votre équipe garde la relation.
-- **Pour commencer.** Le logiciel des suites choisi.
+- **Départ.** Le logiciel des suites choisi.
 - **Mesure.** Questions réglées sans relais.
 - **À faire valider.** Article 50, consentement, aucune donnée de santé.
 - **Quand.** 2027-2028.
@@ -297,7 +297,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Depuis le 27 août 2026, aux États-Unis, le mode IA de la recherche Google réserve une chambre auprès de dix partenaires (PPC Land, 28 août 2026 [ray.]).
 - **Format.** Six semaines, puis une demi-journée par mois.
 - **Qui.** Nous ; un outil du marché ; vous validez chaque fait.
-- **Pour commencer.** Le nom du lieu.
+- **Départ.** Le nom du lieu.
 - **Mesure.** Réponses justes sur cinquante.
 - **À faire valider.** Mêmes prix partout, aucune place promise.
 - **Quand.** 2027, ambassadeur 2028.
@@ -308,7 +308,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** La Région aide l’hôtellerie indépendante jusqu’à 30 % des travaux, logiciel de gestion admis, dossier déposé avant tout commencement (règlement du 6 mars 2026 [terr.]). Un appel national pour l’IA dans la culture a fermé le 20 octobre 2026, crédits épuisés (Bpifrance [terr.]).
 - **Format.** Trois semaines, puis un à cinq jours par dossier.
 - **Qui.** Nous préparons ; votre administratrice tient le calendrier ; votre société dépose, jamais nous.
-- **Pour commencer.** Vos projets, les devis déjà signés.
+- **Départ.** Vos projets, les devis déjà signés.
 - **Mesure.** Dossiers déposés à temps.
 - **À faire valider.** Un devis signé vaut commencement, aucune aide promise.
 - **Quand.** Maintenant.
@@ -319,17 +319,17 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Avancé.** Sur de vraies missions d’indépendants, l’agent d’IA en tête du classement rend un travail acceptable dans 41,3 % des cas en novembre 2026, contre 2,5 % fin 2025 (Scale AI [dir. S5]) : il prépare, une personne relit.
 - **Format.** Six semaines, puis deux jours par entreprise.
 - **Qui.** Nous : dossiers. Votre équipe vend. L’expert-comptable de chaque entreprise valide.
-- **Pour commencer.** Trois entreprises.
+- **Départ.** Trois entreprises.
 - **Mesure.** Œuvres placées, entreprises qui reviennent.
 - **À faire valider.** Déduction des achats faits avant le 31 décembre 2028 (article 238 bis AB) : jamais un argument chiffré.
 - **Quand.** 2027-2028.
 
 ## 3. Cinq projets phares pour l’ouverture de 2027
 
-Si la commande part au premier trimestre 2027 ; dates d’ouverture à fixer avec vous.
+Commande au premier trimestre 2027 ; dates d’ouverture à fixer avec vous.
 
 1. **La première nuit des œuvres** (offres 12, 16, 18, 23). *Le client des suites.* Un couple arrive de Milan, son programme reçu la veille en italien. Dans sa suite, une toile choisie pour lui, un mot au chevet, aucun écran. Quand le rideau du cabaret tombe, la suite est prête. Au matin, le sauna à son heure, puis le dossier de l’œuvre aimée. Il repart avec le tirage signé de sa nuit.
-2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux a visité l’accrochage depuis Londres, avec vous. Le jour venu, il approche son téléphone du châssis de l’œuvre réservée : le certificat s’affiche.
+2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux a visité l’accrochage depuis Londres, avec vous. Devant l’œuvre réservée, il approche son téléphone du châssis : le certificat s’affiche.
 3. **La main et la machine** (8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Dans la galerie, votre stock fait face aux œuvres commandées ; sous chacune, la part de la main et celle de la machine. Dans dix ans, on marchera encore dans cette exposition.
 4. **Le vernissage-spectacle** (17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. Des artistes vivants : aucun avatar, aucune voix imitée.
 5. **Le matin de la maison** (2, 20, 22). *Vous et votre administratrice.* Sept heures. Sur un écran, la nuit de tous vos lieux : factures du chantier rapprochées des devis, deux écarts signalés, l’analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
@@ -338,7 +338,7 @@ Si la commande part au premier trimestre 2027 ; dates d’ouverture à fixer ave
 
 Le cadrage reste la première marche recommandée : trois à quatre semaines, 6 500 € hors taxes, prix fixe. Ce qui change : il se tourne vers les trois moments que vous choisissez, au même prix, avec le même dossier.
 
-1. **Tout de suite.** Votre accord pour le cadrage. Un conseil, donné le jour même : aucun devis de travaux signé avant d’avoir vérifié les aides. Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la règle de la maison (5), le film du chantier (9), la note pour votre architecte (21), le calendrier des aides (25).
+1. **Tout de suite.** Votre accord pour le cadrage. Un conseil, le jour même : aucun devis de travaux signé avant d’avoir vérifié les aides. Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la règle de la maison (5), le film du chantier (9), la note pour votre architecte (21), le calendrier des aides (25).
 2. **D’abord par le cadrage.** Tout ce qui touche vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret : offres 1 à 4, 6 à 8, 16 à 18, 20, 22 à 24, 26. Le cadrage en tire vos trois priorités à 90 jours ; puis un essai à la fois.
 3. **Ce qui se prépare pour plus tard.** Ce qui demande des mois : les mondes (10), les commandes d’œuvres (11, 12, 15), la résidence (13), la main d’ici (14), Bourges et Solstice (19). La conception peut commencer pendant le cadrage ; aucun artiste n’est contacté sans votre accord.
 
@@ -367,7 +367,7 @@ La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée
 
 **INTERNE — à décider par Morgan Olsen et Mathys Couet.**
 
-Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société, sur devis, hors grille. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
+Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société, sur devis, hors grille.
 
 | N° | Nos jours : mise en place ; suivi | Tiers, part | € HT |
 | --- | --- | --- | --- |
@@ -376,7 +376,7 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 | 3 | 8-10 ; 1/mois ; œil appris 8-12 | bases, moyenne | 6 000-10 500 ; 6 000-12 500 |
 | 4 | 12-16 ; 2/mois six mois | numérisation, studio, forte | 9 000-16 500 |
 | 5 | 4-6 ; 3/an | sécurité, avocat, moyenne | 3 000-6 000 |
-| 6 | 10-14 ; 1/mois | logiciel, avocat ; machine 5 500-7 500 (k13a, à revérifier) | 7 500-14 500 |
+| 6 | 10-14 ; 1/mois | logiciel, avocat ; machine 5 500-7 500 (à revérifier) | 7 500-14 500 |
 | 7 | 12-18 ; 2/saison | salles, impression, moyenne | 9 000-18 500 |
 | 8 | 10-14 ; 0,25/vente | certificats, avocat, moyenne | 7 500-14 500 |
 | 9 | 5-7 ; 2/saison | photographe, réalisateur, forte | 4 000-7 000 |
@@ -431,7 +431,7 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 
 ## 9. Faits citables retenus
 
-Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chiffres d’Art Basel et UBS : il les connaît mieux que nous.
+Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 
 1. Seize heures d’expert en logiciel, réussies une fois sur deux (METR, 8 septembre 2026 ; § 5).
 2. De 2,5 % à 41,3 % de missions réelles jugées acceptables en un an (Scale AI, novembre 2026 ; offre 26).
@@ -454,7 +454,7 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chif
 
 ## 10. Plan des documents à écrire
 
-**(a) Une page « State Of The Art : le programme ».** Mention PROJET, phrase-titre, dix lignes, sept familles et cinq phares en une ligne chacun, la question « Par où votre maison commence-t-elle ? », le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
+**(a) Une page « State Of The Art : le programme ».** Mention PROJET, phrase-titre, dix lignes, sept familles et cinq phares en une ligne chacun, « Par où votre maison commence-t-elle ? », le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
 
 **(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
 
@@ -465,7 +465,7 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chif
 | `sota-vision`, après `enjeux` (6) | State Of The Art : votre œil, l’IA dans l’ombre | Une maison d’art que l’on vient voir de loin / Rien de ce qu’on vous confie ne la quitte / Des œuvres nées chez vous / La nuit, des assistants ; au matin, une page / Plus de maison, pas plus de machines | « On viendra de loin pour une œuvre ; on restera une nuit. Ce que l’IA fait de plus avancé travaille dans l’ombre : chercher, traduire, préparer, se souvenir. Votre goût reste la seule signature. » |
 | `sota-phares`, ensuite | Cinq moments pour votre ouverture de 2027 | La première nuit des œuvres / L’ouverture choisie avant d’ouvrir / La main et la machine / Le vernissage-spectacle / Le matin de la maison | « Voici cinq moments pour le jour de votre ouverture. Lesquels voulez-vous que vos invités racontent en rentrant chez eux ? Entourez-en trois : le cadrage en fera vos priorités. » |
 | `sota-familles`, au lieu d’`ambition` (21) | Sept familles d’offres, une seule maison | L’œil, le cercle, la preuve, faire naître des œuvres, recevoir, la maison orchestrée, rayonner et financer / Vingt-six offres, noms de travail | « Derrière ces moments, vingt-six offres. Chacune dit ce qu’elle a d’avancé, avec sa source, et se commande à part. Cochez sur la carte : “j’en ai envie”, “plus tard”, “pas pour moi”. » |
-| `sota-chemin`, au lieu d’`avenir` (22) | 2027, 2028, 2030 : ce qui ouvre, ce que l’IA saura | 2027 : la galerie, la maison tenue d’un écran / 2028 : Bourges, la résidence, l’œil appris / 2030 : le passeport transmis, des mondes où l’on parle | « Sur des tâches de logiciel, la durée des tâches que les meilleurs agents réussissent une fois sur deux double environ tous les sept mois depuis 2019 : une mesure du passé, pas une prévision. Chaque marche se mesure avant la suivante. » |
+| `sota-chemin`, au lieu d’`avenir` (22) | 2027, 2028, 2030 : ce qui ouvre, ce que l’IA saura | 2027 : la galerie, la maison tenue d’un écran / 2028 : Bourges, la résidence, l’œil appris / 2030 : le passeport transmis, des mondes où l’on parle | « En 2027, votre maison se tient d’un écran ; en 2028, Bourges fait venir l’Europe ; en 2030, vos œuvres voyagent avec leur passeport. Des tendances, pas des promesses : chaque marche se mesure avant la suivante. » |
 | `sota-tenir`, après `societe` (18) | Deux associés : nous orchestrons, d’autres exécutent | Nous concevons / Des spécialistes exécutent / Votre équipe garde la main / Deux chantiers à la fois / Tout à votre nom, un relais nommé | « Nous ne faisons pas tout. Artistes, intégrateurs et avocats exécutent ; votre administratrice garde la main. Si l’un de nous manque, un relais est nommé et tout reste à vous. » |
 | `sota-commencer`, avant `proposition` (24) | Trois façons de commencer | Tout de suite : le cadrage, 6 500 € HT / D’abord par le cadrage : données, collectionneurs, séjours / Plus tard : commandes d’œuvres, résidence, Bourges / En plus : une offre qui n’attend pas | « Le cadrage reste la première marche, tourné vers vos trois moments. Si une date l’impose, une offre part en même temps, avec son prix écrit avant toute commande. » |
 | `decision` (26), refaite | Aujourd’hui : par où votre maison commence | Votre accord pour le cadrage, tourné vers vos trois moments / Une offre à chiffrer en plus, si vous voulez / Rien ne vous engage avant le bon de commande signé | La phrase du § 4, mot pour mot. |
@@ -474,7 +474,6 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chif
 - « C’est beaucoup pour deux personnes. » « Oui, si nous faisions tout. Nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main. Deux chantiers à la fois, sur quatre ans. Tout est à votre nom, avec un relais nommé : vous pouvez continuer sans nous. »
 - « Combien pour tout cela ? » « Seul le cadrage a un prix aujourd’hui. Chaque offre aura le sien, écrit avant toute commande. »
 - « Une œuvre d’abord ? » « Sa conception peut commencer pendant le cadrage. »
-- « L’IA jugera-t-elle mes œuvres ? » « Jamais. Elle cherche et prépare ; vous signez. »
 
 ## 11. Ce que seuls Morgan Olsen et Mathys Couet peuvent trancher
 
