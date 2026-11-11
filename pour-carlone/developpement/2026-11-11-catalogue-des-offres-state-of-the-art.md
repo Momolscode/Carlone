@@ -8,7 +8,7 @@ Pour GianLuca Carlone · Marwin Tech · 11 novembre 2026
 
 **Chaque offre se commande à part, avec un prix écrit avant toute commande ; le cadrage, à 6 500 € hors taxes, est la première marche que nous recommandons.**
 
-Sept familles, vingt-neuf offres. Les noms sont des noms de travail. Cochez ce qui vous parle : nous en parlerons ensemble. « Quand » dit l’année où l’offre peut commencer ; la date exacte suit celle de vos ouvertures.
+Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : nous en parlerons ensemble. « Quand » : l’année où l’offre peut commencer, selon la date de vos ouvertures. À la fin : six projets phares et trois façons de commencer.
 
 <style>.sommaire th,.sommaire td{padding:1.5pt 5pt;line-height:1.3}</style>
 <div class="sommaire">
@@ -46,8 +46,6 @@ Sept familles, vingt-neuf offres. Les noms sont des noms de travail. Cochez ce q
 | | 26 | L’art en entreprise | 2027-2028 | ☐ | ☐ | ☐ |
 
 </div>
-
-À la fin de ce catalogue : six projets phares pour votre ouverture, et trois façons de commencer.
 
 ## Ce qui vaut pour chaque offre
 
@@ -384,3 +382,76 @@ Sept familles, vingt-neuf offres. Les noms sont des noms de travail. Cochez ce q
 - **Ce qui se mesure.** Tâches passées à la nuit, par semestre ; erreurs relevées sur un échantillon.
 - **À faire valider par vos professionnels.** Rien ne change sans votre administratrice ; rien n’est envoyé, payé ou signé sans une personne. Aucune donnée de la maison n’est montrée. Les données d’une entreprise sont effacées après l’essai.
 - **Quand.** Dès le premier essai du pupitre, en 2027.
+
+## Famille VII. Rayonner et financer
+
+### 24. La maison lisible par les assistants
+
+- **En une phrase.** Quand un assistant d’IA parle de votre maison, il la décrit juste ; chaque mois, nous mesurons s’il la propose.
+- **Ce que vous obtenez.** Une page de vérité, reprise partout ; chaque mois, cinquante questions posées à quatre assistants, et les erreurs corrigées. En 2028, un ambassadeur qui répond aux assistants des voyageurs, sans jamais vendre seul.
+- **Ce qu’elle a d’avancé.** Depuis le 27 août 2026, aux États-Unis, le mode IA de la recherche Google réserve une chambre auprès de dix partenaires (PPC Land, 28 août 2026).
+- **Format et durée.** Six semaines, puis une demi-journée par mois.
+- **Qui fait quoi.** Nous, avec un outil du marché. Vous validez chaque fait.
+- **Pour commencer.** Le nom du lieu.
+- **Ce qui se mesure.** Réponses justes, sur cinquante.
+- **À faire valider par vos professionnels.** Les mêmes tarifs partout ; aucune place promise ; aucune réservation sans validation.
+- **Quand.** 2027 ; l’ambassadeur en 2028.
+
+### 25. L’argent qui attend
+
+- **En une phrase.** Le calendrier des aides et des prêts possibles, avec l’ordre des actes.
+- **Ce que vous obtenez.** Tout de suite, un rappel : avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable. Puis une fiche par aide, les dossiers préparés, une alerte avant toute signature.
+- **Ce qu’elle a d’avancé.** Si vos neuf suites sont exploitées en hôtel de tourisme visant trois étoiles, la Région peut aider jusqu’à 30 % des travaux, dans un plafond ; le logiciel de gestion est admis, le bien-être exclu ; le dossier se dépose avant tout commencement (règlement régional du 6 mars 2026, à vérifier avec la Région). Un appel national pour l’IA dans la culture a fermé le 20 octobre 2026, crédits épuisés (Bpifrance) : les dates comptent.
+- **Format et durée.** Trois semaines, puis un à cinq jours par dossier.
+- **Qui fait quoi.** Nous préparons ; votre administratrice tient le calendrier ; votre société dépose, jamais nous.
+- **Pour commencer.** La liste de vos projets et des devis déjà signés.
+- **Ce qui se mesure.** Dossiers déposés à temps.
+- **À faire valider par vos professionnels.** Un devis signé vaut commencement ; aucune aide n’est promise ; le règlement régional s’arrête au 31 décembre 2028.
+- **Quand.** Maintenant.
+
+### 26. L’art en entreprise
+
+- **En une phrase.** Des œuvres d’artistes vivants pour les entreprises, votre galerie servant de salon d’essai.
+- **Ce que vous obtenez.** Un dossier par entreprise, préparé la nuit et relu le matin : artistes, accrochage simulé et signalé comme tel, note pour son expert-comptable ; puis le suivi.
+- **Ce qu’elle a d’avancé.** Sur de vraies missions de travailleurs indépendants, l’agent d’IA en tête rend un travail acceptable dans 41,3 % des cas en novembre 2026, contre 2,5 % fin 2025 (Scale AI, classement consulté le 11 novembre 2026) : il prépare, une personne relit.
+- **Format et durée.** Six semaines, puis deux jours par entreprise.
+- **Qui fait quoi.** Nous : les dossiers. Votre équipe vend. L’expert-comptable de chaque entreprise valide.
+- **Pour commencer.** Trois entreprises.
+- **Ce qui se mesure.** Œuvres placées ; entreprises qui reviennent.
+- **À faire valider par vos professionnels.** La déduction des achats d’œuvres faits par les entreprises avant le 31 décembre 2028 (code général des impôts, article 238 bis AB) : jamais un argument chiffré.
+- **Quand.** 2027-2028.
+
+## Six projets phares pour votre ouverture
+
+Les offres se combinent en six moments, imaginés pour le jour de votre ouverture. Commandés en janvier 2027, ils permettent d’ouvrir au plus tôt à l’automne 2027 ; commandés plus tard, au printemps 2028. La date se fixe avec vous pendant le cadrage.
+
+1. **La première nuit des œuvres** (offres 12, 16, 18, 23). *Le client des suites.* Un couple arrive de Milan, son programme reçu la veille en italien. Dans sa suite, la toile que vous avez choisie pour la saison, un mot au chevet, aucun écran. Quand le rideau du cabaret tombe, la suite est prête. Au matin, le sauna à son heure, puis le dossier de l’œuvre aimée. Le tirage de sa nuit le suivra, signé de l’artiste.
+2. **L’ouverture choisie avant d’ouvrir** (offres 7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu une lettre de votre main, dans leur langue ; dix, une salle accrochée pour eux seuls, cinq œuvres de votre stock. L’un d’eux l’a parcourue depuis Londres, avec vous. Devant l’œuvre réservée, il approche son téléphone du châssis : le certificat s’affiche.
+3. **État de l’art** (offres 8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Dans la galerie, les œuvres de votre stock répondent aux œuvres commandées ; sous chacune, son cartel de fabrication. Les fichiers de cette exposition sont à vous : on pourra y revenir.
+4. **Le vernissage-spectacle** (offre 17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. Des artistes vivants : aucun avatar, aucune voix reproduite sans accord.
+5. **Le matin de la maison** (offres 2, 20, 22). *Vous et votre administratrice.* Sept heures. Sur un écran, la nuit de tous vos lieux : les factures du chantier rapprochées des devis, deux écarts signalés, l’analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
+6. **La maison d’avant** (offres 9, 10, 15, 21). *Le visiteur.* Avant d’entrer dans la galerie, il marche dans vos murs tels qu’ils étaient le jour de votre achat, relevés en 3D avant le premier coup de pioche. Un artiste en a fait une œuvre. Une porte s’ouvre : la galerie d’aujourd’hui.
+   - *Ce qu’elle a d’avancé.* Le chantier de Notre-Dame de Paris a réuni plus de 170 scientifiques ; un double numérique a été bâti à partir de relevés 3D faits avant et après l’incendie (ministère de la Culture, 25 novembre 2024). Un monde 3D se tire aujourd’hui de quelques photos ou d’une courte vidéo d’un lieu réel (World Labs, 12 novembre 2025).
+   - *Quand.* La capture maintenant, avant tout chantier ; l’œuvre à l’ouverture, dans la première salle de l’exposition (offre 15).
+   - *À faire valider par vos professionnels.* Une image 3D n’est pas une mesure. L’œuvre est signalée sans être gênée (règlement européen sur l’IA, article 50). Aucune personne reconnaissable sans accord écrit.
+
+## Par où commencer
+
+### Le cadrage, la première marche que nous recommandons
+
+**Trois à quatre semaines, à prix fixe : 6 500 € hors taxes, soit 7 800 € toutes taxes comprises**, déplacements des deux rendez-vous compris. Le prix toutes taxes comprises suppose une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base).
+
+- **Ce qui vous est remis.** L’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours, chacune avec un objectif mesurable ; trois tâches au plus à essayer, chacune avec sa mesure de départ ; le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune.
+- **Comment.** Semaine 1 : un premier entretien chez vous, deux à trois heures. Semaines 2 et 3 : le travail sur vos documents, avec l’aide de votre administratrice, environ une à deux journées sur ses heures de travail. Semaine 3 ou 4 : la remise du dossier et la restitution.
+- **Tourné vers vos moments.** Le cadrage se tourne vers les trois projets phares que vous choisissez, au même prix, avec le même dossier. Vous en choisissez aussi l’angle : par les œuvres, par le cercle, par l’ouverture ou par la maison.
+- **Quand.** Nous visons un démarrage début janvier 2027 si la commande est signée avant la mi-décembre. Proposition valable jusqu’au jeudi 31 décembre 2026.
+
+### Trois façons de commencer
+
+1. **Tout de suite.** Votre accord pour le cadrage. Le jour même, un rappel : avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable. Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la règle de la maison (offre 5), le film du chantier (offre 9), la note pour votre architecte et l’état zéro de vos murs, capté avant le premier devis de travaux (offre 21), le calendrier des aides (offre 25).
+2. **D’abord par le cadrage.** Tout ce qui touche vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret : offres 1 à 4, 6 à 8, 16 à 18, 20, 22 à 24, 26 et 27. Le cadrage en tire vos trois priorités à 90 jours ; puis un essai à la fois.
+3. **Ce qui se prépare pour plus tard.** Ce qui demande des mois : les mondes et la maison d’avant (offre 10), les commandes d’œuvres (offres 11, 12, 15, 29), la résidence (offre 13), la main d’ici (offre 14), Bourges et Solstice (offre 19), le catalogue raisonné (offre 28). Leur conception peut commencer pendant le cadrage, commandée à part ; aucun artiste n’est contacté sans votre accord.
+
+**Ensuite.** Vous choisissez une suite dans les trente jours après la restitution, ou aucune. Un essai à la fois : huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part. Chaque offre de ce catalogue a son prix, écrit avant toute commande.
+
+**Pour commencer : un bon de commande et ses conditions, signés par votre société. Rien ne vous engage avant.**
