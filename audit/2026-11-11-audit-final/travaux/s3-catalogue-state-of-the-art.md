@@ -482,7 +482,7 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 27. Rien ne change sans l’administratrice ; aucune donnée de la maison montrée ; données d’entreprise effacées après l’essai.
 28. L’IA rapproche, le comité attribue ; ayants droit ; droits des images ; responsabilité de l’auteur du catalogue.
 29. Matériel pour locaux humides, précautions affichées, aucune promesse de santé, aucune donnée du corps.
-30. Notre cadre (§ 6). Marwin Tech en formation : les signataires répondent des actes tant que la société ne les reprend pas (code de commerce, article L210-6, à faire confirmer) ; assurance professionnelle avant toute signature ; prises en main hors formation financée (sans déclaration d’activité ni Qualiopi).
+30. Notre cadre (§ 6). Marwin Tech en formation : les signataires répondent des actes tant que la société ne les reprend pas (code de commerce, article L210-6, à faire confirmer) ; assurance professionnelle avant toute signature ; prises en main hors formation financée (sans déclaration d’activité, code du travail, article L6351-1, ni Qualiopi).
 
 ## 9. Faits citables retenus
 
@@ -551,9 +551,33 @@ La diapositive `evolution` reste. Sa mesure de METR passe à celle du § 5 ; sa 
 2. **Montrer ou laisser.** Recommandation : tout à l’écran ; laisser la page programme et la carte seulement si V1 à V5 sont cochées.
 3. **Les sept diapositives.** Recommandation : les intégrer ; passer `ecran-devis` (16) et `grille` (20) en annexe (V14).
 4. **Le parallèle.** Recommandation : une offre qui n’attend pas au plus pendant le cadrage ; ensuite deux chantiers, dont un seul sur ses données.
-5. **Les prix.** Recommandation : arrêter jeudi ceux des offres 5, 9, 21 (note) et 25 ; ne rien chiffrer vendredi ; écrire ensuite.
-6. **Notre temps et notre dépendance.** Recommandation : 150 jours au plus pour lui en 2027 ; au plus la moitié de nos revenus venant de lui dès 2028.
+5. **Les prix.** Recommandation : arrêter jeudi ceux des offres 5, 9, 21 (note et état zéro) et 25 ; ne rien chiffrer vendredi ; écrire ensuite.
+6. **Notre temps et notre dépendance.** Recommandation : 150 jours au plus pour lui en 2027, suivi compris (le pupitre seul en prend 3 à 6 par mois) ; si ses trois moments dépassent, le troisième passe en 2028 ou chez un sous-traitant nommé ; au plus la moitié de nos revenus venant de lui dès 2028.
 7. **Les rôles.** Recommandation : le partage du § 6, écrit.
-8. **Les audaces contestées** : toile de minuit, mondes, Solstice, laboratoire. Recommandation : au catalogue, « plus tard » ; hors des phares de 2027.
+8. **Les audaces.** Recommandation : au moins une audace dans les phares de 2027. Les mondes y entrent par « La maison d’avant » : capture déjà prévue au 21, commande prise sur le 15. Le banc d’essai commence en 2027 sur nos propres outils (27). Solstice reste en décembre 2028, le laboratoire en 2028-2030. La toile de minuit ne garde que la forme retenue, un artiste dont la machine est l’œuvre, et perd ce nom. Charge ajoutée en 2027 : une dizaine de jours (27, 28, maison d’avant). Si le plafond de 150 jours est atteint, l’œuvre du seuil (11) passe en 2028 ; la maison d’avant fait l’entrée.
 9. **Les noms.** Recommandation : « nom de travail » à l’oral ; recherche INPI avant tout document laissé (V13).
 10. **Ses bureaux, son investissement.** Recommandation : jamais dans le programme ; à part, avec un avocat, pacte écrit d’abord.
+11. **La première preuve.** À trancher jeudi : livrer pendant le cadrage, à prix inchangé, le dossier de nuit (2) d’une œuvre qu’il nomme. Charge à estimer : un dossier, sans la méthode complète de l’offre 2.
+12. **Notre cadre.** À trancher jeudi : l’assurance de responsabilité professionnelle souscrite avant toute signature ; le bon de commande au nom de Marwin Tech en formation, repris à l’immatriculation (d’ici là, les signataires en répondent personnellement : code de commerce, article L210-6, à faire confirmer par un avocat) ; les prises en main présentées comme un accompagnement, jamais comme une formation financée. Recommandation : les trois, avant vendredi pour l’assurance si possible, avant toute signature au plus tard.
+13. **Les deux noms.** Recommandation : demander vendredi l’œuvre de l’ouverture et l’artiste du catalogue raisonné (§ 4) ; ne rien promettre sur l’un ni sur l’autre avant le cadrage.
+
+## 12. Remarques écartées, et pourquoi
+
+Les trente remarques du 11 novembre sont appliquées. Ce qui suit n’a pas été repris mot pour mot ; quand les deux critiques se contredisaient, l’ambition est gardée et la phrase rendue vraie.
+
+1. **Remarque 1, ligne 9.** « Invisible pour vos hôtes » devient « discrète » : l’assistant de l’offre 23 se dit IA (article 50), il ne peut être invisible.
+2. **Remarques 1 et 16, ligne 6.** « La preuve de la main » et « chaque image prouvera qu’elle est vraie » sont écartés : ils garantiraient une attribution ou démentiraient les offres 10, 12 et 26. Restent le journal de l’artiste et « le réel signé », limité aux photos et films présentés comme réels.
+3. **Remarque 2.** « Testé en mars 2026 » devient « au printemps 2026 », formule imposée par la remarque 24. « Une maison qui ouvre en 2027 » devient « qui se construit aujourd’hui » : l’ouverture peut glisser au printemps 2028 (remarque 25).
+4. **Remarque 3.** Le doublement « tous les sept mois » n’entre pas dans l’offre 27 : aucune note ne l’a lu (remarque 24). Les seize heures et les 2 h 17 le remplacent.
+5. **Remarque 6.** Le fait du Jeu de Paume reste dans l’offre 15 : il prouve le public ; l’exposition ne reprend pas son sujet.
+6. **Remarque 7.** « Toute apparition publique » devient « chaque apparition publique dans les sources suivies » : aucune veille ne voit tout. « Publiée sous votre nom » devient « publiée par votre maison » : le comité attribue, et un nom d’auteur engagerait sa responsabilité.
+7. **Remarque 9.** « Chacun dans sa langue » n’est pas tenu : la traduction en direct ne couvre que l’anglais face à cinq langues (remarque 27). « Dans le même espace » devient « la première pièce achevée de vos lieux » : la galerie n’existe pas six mois avant l’ouverture.
+8. **Remarque 10.** La voix traduite en direct au vernissage reste offerte au choix, marquée préversion, à essayer avant de promettre : sa qualité n’est affirmée que par l’éditeur.
+9. **Remarque 12.** « Si le rythme se maintient » devient « si la progression mesurée continue » (remarque 24).
+10. **Remarque 13, offres 6 et 23.** Le fait jugé faible n’est pas supprimé : il passe en second, corrigé selon la remarque 23, parce qu’il reste mesuré.
+11. **Remarque 21, offre 12.** Le texte s’adresse à lui, pas à l’hôte : l’hôte part avec l’image et le certificat ; le tirage numéroté, signé au passage mensuel de l’artiste, lui est envoyé.
+12. **Remarque 25.** « Cinq projets phares » devient « Six » : la remarque 4 ajoute la maison d’avant. Trente collectionneurs reçoivent une lettre, dix une salle (remarque 9) : les deux chiffres tiennent ensemble.
+13. **Remarque 27, offre 7.** La phrase garde la vraie salle captée en 3D (remarque 9) ; la limite des langues passe dans « Vous obtenez ».
+14. **Remarques 4 et 7, lignes « Interne ».** Elles sont rangées au § 7 (notes de charge), pour que les parties 1 à 5 restent prêtes à reprendre.
+15. **Remarque 11, première preuve.** Inscrite au § 11, n° 11, sans recommandation : sa charge n’est pas encore estimée.
+16. **Remarque 30.** Les articles L210-6 du code de commerce et L6351-1 du code du travail ne viennent d’aucune note s1 : ils restent internes (§ 8, § 11), à faire confirmer par un avocat.
