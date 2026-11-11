@@ -1,6 +1,6 @@
 # Liste avant tout envoi à GianLuca Carlone
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final)
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour et corrigé le 11 novembre 2026 (audit final)
 
 Rien ne part — ni présentation, ni proposition, ni page d’offre, ni bon de commande, ni aucun autre document client (liste en bas de page), ni message — tant qu’une case reste vide. Premier envoi possible au plus tôt le jeudi 19 novembre 2026.
 
@@ -18,7 +18,7 @@ Rien ne part — ni présentation, ni proposition, ni page d’offre, ni bon de 
 | ☐ | Contrôle mécanique de chaque document client : `node outils/2026-11-10-orchestration/rendu/lint-doc.js <fichier>` sans erreur (avec `--tarifs-publics` pour un document qui cite des tarifs publics ; `node outils/2026-11-10-orchestration/rendu/lint.js <dossier project>` pour les diapositives) | Mathys | sortie du contrôle | avant chaque envoi |
 | ☐ | Relecture humaine complète par celui qui n’a pas écrit | l’autre associé | « relu le … par … » | avant chaque envoi |
 | ☐ | Mentions « PROJET » retirées seulement des documents validés | Morgan | — | à l’envoi |
-| ☐ | Bon de commande, conditions et pièces jointes (tableau « qui valide quoi », page sur la rétractation, accord sur les données) relus par un avocat (avant le bon, pas avant le rendez-vous ; feuille de décisions, n° 5 ; délai d’envoi annoncé au rendez-vous : V10) | Morgan | avis écrit | lundi 30 nov. |
+| ☐ | Bon de commande, conditions et pièces jointes (le tableau « Qui valide quoi » ; la page « Votre droit de rétractation : information et formulaire » ; l’accord sur les données) relus par un avocat (avant le bon, pas avant le rendez-vous ; feuille de décisions, n° 5 ; délai d’envoi annoncé au rendez-vous : V10) | Morgan | avis écrit | lundi 30 nov. |
 
 Signatures : Morgan ……… Mathys ……… Date ………
 
@@ -28,7 +28,7 @@ Tous portent « PROJET non envoyé — à valider par Morgan Olsen et Mathys Cou
 
 | Dossier | Documents | Règle propre |
 | --- | --- | --- |
-| `pour-carlone/offre-cadrage/` | Page d’offre ; proposition de cadrage, version client ; projet de bon de commande et ses conditions ; page pour l’administratrice ; depuis le 11 novembre, trois projets de pièces jointes au bon : tableau « qui valide quoi », formulaire de rétractation (seulement si la condition 2 est retenue), accord sur les données | Laisser vendredi : au plus la page d’offre et la page pour l’administratrice (V2). Bon de commande : après relecture par l’avocat (n° 5, V10) |
+| `pour-carlone/offre-cadrage/` | Page d’offre ; proposition de cadrage, version client ; projet de bon de commande et ses conditions ; page pour l’administratrice ; depuis le 11 novembre, trois projets de pièces jointes au bon : le tableau « Qui valide quoi » ; la page « Votre droit de rétractation : information et formulaire » (seulement si la condition 2 est retenue) ; l’accord sur les données | Laisser vendredi : au plus la page d’offre et la page pour l’administratrice (V2). Bon de commande : après relecture par l’avocat (n° 5, V10) |
 | `pour-carlone/fiches/` | Les douze fiches, de la fiche 01 à la fiche 12 | À l’écran si demandé ; laissées selon V12 |
 | `pour-carlone/developpement/` | Huit pages : votre intérêt ; nos offres ; une ambition ; une idée pour chacun de vos projets ; ce que nous pourrions faire ensuite ; votre présence en ligne ; moyens supplémentaires et son annexe | Noms des programmes dans un document laissé : V13. Diapositive « moyens » : V7 |
 | `pour-carlone/logiciels-et-automatisations/` | La page « Vos neuf suites : un logiciel du marché, bien choisi » (fichier du 10 novembre) | Aucun prix de notre aide (arbitrage C, V8). Les pièces du 9 novembre du même dossier ne partent pas : deux portent des prix (DL1 : seul le cadrage a un prix), deux promettent une attestation d’assurance (sommaire du 10 novembre, § 4 : à trancher) |

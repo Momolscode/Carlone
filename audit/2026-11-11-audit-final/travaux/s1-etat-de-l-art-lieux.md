@@ -33,11 +33,10 @@ Note de chercheur pour le catalogue « State Of The Art ». Dix-huit recherches,
 | 2027 | Dark Mofo financé par l’État de Tasmanie jusqu’en 2027 ; édition 2027 en préparation. | Annoncé, financement voté (lu) |
 | 2027 | Le Puy du Fou tourne en France avec un spectacle ; spectacle créé pour Efteling fin 2026. | Annoncé (lu) |
 | 2028 | Septième Triennale de Setouchi, sur le rythme de trois ans. | Supposé d’après le rythme publié |
-| 2028 | Les Sources ouvrent un hôtel en Alsace. | Annoncé (vu) |
 | 2029 | Parc du Puy du Fou en Angleterre. | Annoncé (lu) |
 | D’ici 2030 | Mona étudie toujours un hôtel ; musée à Bangkok annoncé. | Annoncé (lu ; Bangkok vu) |
-| D’ici 2030 | Les guides sans cartels deviennent des pages web sans installation ; l’éditeur de « The O » « explore » des fonctions d’IA. | Annoncé (Pladia, 13 septembre 2024, vu) |
-| D’ici 2030 | Les galeries marchandes s’installent à la campagne (Somerset, Wiltshire, Yorkshire, Suffolk). | Mesuré pour le passé ; tendance supposée |
+| D’ici 2030 | Guides sans cartels en pages web ; l’éditeur de « The O » « explore » l’IA. | Annoncé (Pladia, 13 septembre 2024, vu) |
+| D’ici 2030 | Les galeries marchandes gagnent la campagne (quatre cas anglais). | Mesuré pour le passé ; tendance supposée |
 
 ## 4. Vingt idées pour GianLuca Carlone
 
@@ -45,16 +44,16 @@ Chaque ligne : l’idée ; ce qu’il verrait ; ce qu’il faut ; quand. Tout re
 
 | N° | L’idée | Ce qu’il verrait | Ce qu’il faut | Quand |
 | --- | --- | --- | --- | --- |
-| 1 | La galerie sans cartels | Le téléphone du visiteur sait devant quelle œuvre il est ; trois voix : la sienne, l’artiste, une version courte | Textes validés par lui ; outil du marché sans installation ; repères discrets | 2027 |
+| 1 | La galerie sans cartels | Le téléphone sait devant quelle œuvre on est ; trois voix : la sienne, l’artiste, une version courte | Textes validés par lui ; outil du marché sans installation | 2027 |
 | 2 | « J’aime, je n’aime pas » | Un tableau mensuel des œuvres qui retiennent | Vote anonyme dans le guide ; lecture avec lui | 2027 |
 | 3 | La réserve visitable | Son stock derrière une vitre, fiches et provenances préparées par l’IA, relues | Inventaire photographié ; rendez-vous ; assurance | 2027-2028 |
 | 4 | Une œuvre par suite | Dans chacune de vos neuf suites, une œuvre et son histoire, à demander | Rotation par saison ; aucune promesse de placement | 2027 |
 | 5 | La nuit des œuvres | Vernissage, dîner, cabaret, suite, sauna au matin | Règles de la vente de séjours vérifiées | 2027-2028 |
-| 6 | La saison d’hiver | Un long week-end de solstice : art, lumière, cabaret, chaleur du sauna | Programme d’artistes ; jauges ; partenaires d’hébergement | 2028 |
+| 6 | La saison d’hiver | Un week-end de solstice : art, lumière, cabaret, sauna | Artistes ; jauges ; hébergeurs voisins | 2028 |
 | 7 | Le cabaret répond à l’exposition | Chaque revue reprend un thème de la galerie | Metteur en scène ; droits des œuvres citées | 2028 |
 | 8 | Concerts dans la galerie | Un dernier jour d’exposition en musique | Jauge, son, droits | 2027 |
 | 9 | La salle immersive à taille humaine | Une petite salle, projections le jour, scène le soir | Contenus possédés ou licenciés ; pas de bail lourd | 2028 |
-| 10 | Le parcours des villages | Des œuvres d’artistes en résidence, dans les communes voisines, avec carte et audio | Accord des communes ; artistes logés chez l’habitant | 2028-2030 |
+| 10 | Le parcours des villages | Des œuvres d’artistes en résidence dans les communes voisines, avec carte et audio | Accord des communes ; artistes logés chez l’habitant | 2028-2030 |
 | 11 | Résidences avec les artisans nivernais | Des pièces faites avec faïenciers, tailleurs de pierre, verriers, puis éditées | Atelier ; artisans volontaires (à vérifier) | 2028 |
 | 12 | La cour des ateliers | Les commerces comme ateliers-boutiques : encadreur, céramiste, libraire d’art | Baux adaptés ; choix des occupants | 2028 |
 | 13 | L’art chez les vignerons | Ses œuvres exposées et à vendre dans des domaines de Pouilly-sur-Loire ou de Bourgogne | Accords écrits ; transport, assurance | 2027-2028 |
@@ -64,11 +63,11 @@ Chaque ligne : l’idée ; ce qu’il verrait ; ce qu’il faut ; quand. Tout re
 | 17 | Le livre d’or en toutes langues | Avis lus et résumés chaque semaine pour lui et votre administratrice | Réponses préparées, validées par une personne | 2027 |
 | 18 | L’exposition en trois dimensions | Chaque accrochage relevé et visitable à distance par ses collectionneurs | Captation au téléphone ; accord des artistes | 2027-2028 |
 | 19 | Le compteur de l’établissement | Entrées, nuitées, origine, première visite ou retour, chaque mois | Questionnaire court ; comptage simple | 2027 |
-| 20 | Le lieu d’art contemporain de la Nièvre | Écoles, ateliers, résidences, que le département n’a plus de centre labellisé pour accueillir | Médiateur ; partenaires publics, sans aide promise | 2028-2030 |
+| 20 | Le lieu d’art contemporain de la Nièvre | Écoles, ateliers et résidences chez lui ; la Nièvre n’a plus de centre d’art labellisé | Médiateur ; partenaires publics, sans aide promise | 2028-2030 |
 
 ## 5. Faits citables dans un document client
 
-Ni montant en devises, ni nom de groupe hôtelier. Formules prudentes ; relire chaque page à l’œil avant envoi.
+Sans montant ni nom de groupe hôtelier. Relire chaque page à l’œil avant envoi.
 
 1. « En Provence, un domaine viticole qui expose de l’art contemporain a reçu près de 400 000 visiteurs en 2023, selon la revue Wallpaper. » Wallpaper, 26 juillet 2024.
 2. « Dans le Somerset, une galerie installée dans une ferme reçoit environ 110 000 visiteurs par an depuis 2014, selon The Art Newspaper. » 4 juillet 2025.
@@ -84,9 +83,9 @@ Ni montant en devises, ni nom de groupe hôtelier. Formules prudentes ; relire c
 ## 6. Règles et limites
 
 - **Échecs connus.** Grand Palais immersif : 550 000 à 600 000 visiteurs en trois ans, salle rendue (Le Journal des Arts, 12 juin 2026, lue). The Lume, Melbourne, fermée en juin 2025 ; WNDR, Boston et Chicago, août-septembre 2026 ; Immersive Fort Tokyo, février 2026 ; le Hall des Lumières de New York ne loue plus que pour des événements privés (vus). Leçon : lieu trop grand, bail, contenus déjà vus.
-- **Hôtels-musées revendus.** 21c Museum Hotels (enseigne d’un groupe hôtelier mondial, nom réservé à l’interne) : Lexington vendu 14 millions de dollars en 2025, après plus de 43 millions investis (Lexington Herald-Leader, 3 avril 2026, lue en partie) ; Chicago repris par le prêteur ; à Kansas City, l’art retiré (vus).
+- **Hôtels-musées revendus.** 21c Museum Hotels (enseigne d’un groupe hôtelier mondial, nom réservé à l’interne) : Lexington vendu 14 millions de dollars en 2025, après plus de 43 millions investis (Lexington Herald-Leader, 3 avril 2026 ; prix lu, coût vu en extrait) ; Chicago repris par le prêteur ; à Kansas City, l’art retiré (vus).
 - **La grande revue.** Le Lido a arrêté sa revue le 30 juillet 2022 après des années de pertes ; théâtre musical depuis (Paris Match, 5 août 2022 ; fiche encyclopédique de septembre 2026 ; vues). Antérieur à 2024 : vaut encore comme précédent sur le coût d’une troupe.
-- **Mécène indispensable.** Mona perd de l’argent chaque année, comblé par son fondateur (lu).
+- **Mécène indispensable.** Mona perd de l’argent chaque année ; son fondateur comble (lu).
 - **Trop de monde.** Naoshima : ferries pleins, visiteurs restés à quai en 2025 (mémoire universitaire, vu).
 - **Dans la Nièvre.** Le Parc Saint Léger, centre d’art labellisé créé en 1990, « cesse dans l’immédiat son activité » après le non-renouvellement de ses subventions à partir de 2026 (site, non daté, lue). Ne jamais le présenter comme un échec d’autrui.
 - **Droit.** Droits d’auteur, droit à l’image ; aucune œuvre vendue comme placement. Séjour réunissant nuit, spectacle et soin : vente de voyages. Établissements recevant du public, spectacle, débits de boissons. Consentement aux données. Contenus générés signalés (règlement européen sur l’IA). À faire valider par ses professionnels.
@@ -112,4 +111,4 @@ Lues :
 - https://www.kentucky.com/news/business/article315278390.html (3 avril 2026)
 - http://www.parcsaintleger.fr/a-propos/ (non datée)
 
-Vues (extraits de recherche) : tatlerasia.com (27 août 2025) ; provencetourisme.pro (avril 2026) ; festivalenfrance.com ; davidbilla.net (29 novembre 2025) ; digitalcommons.sia.edu ; museumsforbundet.no (24 mars 2026) ; theconversation.com (1er juillet 2020) ; bourgogne-tourisme.com ; sources-hotels.com ; pladia.io (13 septembre 2024) ; tokyoartsphere.com (21 octobre 2026) ; concreteplayground.com (24 mars 2025) ; boston.com (18 août 2026) ; parkworld-online.com (6 janvier 2026) ; therealdeal.com (7 octobre 2025) ; kansascity.com (16 janvier 2025) ; parismatch.com (5 août 2022) ; fr.wikipedia.org, Lido (24 septembre 2026).
+Vues (extraits de recherche) : tatlerasia.com (27 août 2025) ; provencetourisme.pro (avril 2026) ; festivalenfrance.com ; davidbilla.net (29 novembre 2025) ; digitalcommons.sia.edu ; museumsforbundet.no (24 mars 2026) ; theconversation.com (1er juillet 2020) ; bourgogne-tourisme.com ; pladia.io (13 septembre 2024) ; tokyoartsphere.com (21 octobre 2026) ; concreteplayground.com (24 mars 2025) ; boston.com (18 août 2026) ; parkworld-online.com (6 janvier 2026) ; therealdeal.com (7 octobre 2025) ; kansascity.com (16 janvier 2025) ; parismatch.com (5 août 2022) ; fr.wikipedia.org, Lido (24 septembre 2026) ; abc.net.au, Bangkok (4 novembre 2026).

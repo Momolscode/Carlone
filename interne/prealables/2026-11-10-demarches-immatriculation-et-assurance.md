@@ -1,6 +1,6 @@
 # Démarches : immatriculation de Marwin Tech et assurances
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour et corrigé le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
 Source : note de recherche `audit/2026-11-10-preparation-des-livrables/travaux/k2-creation-sas-assurances.md` (pages officielles Service Public Entreprendre, INPI, Infogreffe ; **vérifiée le 10 novembre 2026** : partie « Vérification du 10 novembre 2026 », en fin de note, qui l’emporte ; reste à confirmer avec l’avocat et l’expert-comptable).
 
@@ -43,6 +43,8 @@ Point à confirmer (audit du 11 novembre 2026) : l’ordre des étapes 3 et 4. L
 Une date d’immatriculation ; une attestation d’assurance ; une attestation de vigilance ; « relu par notre avocat ».
 
 À arrêter (audit du 11 novembre 2026) : le projet de bon de commande écrit pourtant, à la condition 1, que Marwin Tech remet son attestation de vigilance « dès qu’elle est délivrée ». Ce n’est pas une date, mais c’est un engagement, alors que la démarche et le délai restent inconnus (En bref, point 5). Garder cette formule, ou la retirer du bon : à décider avec l’expert-comptable (`audit/2026-11-11-audit-final/travaux/a1-continuite-avec-les-audits.md`, constat sur l’attestation de vigilance).
+
+Corrigé le 11 novembre 2026 : depuis, le projet de bon de commande (condition 1) et la proposition version client (« Prochaines étapes », point 3) ne promettent plus l’attestation ; ils portent, entre crochets, « [Attestation de vigilance : à arrêter avec l’expert-comptable.] ». Reste à décider avec lui : la promettre, à quelle date, ou n’en rien dire.
 
 ## 4. Inconnus à lever
 

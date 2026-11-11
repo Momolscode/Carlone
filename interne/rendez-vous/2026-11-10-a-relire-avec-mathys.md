@@ -2,7 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · relu et corrigé le 11 novembre 2026 (audit final)
 
-Environ trois heures et demie à deux, en trois séances. Ordre : décider d’abord, puis relire ce qu’on montre, puis s’entraîner. Chaque document passe déjà le contrôle des lignes rouges sans erreur ; ce qui reste, c’est votre jugement.
+Environ quatre heures à deux, en trois séances (trois heures et demie avant le 11 novembre 2026 : la séance 3 compte depuis dix-sept objections et trois documents du jour J). Ordre : décider d’abord, puis relire ce qu’on montre, puis s’entraîner. Chaque document passe déjà le contrôle des lignes rouges sans erreur ; ce qui reste, c’est votre jugement.
 
 **Ces durées ne tiennent que si chacun a lu avant, seul** (compte du 11 novembre 2026) : les documents de la séance 1 font environ 12 000 mots, soit une heure de lecture ; ceux de la séance 2, environ 27 000 mots (36 diapositives avec leurs notes, douze fiches, onze pages, onze écrans), soit plus de deux heures de lecture attentive par personne. Sans cette lecture, compter plutôt six à sept heures à deux. En séance : on décide, on corrige, on répète.
 
@@ -25,7 +25,7 @@ Environ trois heures et demie à deux, en trois séances. Ordre : décider d’a
 | ☐ | `pour-carlone/developpement/2026-11-10-une-ambition-pour-votre-etablissement.md` | L’ambition nous ressemble-t-elle ? Chaque idée se lit-elle comme une vision, jamais comme une promesse ; aucune date pour la robotique ? |
 | ☐ | `pour-carlone/developpement/2026-11-10-nos-offres-de-la-premiere-marche-aux-grands-projets.md` | Pouvons-nous porter les quatre niveaux à deux, une marche à la fois ? Nommer les programmes dans un document laissé (V13) ? |
 | ☐ | `pour-carlone/developpement/2026-11-10-votre-presence-en-ligne-nos-formules.md` | Les sept formules sont-elles tenables ? Aucun classement promis ; droits des œuvres réglés avant toute mise en ligne ? |
-| ☐ | `pour-carlone/developpement/2026-11-10-votre-interet-a-travailler-avec-nous.md` (diapositives « evolution » et « pourquoi-nous ») | Chaque raison est-elle vraie aujourd’hui (« indépendants », « rapides et disponibles ») ? La mesure de METR est-elle citée avec sa limite ? |
+| ☐ | `pour-carlone/developpement/2026-11-10-votre-interet-a-travailler-avec-nous.md` (diapositives « evolution » et « pourquoi-nous ») | Chaque raison est-elle vraie aujourd’hui (« indépendants » ; « réactifs », qui remplace « rapides et disponibles » ; « un interlocuteur nommé », qui remplace « un seul interlocuteur ») ? La mesure de METR est-elle citée avec sa limite ? |
 | ☐ | `pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md` | Le prix, les dates, l’arrêt : d’accord ? |
 | ☐ | `pour-carlone/offre-cadrage/2026-11-10-une-page-pour-votre-administratrice.md` | Le ton est-il juste pour elle ? Le temps demandé (une à deux journées) est-il réaliste ? |
 | ☐ | `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/index.html` (onze écrans) | Les écrans ressemblent-ils à ce que vous pouvez livrer ? Onze écrans en montrent-ils trop pour l’étape « maquette » déjà chiffrée (décision n° 20) ? |
@@ -37,14 +37,17 @@ Environ trois heures et demie à deux, en trois séances. Ordre : décider d’a
 
 À ne pas montrer vendredi : les pièces du 9 novembre de `pour-carlone/logiciels-et-automatisations/`, pièces historiques (prix du logiciel, tant que la décision C tient ; phrases qui promettent une attestation d’assurance).
 
-## Séance 3 — S’entraîner (environ une heure)
+## Séance 3 — S’entraîner (environ une heure et demie : répétition de trente-deux minutes, dix-sept objections à deux minutes chacune, documents du jour J)
 
 | ☐ | Document | Ce que vous faites |
 | --- | --- | --- |
 | ☐ | `interne/rendez-vous/2026-11-10-deroule-et-texte-d-orateur.md` | Une répétition chronométrée à voix haute : qui dit quoi, environ une demi-heure (trente-deux minutes ; variantes courtes : 31 min 15 et 29 min 45, V14) |
-| ☐ | `interne/rendez-vous/2026-11-10-reponses-aux-objections.md` | L’un pose les treize objections, l’autre répond en deux phrases |
+| ☐ | `interne/rendez-vous/2026-11-10-reponses-aux-objections.md` | L’un pose les dix-sept objections, l’autre répond en deux phrases |
 | ☐ | `interne/rendez-vous/2026-11-10-convaincre-de-miser-sur-nous.md` | Les trois phrases de clôture, apprises |
 | ☐ | `interne/rendez-vous/2026-11-10-antiseche-une-page.md` | L’imprimer pour vendredi |
+| ☐ | `interne/rendez-vous/2026-11-11-jour-j-liste-de-controle.md` | La cocher à deux jeudi soir ; l’imprimer |
+| ☐ | `interne/rendez-vous/2026-11-11-feuille-de-notes-et-questions.md` | L’imprimer en deux exemplaires ; décider qui pose quels thèmes |
+| ☐ | `interne/rendez-vous/2026-11-11-apres-le-rendez-vous-messages-types.md` | Relire les trois projets de message ; fixer le délai à annoncer (V10) |
 
 ## Points sur lesquels nous avons besoin de vous, et seulement de vous
 

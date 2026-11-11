@@ -1,6 +1,6 @@
 # Questions pour l’avocat (et pour l’expert-comptable et l’assureur)
 
-Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
+Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026, mis à jour et corrigé le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
 Liste à remettre au conseil, classée par urgence. Sources : `audit/2026-11-04-audit-strategique/annexes/travaux/syn-droit.md` (§ 10.4 et 10.5, lignes 747 à 764) ; notes `audit/2026-11-10-preparation-des-livrables/travaux/k1a-commande-avant-immatriculation.md`, `k1b-clauses-contrat-court.md`, `k2-creation-sas-assurances.md`, `k3-fichier-de-contacts-rgpd.md` (toutes quatre avec leur partie « Vérification du 10 novembre 2026 »), `k5-rendez-vous-de-decision.md` (non vérifiée) ; note interne `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md`.
 
@@ -29,7 +29,7 @@ Pièces : `pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md` e
 
 ## Urgence 2 bis — les pièces jointes au bon de commande (ajout du 11 novembre 2026)
 
-Pièces : les trois projets du 11 novembre, déjà cités sous « Urgence 2 » (tableau « Qui valide quoi », page sur la rétractation, accord sur les données) ; rapport `audit/2026-11-11-audit-final/travaux/a8-pieces-jointes-du-bon-de-commande.md`, qui a préparé ces questions (§ 4). La numérotation continue après 23 pour ne rien renuméroter.
+Pièces : les trois projets du 11 novembre, déjà cités sous « Urgence 2 » (le tableau « Qui valide quoi » ; la page « Votre droit de rétractation : information et formulaire » ; l’accord sur les données) ; rapport `audit/2026-11-11-audit-final/travaux/a8-pieces-jointes-du-bon-de-commande.md`, qui a préparé ces questions (§ 4). La numérotation continue après 23 pour ne rien renuméroter.
 
 **Rétractation**
 
@@ -67,6 +67,11 @@ Pièces : les trois projets du 11 novembre, déjà cités sous « Urgence 2 » (
 16. Écrans d’exemple et maquette cliquable : précautions (mention « Maquette — données fictives », pas de remise).
 17. Une prise de participation ou une avance d’un client dans Marwin Tech : risques, conditions, effet sur l’indépendance (seulement si Morgan et Mathys décident de l’étudier).
 18. Rôle de l’administratrice au contrat : ce qu’elle peut valider ; information de la salariée quand un outil est introduit.
+
+Ajout du 11 novembre 2026 (audit final : deux questions que l’audit du 4 novembre destinait à l’avocat ; la numérotation continue après 43) :
+
+44. Si GianLuca Carlone propose un emploi à l’un de nous, des bureaux ou une exclusivité : quels indices de subordination éviter, et quel écrit séparé prévoir ?
+45. Le fichier de contacts livré sans contrat ni facture : à qui sont le code, les fiches et le suivi ? Quel écrit pour fixer son régime sans facturation après coup ?
 
 Ajout du 11 novembre 2026 (décisions V9 et V13 de la feuille de décisions) : la règle proposée pour les collaborateurs de GianLuca Carlone (contrats distincts, aucune commission ni apport d’affaires rémunéré, aucun démarchage de ses contacts sans son accord) suffit-elle ? Les noms de travail des programmes peuvent-ils figurer dans un document laissé avant une recherche de marques ?
 

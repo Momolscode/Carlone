@@ -25,15 +25,15 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 | Période | Ce qui se passe | Ce qu’il voit |
 | --- | --- | --- |
 | Janvier 2027, semaines 1 à 4 | Cadrage : entretien, inventaire, trois priorités | Un dossier qui appartient à sa société, dès le solde payé |
-| Février et mars 2027 | Un essai de huit semaines au plus, sur une seule tâche de la priorité n° 1 (par exemple : le registre des bâtiments, ou le choix du logiciel des suites), commandé à part | Un résultat mesuré, comparé à sa mesure de départ |
+| Février et mars 2027 | Un essai de huit semaines au plus, sur une seule tâche de la priorité n° 1 (par exemple : le registre des bâtiments, ou le choix du logiciel des suites), mesurée avant et après, commandé à part, avec son prix | Un résultat mesuré, comparé à sa mesure de départ |
 | Avril 2027 | Bilan : continuer, ajuster ou arrêter | Une décision fondée sur des chiffres |
 
 Dates indicatives, dépendantes de la commande avant la mi-décembre et de l’ouverture des suites (inconnue).
 
 ## 3. Ce que nous misons, nous
 
-- Deux associés qui connaissent son dossier en entier : un seul interlocuteur principal, l’autre qui relit.
-- Un point écrit chaque semaine pendant l’essai ; un compte rendu sous 24 heures ouvrées.
+- Deux associés qui connaissent son dossier en entier : un interlocuteur nommé, l’autre qui relit.
+- Un point écrit chaque semaine pendant l’essai ; un compte rendu écrit sous 24 heures ouvrées (après vendredi : envoyé une fois la liste avant tout envoi cochée).
 - Des outils et méthodes qui lui restent, même s’il change de prestataire.
 - Ne pas dire : « nous sommes votre seul partenaire », « nous ferons tout », « disponible jour et nuit ».
 
