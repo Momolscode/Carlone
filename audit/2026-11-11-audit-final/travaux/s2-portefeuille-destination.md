@@ -29,7 +29,7 @@ Nom de travail, marque non vérifiée.
 
 ## 2. Treize offres en cinq familles
 
-Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, des spécialistes exécutent, son équipe garde la main, une personne valide ; droit « à faire valider par vos professionnels » ; prix écrit avant toute commande.
+Huit nouvelles, cinq qui prolongent. Partout : nous concevons, des spécialistes exécutent, son équipe garde la main, une personne valide ; droit « à faire valider par vos professionnels » ; prix écrit avant toute commande.
 
 ### Famille 1 — Avant : être désiré de loin, préparer le voyage
 
@@ -42,21 +42,21 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 
 **2. Le réel signé** · nouvelle · dès les premiers travaux, 2027
 - **Quoi :** une promesse de maison : chaque image montrée est vraie, et le prouve.
-- **Il obtient :** une charte d’image ; photos et films porteurs de leur origine (norme C2PA) ; un film par saison ; la transformation des bâtiments filmée dès le premier jour.
+- **Il obtient :** une charte d’image ; photos et films porteurs de leur origine (norme C2PA) ; un film par saison ; le chantier filmé dès le premier jour.
 - **Avancé :** une image générée et signalée rend une publicité de luxe moins authentique (Journal of Advertising Research, juin 2025).
-- **Qui, durée :** nous, une charte en un mois ; un photographe, un réalisateur, un graphiste, un tournage par saison.
+- **Qui, durée :** nous, la charte en un mois ; photographe, réalisateur, graphiste, un tournage par saison.
 - **Commencer :** l’accès au chantier. **Mesure :** images publiées avec leur origine. **Règles :** accord écrit de toute personne reconnaissable ; aucun tournage dans les suites, au sauna, au jacuzzi.
 
 **3. La visite privée à distance** · nouvelle · 2027
-- **Quoi :** un collectionneur de Londres marche dans l’exposition depuis un lien, puis la visite en direct avec lui, chacun dans sa langue.
-- **Il obtient :** chaque accrochage capturé en 3D et archivé ; une salle privée par collectionneur ; la visite commentée, traduite.
+- **Quoi :** un collectionneur de Londres parcourt l’exposition depuis un lien, puis avec lui en direct, chacun dans sa langue.
+- **Il obtient :** chaque accrochage capturé en 3D ; une salle privée par collectionneur ; la visite commentée, traduite.
 - **Avancé :** depuis janvier 2026, Google Meet traduit la voix entre l’anglais et le français en imitant le ton (Google, 4 février 2026).
 - **Qui, durée :** un spécialiste de la capture, une journée par accrochage ; nous (protocole, salle privée) ; lui commente.
-- **Commencer :** l’accord écrit des artistes. **Mesure :** demandes nées d’une visite. **Règles :** droit de reproduction ; participants informés ; vitres et reflets essayés avant de promettre.
+- **Commencer :** l’accord écrit des artistes. **Mesure :** demandes nées d’une visite. **Règles :** droit de reproduction ; participants informés ; vitres essayées avant de promettre.
 
 **4. Le voyage écrit pour vous** · prolonge le livret d’accueil · 2027
 - **Quoi :** de la réservation à la clé, chaque voyageur reçoit son programme dans sa langue ; la maison répond jour et nuit.
-- **Il obtient :** un assistant écrit qui se dit IA et passe la main ; un programme par séjour (exposition, soirée, créneau au sauna, tables choisies par lui) ; formalités réglées avant l’arrivée.
+- **Il obtient :** un assistant écrit qui se dit IA et passe la main ; un programme par séjour (exposition, soirée, sauna, tables choisies par lui) ; formalités réglées avant l’arrivée.
 - **Avancé :** une voix IA a traité 5 487 appels en sept semaines, en 22 langues (Lighthouse, 29 avril 2026) ; dans la région, 0,5 % des sites d’hôtels classés offraient un chat (Revolution Agency, 29 septembre 2026).
 - **Qui, durée :** un outil du marché relié au logiciel des suites ; nous, deux mois (base de réponses, programmes types) ; son équipe valide.
 - **Commencer :** le logiciel des suites choisi. **Mesure :** délai de réponse ; séjours avec programme. **Règles :** dire que c’est une IA (règlement européen, article 50) ; consentement.
@@ -66,19 +66,19 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 **5. La visite à trois voix** · prolonge « le guide qui parle de chaque œuvre » · 2027
 - **Quoi :** le téléphone sait devant quelle œuvre on se tient ; on choisit sa voix : la sienne, celle de l’artiste, ou une conversation.
 - **Il obtient :** sa voix enregistrée en studio ; un guide nourri de ses seuls textes ; des murs sans cartels ; un vote « j’aime, je n’aime pas ».
-- **Avancé :** le guide sans cartels du musée Mona sert à plus de 97 % des visiteurs, selon son concepteur (Art Processors, note « lieux »).
+- **Avancé :** le guide sans cartels du musée Mona sert à plus de 97 % des visiteurs, selon son concepteur (Art Processors).
 - **Qui, durée :** lui et les artistes (textes, voix) ; un studio ; un outil du marché ; nous, trois mois avant l’ouverture.
 - **Commencer :** la liste de l’exposition d’ouverture. **Mesure :** part des visiteurs qui l’utilisent. **Règles :** contrat écrit et payé pour toute voix ; mention « IA » ; droits des œuvres.
 
 **6. La réserve visitable** · nouvelle · 2027-2028
 - **Quoi :** son stock, ce qu’aucun musée n’a, montré derrière une vitre, sur rendez-vous.
-- **Il obtient :** une réserve ouverte aux collectionneurs ; fiche, provenance et dossier de chaque œuvre préparés par l’IA, signés par lui ; un dossier de vigilance avant tout achat.
+- **Il obtient :** une réserve ouverte aux collectionneurs ; fiche, provenance et dossier de chaque œuvre préparés par l’IA, signés par lui.
 - **Avancé :** à Santa Clara, un assistant retrouve sur une question courante plus de 70 œuvres d’un collectionneur spolié (9 août 2026) ; Peyrassol annonce une réserve visitable (site).
 - **Qui, durée :** nous, l’inventaire en deux mois ; un scénographe et un assureur, pendant les travaux.
 - **Commencer :** l’inventaire photographié. **Mesure :** rendez-vous ; œuvres sorties de la réserve. **Règles :** l’IA ne fixe ni prix ni attribution ; jamais un placement.
 
 **7. La carte des œuvres** · nouvelle · 2027 ; villages, 2028 à 2030
-- **Quoi :** la galerie déborde de ses murs : une œuvre dans chaque suite, chaque vitrine de ses commerces, chez des vignerons voisins, puis dans les villages.
+- **Quoi :** la galerie déborde de ses murs : une œuvre dans chaque suite, chaque vitrine, chez des vignerons voisins, puis dans les villages.
 - **Il obtient :** une seule carte, un récit audio par étape ; chaque œuvre renvoie vers la galerie.
 - **Avancé :** dans la Meuse, six villages font vivre 150 œuvres sur 45 km avec plus de 120 bénévoles (Vent des Forêts, site, 11 novembre 2026).
 - **Qui, durée :** nous (carte, récits, accords types), une étape par saison ; transporteur, assureur ; partenaires volontaires.
@@ -90,31 +90,31 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 - **Quoi :** chaque exposition s’ouvre par un numéro créé pour elle ; une œuvre devient décor ; l’étranger lit le spectacle dans sa langue.
 - **Il obtient :** un vernissage-spectacle par exposition ; des images créées en direct par la musique et le geste ; des lunettes à surtitres prêtées ; un son qui suit l’artiste.
 - **Avancé :** à La Haye, un théâtre national prête des lunettes à sous-titres créés par l’IA, 223 langues annoncées (Audinate, 29 mai 2025).
-- **Qui, durée :** un metteur en scène, des artistes, un régisseur vidéo, un numéro par exposition ; un acousticien avant les plans ; nous (lien galerie-scène, essais, règles).
+- **Qui, durée :** un metteur en scène, des artistes, un régisseur vidéo ; un acousticien avant les plans ; nous (lien galerie-scène, essais, règles).
 - **Commencer :** le cabaret confirmé. **Mesure :** spectateurs passés à la galerie, et l’inverse. **Règles :** accord écrit de l’artiste exposé ; charte voix et image ; aucune reconnaissance des visages.
 
 ### Famille 4 — La nuit et le matin
 
 **9. Neuf suites, neuf mondes** · prolonge « Les séjours signature » · ouverture des suites, 2027
 - **Quoi :** chaque suite reçoit une œuvre de la galerie, changée à chaque saison ; le matin, un rituel de l’eau composé avec un artiste.
-- **Il obtient :** neuf salons d’exposition privés ; des scènes de lumière d’un geste (« Arrivée », « Avant le spectacle », « Nuit ») ; au sauna, une œuvre lumineuse lente ; le dossier de l’œuvre sur demande.
-- **Avancé :** en Écosse, l’hôtel des fondateurs de la galerie Hauser & Wirth dit réunir plus de 16 000 œuvres et objets (The Fife Arms, page officielle).
+- **Il obtient :** neuf salons d’exposition privés ; des scènes de lumière d’un geste ; au sauna, une œuvre lumineuse lente ; le dossier de l’œuvre sur demande.
+- **Avancé :** en Écosse, l’hôtel des fondateurs de la galerie Hauser & Wirth dit réunir plus de 16 000 œuvres et objets (The Fife Arms, site).
 - **Qui, durée :** un intégrateur, un électricien, un artiste ; nous (scènes, récits) ; décision avant la fin des travaux.
 - **Commencer :** les plans des suites. **Mesure :** dossiers demandés après une nuit. **Règles :** air sain et assurance pour l’œuvre ; aucun capteur sur le corps ; analyses de l’eau dès le 1er janvier 2027.
 
 **10. La nuit des œuvres** · prolonge « Les séjours signature » · 2027-2028
 - **Quoi :** le séjour introuvable ailleurs : vernissage, dîner, cabaret, suite habitée par une œuvre, sauna au matin, visite privée avant le départ.
 - **Il obtient :** trois programmes vendus en direct ; la visite privée réservée au direct.
-- **Avancé :** la note « accueil » n’a trouvé aucun lieu réunissant art, spectacle, soin et nuit autour d’une galerie marchande ; le Puy du Fou annonce 700 chambres en 2026 : le spectacle du soir fait dormir sur place (31 octobre 2025).
-- **Qui, durée :** ses professionnels (cadre) ; nous, deux mois (programmes, page de vente, billetterie reliée aux suites).
-- **Commencer :** immatriculation ou agence partenaire, au choix. **Mesure :** nuits par visiteur. **Règles :** forfait probable, registre d’Atout France (DGCCRF, 16 mars 2026) ; à faire valider.
+- **Avancé :** aucun lieu trouvé ne réunit art, spectacle, soin et nuit autour d’une galerie marchande (note « accueil ») ; au Puy du Fou, le spectacle du soir fait dormir sur place : 700 chambres en 2026 (31 octobre 2025).
+- **Qui, durée :** ses professionnels (cadre) ; nous, deux mois (programmes, page de vente, liens).
+- **Commencer :** immatriculation ou agence partenaire. **Mesure :** nuits par visiteur. **Règles :** forfait probable, registre d’Atout France (DGCCRF, 16 mars 2026) ; à faire valider.
 
 ### Famille 5 — Repartir et revenir
 
 **11. L’œuvre qui rentre avec vous** · nouvelle · 2027
-- **Quoi :** l’acheteur repart avec l’œuvre et toute son histoire ; le visiteur, avec son parcours, et la maison le retrouve s’il l’accepte.
+- **Quoi :** l’acheteur repart avec l’œuvre et toute son histoire ; le visiteur, avec son parcours.
 - **Il obtient :** un carnet numérique par œuvre vendue ; un certificat papier doublé d’une puce au dos ; une lettre trimestrielle signée de sa main.
-- **Avancé :** à Art Basel, en juin 2026, un stand liait chaque œuvre à un certificat sur puce (Verisart, éditeur, 22 juin 2026).
+- **Avancé :** à Art Basel, un stand liait chaque œuvre à un certificat sur puce (Verisart, éditeur, 22 juin 2026).
 - **Qui, durée :** nous, six semaines ; un prestataire de certificats, un outil d’envoi ; il signe.
 - **Commencer :** les fiches d’œuvres. **Mesure :** ventes à un visiteur revenu. **Règles :** consentement ; double papier signé ; jamais un placement.
 
@@ -127,23 +127,23 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 
 **13. La salle des possibles** · nouvelle · 2027-2028
 - **Quoi :** une pièce où le visiteur essaie ce que l’IA rend possible pour l’art : lunettes qui sous-titrent, l’exposition en monde 3D, un petit robot qui présente une œuvre.
-- **Il obtient :** une salle d’essai, une personne à côté ; chaque trimestre, une soirée publique « ce qui devient possible ».
+- **Il obtient :** une salle d’essai, une personne à côté ; une soirée publique par trimestre, « ce qui devient possible ».
 - **Avancé :** des lunettes à écran sont vendues en France depuis le 13 octobre 2026, sous-titres en anglais seulement (Selectra, 26 septembre 2026).
 - **Qui, durée :** nous (choix, programme, veille), trois mois ; matériel loué ; un médiateur de son équipe.
 - **Commencer :** une pièce. **Mesure :** soirées remplies. **Règles :** pas de lunettes à caméra dans les suites, au sauna, au jacuzzi ; robot du commerce, jamais seul avec le public.
 
-**La mesure commune.** Une page par mois : d’où l’on vient, combien de nuits, première visite ou retour, part du direct, ce que disent les assistants. Le compteur d’une destination.
+**La mesure commune.** Une page par mois : d’où l’on vient, combien de nuits, première visite ou retour, part du direct, ce que disent les assistants : le compteur d’une destination.
 
 ## 3. Quatre projets phares pour 2027
 
 - **La première nuit des œuvres** (offres 4, 5, 8, 9, 10). Le jour de l’ouverture : un couple venu de Londres, son programme reçu la veille ; la visite à sa voix ; un vernissage ouvert par un numéro ; une toile de l’exposition dans leur suite ; son dossier demandé au petit-déjeuner.
-- **La galerie qui parle toutes les langues** (3, 5, 6). Des murs sans cartels ; un visiteur japonais qui interroge une œuvre dans sa langue ; un collectionneur de New York qui a parcouru l’accrochage depuis un lien et le visite le soir avec lui ; la réserve ouverte sur rendez-vous.
+- **La galerie qui parle toutes les langues** (3, 5, 6). Des murs sans cartels ; un visiteur japonais qui interroge une œuvre dans sa langue ; un collectionneur de New York, venu par un lien, qui visite le soir avec lui ; la réserve sur rendez-vous.
 - **Solstice** (12, 7, 9). Décembre 2027, un mois avant Bourges 2028 : les façades reliées par une œuvre de lumière, la revue d’hiver, le sauna ouvert la nuit, des suites pleines quand la Nièvre se vide.
 - **La salle des possibles** (13, 2). Des visiteurs essaient des lunettes qui sous-titrent, entrent dans l’exposition en monde 3D ; au mur, le film du chantier, chaque image signée de son origine.
 
 ## 4. Ce que l’on demande vendredi
 
-**Choisir des moments, pas des outils.** Une page montre le parcours du visiteur. Une question : « Quel moment voulez-vous que vos visiteurs racontent en rentrant chez eux ? » Il en entoure trois ; on lui montre les offres et le projet phare qui les servent.
+**Choisir des moments, pas des outils.** Une page, le parcours du visiteur ; une question : « Quel moment voulez-vous que vos visiteurs racontent en rentrant chez eux ? » Il en entoure trois ; on lui montre les offres qui les servent.
 
 **Trois façons de commencer**, à valider par les deux associés :
 1. **Le cadrage tourné vers la destination** : même prix (6 500 € HT), même dossier ; ses trois priorités à 90 jours prises dans ses trois moments. Notre recommandation.
@@ -160,13 +160,13 @@ Huit nouvelles, cinq qui prolongent. Partout : nous concevons et orchestrons, de
 
 **Une base, treize usages.** Nous construisons une seule chose : la base des faits et des récits, validée par lui, qui nourrit le guide, l’assistant, la page de vérité, la carte, la lettre ; plus les liens, les règles, la mesure. Le reste s’achète : logiciel des suites, billetterie, moteur de réservation, guide, assistant écrit, lunettes, certificats, outil d’envoi.
 
-**L’ordre.** Les fondations pendant le cadrage (1, 2, la mesure) ; le jour pour l’ouverture de la galerie (3, 5, 6, 7) ; la nuit à l’ouverture des suites (4, 9, puis 10) ; le soir, une fois le cabaret confirmé (8) ; les saisons ensuite (11, 12, 13). Deux mises en place au plus à la fois.
+**L’ordre.** Les fondations pendant le cadrage (1, 2, la mesure) ; le jour pour l’ouverture de la galerie (3, 5, 6, 7) ; la nuit à l’ouverture des suites (4, 9, puis 10) ; le soir, cabaret confirmé (8) ; les saisons ensuite (11, 12, 13). Deux mises en place au plus à la fois.
 
-**Partenaires à trouver au premier trimestre 2027 :** artistes ; metteur en scène ; intégrateur son et lumière ; acousticien ; spécialiste de la capture 3D ; photographe et réalisateur ; avocat (droits, voix, séjours) ; agence de voyages immatriculée ; assureur d’œuvres.
+**Partenaires à trouver début 2027 :** artistes ; metteur en scène ; intégrateur son et lumière ; spécialiste de la capture 3D ; photographe et réalisateur ; avocat (droits, voix, séjours) ; agence de voyages immatriculée ; assureur d’œuvres.
 
 ## 6. Estimation interne de l’effort
 
-Journées de travail pour nous ; tiers sur devis. Base d’une grille à décider par les deux associés.
+Journées de travail pour nous ; tiers sur devis ; base de la grille interne, à décider par les deux associés.
 
 | Offre | Mise en place | Ensuite | Tiers |
 | --- | --- | --- | --- |
@@ -177,7 +177,7 @@ Journées de travail pour nous ; tiers sur devis. Base d’une grille à décide
 | 5 | 12 à 15 | 2 par exposition | studio, outil de guide, voix payées |
 | 6 | 10 à 14 | 1 par mois | scénographe, vitrines, assureur |
 | 7 | 8 à 10 | 1 par étape | avocat, transport, assurance |
-| 8 | 10 à 14 | 6 à 8 par saison | metteur en scène, artistes, régisseur, lunettes : le poste le plus lourd |
+| 8 | 10 à 14 | 6 à 8 par saison | metteur en scène, artistes, régisseur, lunettes (le plus lourd) |
 | 9 | 10 à 12 | 1 par saison | intégrateur, électricien, artiste |
 | 10 | 8 à 10 | 1 par mois | avocat ; immatriculation ou agence |
 | 11 | 8 à 10 | 1 par trimestre | certificats, outil d’envoi |

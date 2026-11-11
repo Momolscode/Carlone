@@ -35,8 +35,8 @@ Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la
 
 ## 4. Le risque de ne rien faire
 
-Les entreprises s’y mettent : 40 % des TPE et PME déclarent utiliser au moins un outil d’IA, contre 26 % en 2025 (baromètre France Num 2026, partie 1). Un lieu absent des réponses des assistants, lent à répondre ou mal organisé perd en visibilité face à ceux qui s’y mettent. Attendre a un coût, même s’il ne se voit pas tout de suite.
+Beaucoup d’entreprises s’y mettent (partie 1). Un lieu absent des réponses des assistants, lent à répondre ou mal organisé perd en visibilité face à ceux qui s’y mettent. Attendre a un coût, même s’il ne se voit pas tout de suite.
 
 ## 5. Notre façon d’y aller
 
-Ambitieux sur la vision, précis sur les engagements : un cadrage pour choisir les trois premières marches ; un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après ; vous décidez à chaque étape ; tout reste au nom de votre société. Ce qui touche au droit et aux finances est à faire valider par vos professionnels (avocat, expert-comptable, assureur). Ce document n’est pas un avis juridique.
+Ambitieux sur la vision, précis sur les engagements : un cadrage pour choisir les trois premières marches ; un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix ; vous décidez à chaque étape ; tout reste au nom de votre société. Ce qui touche au droit et aux finances est à faire valider par vos professionnels (avocat, expert-comptable, assureur). Ce document n’est pas un avis juridique.

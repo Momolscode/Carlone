@@ -27,7 +27,7 @@ Fiche 8 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys C
 | Un journal que personne ne peut modifier, et un bouton d’arrêt utilisable sans nous | Une erreur se retrouve ; tout automatisme peut être arrêté | Essai |
 | Sauvegardes testées et export complet, lancé par vous ou votre administratrice | Une panne ne fait pas tout perdre ; vos données peuvent sortir à tout moment | Essai |
 | Une sortie à blanc : tout exporter, tout recharger dans un espace vide, vérifier | La preuve qu’un autre prestataire pourrait reprendre | Ensuite, puis chaque année |
-| Une machine d’IA installée chez vous, au nom de votre société | Vos archives lues et retrouvées sans quitter vos murs | Plus tard, sous conditions |
+| Une machine d’IA installée chez vous, au nom de votre société | Elle garderait vos archives chez vous, si ses logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue | Plus tard, sous conditions |
 
 ## Comment nous procéderions
 
