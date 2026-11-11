@@ -24,7 +24,7 @@ Pour GianLuca Carlone · Marwin Tech · 11 novembre 2026
 
 ## Sept familles, vingt-neuf offres
 
-Des noms de travail. Chaque offre se commande à part, avec un prix écrit avant toute commande.
+Noms de travail, programme compris. Chaque offre se commande à part, avec un prix écrit avant toute commande.
 
 - **L’œil.** Votre réserve ouverte sur rendez-vous, une veille chaque nuit, vos archives, un catalogue raisonné.
 - **Le cercle.** La règle de la maison, la mémoire privée de vos relations, une salle pour un seul collectionneur.
@@ -36,24 +36,24 @@ Des noms de travail. Chaque offre se commande à part, avec un prix écrit avant
 
 ## Six moments pour votre ouverture
 
-Commandés en janvier 2027, ils permettent d’ouvrir au plus tôt à l’automne 2027 ; plus tard, au printemps 2028. Choisissez-en trois : le cadrage en fera vos priorités.
+Commandés en janvier 2027, ils permettent d’ouvrir au plus tôt à l’automne 2027 ; commandés plus tard, au printemps 2028. Choisissez-en trois : le cadrage en fera vos priorités.
 
-1. **La première nuit des œuvres.** *Le client des suites.* Un couple arrive de Milan, son programme reçu la veille en italien. Dans sa suite, une toile choisie par vous, aucun écran ; quand le rideau tombe, elle est prête. Le tirage de sa nuit le suivra.
+1. **La première nuit des œuvres.** *Le client des suites.* Un couple arrive de Milan, son programme reçu en italien. Sa suite est prête quand le rideau tombe : une toile de votre choix, aucun écran. Le tirage de sa nuit le suivra.
 2. **L’ouverture choisie avant d’ouvrir.** *Le collectionneur.* Six mois avant, une salle a été accrochée pour lui seul ; il l’a parcourue depuis Londres, avec vous. Devant l’œuvre réservée, son téléphone affiche le certificat.
 3. **État de l’art.** *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Les œuvres de votre stock répondent aux œuvres commandées, chacune avec son cartel de fabrication.
 4. **Le vernissage-spectacle.** *Le spectateur.* Au cabaret, ou dans la galerie s’il n’a pas ouvert. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes.
-5. **Le matin de la maison.** *Vous et votre administratrice.* Sept heures : sur un écran, la nuit de vos lieux, deux écarts de factures signalés, le dossier de l’œuvre nommée hier. Elle valide ; vous recevez une page : trois décisions à prendre.
-6. **La maison d’avant.** *Le visiteur.* Avant la galerie, il marche dans vos murs tels qu’ils étaient le jour de votre achat, relevés en 3D avant les travaux, devenus une œuvre. Une porte s’ouvre : la galerie d’aujourd’hui.
+5. **Le matin de la maison.** *Vous et votre administratrice.* Sept heures : la nuit de vos lieux, deux écarts de factures signalés, le dossier de l’œuvre nommée hier. Elle valide ; vous recevez une page : trois décisions à prendre.
+6. **La maison d’avant.** *Le visiteur.* Avant la galerie, il marche dans vos murs tels qu’ils étaient le jour de votre achat, relevés en 3D avant les travaux, dont un artiste a fait une œuvre. Une porte s’ouvre : la galerie d’aujourd’hui.
 
 ## Le chemin : 2027, 2028, 2030
 
 - **2027.** Le cadrage, l’état zéro de vos murs, le pupitre, les salles des fondateurs ; la galerie au plus tôt à l’automne. Déjà disponibles : la parole traduite en réunion entre l’anglais et cinq langues, dont le français (Google, 4 février 2026) ; un monde 3D tiré de quelques photos d’un lieu réel (World Labs, 12 novembre 2025).
-- **2028.** La résidence, l’œil appris, le catalogue raisonné, Solstice ; Bourges 2028, ouverture annoncée les 22 et 23 janvier. Des tâches de plusieurs jours, si la progression mesurée continue : une hypothèse.
-- **2030.** Le passeport transmis à chaque revente, des mondes où l’on parle. Selon Epoch AI, une IA qui écrit seule du logiciel bien défini, un déploiement en retard (prévision, 16 septembre 2025). Des prévisions, pas des promesses.
+- **2028.** La résidence, l’œil appris, Solstice ; Bourges, capitale européenne de la culture (bourges2028.org, 16 décembre 2025). L’IA : des tâches de plusieurs jours, si la progression mesurée continue (hypothèse).
+- **2030.** Le passeport transmis à chaque revente, des mondes où l’on parle. Une IA qui écrit seule du logiciel bien défini ; un usage qui suit avec retard (Epoch AI, prévision, 16 septembre 2025). Des prévisions, pas des promesses.
 
 ## Par où votre maison commence-t-elle ?
 
-Le cadrage reste la première marche recommandée : trois à quatre semaines, prix fixe, **6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA**. Tourné vers vos trois moments, il vous remet l’inventaire validé de vos sociétés, lieux et projets, vos trois priorités à 90 jours, trois tâches au plus à essayer et le choix argumenté de la suite. Démarrage visé début janvier 2027, pour une commande signée avant la mi-décembre ; détail dans notre offre en une page.
+Le cadrage reste la première marche recommandée : trois à quatre semaines, prix fixe, **6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA**. Tourné vers vos trois moments, il vous remet l’inventaire validé de vos sociétés, lieux, commerces et projets, vos trois priorités à 90 jours, trois tâches au plus à essayer et le choix argumenté de la suite. Démarrage visé début janvier 2027, pour une commande signée avant la mi-décembre ; détail dans notre offre en une page.
 
 1. **Tout de suite.** Le cadrage ; et, si une date l’impose, une offre qui n’attend pas : la règle de la maison, le film du chantier, la note pour votre architecte, l’état zéro de vos murs, le calendrier des aides. Avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable.
 2. **D’abord par le cadrage.** Vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret ; puis un essai à la fois, de huit semaines au plus, mesuré avant et après.
@@ -63,6 +63,6 @@ Le cadrage reste la première marche recommandée : trois à quatre semaines, pr
 
 ## Comment deux associés le tiennent
 
-Morgan Olsen et Mathys Couet ; Marwin Tech est en cours de création, aucune facture avant son immatriculation. **Nous concevons et orchestrons. Des spécialistes exécutent** (artistes, commissaire, intégrateurs, éditeurs de logiciels, professionnels du droit), aucun approché sans votre accord. **Votre équipe garde la main** : votre administratrice dirige, aidée. **Une personne décide toujours** : rien n’est envoyé, payé ou signé sans une personne habilitée. Deux chantiers à la fois au plus ; tout à votre nom, tout exportable.
+Morgan Olsen et Mathys Couet ; Marwin Tech est en cours de création, aucune facture avant son immatriculation. **Nous concevons et orchestrons. Des spécialistes exécutent** (artistes, commissaire, intégrateurs, éditeurs de logiciels, professionnels du droit), aucun n’est approché sans votre accord. **Votre équipe garde la main** : votre administratrice dirige, aidée. **Une personne décide toujours** : rien n’est envoyé, payé ou signé sans une personne habilitée. Deux chantiers à la fois au plus ; tout à votre nom, tout exportable.
 
 **Ce qui ne bouge pas.** Aucun résultat promis, chaque gain se mesure ; l’IA n’authentifie ni n’estime ; une œuvre n’est jamais un placement ; toute image créée avec l’IA est signalée ; le droit, à faire valider par vos professionnels.
