@@ -1,10 +1,10 @@
 # Vos partenaires, la Nièvre et de nouvelles façons de travailler
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 11 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
-- Après le cadrage, vos partenaires qui le souhaitent pourraient nous consulter, chacun avec son propre contrat.
+- Plus tard, après vos premiers essais, vos partenaires qui le souhaitent pourraient nous consulter, chacun avec son propre contrat.
 - Votre établissement pourrait accueillir des rencontres : « l’IA au service des métiers d’ici ».
 - Rien de tout cela n’est engagé. Le cadrage choisit par où commencer, une étape à la fois.
 
@@ -15,7 +15,7 @@ Artistes que vous exposez, commerçants de vos lieux, prestataires : chacun pour
 - **Ce que nous pourrions faire pour eux** : un diagnostic de ce que l’IA peut leur apporter ; des automatisations simples, essayées et mesurées ; un site vitrine ; une formation de leur équipe, sur leurs propres tâches.
 - **Comment** : chacun a son propre contrat, sa facture et son accord sur ses données. Ce que chacun nous confie ne sert qu’à lui.
 - **Pour vous** : vous n’êtes engagé à rien pour eux, et eux à rien envers vous. Nous ne contactons aucun de vos partenaires sans votre accord.
-- **Notre capacité** : nous sommes deux. Une étape à la fois, ou davantage avec des partenaires choisis avec vous (graphisme, sites).
+- **Notre capacité** : nous sommes deux, une étape à la fois. Pour le graphisme ou les sites, nous pourrions nous appuyer sur des prestataires, avec l’accord écrit de chaque client.
 
 Exemples indicatifs, à vérifier avec chacun :
 
@@ -65,3 +65,5 @@ Pour vous, votre administratrice et vos équipes, puis pour vos partenaires qui 
 - Toute relation entre vos sociétés, vos partenaires et nous, si l’un d’eux travaille aussi avec nous (avocat).
 - Pour les sites : mentions légales, cookies, accessibilité (avocat).
 - Droit à l’image et droits sur les œuvres (avocat).
+
+Ce document n’est pas un avis juridique. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage.

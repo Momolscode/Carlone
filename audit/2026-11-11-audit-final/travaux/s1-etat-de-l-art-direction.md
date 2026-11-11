@@ -85,3 +85,35 @@ Sources lues le 11 novembre 2026. Ne jamais citer un chiffre seulement « vu ».
 - **Sécurité.** Un agent lit des contenus non fiables (courriels, formulaires, pages) ; une instruction cachée peut le détourner. Démontré : les données d’un fichier clients envoyées à un attaquant par un simple formulaire [S21] ; 85 % de réussite d’une attaque contre trois agents de programmation [S22]. Référence : les dix risques de l’OWASP (objectif détourné, outils et droits abusés, mémoire empoisonnée) [S24]. Note CIANum-CNIL de juillet 2026 : validation humaine, journal, mémoire cloisonnée, bouton d’arrêt (r1).
 - **Échecs connus.** Base de production et sauvegardes effacées en neuf secondes par un agent muni d’un accès trop large ; trente heures d’arrêt (vue [S25], 25 avril 2026). Hébergeur attaqué par son connecteur [S23]. Outils juridiques dits « sans hallucination » : 17 à 33 % de réponses fausses [S26 ; étude de 2024 révisée en 2026, gardée comme seule mesure préenregistrée d’outils documentaires du commerce]. Développeurs 19 % plus lents avec l’IA en 2025, en se croyant plus rapides (k13f).
 - **Pour l’administratrice.** Son temps passe de la saisie à la relecture : le gain dépend de la vitesse de vérification. Les débutants gagnent le plus (+34 %, k13f). Règles : lecture seule par défaut ; aucun paiement, envoi ou signature sans elle ; un échantillon contrôlé chaque semaine ; on mesure la tâche, jamais la personne.
+
+## 7. Sources
+
+Toutes consultées le 11 novembre 2026.
+
+- [S1] METR, « Time Horizons », mise à jour du 8 septembre 2026, lue — https://metr.org/time-horizons/
+- [S2] Rythme de doublement, résumés, vues — https://www.lesswrong.com/posts/EYb2K9acKfyG2bome/metr-time-horizons-now-10x-year ; https://ai2027-tracker.com/predictions/metr-doubling/
+- [S3] The Decoder, 10 mai 2026, lue — https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/
+- [S4] Anthropic, Claude Opus 5.5, 22 septembre 2026, lue — https://www.anthropic.com/news/claude-opus-5-5
+- [S5] Scale AI, Remote Labor Index, non datée, lue — https://labs.scale.com/leaderboard/rli
+- [S6] GDPval, vues — https://benchmarkregistry.org/benchmarks/gdpval/gdpval (24 septembre 2026) ; https://www.benchleader.com/benchmarks/aa_gdpval (10 novembre 2026) ; page d’OpenAI refusée à l’ouverture.
+- [S7] Anthropic, système multi-agents, 13 juin 2025, lue — https://www.anthropic.com/engineering/multi-agent-research-system
+- [S8] Anthropic, Project Vend phase 2, 18 décembre 2025, lue — https://www.anthropic.com/research/project-vend-2
+- [S9] GOV.UK, évaluation DWP, 29 janvier 2026, lue — https://www.gov.uk/government/publications/an-evaluation-of-dwps-microsoft-copilot-365-trial/an-evaluation-of-dwps-microsoft-365-copilot-trial
+- [S10] GOV.UK, essai interministériel, 2 juin 2025, extrait — https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report/microsoft-365-copilot-experiment-cross-government-findings-report-html
+- [S11] Stanford HAI, 13 avril 2026, lue — https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report ; rapport, extrait — https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf
+- [S12] AAIF, 28 juillet 2026, lue — https://aaif.io/blog/mcp-graduates-to-enterprise-infrastructure-stateless-architecture-formal-governance-and-security
+- [S13] Microsoft, 14 octobre 2026, extrait — https://techcommunity.microsoft.com/blog/spblog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/4564203
+- [S14] Microsoft 365, message RM578869, 5 novembre 2026, extrait (archive tierce) — https://mc.merill.net/message/RM578869
+- [S15] Anthropic, mémoire, 25 août 2026, extrait — https://claude.com/resources/articles/claudes-memory-works-everywhere-and-you-decide-whats-in-it
+- [S16] Communiqué ministériel n° 1103, 9 octobre 2026, texte intégral lu dans sa reproduction — https://www.publicnow.com/view/A82FED1C05965CC8C76DAE06CF0F15ED82BA1E3B
+- [S17] TPE Actu, 10 octobre 2026, lue — https://tpeactu.fr/2026/10/10/facturation-electronique-premier-bilan-octobre-2026/
+- [S18] Cas comptables, vues — https://www.lagencesauvage.com/blog/ia-cabinet-comptable-donnees-2025-reussir-2026/ (29 décembre 2025) ; https://vantacrew.ai/fr/cas-client/cabinet-comptable-pre-saisie-factures-ocr-ia (22 avril 2026)
+- [S19] Bpifrance Le Lab cité par la presse, vues — https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/bpifrance-constate-un-basculement-des-usages-avec-55-des-tpe-pme-utilisatrices-dia-generative-fin-2025/ (10 février 2026) ; https://www.lenouveleconomiste.fr/ia-entreprise-maitrise-pme-134741/ (5 juin 2026)
+- [S20] Gartner, 25 juin 2025, texte du communiqué lu dans l’extrait — https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027
+- [S21] PromptArmor, 6 février 2026, extrait — https://www.promptarmor.com/resources/data-exfiltration-in-openai-agent-builder-via-mcp
+- [S22] Cloud Security Alliance, juin 2026, extrait — https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/06/CSA%5Fresearch%5Fnote%5Fagentjacking%5Fsentry%5Fmcp%5F20260614-csa-styled-2.pdf
+- [S23] The Record, 9 novembre 2026, lue — https://therecord.media/cyberattack-germany-ai-mittwald
+- [S24] OWASP, 10 décembre 2025, extrait — https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/
+- [S25] AppSentinels (blog d’éditeur), 13 juillet 2026, vue — https://appsentinels.ai/blog/two-months-after-pocketos-what-a-9-second-database-deletion-taught-us-about-agentic-ai-security/
+- [S26] Magesh et al., mai 2024, version du 24 août 2026, extrait — https://arxiv.org/abs/2405.20362
+- Travaux du dépôt, non revérifiés : r1 (9 novembre 2026) ; k13f et k4 (10 novembre 2026).

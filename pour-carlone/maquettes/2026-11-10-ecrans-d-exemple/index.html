@@ -32,7 +32,7 @@ main{padding:22px 32px 40px;min-width:0}
 .g2{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}
 .carte{background:var(--carte);border:1px solid var(--filet);border-radius:8px;padding:16px 18px;min-width:0}
 .carte h2{font-size:16px;margin:0 0 10px;color:var(--bronze-f)}
-.chiffre{font-family:'Cormorant Garamond',Georgia,serif;font-size:44px;font-weight:700;line-height:1}
+.chiffre{font-family:'Cormorant Garamond',Georgia,serif;font-size:44px;font-weight:700;line-height:1;font-variant-numeric:lining-nums}
 .sous{color:var(--second);font-size:14px}
 table{width:100%;border-collapse:collapse;font-size:14px}
 th{text-align:left;color:var(--second);font-weight:500;border-bottom:1px solid var(--filet);padding:8px 8px}
@@ -85,7 +85,7 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
 <section class="ecran" id="ecran-accueil" data-titre="Vue d’ensemble">
   <div class="barre"><h1>Vue d’ensemble</h1><span class="mention">Maquette — données fictives</span></div>
   <div class="grille g3">
-    <div class="carte"><h2>À traiter dans les 30 jours</h2><div class="chiffre">4</div><div class="sous">échéances, tous bâtiments</div></div>
+    <div class="carte"><h2>À traiter dans les 30 jours</h2><div class="chiffre">2</div><div class="sous">échéances, tous bâtiments</div></div>
     <div class="carte"><h2>En attente de votre validation</h2><div class="chiffre">2</div><div class="sous">une comparaison de devis, un renouvellement</div></div>
     <div class="carte"><h2>En retard</h2><div class="chiffre" style="color:var(--rouge)">1</div><div class="sous">pièce manquante au dossier</div></div>
   </div>
@@ -95,7 +95,7 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
       <table>
         <thead><tr><th>Quoi</th><th>Où</th><th>Date</th><th>État</th></tr></thead>
         <tbody>
-          <tr><td>Vérification électrique annuelle</td><td>Bâtiment A</td><td>15/01/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
+          <tr><td>Vérification électrique</td><td>Bâtiment A</td><td>15/01/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
           <tr><td>Renouvellement de l’assurance</td><td>Bâtiment B</td><td>01/02/2027</td><td><span class="etat valider">à valider</span></td></tr>
           <tr><td>Rapport d’entretien de la chaudière</td><td>Bâtiment A</td><td>dépassée</td><td><span class="etat retard">en retard</span></td></tr>
           <tr><td>Échéance triennale du bail</td><td>Lieu 2</td><td>30/06/2027</td><td><span class="etat ok">à jour</span></td></tr>
@@ -159,7 +159,7 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
       <h2>Travaux et dépenses</h2>
       <ul class="liste">
         <li>Façade : un devis reçu, en attente de deux autres.</li>
-        <li>Dépenses de l’année : visibles par bâtiment, exportables en tableur.</li>
+        <li>Dépenses de l’année : totaux repris de votre comptabilité, par bâtiment, exportables en tableur.</li>
       </ul>
       <p style="margin-top:14px"><span class="btn clair">Tout exporter (tableur et PDF)</span></p>
       <p class="sous">Vos données restent à vous : tout peut sortir, à tout moment.</p>
@@ -184,7 +184,7 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
       <thead><tr><th>Échéance</th><th>Rattachée à</th><th>Qui porte l’obligation</th><th>Pièce attendue</th><th>Date</th><th>État</th></tr></thead>
       <tbody>
         <tr data-etat="retard"><td>Entretien de la chaudière</td><td>Bâtiment A</td><td>Propriétaire</td><td>Rapport d’entretien</td><td>dépassée</td><td><span class="etat retard">en retard</span></td></tr>
-        <tr data-etat="prevoir"><td>Vérification électrique annuelle</td><td>Bâtiment A</td><td>Exploitant</td><td>Rapport de vérification</td><td>15/01/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
+        <tr data-etat="prevoir"><td>Vérification électrique</td><td>Bâtiment A</td><td>Exploitant</td><td>Rapport de vérification</td><td>15/01/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
         <tr data-etat="valider"><td>Renouvellement de l’assurance</td><td>Bâtiment B</td><td>Propriétaire</td><td>Attestation</td><td>01/02/2027</td><td><span class="etat valider">à valider</span></td></tr>
         <tr data-etat="prevoir"><td>Vérification des extincteurs</td><td>Lieu 2</td><td>Exploitant</td><td>Rapport</td><td>20/03/2027</td><td><span class="etat prevoir">à prévoir</span></td></tr>
         <tr data-etat="ok"><td>Échéance triennale du bail</td><td>Lieu 2</td><td>Propriétaire et locataire</td><td>—</td><td>30/06/2027</td><td><span class="etat ok">à jour</span></td></tr>
@@ -240,7 +240,7 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
     <div class="carte"><h2>Offres combinées</h2><div class="chiffre">1</div><div class="sous">nuit, vernissage, soirée au cabaret</div></div>
     <div class="carte"><h2>À valider</h2><div class="chiffre">3</div><div class="sous">réponses préparées aux questions des clients</div></div>
   </div>
-  <p class="note">Maquette — données fictives. « Site de réservation A » et « B » désignent n’importe quel site agréé par le logiciel choisi.</p>
+  <p class="note" style="margin-top:16px">Maquette — données fictives. « Site de réservation A » et « B » désignent n’importe quel site de réservation relié au logiciel choisi. Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la vente de séjours : à faire valider par vos professionnels.</p>
 </section>
 
 
@@ -312,14 +312,14 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
     <div class="carte">
       <h2>Démarches liées</h2>
       <ul class="liste">
-        <li>Déclaration de la taxe sur les spectacles : avant la fin du troisième mois.</li>
+        <li>Déclaration de la taxe sur les spectacles : au plus tard le dernier jour du troisième mois qui suit la représentation.</li>
         <li>Annonce des soirées : textes préparés, à valider.</li>
         <li>Billets : logiciel du marché, relié.</li>
       </ul>
       <p class="sous">Contrats et déclarations : préparés pour vos professionnels, jamais signés par l’outil.</p>
     </div>
   </div>
-  <p class="note">Maquette — données fictives.</p>
+  <p class="note">Maquette — données fictives. Les démarches et leurs délais sont à faire valider par vos professionnels.</p>
 </section>
 
 
@@ -340,7 +340,7 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
         <tr><td>Relance interne : attestation d’assurance</td><td>Lieu 2</td><td>rappel</td><td><span class="etat prevoir">à faire</span></td></tr>
       </tbody>
     </table>
-    <p class="alerte" style="margin-top:14px">L’administratif reste entre les mains de votre administratrice : l’outil prépare, elle décide. Rien n’est envoyé, payé ni supprimé sans sa validation.</p>
+    <p class="alerte" style="margin-top:14px">L’administratif reste entre les mains de votre administratrice : l’outil prépare, elle décide. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée.</p>
   </div>
   <p class="note">Maquette — données fictives.</p>
 </section>
@@ -362,22 +362,22 @@ td{border-bottom:1px solid #ECE6DC;padding:9px 8px;vertical-align:top}
 <!-- 11-fonctions.html -->
 <section class="ecran" id="ecran-fonctions" data-titre="Toutes les fonctions">
   <div class="barre"><h1>Toutes les fonctions, réunies</h1><span class="mention">Maquette — données fictives</span></div>
-  <div class="grille g4">
+  <div class="grille g4" style="gap:12px">
     <div class="carte mod"><h2>Vue d’ensemble</h2><div class="sous">tous les lieux, ce qui arrive, ce qui attend</div><span class="badge">Construit pour vous</span></div>
     <div class="carte mod"><h2>Bâtiments</h2><div class="sous">fiches, échéances, pièces, devis, travaux</div><span class="badge">Construit pour vous</span></div>
     <div class="carte mod marche"><h2>Suites</h2><div class="sous">réservations, sites, arrivées, fiche de police, taxe de séjour</div><span class="badge">Logiciel du marché, relié</span></div>
     <div class="carte mod"><h2>Bien-être</h2><div class="sous">créneaux, relevés, entretien</div><span class="badge">Construit, si le logiciel ne le fait pas</span></div>
     <div class="carte mod"><h2>Galerie</h2><div class="sous">fiches des œuvres, prêts, certificats</div><span class="badge">Construit, si aucun logiciel ne convient</span></div>
     <div class="carte mod"><h2>Cabaret</h2><div class="sous">programmation, contrats préparés, démarches</div><span class="badge">Construit pour vous</span></div>
-    <div class="carte mod marche"><h2>Billets, encaissements</h2><div class="sous">logiciels certifiés du marché</div><span class="badge">Logiciel du marché, relié</span></div>
+    <div class="carte mod marche"><h2>Billets, encaissements</h2><div class="sous">logiciels du marché, certifiés ou attestés</div><span class="badge">Logiciel du marché, relié</span></div>
     <div class="carte mod"><h2>Administratif</h2><div class="sous">factures reçues, courriers, rappels</div><span class="badge">Construit pour vous</span></div>
     <div class="carte mod"><h2>Votre semaine</h2><div class="sous">décisions, échéances, chiffres</div><span class="badge">Construit pour vous</span></div>
     <div class="carte mod"><h2>Séjours combinés</h2><div class="sous">nuit, vernissage, soirée, bien-être</div><span class="badge">Construit pour vous</span></div>
-    <div class="carte mod"><h2>Image et sites</h2><div class="sous">publications validées, site, réservation directe</div><span class="badge">Construit pour vous</span></div>
+    <div class="carte mod"><h2>Image et sites</h2><div class="sous">publications validées, site ; réservation directe par le logiciel des suites</div><span class="badge">Construit pour vous</span></div>
     <div class="carte mod tard"><h2>Archives chez vous</h2><div class="sous">interroger vos documents sans qu’ils sortent</div><span class="badge">Plus tard</span></div>
   </div>
-  <p class="alerte" style="margin-top:16px">Vos comptes, vos données, vos décisions : tout est au nom de votre société, et tout peut sortir à tout moment. Le cadrage fixe par quoi commencer.</p>
-  <p class="note">Maquette — données fictives : carte indicative, à préciser pendant le cadrage.</p>
+  <p class="alerte" style="margin-top:12px">Vos comptes, vos données, vos décisions : tout est au nom de votre société, et tout peut sortir à tout moment. Le cadrage fixe par quoi commencer.</p>
+  <p class="note" style="margin-top:14px">Maquette — données fictives : carte indicative, à préciser pendant le cadrage.</p>
 </section>
 
 </main>
