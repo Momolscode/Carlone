@@ -2,7 +2,7 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Copie de travail, pour relire et répéter sans connexion : ce qui est à l’écran, puis ce que dit l’orateur, dans l’ordre publié. Fil principal : diapositives 1 à 28. Annexe, seulement si on la demande : 29 à 38. La source fait foi : `/tmp/claude-0/-home-user-Carlone/5dd15790-6933-5e33-ba7c-b9089896b9b3/scratchpad/publication-v12/project/` ; après toute correction d’une diapositive, relancer `outils/2026-11-11-dossier/extraire-le-texte-de-la-presentation.py`.
+Copie de travail, pour relire et répéter sans connexion : ce qui est à l’écran, puis ce que dit l’orateur, dans l’ordre publié. Fil principal : diapositives 1 à 28. Annexe, seulement si on la demande : 29 à 38. La source fait foi : `pour-carlone/presentation-ia/2026-11-10-version-12-projet/project/` ; après toute correction d’une diapositive, relancer `outils/2026-11-11-dossier/extraire-le-texte-de-la-presentation.py`.
 
 ## Vous et votre demande
 
@@ -146,9 +146,9 @@ Copie de travail, pour relire et répéter sans connexion : ce qui est à l’é
 
 ### 23. `sota-tenir`
 
-**À l’écran** : Comment nous le tenons / Deux associés : nous orchestrons, d’autres exécutent / Nous / Concevoir, orchestrer, mesurer / Des spécialistes / Artistes, intégrateurs, avocats : ils exécutent / Votre équipe / Elle garde la main ; vous décidez / Deux chantiers à la fois. Tout à votre nom, un relais nommé.
+**À l’écran** : Comment nous le tenons / Deux associés : nous orchestrons, d’autres exécutent / Nous / Concevoir, orchestrer, mesurer / Des spécialistes / Artistes, intégrateurs, avocats : ils exécutent / Votre équipe / Elle garde la main ; vous décidez / Deux chantiers à la fois. Tout à votre nom, tout exportable.
 
-**L’orateur dit** : Un programme aussi ambitieux, à deux ? Oui, parce que nous ne faisons pas tout. Nous concevons et nous orchestrons ; des spécialistes exécutent quand il le faut : artistes, scénographes, intégrateurs, éditeurs de logiciels, avocats ; votre administratrice garde la main, et une personne décide toujours. Ce qui s’achète, nous le choisissons avec vous : logiciels de galerie, des suites, de billetterie, outils de traduction, de certificats, de capture 3D. Ce que nous construisons : une seule base des faits et des récits de votre maison, validée par vous, qui nourrit toutes les offres, puis la file « à valider », les liens entre vos outils et la mesure. Si un spécialiste est utile, votre société l’engage directement. Deux chantiers à la fois au plus, dont un seul sur vos données ; un essai à la fois ; chaque marche mesurée avant la suivante. Tout est à votre nom et peut être exporté ; si l’un de nous manque, un relais est nommé, et tout reste à vous : vous pouvez continuer sans nous.
+**L’orateur dit** : Un programme aussi ambitieux, à deux ? Oui, parce que nous ne faisons pas tout. Nous concevons et nous orchestrons ; des spécialistes exécutent quand il le faut : artistes, scénographes, intégrateurs, éditeurs de logiciels, avocats ; votre administratrice garde la main, et une personne décide toujours. Ce qui s’achète, nous le choisissons avec vous : logiciels de galerie, des suites, de billetterie, outils de traduction, de certificats, de capture 3D. Ce que nous construisons : une seule base des faits et des récits de votre maison, validée par vous, qui nourrit toutes les offres, puis la file « à valider », les liens entre vos outils et la mesure. Si un spécialiste est utile, votre société l’engage directement. Deux chantiers à la fois au plus, dont un seul sur vos données ; un essai à la fois ; chaque marche mesurée avant la suivante. Tout est à votre nom et peut être exporté ; si l’un de nous manque, l’autre reprend votre dossier, plus lentement, et tout reste à vous : vous pouvez continuer sans nous.
 
 ## Par où commencer, et la décision du jour
 
@@ -166,7 +166,7 @@ Copie de travail, pour relire et répéter sans connexion : ce qui est à l’é
 
 ### 26. `garanties`
 
-**À l’écran** : Ce qui vous reste, dans chaque cas / Vous arrêtez / Le travail fait. L’acompte reste acquis, solde non dû. / Nous ne finissons pas / Le travail fait. La part non faite est remboursée. / À la fin / Le dossier, pour qui vous voulez. / Comptes et données au nom de votre société.
+**À l’écran** : Ce qui vous reste, dans chaque cas / Vous arrêtez / Le travail fait. L’acompte reste acquis, solde non dû. / Nous ne finissons pas / Le travail fait. La part non faite est remboursée. / À la fin / Le dossier, une fois payé, pour qui vous voulez. / Comptes et données au nom de votre société.
 
 **L’orateur dit** : Aucun paiement n’est demandé ni reçu pendant les sept jours qui suivent la signature. Si vous arrêtez en cours de route, l’acompte nous reste, le solde n’est pas dû et vous recevez le travail fait. Si nous ne pouvons pas finir, vous recevez le travail fait et nous remboursons la part non faite ; de même si vous arrêtez parce que nous avons plus de deux semaines de retard, de notre fait. À la fin, une fois le solde payé, le dossier est à vous, utilisable avec qui vous voulez, et aucune suite n’est commandée d’avance. Les comptes, les données et les accès sont au nom de votre société.
 

@@ -21,66 +21,68 @@
   "order": [
     "cover",
     "compris",
-    "univers",
-    "nouveautes",
-    "evolution",
-    "enjeux",
-    "cat-galerie",
+    "demande",
     "hotel",
+    "ecran-ensemble",
+    "fonctions",
+    "cat-galerie",
     "cat-cabaret",
     "cat-batiments",
     "administratrice",
-    "presence",
-    "demande",
-    "ecran-ensemble",
-    "fonctions",
-    "ecran-devis",
+    "evolution",
+    "enjeux",
+    "sota-vision",
+    "sota-faits",
+    "sota-phares",
+    "sota-nuit",
+    "sota-avant",
+    "sota-familles",
+    "sota-maison",
+    "sota-chemin",
     "etapes",
     "societe",
-    "pourquoi-nous",
-    "grille",
-    "ambition",
-    "avenir",
-    "offres",
+    "sota-tenir",
+    "sota-commencer",
     "proposition",
     "garanties",
     "decision",
-    "moyens",
     "cloture",
+    "ecran-devis",
+    "grille",
+    "nouveautes",
     "fiches",
-    "ensuite",
-    "idees",
     "ecran-batiment",
     "modes",
     "cat-admin",
     "cat-finance",
-    "robotique"
+    "robotique",
+    "moyens"
   ],
   "sections": {
     "s1": {
-      "description": "Vous, votre univers et les enjeux de l’IA",
+      "description": "Vous et votre demande",
       "start": "cover"
     },
     "s2": {
-      "description": "Pour chacun de vos projets",
+      "description": "Vos projets, lieu par lieu",
       "start": "cat-galerie"
     },
     "s3": {
-      "description": "Votre logiciel",
-      "start": "demande"
+      "description": "State Of The Art : l’ambition pour votre maison",
+      "start": "evolution"
     },
     "s4": {
-      "description": "Comment nous travaillons, notre ambition et nos offres",
+      "description": "Comment nous le tenons",
       "start": "etapes"
     },
     "s5": {
-      "description": "Notre proposition, la décision du jour, puis une perspective",
-      "start": "proposition"
+      "description": "Par où commencer, et la décision du jour",
+      "start": "sota-commencer"
     },
     "s6": {
       "description": "Annexe",
-      "start": "fiches"
+      "start": "ecran-devis"
     }
   },
-  "title": "Votre premier pas — Marwin Tech pour GianLuca Carlone (version 12, projet)"
+  "title": "Votre logiciel, votre maison, l’état de l’art — Marwin Tech pour GianLuca Carlone (version 13 « State Of The Art », projet)"
 }
