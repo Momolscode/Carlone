@@ -1,7 +1,7 @@
 # S2 — Portefeuille « State Of The Art » : le territoire et le réseau
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Angle : faire de son lieu la tête d’un réseau. Faits tirés des notes s1 du 11 novembre 2026. « Nouvelle » : absente des pages écrites pour lui ; « prolonge » : va plus loin qu’une offre déjà nommée. Toute aide : à vérifier avec l’organisme, rien n’est acquis. Tout point de droit : à faire valider par ses professionnels. Aucun prix de vente.
+Angle : faire de son lieu la tête d’un réseau. Faits tirés des notes s1. « Nouvelle » : absente des pages écrites pour lui. Aides : à vérifier avec l’organisme, rien n’est acquis. Droit : à faire valider par ses professionnels.
 
 ## 1. Le concept
 
@@ -11,7 +11,7 @@ Angle : faire de son lieu la tête d’un réseau. Faits tirés des notes s1 du 
 >
 > Ailleurs, six villages, leurs artisans et leurs bénévoles font vivre cent cinquante œuvres en pleine forêt.
 >
-> Chez vous, on viendrait voir l’art, et ce que l’on sait faire de plus neuf, montré simplement, chaque mois.
+> Chez vous, on viendrait voir l’art, et chaque mois ce que l’on sait faire de plus neuf.
 >
 > Les artisans d’ici signent des pièces avec vos artistes ; les entreprises d’ici accrochent ceux que vous défendez.
 >
@@ -21,7 +21,7 @@ Angle : faire de son lieu la tête d’un réseau. Faits tirés des notes s1 du 
 >
 > Voisine, Bourges sera capitale européenne de la culture en 2028 : votre maison peut en être une porte, côté Loire.
 >
-> Une partie de l’effort peut être portée par d’autres, aides, partenaires, mécènes, si chaque dossier part à temps.
+> Aides, partenaires et mécènes peuvent porter une part de l’effort, si chaque dossier part à temps.
 >
 > Vous restez le marchand et le maître de maison ; le réseau grandit autour de vous, chacun à sa place.
 
@@ -29,30 +29,30 @@ Nom de travail, marque non vérifiée.
 
 ## 2. Treize offres en cinq familles
 
-Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, des spécialistes exécutent, son équipe garde la main, une personne valide, prix écrit avant toute commande. « Porté par » : ce que des aides ou des partenaires peuvent prendre en charge.
+Neuf nouvelles, quatre qui prolongent. Partout : nous concevons, des spécialistes exécutent, une personne valide, prix écrit avant toute commande. « Porté par » : ce que d’autres prennent en charge.
 
 ### Famille I — Le réseau : sa maison, tête de réseau
 
 **1. Le cercle State Of The Art** · prolonge « Le réseau de vos partenaires » · 2027
 - **Quoi :** les artistes, artisans, vignerons, hébergeurs et commerçants qu’il choisit, liés par une charte, un agenda et une vitrine communs.
-- **Il obtient :** la carte du cercle au mur de la galerie ; un agenda partagé ; une page par membre et des itinéraires de week-end, en plusieurs langues, lisibles par les assistants des voyageurs ; chaque trimestre, le tableau du territoire (fréquentation publique, semaines creuses où placer vernissages et revues).
-- **Avancé :** la Commission européenne annonce pour 2027 l’essai d’agents d’IA de réservation reliés au portefeuille d’identité numérique (Commission, 4 novembre 2026 ; Travolution, 9 novembre 2026). Nièvre Attractive suit déjà la fréquentation par téléphonie anonymisée (note territoire).
+- **Il obtient :** la carte du cercle au mur ; un agenda partagé ; une page par membre et des itinéraires de week-end, multilingues, lisibles par les assistants des voyageurs ; chaque trimestre, les semaines creuses où placer vernissages et revues.
+- **Avancé :** la Commission européenne annonce pour 2027 l’essai d’agents d’IA de réservation reliés au portefeuille d’identité numérique (Commission, 4 novembre 2026). Nièvre Attractive suit déjà la fréquentation par téléphonie anonymisée (note territoire).
 - **Qui, durée :** nous, deux mois, puis un jour par mois ; un outil d’agenda du marché ; son administratrice valide. **Porté par :** chaque membre tient sa page.
 - **Commencer :** dix noms. **Mesure :** membres actifs, demandes croisées. **Règles :** chacun garde ses données ; aucun prix fixé en commun entre concurrents (droit de la concurrence) ; personne n’est contacté sans son accord.
 
 **2. Les ateliers associés** · nouvelle · 2027, éditions en 2028
 - **Quoi :** des artisans d’art nivernais (faïence, pierre, verre : à identifier) et des artistes signent ensemble des pièces vendues à la galerie.
-- **Il obtient :** trois à cinq pièces par an ; sous chacune, une fiche de fabrication (part de la main, part de la machine) ; l’atelier filmé, versé au dossier de l’œuvre.
+- **Il obtient :** trois à cinq pièces par an ; sous chacune, une fiche de fabrication (part de la main, part de la machine) ; l’atelier filmé.
 - **Avancé :** une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine (rapport du ministère de la Culture, 16 juillet 2026) ; le dossier daté garde cette trace.
 - **Qui, durée :** nous, outil et contrats types en six semaines ; artistes, artisans, photographe, avocat. **Porté par :** les artisans (atelier, savoir-faire), contre une part écrite.
 - **Commencer :** un duo volontaire. **Mesure :** pièces achevées, vendues. **Règles :** droits partagés par écrit ; statut fiscal des pièces faites en partie à la machine à faire valider ; jamais vendues comme un placement.
 
 **3. Le club des entreprises de la Nièvre** · nouvelle · 2027
 - **Quoi :** les entreprises d’ici accrochent les artistes vivants qu’il défend, et viennent chez lui voir l’IA utile à leur métier.
-- **Il obtient :** un dossier par entreprise (œuvres, accrochage simulé et signalé comme tel, note pour l’expert-comptable) ; une visite par saison ; des acheteurs nouveaux.
+- **Il obtient :** un dossier par entreprise (œuvres, accrochage simulé et signalé, note pour l’expert-comptable) ; une visite par saison ; des acheteurs nouveaux.
 - **Avancé :** en 2025, 49 % des acheteurs des marchands étaient nouveaux pour eux (rapport Art Basel et UBS 2026).
 - **Qui, durée :** nous, six semaines, puis deux jours par entreprise ; encadreur, transporteur, assureur. **Porté par :** les entreprises ; le diagnostic Impulse IA de la chambre de commerce.
-- **Commencer :** trois entreprises qu’il connaît. **Mesure :** œuvres placées, entreprises qui reviennent. **Règles :** aucun conseil fiscal ; déduction des achats d’œuvres (article 238 bis AB) jusqu’au 31 décembre 2028, à confirmer par leur expert-comptable ; jamais un placement.
+- **Commencer :** trois entreprises. **Mesure :** œuvres placées, entreprises qui reviennent. **Règles :** aucun conseil fiscal ; déduction des achats d’œuvres (article 238 bis AB) jusqu’au 31 décembre 2028, à confirmer par leur expert-comptable ; jamais un placement.
 
 ### Famille II — Le laboratoire ouvert
 
@@ -60,19 +60,19 @@ Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, 
 - **Quoi :** un soir par mois, la galerie s’ouvre aux habitants et aux entrepreneurs pour voir et essayer l’IA, sur le modèle des Cafés IA.
 - **Il obtient :** douze soirées à thème par an (le dossier préparé par un assistant, la voix traduite, l’image et ses droits) ; un compte rendu public.
 - **Avancé :** la réussite des agents d’IA sur un banc de tâches réelles est passée de 20 % à 77,3 % en un an (AI Index de Stanford, 13 avril 2026).
-- **Qui, durée :** nous animons, formés comme animateurs ; un jour et demi par soirée ; son équipe accueille. **Porté par :** les Cafés IA, gratuits, deux à Varzy en avril 2026 (Internet Society France, 29 mars 2026) ; Impulse IA, 32 rendez-vous jusqu’en juin 2027 (CCI Nièvre, 3 avril 2026) : on s’y relie, sans concurrence.
+- **Qui, durée :** nous animons, formés ; un jour et demi par soirée. **Porté par :** les Cafés IA, gratuits, deux à Varzy en avril 2026 (Internet Society France, 29 mars 2026) ; Impulse IA, 32 rendez-vous jusqu’en juin 2027 (CCI Nièvre, 3 avril 2026), sans concurrence.
 - **Commencer :** une salle aux normes. **Mesure :** participants, projets nés d’une soirée. **Règles :** accueil du public ; droit à l’image ; contenus générés signalés.
 
 **5. Le banc d’essai des métiers d’ici** · nouvelle · 2027
 - **Quoi :** une entreprise nivernaise apporte une vraie tâche ; des agents d’IA la mènent une journée, mesurée avant et après, devant elle.
 - **Il obtient :** une fiche publique par essai, échecs compris, si l’entreprise l’accepte ; la bibliothèque des métiers de la Nièvre.
-- **Avancé :** sur de vraies missions, le meilleur agent rendait un travail acceptable dans 2,5 % des cas fin 2025, 41,3 % en novembre 2026 (Scale AI, consulté le 11 novembre 2026). D’où l’essai sur pièce.
+- **Avancé :** sur de vraies missions, le meilleur agent rendait un travail acceptable dans 2,5 % des cas fin 2025, 41,3 % en novembre 2026 (Scale AI, consulté le 11 novembre 2026).
 - **Qui, durée :** nous, protocole en un mois, puis trois à quatre jours par essai ; l’entreprise juge. **Porté par :** l’entreprise, qui paie son essai par contrat séparé.
 - **Commencer :** deux volontaires. **Mesure :** temps gagné ou perdu, suites données. **Règles :** données sur les comptes de l’entreprise, effacées ensuite ; aucun gain promis.
 
 **6. Le tiers-lieu de l’art et de l’IA** · nouvelle · dossier 2027, ouverture 2028
 - **Quoi :** un de ses commerces devient atelier ouvert : fabrication numérique, poste d’IA partagé, bureaux, salle du laboratoire.
-- **Il obtient :** un lieu vivant toute la semaine près de la galerie ; artistes, artisans et jeunes entreprises au travail ; nos bureaux, si c’est écrit.
+- **Il obtient :** un lieu vivant toute la semaine ; artistes, artisans et jeunes entreprises au travail ; nos bureaux, si c’est écrit.
 - **Avancé :** 39 tiers-lieux existants ou en projet sur le Pays Val de Loire Nivernais, 82 % liés à la culture ou au numérique (étude du Pays, 15 juillet 2025) ; à Lormes, « La Tisserie » relie tiers-lieu, manufacture et mission numérique (France Tiers-Lieux, 30 juillet 2025).
 - **Qui, durée :** nous, trois mois ; architecte, bureau de contrôle, animateur. **Porté par :** LEADER, jusqu’à 80 % ; contact avant de commencer ; le porteur avance l’argent ; programme clos fin 2027.
 - **Commencer :** le choix du commerce. **Mesure :** jours ouverts, occupants, projets. **Règles :** établissement recevant du public ; machines sous capot ; nos bureaux et tout investissement traités à part, avec un avocat.
@@ -80,15 +80,15 @@ Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, 
 ### Famille III — L’école
 
 **7. L’école State Of The Art** · prolonge « Le pass IA de votre équipe » · 2027 pour son équipe, 2028 ouverte au territoire
-- **Quoi :** d’abord son administratrice et ses équipes, formées sur leurs propres tâches ; puis, chaque année, une promotion de jeunes et de personnes en reconversion de la Nièvre : médiation multilingue, accueil, régie, fabrication.
+- **Quoi :** d’abord son administratrice et ses équipes, formées sur leurs tâches ; puis une promotion annuelle de jeunes nivernais et de personnes en reconversion : médiation multilingue, accueil, régie, fabrication.
 - **Il obtient :** un parcours par métier ; une charte signée ; une attestation datée par personne ; des recrues formées sur ses vrais outils, pour lui et ses voisins.
 - **Avancé :** dans un ministère britannique, 3 549 agents ont gagné environ 19 minutes par jour avec un assistant ; gains déclarés (GOV.UK, 29 janvier 2026). La stratégie européenne du tourisme durable annonce une académie du tourisme pour 2027 (Commission, 4 novembre 2026).
-- **Qui, durée :** nous concevons, deux mois, puis trois à quatre pour l’ouverture au territoire ; un organisme certifié Qualiopi délivre. **Porté par :** les opérateurs de compétences : huit modules IA à 100 % pour les moins de 50 salariés des branches Atlas, jusqu’au 31 décembre 2026 (Opco Atlas, 7 septembre 2026), dans la limite des fonds ; pour le territoire, financeurs de l’emploi à identifier.
+- **Qui, durée :** nous concevons, deux mois, puis trois à quatre pour le territoire ; un organisme certifié Qualiopi délivre. **Porté par :** les opérateurs de compétences : huit modules IA à 100 % pour les moins de 50 salariés des branches Atlas, jusqu’au 31 décembre 2026 (Opco Atlas, 7 septembre 2026), dans la limite des fonds ; pour le territoire, financeurs de l’emploi à identifier.
 - **Commencer :** ses sociétés, leurs postes, les métiers qu’il recrutera. **Mesure :** personnes formées, embauchées ici, temps mesuré. **Règles :** sur le temps de travail ; personne n’est noté ; votre administratrice aidée, jamais remplacée ; aucune promesse d’embauche.
 
 **8. Les classes à la galerie** · nouvelle · 2028
 - **Quoi :** écoles, collèges et lycées visitent chaque exposition, avec un médiateur et un guide qui répond dans la langue de l’élève, sous une association distincte de la galerie.
-- **Il obtient :** un programme par année scolaire ; une association des publics d’intérêt général. La Nièvre n’a plus de centre d’art labellisé en activité (note lieux) : ne jamais le dire comme l’échec d’autrui.
+- **Il obtient :** un programme par année scolaire ; une association des publics d’intérêt général. La Nièvre n’a plus de centre d’art labellisé actif (note lieux), jamais dit comme l’échec d’autrui.
 - **Avancé :** dans le Somerset, une galerie marchande installée dans une ferme a accueilli plus de 800 établissements scolaires (The Art Newspaper, 4 juillet 2025).
 - **Qui, durée :** nous, deux mois ; un médiateur, un avocat. **Porté par :** le mécénat des entreprises à l’association (article 238 bis), à vérifier par leur expert-comptable ; la galerie, commerciale, n’en reçoit pas.
 - **Commencer :** un établissement volontaire. **Mesure :** classes reçues. **Règles :** autorisations parentales ; aucune donnée d’élève.
@@ -134,8 +134,8 @@ Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, 
 
 ## 3. Quatre projets phares pour 2027
 
-- **La maison du pays** (1, 2, 3). À l’ouverture : la carte du cercle au mur d’entrée ; trois pièces d’un artiste et d’un artisan nivernais, avec leur fiche de fabrication ; des dirigeants d’ici devant les œuvres qu’ils accrocheront.
-- **Le premier jeudi** (4, 5, 7). La galerie pleine d’entrepreneurs ; à l’écran, la vraie tâche d’une entreprise nivernaise confiée à un agent, mesurée devant tous, échecs compris ; son équipe, formée, montre ce qu’elle en fait.
+- **La maison du pays** (1, 2, 3). À l’ouverture : la carte du cercle au mur d’entrée ; trois pièces d’un artiste et d’un artisan nivernais, avec leur fiche ; des dirigeants d’ici devant les œuvres qu’ils accrocheront.
+- **Le premier jeudi** (4, 5, 7). La galerie pleine d’entrepreneurs ; à l’écran, la vraie tâche d’une entreprise nivernaise confiée à un agent, mesurée devant tous, échecs compris ; son équipe formée montre son travail.
 - **Les Rencontres, édition zéro** (9, 11). Automne 2027 : les prototypes des fablabs dans la cour ; une table ronde où chacun parle et entend sa langue ; le prix remis le soir.
 - **La porte de Bourges** (10, 12). La saison 2028 annoncée si le dossier est retenu ; derrière, les aides déposées avant le premier devis.
 
@@ -143,7 +143,7 @@ Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, 
 
 **Une carte, une question.** Sa maison au centre, ses voisins autour, puis la Nièvre, Bourges et l’Europe : « Dans un an, qui voulez-vous voir chez vous ? » Personne n’est contacté sans son accord.
 
-**Quatre façons de commencer**, à valider par les deux associés : le cadrage tourné vers le territoire (6 500 € HT), avec la carte du cercle et le calendrier des dossiers dans le même dossier, notre recommandation ; le cadrage, dossiers d’abord ; le cadrage et un projet phare ; le cadrage et l’école. Hors cadrage : prix écrit avant toute commande.
+**Quatre façons de commencer**, à valider par les deux associés : le cadrage tourné vers le territoire (6 500 € HT), carte du cercle et calendrier des dossiers compris, notre recommandation ; le cadrage, dossiers d’abord ; le cadrage et un projet phare ; le cadrage et l’école. Hors cadrage : prix écrit avant toute commande.
 
 **Sans attendre :** aucun devis de travaux signé avant d’avoir vérifié Région, LEADER et Fondation du patrimoine (conseil à donner vendredi) ; formation Atlas avant le 31 décembre 2026 ; programme de Bourges en janvier 2027.
 
@@ -153,13 +153,13 @@ Neuf nouvelles, quatre qui prolongent. Partout : nous concevons et orchestrons, 
 
 ## 5. Comment deux associés tiennent cela
 
-**Une seule chose construite :** le registre du réseau (membres, accords, agenda, dossiers, mesures), qui nourrit 1, 9 et 12. Le reste s’achète : agenda, billetterie, traduction de la voix, format des Cafés IA, formations certifiées.
+**Une seule chose construite :** le registre du réseau (membres, accords, agenda, dossiers, mesures), pour 1, 9 et 12. Le reste s’achète : agenda, billetterie, traduction de la voix, formations certifiées.
 
 **Ordre :** pendant le cadrage, 12 et la carte de 1 ; premier semestre 2027, 7, 10, 4 ; second, 5, 3, 2, 9 et l’appel de 11 ; en 2028, 6, 8 ; ensuite, 13. Deux mises en place au plus à la fois.
 
 **Partenaires à trouver :** organisme certifié, médiateur, avocat, expert-comptable, régisseur, commissaire, agence de voyages immatriculée, artisans, fablabs, laboratoire.
 
-**Garde-fous :** Marwin Tech, en cours de création et non certifiée, prépare ; sa société dépose. Bureaux et investissement : à part, avec un avocat. Les contrats propres des entreprises et des membres réduisent la dépendance à un seul client.
+**Garde-fous :** Marwin Tech, en cours de création, non certifiée, prépare ; sa société dépose. Bureaux et investissement : à part, avec un avocat. Les contrats des entreprises et des membres réduisent la dépendance à un seul client.
 
 ## 6. Estimation interne de l’effort
 
