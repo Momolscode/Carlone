@@ -1,7 +1,7 @@
 # Catalogue maître « State Of The Art »
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Source unique des rédacteurs. Le meilleur des six portefeuilles s2, retouché selon les trois jugements. Chaque fait « avancé » vient d’une note s1 du 11 novembre 2026, à source lue : [gal.] galerie, [créa.] création, [lieux], [acc.] accueil, [scène], [ray.] rayonnement, [dir.] direction, [front.] frontière, [bât.] bâtiments, [terr.] territoire. Parties 1 à 5 : prêtes à reprendre, au vouvoiement. Parties 7, 8, 9 et 11 : jamais montrées. Dans un document client, seul le cadrage a un prix.
+Source unique des rédacteurs. Le meilleur des six portefeuilles s2, retouché selon les trois jugements. Chaque fait « avancé » vient d’une note s1 du 11 novembre 2026, à source lue ; entre crochets, la note (gal., créa., lieux, acc., scène, ray., dir., front., bât., terr.). Parties 1 à 5 : prêtes à reprendre, au vouvoiement. Parties 7, 8, 9 et 11 : jamais montrées. Dans un document client, seul le cadrage a un prix.
 
 ## 1. Le programme en dix lignes
 
@@ -126,7 +126,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Qui.** Nous : charte, marquage, calendrier. Photographe, réalisateur, graphiste. Vous validez chaque publication.
 - **Pour commencer.** L’accès au chantier.
 - **Mesure.** Images publiées avec leur origine.
-- **À faire valider.** Accord écrit de toute personne reconnaissable ; aucun tournage dans les suites, au sauna, au jacuzzi.
+- **À faire valider.** L’accord écrit de toute personne reconnaissable ; aucun tournage dans les suites, au sauna, au jacuzzi.
 - **Quand.** Dès les premiers travaux.
 
 **10. Les expositions qui ne meurent pas**
@@ -145,7 +145,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 **11. L’œuvre du seuil**
 - **Une phrase.** Une pièce permanente, commandée à un artiste pour l’entrée, qui change avec le ciel, la Loire et les saisons.
 - **Vous obtenez.** L’emblème du lieu, différent chaque jour, en lumière et en son ; ni écran géant, ni capteur sur les personnes.
-- **Avancé.** En Norvège, le parc de sculptures de Kistefos, doté en 2019 d’une galerie-pont signée, a reçu 90 000 visiteurs sur sa saison 2025 (Ringblad, 15 octobre 2025 [lieux]).
+- **Avancé.** En Norvège, le parc de sculptures de Kistefos, doté d’une galerie-pont signée en 2019, a reçu 90 000 visiteurs en 2025 (Ringblad, 15 octobre 2025 [lieux]).
 - **Format.** Six à neuf mois.
 - **Qui.** Vous choisissez l’artiste parmi trois. Nous : programme, appel, suivi. Un bureau de contrôle vérifie la pose.
 - **Pour commencer.** L’emplacement, avant la fin des travaux.
@@ -169,7 +169,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Vous obtenez.** Chaque dossier résumé dans votre langue ; deux œuvres nées chez vous par an ; un prix. Dès 2028, des travaux publiés au nom du lieu ; deux fois l’an, la tâche d’une entreprise d’ici confiée à un agent, mesurée devant tous, échecs compris.
 - **Avancé.** La Villa Albertine ouvre quatre résidences « Les arts à l’ère de l’IA » en 2026, quatre en 2027 (CNC, 25 février 2025 [créa.]). Première lecture des dossiers traités en parallèle : jusqu’à cent fois plus vite qu’une personne qui les lit un par un ; hypothèse à mesurer.
 - **Format.** Appel en trois mois, résidence de quatre à huit semaines, laboratoire sur deux à trois ans.
-- **Qui.** Nous : appel, lecture préparée, outils, contrats types, dossiers. Un jury que vous présidez. Un laboratoire universitaire, à trouver.
+- **Qui.** Nous : appel, lecture préparée, outils, contrats. Un jury que vous présidez ; un laboratoire universitaire, à trouver.
 - **Pour commencer.** Un thème, des dates hors saison.
 - **Mesure.** Candidatures, œuvres nées sur place, publications.
 - **À faire valider.** L’IA résume, ne classe pas (RGPD, article 22) ; contrat de résidence.
@@ -178,7 +178,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 **14. La main d’ici**
 - **Une phrase.** Un artiste invité et un artisan de la Nièvre signent ensemble une série.
 - **Vous obtenez.** Faïence, pierre, verre ou bois : relevé 3D, moule imprimé, finition à la main ; chaque pièce avec son cartel de fabrication.
-- **Avancé.** Dans la Meuse, six villages font vivre 150 œuvres sur 45 km, avec plus de 80 artisans et plus de 120 bénévoles (Vent des Forêts, site lu le 11 novembre 2026 [lieux]).
+- **Avancé.** Dans la Meuse, six villages font vivre 150 œuvres sur 45 km, avec plus de 80 artisans et plus de 120 bénévoles (Vent des Forêts, site, 11 novembre 2026 [lieux]).
 - **Format.** Six mois par binôme.
 - **Qui.** Nous : repérage, protocole, dossier. Un spécialiste du relevé 3D. L’artiste et l’artisan créent.
 - **Pour commencer.** Trois artisans volontaires.
@@ -218,7 +218,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Qui.** Un metteur en scène décide ; des artistes jouent ; un régisseur vidéo réalise ; nous : surtitres, liens avec la galerie, droits.
 - **Pour commencer.** Le cabaret confirmé, un acousticien avant les plans.
 - **Mesure.** Spectateurs passés à la galerie, et l’inverse.
-- **À faire valider.** Accord de l’artiste exposé, droits des musiques, voix et image des artistes.
+- **À faire valider.** L’accord de l’artiste exposé, droits des musiques, voix et image des artistes.
 - **Quand.** 2027 si le cabaret ouvre, toile de minuit en 2028.
 
 **18. La nuit des œuvres**
@@ -293,7 +293,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **24. La maison lisible par les assistants**
 - **Une phrase.** Demander à un assistant d’IA où passer un week-end d’art mène à votre maison, décrite juste.
-- **Vous obtenez.** Une page de vérité reprise partout ; chaque mois, cinquante questions posées à quatre assistants, erreurs corrigées. En 2028, un ambassadeur qui répond aux assistants des voyageurs et des collectionneurs, ouvre une demande, ne vend jamais seul.
+- **Vous obtenez.** Une page de vérité reprise partout ; chaque mois, cinquante questions posées à quatre assistants, erreurs corrigées. En 2028, un ambassadeur qui répond aux assistants des voyageurs, sans jamais vendre seul.
 - **Avancé.** Depuis le 27 août 2026, aux États-Unis, le mode IA de la recherche Google réserve une chambre auprès de dix partenaires (PPC Land, 28 août 2026 [ray.]).
 - **Format.** Six semaines, puis une demi-journée par mois.
 - **Qui.** Nous ; un outil du marché ; vous validez chaque fait.
@@ -358,7 +358,7 @@ La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée
 
 - **Les deux associés** (partage proposé). Morgan Olsen : la relation, les artistes, les spécialistes, les projets phares. Mathys Couet : les outils, les données, les liens, la sécurité, la mesure. L’un mène, l’autre relit et prend le relais.
 - **Les spécialistes à réunir** (aucun approché) : avocats (marché de l’art, données, propriété artistique), agence de voyages immatriculée, intégrateur réseau, scène et sécurité, relevé 3D, commissaire, artistes, metteur en scène, régisseur d’œuvres, conservateur-restaurateur, assureur d’œuvres, producteur, laboratoire universitaire. Son expert-comptable reste le sien.
-- **Ce qui s’achète :** logiciels de galerie, des suites, de billetterie, de réservation, assistants, traduction, certificats, capture 3D, plateforme de factures. **Ce que nous construisons :** une seule base des faits et des récits, validée par lui, qui nourrit toutes les offres ; la file « à valider » ; les liens ; la mesure.
+- **Ce qui s’achète :** logiciels de galerie, des suites, de billetterie, de réservation, assistants, traduction, certificats, capture 3D, plateforme de factures. **Ce que nous construisons :** une seule base des faits et des récits, validée par lui, qui nourrit toutes les offres, puis la file « à valider », les liens, la mesure.
 - **Ce que fait son équipe :** son administratrice dirige le pupitre et tient les registres ; l’accueil garde la relation ; lui choisit, écrit, signe.
 - **L’ordre qui rend cela tenable :** deux chantiers à la fois au plus, dont un seul sur ses données ; un essai à la fois ; chaque marche mesurée avant la suivante ; tout à son nom, tout exportable, un relais nommé si l’un de nous manque.
 - **Ce que nous refusons :** authentifier, estimer, vendre une œuvre comme un placement, donner un conseil fiscal ou juridique, déposer un dossier à sa place, une machine près du public sans analyse des risques, un humanoïde d’accueil, une voix imitée, un capteur sur le corps, la reconnaissance des visages, une IA qui note une personne, une administratrice remplacée ou surveillée, une image générée présentée comme réelle.
@@ -367,7 +367,7 @@ La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée
 
 **INTERNE — à décider par Morgan Olsen et Mathys Couet.**
 
-Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société sur leurs devis, hors grille ; leur part se lit face à nos honoraires. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
+Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société, sur devis, hors grille. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
 
 | N° | Nos jours : mise en place ; suivi | Tiers, part | € HT |
 | --- | --- | --- | --- |
@@ -433,26 +433,22 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 
 Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chiffres d’Art Basel et UBS : il les connaît mieux que nous.
 
-1. Seize heures d’expert en logiciel, une fois sur deux : METR, 8 septembre 2026 (§ 5).
-2. De 2,5 % à 41,3 % de missions réelles acceptables : Scale AI, novembre 2026 (offre 26).
-3. Une boutique tenue par un agent, bénéficiaire avec des procédures : Anthropic, 18 décembre 2025 (offre 20).
-4. Plus de 40 % des projets d’agents abandonnés d’ici fin 2027 : Gartner, 25 juin 2025 (offre 22).
-5. Factures électroniques : trois entreprises sur quatre équipées au 4 octobre 2026, PME émettrices au 1er septembre 2027 : communiqué ministériel, 9 octobre 2026 (offre 20).
-6. Voix traduite qui imite le ton : Google Meet, 4 février 2026 (offre 7).
-7. Mondes explorables où l’on parle : Google DeepMind, 27 octobre 2026 (offre 10).
-8. Objets capturés en 3D, manipulés sur un téléphone : LACMA, jusqu’au 20 décembre 2026 (offre 10).
-9. 84 % des professionnels de galerie utilisent l’IA ; 8 % des galeries ont une règle : Observer, 17 avril 2026 (offre 5).
-10. Plus de 70 œuvres spoliées retrouvées sur une question : NPR, 9 août 2026 (offre 2).
-11. Certificat lié à une puce, à Art Basel : Verisart, 22 juin 2026 (offre 8).
-12. Création avec l’IA protégeable si la direction humaine se prouve : ministère de la Culture, 16 juillet 2026 (offre 8).
-13. 88 151 visiteurs pour « Le monde selon l’IA » : Jeu de Paume, rapport 2025 (offre 15).
-14. Lunettes de surtitres, 223 langues annoncées : Audinate, 29 mai 2025 (offre 17).
-15. Plus de 16 000 œuvres et objets à The Fife Arms : page officielle (offre 16).
-16. Un cabaret de village avec hôtel et spa au 28 août 2026 : Kirrwiller, page officielle (offre 18).
-17. 306 601 nuitées pour un festival d’hiver : Pulse Tasmania, 22 septembre 2026 (offre 19).
-18. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 : 16 décembre 2025 (offre 19).
-19. Une chambre réservée dans le mode IA de Google : PPC Land, 28 août 2026 (offre 24).
-20. Jusqu’à 30 % des travaux, dossier avant tout commencement : Région, 6 mars 2026 (offre 25).
+1. Seize heures d’expert en logiciel, réussies une fois sur deux (METR, 8 septembre 2026 ; § 5).
+2. De 2,5 % à 41,3 % de missions réelles jugées acceptables en un an (Scale AI, novembre 2026 ; offre 26).
+3. La voix traduite qui imite le ton (Google Meet, 4 février 2026 ; offre 7).
+4. Des mondes explorables où l’on parle (Google DeepMind, 27 octobre 2026 ; offre 10).
+5. Des objets capturés en 3D, manipulés sur un téléphone (LACMA, jusqu’au 20 décembre 2026 ; offre 10).
+6. 84 % des professionnels de galerie utilisent l’IA, 8 % des galeries ont une règle (Observer, 17 avril 2026 ; offre 5).
+7. Plus de 70 œuvres spoliées retrouvées sur une seule question (NPR, 9 août 2026 ; offre 2).
+8. Un certificat lié à une puce, à Art Basel (Verisart, 22 juin 2026 ; offre 8).
+9. Une création avec l’IA protégeable si la direction humaine se prouve (ministère de la Culture, 16 juillet 2026 ; offre 8).
+10. Des lunettes de surtitres, 223 langues annoncées (Audinate, 29 mai 2025 ; offre 17).
+11. Plus de 16 000 œuvres et objets à The Fife Arms, hôtel de galeristes (page officielle ; offre 16).
+12. Un cabaret de village avec hôtel et spa au 28 août 2026 (Kirrwiller, page officielle ; offre 18).
+13. 306 601 nuitées pour un festival d’hiver (Pulse Tasmania, 22 septembre 2026 ; offre 19).
+14. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 (bourges2028.org, 16 décembre 2025 ; offre 19).
+15. Une chambre réservée dans le mode IA de Google (PPC Land, 28 août 2026 ; offre 24).
+16. Jusqu’à 30 % des travaux, dossier déposé avant tout commencement (Région, 6 mars 2026 ; offre 25).
 
 À ne jamais citer : la source [S1] de la note « accueil » ; les « six mois » d’Orsay ; un chiffre seulement « vu » ; le prix de la machine (dépôt).
 
@@ -462,7 +458,7 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chif
 
 **(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
 
-**(c) Les diapositives.** Environ quatre minutes de plus, à arbitrer (V14). `offres` (23) garde ses quatre niveaux ; anciens noms et offres : chef d’orchestre et copilote, 20 ; galerie sans murs, 1 et 7 ; séjours signature, 16 et 18 ; cabaret augmenté, 17 ; rayonnement, 24 ; bouclier et pass IA, 5 ; résidence et laboratoire, 13 ; bâtiments qui préviennent, 21 ; réseau de vos partenaires, 14 et 26.
+**(c) Les diapositives.** Environ quatre minutes de plus, à arbitrer (V14). `offres` (23) garde ses quatre niveaux. Anciens noms : chef d’orchestre et copilote 20, galerie sans murs 1 et 7, séjours signature 16 et 18, cabaret augmenté 17, rayonnement 24, bouclier et pass IA 5, résidence et laboratoire 13, bâtiments qui préviennent 21, réseau de vos partenaires 14 et 26.
 
 | Id, place | Titre | À l’écran | L’orateur dit |
 | --- | --- | --- | --- |
