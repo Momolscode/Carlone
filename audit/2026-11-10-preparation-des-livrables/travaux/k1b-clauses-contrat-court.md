@@ -1,6 +1,6 @@
 # Clauses d’un contrat court de prestation intellectuelle : droits sur les livrables, données personnelles, responsabilité, arrêt, facture électronique
 
-Note de travail interne — sources publiques consultées le 10 novembre 2026 — ce n’est pas un avis juridique, fiscal ou d’assurance
+Note de travail interne — sources publiques consultées le 10 novembre 2026 — corrigé le 11 novembre 2026 par une mention datée (audit final) — ce n’est pas un avis juridique, fiscal ou d’assurance
 
 Document interne à Marwin Tech. Ne pas transmettre à GianLuca Carlone. Aucune clause ci-dessous n’est un texte prêt à signer : un avocat relit le bon de commande et ses conditions avant tout envoi.
 
@@ -328,6 +328,7 @@ Relecture sceptique. Document interne — ne pas transmettre à GianLuca Carlone
 2. **Médiation (partie 7).** Phrase trop large : « gratuit, rapide – moins de trois mois – et confidentiel », pour « tout différend lié à l’exécution d’un contrat de droit privé ». Phrase juste : « Le Médiateur des entreprises est gratuit, rapide et confidentiel. Une médiation dure de quelques heures à deux ou trois mois au plus ; un médiateur rappelle sous sept jours. Il intervient dans des relations d’affaires régulières, en général pour des litiges de plus de 1 500 €. » Source : F38216, vérifiée le 27 novembre 2024. Un premier cadrage n’est peut-être pas une relation régulière : la clause dit « chacun peut saisir », jamais « nous saisirons ».
 3. **Rétractation (partie 7, « Deux pièges »).** Remplacer « si la commande est signée hors de nos locaux » par « si la commande est conclue hors établissement, par exemple chez le client ». Source : L221-3 ; `interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md`, ligne 20.
 4. **Délais (« Ce que cela change », livrable 1).** Phrase fausse : « ni encaissement ni démarrage avant sept jours si la rétractation peut jouer ». Phrase juste : « aucun paiement demandé ni reçu avant sept jours (L221-10) ; aucun démarrage avant le quinzième jour sans demande du client sur papier ou sur support durable (L221-25) ».
+   [Mention du 11 novembre 2026 : la fiche F23224 de Service Public Entreprendre (vérifiée le 11 août 2026) indique qu’aucune prestation ne peut être effectuée pendant les sept jours ; point à trancher par l’avocat ; d’ici là, aucun démarrage avant le huitième jour. Source : `audit/2026-11-11-audit-final/travaux/a8-pieces-jointes-du-bon-de-commande.md`, constat 24.]
 5. **Cession (projet de bon de commande, condition 6).** La note est juste ; le bon ne l’applique pas : « lui sont cédés […] ; elle les utilise avec qui elle veut » ne nomme ni les droits, ni le lieu, ni la durée. Correction transmise à l’agent qui relit les documents client, sur le modèle de la première phrase proposée pour le livrable 1. Source : CPI, art. L131-3.
 6. **Sept jours (projet de bon de commande, partie 5).** « Aucun paiement n’est demandé pendant les sept jours » devient « Aucun paiement n’est demandé ni reçu pendant les sept jours ». Source : L221-10 (« ne peut recevoir aucun paiement ») ; L242-7 punit le fait d’« exiger ou obtenir » (k1a, ligne 296).
 

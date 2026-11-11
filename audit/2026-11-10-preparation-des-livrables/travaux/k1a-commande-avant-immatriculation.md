@@ -1,6 +1,6 @@
 # Faire signer une commande quand la société n’est pas encore immatriculée : société en formation, bon de commande, acompte, rétractation
 
-Note de travail interne — sources publiques consultées le 10 novembre 2026 — ce n’est pas un avis juridique, fiscal ou d’assurance
+Note de travail interne — sources publiques consultées le 10 novembre 2026 — corrigé le 11 novembre 2026 par une mention datée (audit final) — ce n’est pas un avis juridique, fiscal ou d’assurance
 
 Document interne. Ne pas transmettre à GianLuca Carlone.
 
@@ -200,6 +200,7 @@ Seuls deux numéros de livrables sont connus de cette note : le 1 (offre en une 
 - **Arrhes entre professionnels** : aucune source lue.
 - **Pages sans date relevée** : fiches F31144, F31412, F33527 ; page des impôts sur les régimes de TVA ; dépliant de la DGCCRF.
 - **Changement du 19 juin 2026** annoncé par la fiche F33527 (contrats à distance avec des consommateurs) : contenu non lu.
+  [Mention du 11 novembre 2026 : changement lu sur Légifrance. Ordonnance n° 2026-2 et décret n° 2026-3 du 5 janvier 2026 : fonctionnalité de rétractation en ligne pour les contrats à distance conclus par une interface en ligne (L221-5, 7° ; L221-21) ; numéro de téléphone du professionnel dans l’avis d’information type (annexe à l’article R221-3). Le modèle de formulaire (annexe à l’article R221-1) est inchangé depuis le 28 mai 2022. Source : `audit/2026-11-11-audit-final/travaux/a8-pieces-jointes-du-bon-de-commande.md`, constat 25.]
 - **Taux des pénalités au premier semestre 2027** : inconnu.
 - **Côté client** : société qui signera, forme, effectif, récupération de la TVA : inconnus.
 - **Pratique des banques** et **attestation Urssaf d’une société nouvelle** : inconnues.
