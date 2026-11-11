@@ -1,47 +1,47 @@
 # Jour J : liste de contrôle
 
-Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
+Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026 (version 13)
 
 Rendez-vous du vendredi 13 novembre 2026. **Rien ne se signe en séance** : un oui est un accord de principe.
 
 **La veille, jeudi 12 novembre au soir**
 
-- ☐ Décisions V1 à V14 cochées, datées, signées à deux (et les n° 6, 13, 20, 21). Une case vide de V1 à V5 : tout à l’écran, rien laissé, rien signé.
+- ☐ Décisions V1 à V14 cochées, datées, signées à deux (et les n° 6, 13, 20, 21) ; complément : partie 0, puis J1 à J40 (d’abord J8, J16, J9, J1, J33, J26, J27, J17, J38). Une case vide de V1 à V5 : tout à l’écran, rien laissé, rien signé.
 - ☐ Rôles écrits. Mène : ………………………… Montre la maquette : ………………………… Note et annonce le temps : …………………………
-- ☐ Une répétition chronométrée. Version (V7, V11, V14) : ☐ 32 min ☐ 31 min 15 ☐ 30 min 30 ☐ 29 min 45.
+- ☐ Une répétition chronométrée. Version (V7, V14) : ☐ 33 min ☐ 33 min 45 (avec « moyens ») ☐ 31 min (resserrée).
 - ☐ Délai à annoncer (V10) pour le bon de commande et tout écrit, pas avant le 19 novembre : ………………………………
 - ☐ Deux ou trois dates à proposer pour le premier entretien, début janvier 2027 : ………………………………………………………………
 - ☐ Liste écrite de ce qu’il a déjà vu ou reçu de nous, relue à deux.
 
 **Le matériel**
 
-- ☐ Ordinateur chargé et chargeur ; notifications coupées ; rien d’ouvert hors la présentation et la maquette ; en secours, un partage de connexion prêt.
-- ☐ Présentation exportée en PDF depuis sa page (menu de la page), pour la montrer sans connexion.
+- ☐ Ordinateur, chargeur, connexion de secours ; notifications coupées ; seules la présentation et la maquette ouvertes.
+- ☐ Page privée : la version 13 (`decision` selon J9) ; PDF exporté depuis sa page, pour la montrer sans connexion.
 - ☐ Maquette : un seul fichier, qui s’ouvre sans connexion, `pour-carlone/maquettes/2026-11-10-ecrans-d-exemple/index.html`. Essai fait jeudi, connexion coupée : ☐ présentation ☐ maquette.
-- ☐ À l’écran, s’il le demande : la page d’offre, la page pour son administratrice, les fiches (V12).
-- ☐ À laisser seulement si V2 le dit : au plus ces deux pages, notées sur la liste des documents remis (n° 21) ; le texte sur le fichier de contacts si V3 est « validé ». Ni bon de commande, ni maquette.
+- ☐ À l’écran, s’il le demande : page d’offre, page de l’administratrice, fiches (V12), page programme, catalogue (J17).
+- ☐ À laisser seulement si V2 le dit : au plus ces deux pages (et, selon J17, la page programme et la carte), notées sur la liste des documents remis (n° 21) ; le texte sur le fichier de contacts si V3 est « validé ». Ni bon de commande, ni maquette.
 - ☐ Imprimés pour nous, gardés de notre côté de la table : antisèche, référentiel, sujets hors présentation, feuille de notes (deux exemplaires). De quoi écrire : deux stylos, du papier. Aucun enregistrement.
 - ☐ Une adresse et un téléphone professionnels qui fonctionnent, à lui donner s’il les demande.
 
 **Le minutage** (celui qui note annonce la fin de chaque partie)
 
 - 0 à 10 min : accueil ; une question avant toute diapositive, réponse notée mot pour mot.
-- 10 à 44 min : présentation, 32 min et 2 de marge. Parties : 7 min, 8 min, 4 min, 7 min 30, 5 min 30 ; fins à 7, 15, 19, 26 min 30 et 32 min.
-- 44 à 75 min : échange, 31 min gardées : ses questions, la feuille de notes, les objections.
-- 75 à 90 min : clôture, 15 min gardées : décision, trois informations, trois phrases, suite.
-- Si l’accueil déborde : version de 29 min 45, sans « moyens » ni « ambition » ; celui qui mène décide, au signal de celui qui note. L’échange et la clôture ne se rognent pas.
+- 10 à 45 min : présentation, 33 min et 2 de marge ; fins de parties à 6 min 30, 10 min 45, 23 min 30, 26 min 45, 33 min.
+- 45 à 75 min : échange, 30 min gardées : ses questions, ses choix, la feuille de notes, les objections.
+- 75 à 90 min : clôture, 15 min gardées : décision (deux noms, si J9), trois informations, deux phrases, suite.
+- Si l’accueil déborde : version resserrée de 31 min (la partie 3 ne se raccourcit pas) ; celui qui mène décide, au signal de celui qui note. L’échange et la clôture ne se rognent pas.
 
 **Cinq choses à ne jamais dire** (antisèche, mot pour mot)
 
 1. Le nom ou le prix de l’autre proposition ; une critique de celle-ci ; « votre hôtel » (dire « vos neuf suites »).
-2. « Mieux et moins cher grâce à l’IA » ; « cent fois plus » sans préciser la tâche.
-3. Un résultat garanti, un gain de temps chiffré non mesuré, « zéro erreur ».
+2. Un autre prix que le cadrage, un total ; « seul le cadrage est proposé » ; « cent fois plus » sans la tâche.
+3. Un résultat garanti, un gain non mesuré, « zéro erreur », « mieux et moins cher », « invisible ».
 4. « Nos clients », une référence ou un témoignage ; le nom de l’ancien partenaire, de son studio ou de son œuvre.
-5. « Nous sommes assurés », « relu par notre avocat », une date d’immatriculation certaine.
+5. « Nous sommes assurés », « relu par notre avocat », une date d’immatriculation ; « en formation », la « première preuve », nos rôles (J11, J13, J26, J27).
 
 **Juste après**
 
 - ☐ Avant de se lever : relire société, signataire, date ; dire ce qu’il recevra et quand ; demander où lui écrire.
-- ☐ Dans l’heure : notes complétées à deux, ses mots entre guillemets, feuille datée.
+- ☐ Dans l’heure : notes complétées à deux, ses mots entre guillemets, ses choix dans le programme, feuille datée.
 - ☐ Compte rendu interne sous 24 heures ouvrées : lundi 16 novembre (trame : « Après le rendez-vous », partie 3).
 - ☐ Aucun envoi ni message avant la liste avant tout envoi, cochée en entier : jeudi 19 novembre au plus tôt.
