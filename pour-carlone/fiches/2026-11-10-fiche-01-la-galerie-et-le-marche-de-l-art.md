@@ -37,7 +37,7 @@ Le cadrage retient trois tâches au plus à essayer, tous projets confondus, une
 4. **Faire le bilan par écrit** : on garde, on corrige ou on arrête. Vous décidez.
 5. **Relier ensuite** la galerie à la vue d’ensemble de vos lieux (échéances, documents). C’est la partie que nous construisons.
 
-Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.
 
 ## Ce qui reste à vous
 

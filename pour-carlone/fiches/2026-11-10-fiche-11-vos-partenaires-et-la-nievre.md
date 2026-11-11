@@ -15,7 +15,7 @@ Artistes que vous exposez, commerçants de vos lieux, prestataires : chacun pour
 - **Ce que nous pourrions faire pour eux** : un diagnostic de ce que l’IA peut leur apporter ; des automatisations simples, essayées et mesurées ; un site vitrine ; une formation de leur équipe, sur leurs propres tâches.
 - **Comment** : chacun a son propre contrat, sa facture et son accord sur ses données. Ce que chacun nous confie ne sert qu’à lui.
 - **Pour vous** : vous n’êtes engagé à rien pour eux, et eux à rien envers vous. Nous ne contactons aucun de vos partenaires sans votre accord.
-- **Notre capacité** : nous sommes deux, une étape à la fois. Pour le graphisme ou les sites, nous pourrions nous appuyer sur des prestataires, avec l’accord écrit de chaque client.
+- **Notre capacité** : nous sommes deux, deux chantiers à la fois au plus. Pour le graphisme ou les sites, nous pourrions nous appuyer sur des prestataires, avec l’accord écrit de chaque client.
 
 Exemples indicatifs, à vérifier avec chacun :
 
@@ -57,7 +57,7 @@ Pour vous, votre administratrice et vos équipes, puis pour vos partenaires qui 
 - Aucun nombre de participants, de clients ou de ventes.
 - Aucun gain chiffré pour vos partenaires avant de l’avoir mesuré chez eux.
 - Aucune date promise pour les rencontres : une ambition pour 2028 à 2030, pas un engagement.
-- Pas tout à la fois : à deux, une étape à la fois.
+- Pas tout à la fois : à deux, deux chantiers au plus.
 
 ## À faire valider par vos professionnels
 

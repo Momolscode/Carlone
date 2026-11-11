@@ -8,7 +8,7 @@ Quatre marches, une seule porte d’entrée. Chaque offre est décrite dans « S
 
 ## 1. Commencer : le cadrage
 
-**Trois à quatre semaines, à prix fixe : 6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA.** L’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours ; trois tâches au plus à essayer ; le choix argumenté de la suite. Il se tourne vers les trois projets phares que vous choisissez, au même prix. Le dossier est à vous, une fois le prix dû payé.
+**Trois à quatre semaines, à prix fixe : 6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA.** L’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours ; trois tâches au plus à essayer ; le choix argumenté de la suite. Il se tourne vers les trois projets phares que vous choisissez, au même prix. Le dossier est à vous, une fois le prix dû payé. Si une date l’impose, une offre qui n’attend pas part en même temps, avec son prix écrit avant toute commande : la règle de la maison (5), le film du chantier (9), la note pour votre architecte et l’état zéro de vos murs (21), le calendrier des aides (25).
 
 ## 2. Prouver : un essai de huit semaines au plus
 

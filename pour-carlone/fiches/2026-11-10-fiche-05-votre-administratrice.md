@@ -30,7 +30,7 @@ Trois niveaux d’aide. **Automatique** : des tâches internes seulement, après
 | Courriers et dossiers qui engagent (préparée) | Un dossier complet, prêt à relire et à signer | Ensuite |
 | Vue d’ensemble de tous vos lieux, dans le logiciel de gestion de vos propriétés | Ce qui arrive, ce qui attend une validation, ce qui est en retard | Ensuite, par étapes |
 
-Le cadrage examine ces pistes avec elle et retient trois tâches au plus à essayer ; ensuite, un essai à la fois. Nos écrans d’exemple (Maquette — données fictives) montrent un écran « Administratif » : factures reçues et classées, courriers préparés à relire, rappels. Elle y décide de tout.
+Le cadrage examine ces idées avec elle et retient trois tâches au plus à essayer ; ensuite, un essai à la fois. Nos écrans d’exemple (Maquette — données fictives) montrent un écran « Administratif » : factures reçues et classées, courriers préparés à relire, rappels. Elle y décide de tout.
 
 ## Comment nous procéderions
 
@@ -61,6 +61,6 @@ Le cadrage examine ces pistes avec elle et retient trois tâches au plus à essa
 
 - **Avocat** : l’information écrite à lui remettre avant le premier usage (si elle est salariée : code du travail, art. L1222-4 ; si la société qui l’emploie compte 50 salariés ou plus, consultation préalable du comité social et économique, art. L2312-38) ; selon son statut, l’organisation de l’usage des outils ; l’effet d’un pouvoir écrit de valider ; la durée de conservation du journal ; la mesure du temps d’une tâche qu’elle est seule à faire ; la forme d’une charte d’usage de l’IA.
 - **Règlement européen sur l’IA** : l’entreprise qui utilise l’IA prend des mesures pour favoriser la maîtrise de l’IA par les personnes qui s’en servent, sans niveau précis imposé à chacun (article 4, réécrit par le règlement 2026/1744 du 8 juillet 2026). Une prise en main datée et une charte d’usage peuvent y contribuer.
-- **Expert-comptable** : les formations à l’IA qui pourraient être financées.
+- **Expert-comptable** : les formations à l’IA, données par des organismes déclarés, qui pourraient être financées.
 
 Ce document n’est pas un avis juridique ; textes officiels consultés le 10 novembre 2026 (code du travail, CNIL, Journal officiel de l’Union européenne). Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage.

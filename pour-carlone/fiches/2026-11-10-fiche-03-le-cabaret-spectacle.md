@@ -38,7 +38,7 @@ Pour le cabaret, rien ne s’essaie avant que l’exploitant et le lieu soient c
 4. **Comparer par écrit** les billetteries et les caisses du marché ; votre société souscrit. Billetterie déclarée à l’administration fiscale ; caisse certifiée ou attestée par l’éditeur (à faire valider par votre expert-comptable).
 5. **Relier** leurs totaux à la vue d’ensemble de vos lieux. C’est ce que nous construisons.
 
-Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.
 
 ## Ce qui reste à vous
 

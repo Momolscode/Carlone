@@ -39,9 +39,9 @@ Le cadrage retient trois tâches au plus à essayer, tous projets confondus, une
 4. **Essayer** pendant huit semaines au plus une seule tâche, par exemple les échéances d’un bâtiment et d’un lieu, avec une mesure de départ du temps de votre administratrice ; puis le bilan écrit.
 5. **Étendre** un bâtiment ou un lieu à la fois. Vous pouvez arrêter après chaque étape.
 
-Nos écrans d’exemple (Maquette — données fictives) en montrent l’allure : fiche d’un bâtiment, échéances, trois devis comparés. Ce n’est pas un logiciel utilisable.
+Nos écrans d’exemple (Maquette — données fictives) en montrent l’allure ; ce n’est pas un logiciel utilisable. Si une date l’impose, la note pour votre architecte et l’état zéro en 3D partent avec le cadrage (offre 21).
 
-Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.
 
 ## Ce qui reste à vous
 

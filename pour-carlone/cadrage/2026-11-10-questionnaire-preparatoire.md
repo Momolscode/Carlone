@@ -34,7 +34,8 @@ Répondez seulement à ce que vous savez. « Je ne sais pas » est une bonne ré
 
 ## Vos trois sujets des trois prochains mois
 
-17. Si vous ne deviez régler que trois choses dans les trois prochains mois, lesquelles ? 1. …… 2. …… 3. ……
+17. Si vous ne deviez régler que trois choses dans les trois prochains mois, lesquelles ? 1. …… 2. …… 3. ……<br>
+17 bis. Vos trois moments entourés parmi nos six projets phares (le cadrage s’y tourne) : 1. …… 2. …… 3. ……
 18. Le logiciel de gestion de vos propriétés en fait-il partie ? ☐ oui, d’abord pour vos neuf suites et l’espace bien-être ☐ oui, d’abord pour vos bâtiments ☐ oui, pour l’ensemble de vos lieux ☐ non ☐ à discuter
 
 ## Qui valide quoi

@@ -21,7 +21,7 @@ Pour GianLuca Carlone · Marwin Tech · 11 novembre 2026
 
 ## Ce que vous risquez avec nous
 
-Peu de chose, et c’est voulu : un cadrage court à prix fixe (6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA), un essai mesuré, l’arrêt possible à chaque étape, et ce que vous avez payé vous reste.
+Peu de chose, et c’est voulu : un cadrage court à prix fixe (6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA), un essai mesuré, l’arrêt possible à chaque étape, et le travail que vous avez payé vous appartient.
 
 ## Ce que nous vous demandons
 

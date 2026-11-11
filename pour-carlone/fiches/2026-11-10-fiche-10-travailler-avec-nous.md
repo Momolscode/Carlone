@@ -4,22 +4,22 @@ Fiche 10 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys 
 
 **En bref**
 
-- Nous sommes deux associés. Nous avançons une étape à la fois : cadrage, essai de huit semaines au plus, suivi, puis d’autres domaines.
+- Nous sommes deux associés. Le cadrage d’abord, et si une date l’impose, une offre qui n’attend pas ; puis un essai de huit semaines au plus, un suivi, les autres offres. Deux chantiers à la fois au plus.
 - Le cadrage coûte 6 500 € hors taxes, soit 7 800 € toutes taxes comprises. Prix fixe.
 - Vous pouvez vous arrêter à la fin de chaque étape. Le dossier, vos comptes et vos décisions restent à vous.
 
 ## Qui nous sommes
 
-Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.
 
 - L’un de nous mène le travail, l’autre le relit. Tous deux connaissent votre dossier en entier.
 - Votre société garde l’usage des outils mis en place pour elle, même si elle change de prestataire.
 
-## Notre méthode : par étapes, une à la fois
+## Notre méthode : par marches, un essai à la fois
 
 1. **Le cadrage, trois à quatre semaines.** Un entretien chez vous, l’étude de vos documents avec votre administratrice, puis la remise du dossier. Vous recevez l’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours ; trois tâches au plus à essayer, chacune avec sa mesure de départ ; le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune.
 2. **Un essai de huit semaines au plus**, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix.
-3. **Un suivi régulier**, seulement après un essai réussi et à votre demande écrite, par périodes de trois mois renouvelées par écrit. Puis d’autres domaines, un à la fois.
+3. **Un suivi régulier**, seulement après un essai réussi et à votre demande écrite, par périodes de trois mois renouvelées par écrit. Puis les autres offres de notre programme.
 
 **Votre logiciel.** Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous aidons à choisir un logiciel du marché et à le relier au reste ; nous construisons seulement ce qui manque, étape par étape.
 
@@ -81,4 +81,4 @@ L’essai se commande à part, après le cadrage. Les dates dépendent aussi de 
 
 *Seuls le bon de commande et ses conditions, signés par votre société, vous engagent.*
 
-Nous ne vous demandons pas de miser sur tout : seulement sur trois à quatre semaines, à prix fixe, pour choisir ensemble par où commencer.
+Notre programme voit loin ; sa première marche est courte : trois à quatre semaines, à prix fixe, tournées vers les trois moments de votre ouverture que vous choisissez.

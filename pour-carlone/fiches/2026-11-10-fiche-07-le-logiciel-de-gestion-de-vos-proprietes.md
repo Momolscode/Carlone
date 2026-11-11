@@ -44,7 +44,7 @@ Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la
 4. **Essai de huit semaines au plus**, sur une seule tâche (par exemple les échéances d’un bâtiment et d’un lieu), mesurée avant et après, commandé à part, avec son prix ; chaque rappel activé après votre validation écrite.
 5. **Bilan** : arrêt, essai conservé ou suite, un périmètre à la fois.
 
-L’IA nous aide à écrire le code ; une personne relit tout. Les montants passent par des formules testées, jamais par l’IA. Comptes, hébergement de l’outil dans l’Union européenne, espace où le code est rangé et données sont au nom de votre société dès le premier jour (pour l’IA, voir la fiche 8). Les droits sur le code développé pour vous lui sont cédés une fois le prix dû payé. Vous exportez tout, à tout moment, sans nous. Si nous ne pouvions plus intervenir, vos outils continuent de fonctionner sur vos comptes, et un autre prestataire peut reprendre.
+L’IA nous aide à écrire le code ; une personne relit tout. Les montants passent par des formules testées, jamais par l’IA. Comptes, hébergement de l’outil dans l’Union européenne, espace où le code est rangé et données sont au nom de votre société dès le premier jour (pour l’IA, voir la fiche 8). Les droits sur le code développé pour vous lui sont cédés une fois le prix dû payé. Vous exportez tout, à tout moment, sans nous. Si nous ne pouvions plus intervenir, vos outils restent sur vos comptes, avec leur code, et un autre prestataire peut les reprendre.
 
 ## Ce qui reste à vous
 
@@ -67,4 +67,4 @@ L’IA nous aide à écrire le code ; une personne relit tout. Les montants pass
 - **Avocat** : les contrats des éditeurs (durée d’engagement, export, lieu des données) et l’accord sur les données.
 - **Assureur** : l’assurance des suites et de l’espace bien-être.
 
-Ce document n’est pas un avis juridique. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Ce document n’est pas un avis juridique. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.

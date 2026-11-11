@@ -6,7 +6,7 @@ Fiche 9 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys C
 
 - En 2026, des outils d’IA préparent un dossier entier et lisent vos documents. Une personne valide toujours.
 - Pour vos projets, la suite en 2027, 2028 et 2030 est une tendance sous conditions, pas une promesse.
-- Le cadrage proposé se suffit à lui-même. Des moyens supplémentaires ouvriraient d’autres possibilités, plus tard.
+- Le cadrage et notre programme se tiennent avec nos moyens actuels. Des moyens supplémentaires ouvriraient d’autres possibilités, plus tard.
 
 ## Ce qui a changé en 2026, dans vos projets
 
@@ -35,11 +35,11 @@ Une règle dit la loi, pas son application à vos sociétés : le cadrage vérif
 
 ## Ce que des moyens supplémentaires permettraient
 
-Le cadrage se tient avec nos moyens actuels. Rien de ce qui suit n’en est une condition ; nous ne vous demandons rien. Nous sommes deux : une étape à la fois.
+Le cadrage et notre programme se tiennent avec nos moyens actuels. Rien de ce qui suit n’en est une condition ; nous ne vous demandons rien. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.
 
-- **Une machine d’IA chez vous, au nom de votre société** : elle garderait vos archives chez vous, si ses logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue.
+- **Toutes vos archives sur la machine d’IA installée chez vous** (déjà possible en option, offre 6) : elles resteraient chez vous, si ses logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue.
 - **Des outils d’équipe et de la puissance de calcul louée à l’heure** : plusieurs traitements en même temps.
-- **Un ou deux collaborateurs formés** : plusieurs chantiers en parallèle, une relève en cas d’absence, des emplois, si possible dans la Nièvre.
+- **Un ou deux collaborateurs formés** : plus de deux chantiers en parallèle, une relève sans délai en cas d’absence, des emplois, si possible dans la Nièvre.
 - **Du temps pour expérimenter** : des prototypes pour vos lieux, essayés avant d’être proposés.
 
 Notre recommandation : avancer avec nos moyens actuels, et n’envisager un renforcement qu’après des gains mesurés.
@@ -69,4 +69,4 @@ Notre recommandation : avancer avec nos moyens actuels, et n’envisager un renf
 - Facture électronique : quelles sociétés sont concernées, notamment une société hors TVA (expert-comptable).
 - Signalement des contenus faits par IA, image des personnes montrées (avocat).
 
-*Ce document n’est pas un avis juridique. Sources relues le 9 novembre 2026 : impots.gouv.fr et economie.gouv.fr (factures) ; Commission européenne (IA) ; deux loueurs (robots). Moyens et études publiées (METR, juillet 2025 ; Peng et al., février 2023 ; relues le 10 novembre 2026) : page « Ce que des moyens supplémentaires nous permettraient d’accomplir » et son annexe, § 3.*
+*Ce document n’est pas un avis juridique. Sources relues le 9 novembre 2026 : impots.gouv.fr et economie.gouv.fr (factures) ; Commission européenne (IA) ; deux loueurs (robots). Moyens et études publiées (METR, juillet 2025 ; Peng et al., février 2023 ; relues le 10 novembre 2026) ; durée des tâches des agents (METR, 29 janvier 2026, lue le 10 novembre ; METR, 8 septembre 2026, lue le 11 novembre) : page « Ce que des moyens supplémentaires nous permettraient d’accomplir » et son annexe, § 3.*
