@@ -16,7 +16,7 @@ Note de chercheur pour le catalogue « State Of The Art ». Vingt-neuf recherche
 Douze réalisations : qui, quoi, résultat publié, source, date.
 
 1. **METR (laboratoire indépendant) — durée des tâches menées seules.** Claude Mythos Preview réussit une fois sur deux des tâches d’au moins 16 heures d’expert (intervalle de 8,5 à 55 heures). Cinq tâches sur 228 seulement dépassent 16 heures : mesure « instable ». Cette durée dit la difficulté, pas le temps de travail sans aide ; la page n’est plus mise à jour depuis le 8 septembre 2026. À quatre réussites sur cinq : 1 h 30 en mars 2026 (dépôt r3). **Mesuré.** [F2, lue, 10 mai 2026 ; F1, lue]
-2. **METR — l’IA accélère la recherche en IA.** Chez Anthropic, environ 1,97 fois selon ses chiffres internes (METR : de 1,3 à 2,8) ; seuil de deux fois « plausiblement » franchi au 15 juillet 2026. Claude Opus 5.5 reste « peu susceptible » d’automatiser entièrement le travail des chercheurs. **Mesuré, très incertain.** [F5, lue, 5 novembre 2026 ; F4, lue, 22 septembre 2026]
+2. **METR — l’IA accélère la recherche en IA.** Chez Anthropic, environ 1,97 fois, calculé par METR sur les chiffres internes (fourchette de METR : de 1,3 à 2,8) ; seuil de deux fois « plausiblement » franchi au 15 juillet 2026. Claude Opus 5.5 reste « peu susceptible » d’automatiser entièrement le travail des chercheurs. **Mesuré, très incertain.** [F5, lue, 5 novembre 2026 ; F4, lue, 22 septembre 2026]
 3. **Google — Gemini Omni Flash.** Vidéo faite et retouchée par la conversation, à partir de texte, d’images, de sons ou de vidéos. Clips de 10 secondes au lancement ; filigrane invisible SynthID ; avatar enregistré avec sa propre voix. **Disponible** pour les abonnés. [F7, lue, 20 mai 2026]
 4. **Google DeepMind — Genie 4.** Monde simulé interactif, avec son, musique et dialogues générés à la volée ; caméra, météo et personnages changés par la parole. Aucun chiffre publié ; testeurs choisis. **Annoncé.** [F8, lue, 27 octobre 2026]
 5. **World Labs — Marble 1.1.** Monde 3D persistant, à partir d’un texte, d’une image ou d’une vidéo : de 1,20 à 2,48 $ par monde ; maillage GLB à 2,80 $. **Disponible.** [F9, lue, page non datée]
@@ -72,12 +72,12 @@ L’idée — ce qu’il verrait — ce qu’il faut — quand. Nous concevons ;
 10. **La machine de la maison** — une station d’IA de bureau pour les archives confidentielles de la galerie — sécurité tenue, décision après le cadrage — 2027.
 11. **Le concierge de vos neuf suites, en plusieurs langues** — un assistant vocal qui dit qu’il est une IA et passe la main — logiciel du marché, règles écrites — 2027.
 12. **Le petit robot hôte** — un robot de bureau expressif présente une œuvre au vernissage, une personne à côté — 90 jours de délai, programme écrit — 2027.
-13. **La résidence « artistes et machines »** — un artiste invité crée avec un bras robotisé, la vidéo générée et un monde simulé ; on expose l’œuvre et sa fabrication — artiste, intégrateur, assurance — 2027-2028.
+13. **La résidence « artistes et machines »** — un artiste invité crée avec un bras robotisé et un monde simulé ; on expose l’œuvre et sa fabrication — artiste, intégrateur, assurance — 2027-2028.
 14. **L’humanoïde d’un soir** — loué avec son pilote pour l’ouverture du cabaret — prestataire assuré, distance avec le public — à l’ouverture.
 15. **Le catalogue vivant de la galerie** — chaque œuvre vendue : dossier, double 3D, court film — inventaire, droits de reproduction — 2028.
 16. **Le spectacle bilingue** — surtitres préparés, puis voix traduite en essai pour un public étranger — textes fixés, régie — 2028.
 17. **Les vitrines qui changent avec les saisons** — vidéos générées à partir des produits des commerces — accord des commerçants — 2027.
-18. **L’observatoire « State Of The Art »** — chaque trimestre, ce qui devient possible, essayé sur ses lieux — veille datée, une rencontre publique dans la Nièvre — dès 2027.
+18. **L’observatoire « State Of The Art »** — chaque trimestre, ce qui devient possible, essayé sur ses lieux — veille datée, rencontre publique dans la Nièvre — dès 2027.
 19. **La salle d’essai** — une pièce où les visiteurs essaient lunettes, traduction et mondes 3D — matériel loué, médiateur — 2028.
 20. **L’équipe d’agents de 2030** — son administratrice confie dossiers, réservations et billetterie à des agents qu’elle dirige à la voix — supposé — 2030.
 
@@ -91,10 +91,10 @@ Sources lues le 11 novembre 2026. Ni prix, ni superlatif.
 4. « Depuis mai 2026, un outil de Google fait et retouche de courtes vidéos par la conversation, à partir de textes, d’images ou de sons. Chaque vidéo porte un filigrane invisible. » The Next Web, 20 mai 2026 [F7].
 5. « Le 27 octobre 2026, Google DeepMind a présenté un modèle qui crée des mondes explorables, avec leurs sons et des personnages qui parlent, pilotés par la voix. Il est réservé à des testeurs. » Google, 27 octobre 2026 [F8].
 6. « Des lunettes avec un petit écran dans le verre sont vendues en France depuis le 13 octobre 2026. Fin septembre, leurs sous-titres en direct ne fonctionnaient qu’en anglais. » Selectra, 26 septembre 2026 [F12].
-7. « Au début de novembre 2026, aucune livraison d’un robot humanoïde domestique à un client payant n’était vérifiée de façon indépendante. Les premiers modèles peuvent être aidés par des opérateurs à distance. » Humanoids for Home, 1er novembre 2026 [F14].
-8. « Selon METR, l’IA accélère déjà d’environ deux fois la recherche en IA d’un grand laboratoire, avec une forte incertitude ; ce laboratoire emploie toujours ses chercheurs. » METR, 5 novembre 2026 [F5].
+7. « À la mi-octobre 2026, aucune livraison d’un robot humanoïde domestique à un client payant n’était vérifiée de façon indépendante. Les premiers modèles peuvent être aidés par des opérateurs à distance. » Humanoids for Home, 1er novembre 2026 [F14].
+8. « Selon METR, dans un grand laboratoire, l’IA rendrait déjà les progrès de la recherche en IA environ deux fois plus rapides, avec une forte incertitude ; ses chercheurs y travaillent toujours. » METR, 5 novembre 2026 [F5].
 9. « Selon Epoch AI, d’ici 2030 l’IA pourrait écrire seule du logiciel bien défini ; le gain attendu est de 10 à 20 % par tâche, et le déploiement suivra avec retard. » Epoch AI, 16 septembre 2025 [F18].
-10. « En août 2026, des prévisionnistes indépendants situaient l’arrivée d’une IA capable de programmer seule entre fin 2027 et 2030, avec une très grande incertitude. » AI Futures Project, 16 août 2026 [F17].
+10. « En août 2026, deux prévisionnistes indépendants situaient l’arrivée d’une IA capable de programmer seule, en date médiane, entre fin 2027 et début 2030, avec une très grande incertitude. » AI Futures Project, 16 août 2026 [F17].
 
 ## 6. Règles et limites
 

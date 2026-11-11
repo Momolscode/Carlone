@@ -2,9 +2,9 @@
 
 Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 · relu et corrigé le 11 novembre 2026 (audit final) · Ce document n’est pas un avis juridique.
 
-Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions-d-acceptation.md` (dix-huit objections, conditions d’un oui), note `audit/2026-11-10-preparation-des-livrables/travaux/k5-rendez-vous-de-decision.md`, feuille de décisions du 10 novembre. Mise à jour du 10 novembre au soir pour le rendez-vous du **vendredi 13 novembre 2026** : neuf suites et espace bien-être (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md`), diapositives `idees`, `hotel` et `ensuite`, objections 11 à 13. Relecture du 11 novembre 2026 (audit final) : les preuves suivent la version 12 d’aujourd’hui (`idees` et `ensuite` sont en annexe ; `pourquoi-nous`, `ambition` et `offres` sont dans le fil) et les douze fiches ; aucune pièce du 9 novembre n’est citée comme preuve. Toutes les objections sont des hypothèses : aucune parole directe de GianLuca Carlone n’est dans le dépôt.
+Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions-d-acceptation.md` (dix-huit objections, conditions d’un oui), note `audit/2026-11-10-preparation-des-livrables/travaux/k5-rendez-vous-de-decision.md`, feuille de décisions du 10 novembre. Mise à jour du 10 novembre au soir pour le rendez-vous du **vendredi 13 novembre 2026** : neuf suites et espace bien-être (`interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md`), diapositives `idees`, `hotel` et `ensuite`, objections 11 à 13. Relecture du 11 novembre 2026 (audit final) : les preuves suivent la version 12 d’aujourd’hui (`idees` et `ensuite` sont en annexe ; `pourquoi-nous`, `ambition` et `offres` sont dans le fil) et les douze fiches ; aucune pièce du 9 novembre n’est citée comme preuve. Application des constats de l’audit final (11 novembre 2026) : règle de prix de l’audit du 4 novembre (jamais de baisse contre une promesse) ; preuves ; quatre objections de l’audit du 9 novembre restées sans réponse, ajoutées sous les n° 14 à 17 (les autres sont traitées dans `interne/rendez-vous/2026-11-11-sujets-hors-presentation-que-repondre.md`). Toutes les objections sont des hypothèses : aucune parole directe de GianLuca Carlone n’est dans le dépôt.
 
-**Règles de réponse.** Écouter jusqu’au bout. Reformuler en une phrase. Répondre en deux phrases. Montrer une preuve si elle existe. Poser une question. Ne jamais promettre un résultat, ne jamais critiquer l’autre proposition, ne jamais céder sur le prix sans contrepartie (on échange, on ne cède pas ; réponse écrite sous deux jours, jamais en séance).
+**Règles de réponse.** Écouter jusqu’au bout. Reformuler en une phrase. Répondre en deux phrases. Montrer une preuve si elle existe. Poser une question. Ne jamais promettre un résultat, ne jamais critiquer l’autre proposition, ne jamais baisser le prix : la seule contrepartie admise est un périmètre réduit (version réduite, décidée à deux) ; jamais contre une promesse de volume, de durée, de bureaux, d’emploi, de participation ou d’exclusivité ; réponse écrite dans le délai décidé jeudi (V10), envoyée une fois la liste avant tout envoi cochée, jamais en séance.
 
 ## 1. Le prix
 
@@ -14,13 +14,13 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 **Preuve** : la page d’offre (`pour-carlone/offre-cadrage/2026-11-10-offre-en-une-page.md`), rubrique « Comment vous arrêter ».
 **Ne pas dire** : « c’est moins cher que l’autre proposition » ; un prix journalier ; une remise.
 **Question suivante** : « Qu’est-ce qui vous ferait dire que ces trois à quatre semaines ont valu leur prix ? »
-**S’il insiste** : la version réduite existe (moins de livrables pour un prix plus bas), décidée à deux, proposée par écrit sous deux jours, jamais en séance (feuille de décisions, n° 13). Un écrit au client est un envoi : il ne part qu’une fois la liste avant tout envoi cochée, donc pas avant le jeudi 19 novembre ; ne pas annoncer « sous deux jours » tant que ce n’est pas tranché (comme V10).
+**S’il insiste** : la version réduite existe (moins de livrables pour un prix plus bas), décidée à deux, proposée par écrit dans le délai décidé jeudi (V10), jamais en séance (feuille de décisions, n° 13). Un écrit au client est un envoi : il ne part qu’une fois la liste avant tout envoi cochée, donc pas avant le jeudi 19 novembre ; ne pas annoncer « sous deux jours » tant que ce n’est pas tranché (comme V10).
 
 ## 2. La légitimité : « Pourquoi vous, qui débutez ? »
 
 **Il craint** : servir de terrain d’essai ; que la société disparaisse.
 **Réponse** : « Nous sommes deux, notre société est en cours de création et sera immatriculée avant toute facture et tout démarrage : nous ne vous le cachons pas. C’est pourquoi nous commençons petit, à prix fixe, avec une porte de sortie à chaque étape, et tout ce que nous faisons reste à votre nom. »
-**Preuve** : la diapositive `pourquoi-nous` (six raisons) ; la méthode écrite, c’est-à-dire la fiche 10 (« Travailler avec nous » : méthode, mesure, arrêt), à l’écran s’il la demande (V12) ; le travail déjà préparé pour vous (dossiers remis, si la liste de ce qu’il a vu est établie : feuille de décisions, partie 4). Ne pas montrer la pièce « méthode et garanties » du 9 novembre : elle promet une attestation d’assurance (`pour-carlone/logiciels-et-automatisations/2026-11-09-logiciels-sur-mesure-methode-et-garanties.md`, ligne 110).
+**Preuve** : la diapositive `pourquoi-nous` (six raisons) ; la méthode écrite, c’est-à-dire la fiche 10 (« Travailler avec nous » : méthode, mesure, arrêt), à l’écran s’il la demande (V12) ; la maquette (données fictives) et la page d’offre. Ne jamais citer comme preuve le fichier de contacts ni les dossiers de création déjà remis. Ne pas montrer la pièce « méthode et garanties » du 9 novembre : elle promet une attestation d’assurance (`pour-carlone/logiciels-et-automatisations/2026-11-09-logiciels-sur-mesure-methode-et-garanties.md`, ligne 110).
 **Ne pas dire** : « nos clients », une référence inventée, « nous sommes assurés » avant l’attestation, « relu par notre avocat » avant la relecture.
 **Phrase possible** : « Nous n’avons pas encore de client à vous citer. Vous jugez sur pièces, étape par étape. » (à confirmer par Morgan et Mathys).
 
@@ -31,8 +31,8 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 **Le logiciel des suites** (tarifs publics, toujours citables avec leur source et leur date ; BRIEF-2, § 10.5) : « Les éditeurs publient leurs prix. Pour une dizaine de chambres, d’après leurs pages lues le 10 novembre 2026 : à partir de 40 € hors taxes par mois chez eviivo, 79 € par mois chez Sirvoy (formule Pro), jusqu’à 190 € par mois environ chez Thaïs avec moteur et canaux. Ce ne sont pas des devis ; s’y ajoutent selon les cas les frais de paiement, les commissions des sites, la caisse et la facture électronique. » Source : page client sur les suites ; note hôtelière, § 2.
 
 **Notre aide, selon la décision C de la feuille de décisions** (DL1) :
-- **DL1 maintenue (recommandé)** : « Nous vous remettons un prix par étape après le cadrage, sur vos volumes réels. Aujourd’hui nous vous montrons la méthode et les garanties. »
-- **DL1 levée** : « Jusqu’au bilan du pilote, comptez 15 700 à 18 700 € HT, commandés et payés étape par étape. » Puis : « Le cadrage vient avant et s’y ajoute. » Pour le seul choix du logiciel des suites : le prix unique de la décision V8, jamais les deux lignes du 9 novembre.
+- **DL1 maintenue (recommandé)** : « Nous vous remettons un prix par étape après le cadrage, sur vos volumes réels. Aujourd’hui nous vous montrons la méthode et ce qui vous protège : prix fixe, arrêt possible, comptes et données au nom de votre société. »
+- **DL1 levée** : « Jusqu’au bilan de l’essai, comptez 15 700 à 18 700 € HT, commandés et payés étape par étape. » Puis : « Le cadrage vient avant et s’y ajoute. » Pour le seul choix du logiciel des suites : le prix unique de la décision V8, jamais les deux lignes du 9 novembre.
 **Ne pas dire** : un total additionné ; un chiffre improvisé ; la maintenance mensuelle ; le coût sur trois ans des logiciels (estimation interne) ; une comparaison avec le prix de l’autre proposition.
 **Question suivante** : « Le logiciel de gestion de vos propriétés fait-il partie de vos trois priorités ? Quand voulez-vous accueillir les premiers clients dans vos suites ? »
 
@@ -64,7 +64,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 
 ## 8. « Et mes données ? »
 
-**Réponse** : « Vos documents restent sur des comptes de votre société, avec des accès nominatifs. Nous signons un accord sur leur traitement avant de recevoir des documents qui contiennent des données personnelles, et nous n’utilisons que des offres professionnelles sans entraînement sur vos données. »
+**Réponse** : « Vos documents restent sur des comptes de votre société, avec des accès nominatifs. Nous signons l’accord sur les données avant de recevoir des documents qui contiennent des données personnelles, et nous n’utilisons que des offres professionnelles sans entraînement sur vos données. »
 **Preuve** : la fiche 8 (« Vos données et la sécurité »), à l’écran s’il la demande (V12).
 **Attention** : tant que l’information écrite sur le fichier de contacts n’a pas été validée par un conseil et remise (D08), ne pas aborder le fichier de contacts de sa propre initiative.
 
@@ -93,7 +93,7 @@ C’est sa demande d’origine : « gestion de propriété » veut dire logiciel
 
 **Il craint** : faire le mauvais choix ; être pris entre deux prestataires.
 **Réponse** : « C’est peut-être un bon choix : cela dépend de ce qu’elle couvre, et nous ne l’avons pas lue. Nous ne la commentons pas. Nous pouvons vous aider à comparer sur les mêmes questions, la nôtre comprise : ce qui est couvert, pour combien de temps et comment on en sort, à qui sont les données, qui décide. » Puis : « Ce que nous proposons, nous : un logiciel du marché au nom de votre société, choisi avec vous et relié au reste ; un premier pas à prix fixe ; un arrêt possible à chaque étape. »
-**Puis** les questions restantes, une par une : durée d’engagement et sortie ; hors taxes ou non ; document écrit qu’il peut montrer.
+**Puis** les questions restantes, une par une : durée d’engagement et sortie ; document écrit qu’il peut montrer ; s’il donne lui-même un prix, noter s’il est hors taxes, sans le répéter.
 **S’il attend qu’on lui amène des clients** : « Une marque qui apporte des clients, ce n’est pas notre métier. Le logiciel choisi peut publier vos suites sur les sites de réservation ; le reste dépend de votre offre. »
 **S’il la préfère** : respecter son choix ; remercier ; redire les quatre questions de la diapositive `grille`. Aucune page « grille de questions » n’existe à ce jour dans `pour-carlone/` ; rien ne se laisse tant qu’une case de V1 à V5 reste vide.
 **Ne pas dire** : le nom ou le prix de l’autre prestataire, même s’il les dit ; « trop cher », « ils vous enferment », « une enseigne ne vous conviendra pas » ; « moins cher », « mieux » ; une comparaison chiffrée sur trois ans.
@@ -105,3 +105,35 @@ Diapositives `ambition` et `offres`, dans le fil ; `idees` et `ensuite`, en anne
 **S’il relève les dates (2027, 2028, 2030)** : « C’est une vision, pas une promesse : chaque marche se mesure avant la suivante, et vous décidez à chacune. » (texte de la diapositive `ambition`).
 **Si ses collaborateurs sont évoqués** : « Chacun peut nous consulter directement, avec son propre contrat. Vous n’êtes engagé à rien pour eux. » Aucune commission (décision V9).
 **Ne pas dire** : « nous ferons tout » ; un prix pour ces suites possibles ; une date pour ce qui est marqué « plus tard ».
+
+## 14. « Mon administratrice va le faire. »
+
+Ajouté le 11 novembre 2026 (audit du 9 novembre, objection n° 4).
+**Il craint** : payer un tiers alors qu’il vient d’engager quelqu’un ; la froisser ou la doubler.
+**Réponse** : « Elle connaît le quotidien, et le cadrage peut conclure qu’elle suffit. Nous apportons une méthode et le choix des outils, pas son travail. »
+**Preuve** : la page d’offre (« Le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune ») ; la diapositive `administratrice`.
+**Ne pas dire** : « l’IA la remplacera », « elle n’aura pas le temps », « elle n’a pas la compétence » ; aucun jugement sur elle, aucune idée de suivre son activité.
+
+## 15. « Je n’ai pas le temps. »
+
+Ajouté le 11 novembre 2026 (audit du 9 novembre, objection n° 12).
+**Il craint** : que le projet lui retombe dessus, ou qu’il noie son administratrice.
+**Réponse** : « Deux rendez-vous avec vous : un premier entretien de deux à trois heures chez vous, puis une restitution d’une heure trente ; entre les deux, trois validations écrites (l’inventaire, les tâches à essayer, la réception). Le reste se fait avec votre administratrice, environ une à deux journées sur trois à quatre semaines, sur ses heures de travail. »
+**Preuve** : la page d’offre, rubriques « En combien de temps » et « Ce dont nous avons besoin ».
+**Ne pas dire** : « on s’occupe de tout », « cela ne vous prendra rien » ; minimiser le temps demandé à son administratrice.
+
+## 16. « Je veux mon logiciel maintenant. »
+
+Ajouté le 11 novembre 2026 (audit du 9 novembre, objection n° 13).
+**Il craint** : un détour par le cadrage, alors qu’une autre offre livrerait tout de suite.
+**Réponse** : « Sur le délai, nous sommes plus lents : rien ne tourne sur vos vraies données avant un essai. Si vous êtes pressé, votre société peut commencer avec un logiciel du marché, et nous pourrons le relier ensuite. »
+**Preuve** : la page d’offre (« comparer les logiciels et les mettre en service se commande ensuite, à part ») ; la page client sur les suites, à l’écran.
+**Ne pas dire** : « on peut commencer lundi », « nous irons aussi vite » ; une date de démarrage avant l’immatriculation et la signature ; une critique de l’autre proposition.
+
+## 17. « Et si vous arrêtez ? Qui est propriétaire ? »
+
+Ajouté le 11 novembre 2026 (audit du 9 novembre, objections n° 8 et 9).
+**Il craint** : dépendre de deux personnes ; être captif ; financer un produit que nous vendrions à d’autres.
+**Réponse** : « Si nous ne pouvons pas finir, vous recevez le travail fait et nous remboursons la part non faite ; vos comptes, vos données et vos accès sont au nom de votre société dès le premier jour. Le dossier et ce que nous faisons pour votre société lui sont cédés une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte) ; nos méthodes et nos outils génériques restent à nous, et votre société en garde l’usage, sans limite de durée. »
+**Preuve** : la diapositive `garanties` ; la page d’offre, rubriques « Comment vous arrêter » et « Ce qui reste à vous ».
+**Ne pas dire** : « cela n’arrivera pas » ; « un partenaire reprendra » ; « tout est à vous », sans la réserve sur nos outils génériques.
