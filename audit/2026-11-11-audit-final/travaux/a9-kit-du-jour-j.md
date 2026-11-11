@@ -17,7 +17,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
 | Fichier (dossier `interne/rendez-vous/`) | À quoi il sert | Pages (`md2pdf --compact`) | Mots | `lint-doc --interne` |
 | --- | --- | --- | --- | --- |
-| `2026-11-11-jour-j-liste-de-controle.md` | La veille ; le matériel ; le minutage ; les cinq choses à ne jamais dire ; juste après | 1 (limite 1) | 683 | 0 erreur, 0 alerte |
+| `2026-11-11-jour-j-liste-de-controle.md` | La veille ; le matériel ; le minutage ; les cinq choses à ne jamais dire ; juste après | 1 (limite 1) | 680 | 0 erreur, 0 alerte |
 | `2026-11-11-feuille-de-notes-et-questions.md` | 32 questions en dix thèmes, puis trois cadres, à remplir à la main | 2 (limite 2) | 760 | 0 erreur, 0 alerte |
 | `2026-11-11-apres-le-rendez-vous-messages-types.md` | Calendrier ; relances ; trois projets de message ; trame du compte rendu interne | 3 (limite 3) | 1 644 | 0 erreur, 0 alerte |
 
@@ -29,7 +29,7 @@ Chaque document porte sous son titre « Document interne — ne pas transmettre 
 
 **Les projets de message.** Vouvoiement, champs entre crochets, signature « Morgan Olsen et Mathys Couet ». Lignes de texte, formule d’appel et signature comprises : 8 après un oui, 7 après « je réfléchis », 6 après un non. La mention « PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet » est la première ligne de chaque cadre : placée au-dessus, elle restait seule en bas de page, séparée de son message.
 
-**Typographie.** Les trois documents et ce rapport portent des espaces insécables avant ; : ? ! », après « et avant € (brief, § 5). Les pièces du 10 novembre ont des espaces ordinaires : pour chercher un texte dans tout le dossier, utiliser un motif qui accepte les deux (par exemple `6.500`). Pour retoucher un de ces quatre fichiers avec l’outil Edit, copier le texte depuis le fichier lui-même.
+**Typographie.** Les trois documents portent des espaces insécables avant ; : ? ! », après « et avant € (brief, § 5), comme les autres documents écrits le 11 novembre (référentiel, sujets hors présentation, pièces jointes du bon de commande). Les pièces du 10 novembre ont des espaces ordinaires : pour chercher un texte dans tout le dossier, utiliser un motif qui accepte les deux (par exemple `6.500`) ; pour retoucher un de ces trois fichiers avec l’outil Edit, copier le texte depuis le fichier lui-même. Ce rapport garde des espaces ordinaires : ses citations sont ainsi identiques, caractère pour caractère, aux textes des sources.
 
 ## 2. D’où vient chaque question de la feuille
 
@@ -186,11 +186,17 @@ Aucun de ces fichiers n’a été modifié par ce lot. État relu le 11 novembre
 | `node lint-doc.js --interne` sur les trois documents | 0 erreur, 0 alerte sur chacun |
 | `node md2pdf.js … --compact` | Liste de contrôle : PAGES=1. Feuille de notes : PAGES=2. Calendrier et messages : PAGES=3 |
 | Échelle du PDF (hauteur des mots lue par `pdftotext -bbox`) | 12,24 points pour le corps et 11,38 pour les tableaux, sur chaque page des trois documents : échelle 1, aucun rétrécissement |
-| Marge restante avant de changer de page | Liste de contrôle : 7 mm (une ligne de plus tient, deux ne tiennent pas). Feuille de notes : 2 mm en page 1, 8 mm en page 2. Calendrier et messages : 18 mm en page 3 |
+| Marge restante avant de changer de page | Liste de contrôle : 12 mm (deux lignes de plus tiennent, trois ne tiennent pas). Feuille de notes : 2 mm en page 1, 8 mm en page 2. Calendrier et messages : 18 mm en page 3 |
 | Coupure de la feuille de notes | Entre le thème F et le thème G ; aucun thème n’est coupé ; l’en-tête du tableau est répété en page 2 |
 | Les cinq choses à ne jamais dire | Identiques, ligne à ligne, à celles de l’antisèche (comparaison par script, 0 h 10 UTC) |
 | Les trois messages, extraits et passés au contrôle des documents clients (`node lint-doc.js`, sans option) | 0 erreur, 0 alerte |
 | Les trois messages, relus à la main contre le référentiel (brief, § 4) | Voir ci-dessous |
+
+Scripts de contrôle, dans le dossier de travail temporaire de la session (ils ne sont pas dans le dépôt) :
+
+- échelle du PDF : `/tmp/claude-0/-home-user-Carlone/5dd15790-6933-5e33-ba7c-b9089896b9b3/scratchpad/a9/mesure.py` ;
+- les cinq choses à ne jamais dire, comparées à l’antisèche : `/tmp/claude-0/-home-user-Carlone/5dd15790-6933-5e33-ba7c-b9089896b9b3/scratchpad/a9/synchro.py` ;
+- pointillés et espaces insécables : `/tmp/claude-0/-home-user-Carlone/5dd15790-6933-5e33-ba7c-b9089896b9b3/scratchpad/a9/outils.py`.
 
 **Relecture des trois messages contre le référentiel.**
 
@@ -211,7 +217,7 @@ Aucun de ces fichiers n’a été modifié par ce lot. État relu le 11 novembre
 ## 7. Limites
 
 - **Les sources ont changé pendant ce travail.** Au moins dix fichiers que je cite ont été corrigés par d’autres lots entre 23 h 40 et 0 h 05 UTC. Les numéros de ligne de ce rapport sont ceux de 0 h 10 UTC ; ils peuvent encore bouger. Si l’antisèche change de nouveau, recopier ses cinq lignes dans la liste de contrôle.
-- **Le référentiel imprimé** (`interne/rendez-vous/2026-11-11-referentiel-chiffres-dates-mots.md`, cité par le manifeste du dossier) n’existait pas encore à la fin de ce travail : la liste de contrôle le nomme sans le citer.
+- **Le référentiel imprimé** (`interne/rendez-vous/2026-11-11-referentiel-chiffres-dates-mots.md`) a été écrit par un autre lot pendant ce travail. Je l’ai lu à la fin : mes trois documents donnent les mêmes chiffres, les mêmes durées (32 min, 31 min 15, 30 min 30, 29 min 45) et les mêmes dates ; le vendredi 27 novembre, qu’il cite, a été ajouté à mon calendrier. Les mots de sa liste « à ne jamais dire » ne paraissent dans mes documents que pour être interdits (les cinq choses à ne jamais dire ; l’en-tête du thème D, « jamais “votre hôtel” »).
 - **Non vérifié** : le menu de la page de la présentation et son export en PDF (page privée, non ouverte) ; ce que GianLuca Carlone a déjà vu ; l’adresse et le téléphone professionnels « qui fonctionnent » (information du 4 novembre, R13:284).
 - **Les réponses de GianLuca Carlone sont inconnues** : la feuille prévoit de la place, elle ne prédit rien. Aucune parole directe de lui n’est dans le dépôt.
 - **Les trois messages sont des projets.** Ils n’ont été relus ni par Mathys Couet ni par un avocat. Aucun n’a été envoyé.
