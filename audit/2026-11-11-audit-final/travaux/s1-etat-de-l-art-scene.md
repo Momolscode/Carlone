@@ -13,12 +13,12 @@ Note de chercheur. Vingt recherches et douze pages lues le 11 novembre 2026 : pl
 
 ## 2. Ce qui se fait de mieux aujourd’hui
 
-1. **The Wizard of Oz at Sphere (Las Vegas).** Film de 1939 agrandi et complété par l’IA générative de Google, pour un écran 16K et 17 600 places. Ouvert le 28 août 2025. Mesuré par l’exploitant : plus de 3 millions de billets, plus de 400 millions de dollars. Sphere Entertainment, 16 juin 2026 ; blog de Google, 8 avril 2025. Lus.
+1. **The Wizard of Oz at Sphere (Las Vegas).** Film de 1939 agrandi et complété par l’IA générative de Google, pour un écran 16K et 17 600 places. Mesuré par l’exploitant : plus de 3 millions de billets, plus de 400 millions de dollars. Sphere Entertainment, 16 juin 2026 ; blog de Google, 8 avril 2025. Lus.
 2. **ABBA Voyage (Londres).** Concert d’avatars. Étude faite avec le producteur : plus de 3,5 millions de visiteurs depuis 2022, 18 % venus de l’étranger. Sound Diplomacy, 10 décembre 2025. Lu. Un autre compte rendu dit 3 millions (vu).
 3. **LiveText (Het Nationale Theater, La Haye).** Lunettes à sous-titres créés par l’IA depuis les micros des comédiens : une couleur par personnage, 223 langues annoncées, prêt sans supplément. Première en juin 2025, service annoncé pour l’automne. Communiqué d’Audinate, 29 mai 2025. Lu.
 4. **Surtitres ailleurs.** France : lunettes et téléphone de Panthea, texte préparé, suivi par un opérateur. Corée du Sud : lunettes de traduction prêtées aux spectateurs étrangers, essai de quatre mois. Vus.
 5. **Son spatialisé (Lyric Theatre, Belfast).** Système L-ISA du français L-Acoustics, 380 places, permanent en 2026. Selon l’équipe technique, des spectateurs malentendants ont dit mieux entendre les dialogues. Installation, 8 avril 2026. Lu.
-6. **Captation (National Theatre, Londres).** Étude, plus de 5 500 répondants : 89 % préfèrent la salle ; 93 % du public du théâtre filmé va aussi au théâtre ; 60 % voient plus de pièces grâce aux films. Communiqué du 11 mai 2026. Lu.
+6. **Captation (National Theatre, Londres).** Étude, plus de 5 500 répondants : 89 % préfèrent la salle ; 93 % du public du théâtre filmé va aussi au théâtre. Communiqué du 11 mai 2026. Lu.
 7. **Royal Palace (Kirrwiller, Alsace).** Music-hall de village, dîner et revue. Plus de 200 000 spectateurs par an selon la presse régionale ; chiffre non officiel. JDS, 4 juin 2026. Lu. Le modèle le plus proche du projet de la Nièvre.
 8. **Plan Cabaret (ministère de la Culture).** Première reconnaissance publique : 5 000 emplois, 225 millions d’euros de chiffre d’affaires en 2023 ; fonds de création de 150 000 euros, résidences, information sur les aides du Centre national de la musique. Communiqué du 21 janvier 2025. Lu.
 9. **Bayreuth, le Ring « 10010110 ».** Été 2026 : décors choisis par une douzaine de modèles d’IA. Trente secondes de huées pour l’équipe, dix-sept minutes d’ovation pour le chef et les chanteurs. Dépêche AP, 4 août 2026. Vu.
@@ -68,7 +68,7 @@ Dans toutes : nous concevons, cherchons artistes et spécialistes, écrivons les
 
 ## 5. Faits citables dans un document client
 
-Dix faits, lus le 11 novembre 2026. Écrits sans le mot « million » ni montant en euros : le contrôle des documents clients les refuse.
+Dix faits, lus le 11 novembre 2026, écrits sans « million » ni montant en euros (contrôle des documents clients).
 
 1. « En 2023, selon le ministère de la Culture, le cabaret comptait en France près de 200 établissements, 5 000 emplois et 2 700 000 spectateurs. » Communiqué du 21 janvier 2025.
 2. « Dans un village d’Alsace, un music-hall accueille plus de 200 000 spectateurs par an, selon la presse régionale. » JDS, 4 juin 2026. Chiffre non officiel.
@@ -87,7 +87,7 @@ Dix faits, lus le 11 novembre 2026. Écrits sans le mot « million » ni montant
 
 **Voix et image des artistes.** Aucune loi française propre au clonage de la voix n’a été trouvée. Les syndicats en demandent une (lettre aux députés du 22 avril 2026, vu). Huit comédiens ont mis en demeure deux sociétés de retirer des clones de leur voix en janvier 2026 (vu). Notre règle : accord écrit et payé de l’artiste pour toute captation, tout clone, toute réutilisation. Articles de loi non relus ce jour : à faire valider par un avocat.
 
-**Signalement.** Un avatar réaliste ou une voix clonée se signalent au public, sans gêner l’œuvre. Un décor abstrait n’est pas un trucage (notre lecture). Un assistant qui répond au public dit qu’il est une IA.
+**Signalement.** Un avatar réaliste ou une voix clonée se signalent au public, sans gêner l’œuvre. Un décor abstrait n’est pas un trucage (notre lecture).
 
 **Prix.** En France, le prix dynamique n’est pas interdit (vu). La réponse ministérielle du 7 juillet 2026 renvoie à la DGCCRF pour l’information de l’acheteur (lu). Une enquête pour pratique commerciale trompeuse a été ouverte au printemps 2026 sur les billets d’une chanteuse (vu). Notre règle : aucun prix ne bouge pendant l’achat.
 
@@ -99,9 +99,7 @@ Dix faits, lus le 11 novembre 2026. Écrits sans le mot « million » ni montant
 
 - L’IA à la place de la mise en scène : Bayreuth, 2026. Le responsable a parlé d’une « expérience » (vu).
 - La promesse non tenue : Elvis Evolution ; des spectateurs ont demandé un remboursement (vu).
-- Le retard : les avatars de KISS, de 2027 à 2028.
 - Les sous-titres automatiques : délai d’environ 0,3 seconde annoncé (vu) ; un micro par artiste ; chant et noms propres à préparer à la main (notre lecture).
-- Les chiffres de Las Vegas, de Londres et de l’Alsace viennent de l’exploitant, du producteur ou de la presse locale.
 - Aucun chiffre français sur l’IA dans les salles ; la dernière enquête du secteur sur le numérique date de 2021 (vu).
 - Las Vegas : plus de 90 % du film retouché par l’IA selon un responsable de Google ; défauts d’image relevés par la presse (vu).
 
@@ -120,7 +118,7 @@ Consultées le 11 novembre 2026 ; date de la page entre parenthèses.
 - https://images.nationaltheatre.org.uk/uploads/2026/05/Filmed-Theatre-Research-Press-Release.pdf (11 mai 2026)
 - https://www.jds.fr/strasbourg/actu/sublime-la-nouvelle-revue-de-music-hall-du-royal-palace-pour-la-saison-2026-2027-1572748_A (4 juin 2026)
 - https://www.gov.uk/government/news/cma-secures-changes-from-ticketmaster-following-oasis-tickets-investigation (25 septembre 2025)
-- https://questions.assemblee-nationale.fr/q17/17-14233QE.htm (question du 14 avril 2026, réponse du 7 juillet 2026)
+- https://questions.assemblee-nationale.fr/q17/17-14233QE.htm (réponse du 7 juillet 2026)
 - https://www.jonesday.com/en/insights/2026/06/european-commission-publishes-final-code-of-practice-on-marking-and-labelling-aigenerated-content (26 juin 2026)
 - https://www.timeout.com/london/theatre/elvis-evolution-review (7 janvier 2026)
 
@@ -135,7 +133,7 @@ Consultées le 11 novembre 2026 ; date de la page entre parenthèses.
 - Prix en France : https://www.defense-92.fr/?p=87163
 - Drones : https://www.livedesignonline.com/news/inside-job-steve-maassen-vertity-studios-indoor-drones
 - Elvis Evolution, remboursements : https://www.digitalmusicnews.com/2025/07/25/immersive-elvis-evolution-experience-uk/
-- Las Vegas, critiques : https://www.engadget.com/entertainment/google-used-ai-to-reconceptualize-the-wizard-of-oz-for-the-las-vegas-sphere-194504769.html
+- Las Vegas, critiques : https://www.androidauthority.com/google-wizard-of-oz-sphere-3542846
 - Enquête de 2021 sur le numérique : https://www.artcena.fr/fil-vie-pro/etat-des-lieux-du-numerique-2021-une-nouvelle-enquete-du-tmn-lab
 
 **Travaux internes lus** : le brief, la note k10, la fiche 03, la note s1 sur la création.

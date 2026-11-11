@@ -5,9 +5,9 @@ Note de chercheur pour le catalogue « State Of The Art ». Seize recherches, vi
 
 ## 1. En bref
 
-- **L’IA d’accueil est sortie du laboratoire.** Elle répond à l’écrit et à la voix, jour et nuit, en 22 langues dans un cas mesuré. Elle règle seule 30 à 50 % des appels [S3, S4, S5]. Le reste passe à l’équipe.
+- **L’IA d’accueil est sortie du laboratoire.** Écrit et voix, jour et nuit, 22 langues dans un cas mesuré. Elle règle seule 30 à 50 % des appels [S3, S4, S5] ; le reste passe à l’équipe.
 - **Les clients veulent une personne au centre.** 89 % veulent un mélange d’IA et d’humain, ou une IA limitée aux tâches répétitives [S2]. Le luxe met l’IA derrière le comptoir.
-- **La vente directe se rejoue dans les assistants.** Google réserve déjà, aux États-Unis, pour dix enseignes et agences. L’accès des maisons indépendantes est annoncé, pas prouvé [S6, S7].
+- **La vente directe se rejoue dans les assistants.** Google réserve déjà, aux États-Unis, pour dix enseignes et agences (vue [S7]). L’accès des maisons indépendantes est annoncé, pas prouvé [S6].
 - **« Art, spectacle, soin, nuit » existe par morceaux.** Un cabaret de village a ouvert hôtel et spa le 28 août 2026 [S12]. Des galeristes tiennent un hôtel de collection [S13]. Aucun lieu trouvé ne réunit les quatre autour d’une galerie marchande.
 - **Neuf suites : peu de volume, donc peu d’automates.** L’écrit d’abord, une seule base de réponses, des suites câblées pendant les travaux, une personne qui décide.
 
@@ -36,7 +36,7 @@ Mesuré, sauf mention contraire.
 ## 3. Ce qui arrive en 2027, 2028, 2030
 
 - **1er janvier 2027** — l’exploitant commande lui-même les analyses de l’eau du jacuzzi à un laboratoire accrédité. **Texte publié** (voir k14).
-- **2027** — portefeuille européen d’identité numérique, attendu des États fin 2026. La Commission décrit l’arrivée dans « un hôtel en France » par code QR [S23, lue, 11 février 2026]. Essai de Benidorm : dix secondes au lieu de dix minutes, selon la presse (vue [S24]). Limite : l’identité de base ne porte pas de photo. **Annoncé.**
+- **2027** — portefeuille européen d’identité numérique, attendu fin 2026. La Commission décrit l’arrivée dans « un hôtel en France » par code QR [S23, lue, 11 février 2026]. Essai de Benidorm : dix secondes au lieu de dix minutes (vue [S24]). Limite : pas de photo dans l’identité de base. **Annoncé.**
 - **2027** — réservation dans les assistants pour les indépendants : connecteurs déclarés par des éditeurs de moteurs de réservation (vue [S7]). **Annoncé** ; aucun volume publié. Première audience de l’action de 18 135 hôtels contre Booking Holdings (vue [S9]).
 - **2 décembre 2027 et 2 août 2028** — règles européennes des systèmes d’IA « à haut risque », reportées à ces dates [S20, lue]. **Texte publié.**
 - **2028** — robots de service : onze robots de livraison annoncés en octobre 2026 dans un complexe de 772 chambres à Singapour ; le ménage par robot humanoïde reste un projet de recherche (vues [S25]). **Annoncé.**
@@ -45,7 +45,7 @@ Mesuré, sauf mention contraire.
 
 ## 4. Vingt idées pour GianLuca Carlone
 
-Chaque ligne : l’idée ; ce qu’il verrait ; ce qu’il faut ; quand. Partout : un outil du marché quand il existe, une personne qui valide.
+Partout : un outil du marché quand il existe, une personne qui valide, un prix écrit avant toute commande.
 
 1. **La maison répond, jour et nuit** — assistant écrit, en plusieurs langues, qui dit qu’il est une IA et passe la main. Verrait : les questions de la nuit traitées au matin. Faut : logiciel des suites, réponses relues. 2027.
 2. **Le téléphone toujours décroché** — une voix IA prend l’appel quand personne ne peut. Verrait : chaque appel manqué devenu une fiche de rappel. Faut : la même base de réponses. 2027, après l’écrit.
@@ -86,7 +86,7 @@ Sources lues le 11 novembre 2026. À ne jamais citer : [S1] (nom de l’autre pr
 ## 6. Règles et limites
 
 - **IA qui parle au public.** Mention « IA » due depuis le 2 août 2026 ; contenus générés à marquer ; amende jusqu’à 15 millions d’euros ou 3 % du chiffre d’affaires [S20]. Une réponse fausse engage l’exploitant (affaire Air Canada, 2024, vue [S28]).
-- **Données.** Préférences déclarées, avec consentement. Sommeil et rythme cardiaque sont des données de santé : rien par défaut. 61 % des voyageurs acceptent l’usage de leurs préférences déclarées, 43 % celui de leur navigation (vue [S2]). Voix dans la chambre : 76 % d’inquiétudes pour la vie privée, étude de 145 personnes [S19].
+- **Données.** Préférences déclarées, avec consentement. Sommeil et rythme cardiaque : données de santé, rien par défaut. 61 % des voyageurs acceptent l’usage de leurs préférences déclarées, 43 % celui de leur navigation (vue [S2]). Voix dans la chambre : 76 % d’inquiétudes pour la vie privée, sur 145 personnes [S19].
 - **Séjours combinés.** Nuit, spectacle et soin annoncés ensemble : forfait probable (code du tourisme, article L211-2, vu ; L211-1, lu). Immatriculation, assurance, garantie financière [S21]. À faire valider.
 - **Prix.** Un prix personnalisé par algorithme se déclare au client (directive 2019/2161, vue [S28]). Booking.com ne peut plus interdire un prix direct différent (vue [S9]). Une personne fixe le minimum et le maximum.
 - **Bien-être.** Jacuzzi et sauna : voir k14. Aucune promesse de santé. Robot près du public : norme ISO 10218-2:2025, règlement machines au 20 janvier 2027 (rappel du brief, non relu).
@@ -103,7 +103,7 @@ Toutes consultées le 11 novembre 2026.
 - [S4] DialogShift, 2 octobre 2026, lue — https://www.dialogshift.com/en/blog-posts/a-missed-call-is-missed-revenue
 - [S5] Hotel Management, 6 novembre 2026, lue — https://www.hotelmanagement.net/hospitality-show/hm-location-hotel-ai-delivers-unexpected-results
 - [S6] Google, FAQ « UCP for Lodging », non datée, lue — https://developers.google.com/hotels/ucp/faq
-- [S7] Vues : Lumina Frontier, 3 octobre 2026 — https://www.luminafrontier.ai/blog/hotel-mcp-direct-booking/ ; Conduit, non datée — https://www.conduit.ai/blog/direct-bookings-from-chatgpt-ai-agents
+- [S7] Vues : Lumina Frontier, 3 octobre 2026 — https://www.luminafrontier.ai/blog/hotel-mcp-direct-booking/ ; Conduit, non datée — https://www.conduit.ai/blog/direct-bookings-from-chatgpt-ai-agents ; hotelmatrix, non datée — https://www.hotelmatrix.io/insights/once-ai-discovers-your-hotel-can-it-book-it
 - [S8] HOTREC, 15 septembre 2026, lue — https://www.hotrec.eu/media/static/files/import/all_news_2026_2026_35/press-release_european-hotel-distribution-study-2026_hotrec.pdf
 - [S9] Vues : HOTREC, 30 octobre 2026 — https://www.hotrec.eu/en/news_over-18-000-european-hotels-to-pursue-landmark-collective-action-against-booking-holdings.html ; Hotelpost, 8 octobre 2026 — https://hotelpost.org/post/hotrec-booking-com-dma-changes-review
 - [S10] Revolution Agency, 29 septembre 2026, lue — https://revolutionagency.ai/fr/etudes/chat-sites-hotels
