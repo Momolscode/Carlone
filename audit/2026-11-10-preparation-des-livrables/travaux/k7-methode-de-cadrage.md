@@ -268,3 +268,44 @@ Date de consultation de chaque page : 10 novembre 2026. Ordre : organisme, titre
 - `audit/2026-11-04-audit-strategique/interne/07-processus-ia-et-essais.md`, lignes 435-544
 - `audit/2026-11-04-audit-strategique/annexes/travaux/syn-capacite-ia.md`, lignes 796-814 (indicateurs ; facteur de 1,5 à 2 sur douze mois, donné comme hypothèse)
 - `audit/2026-11-10-preparation-des-livrables/travaux/i5-kit-du-cadrage.md`
+
+## Vérification du 11 novembre 2026
+
+Document interne — ne pas transmettre à GianLuca Carlone. Seconde lecture faite le 11 novembre 2026 pour l’audit final (rapport `audit/2026-11-11-audit-final/travaux/a10-verification-k7-k14.md`). Elle ne porte que sur ce que cette note fournit à un document client : les chiffres du Baromètre France Num 2026 sur l’usage de l’IA par les TPE et PME (En bref, ligne 16 ; partie 8, ligne 166), repris dans la fiche 12 (`pour-carlone/fiches/2026-11-10-fiche-12-les-enjeux-de-l-ia-pour-vous.md`, ligne 10). Une recherche dans `pour-carlone/` (TPE, PME, %, enquête, baromètre, Bpifrance, CCI, Hub France IA, France Num, Crédoc, CNIL, Cigref, omnibus) n’a trouvé aucune autre reprise de cette note. **Le reste de la note n’a pas été recontrôlé** : pour ces parties, la ligne 220 reste vraie.
+
+Outil de lecture : il a rendu en entier, sans la résumer, la page de France Num sur le baromètre 2026 ; la page et le rapport de 2025 n’ont été vus qu’en extraits d’une recherche. Une citation exacte reste à relire sur la page avant tout usage.
+
+### Tableau des contrôles
+
+| N° | Affirmation de la note (lignes) | Reprise dans la fiche 12, ligne 10 | Source lue | Verdict |
+| --- | --- | --- | --- | --- |
+| 1 | En 2026, 40 % des TPE et PME déclarent utiliser au moins une solution d’IA (l. 16 et 166) | « 40 % des TPE et PME déclarent utiliser au moins un outil d’IA » | France Num, « Baromètre France Num 2026 : le numérique et l’intelligence artificielle dans les TPE et PME », publié le 17 septembre 2026, mis à jour le 12 octobre 2026, partie 3 | **Confirmé.** Texte de la page : « En 2026, 40 % des TPE PME déclarent utiliser au moins une solution d’intelligence artificielle, en progression de 14 points par rapport à l’an dernier et une multiplication par 3 en deux ans (elles étaient 13 % en 2024). » |
+| 2 | 26 % en 2025, 13 % en 2024 (l. 166) | « contre 26 % en 2025 » | Même page (40 moins 14 points) ; France Num, « Baromètre France Num 2025 », 15 septembre 2025, et son rapport (extraits) | **Confirmé.** Page de 2025 : le recours à l’IA « a doublé en un an, et atteint 26 % » ; rapport de 2025 : 26 %, contre « 13% en 2024 ». |
+| 3 | Source et date : France Num, 17 septembre 2026 ; enquête du Crédoc (l. 166) | « baromètre France Num 2026 (Direction générale des entreprises et Crédoc, septembre 2026) » | Même page, chapeau et « Méthodologie de l’enquête » | **Confirmé.** Le baromètre est « réalisé par le […] (Crédoc) pour la Direction générale des Entreprises / France Num » ; l’édition est « Publiée en septembre 2026 par la Direction générale des Entreprises ». La méthodologie nomme aussi le Centre Relations Clients. |
+| 4 | Champ et méthode : 9 655 entreprises, du 23 mars au 18 avril 2026 ; déclaratif ; chiffres nationaux (l. 166) | « déclarent » | Même page, « Méthodologie de l’enquête » | **Confirmé et précisé** : 2 869 PME et 6 786 TPE, dont 799 sans salarié ; 8 843 réponses en ligne et 802 par téléphone ; résultats « représentatifs de la population 2024 des TPE PME françaises » par taille, secteur et région ; marge d’erreur annoncée inférieure à 1 %. |
+| 5 | Usages (34 %, 24 %, 13 %, 11 %), effet jugé positif (68 %, 84 % avec une solution payante), dépenses (17 %, 5 %, 2 %) (l. 166) | non repris | Même page, partie 3 | **Confirmé à la lecture de la page**, vu en passant (correction 2). À ne pas reprendre sans relire le rapport (correction 4). |
+
+### Corrections
+
+1. **Aucune correction de fond pour le document client.** La fiche 12 écrit « au moins un outil d’IA » ; la page écrit « au moins une solution d’intelligence artificielle » : même sens.
+2. **Ligne 166, trois précisions.** (a) L’enquête est confiée au Crédoc et au Centre Relations Clients, pour la Direction générale des entreprises. (b) La liste des dépenses pour l’IA compte une quatrième ligne : « Développements spécifiques : 3 % ». La page ajoute que 19 % des TPE et PME recourent à des solutions payantes (32 % des PME). (c) La part des PME seules passe de 34 % à 53 % en un an.
+3. **Deux limites de la source à connaître.** La page a été mise à jour le 12 octobre 2026 ; elle signale une correction du 2 octobre 2026, qui porte sur un autre chiffre (la notoriété de France Num). Les réponses en ligne et par téléphone (8 843 et 802) font 9 645, pour 9 655 répondants annoncés : écart de dix, sans effet sur les pourcentages cités.
+4. **Une réserve venue d’autres notes, non levée.** La note `k5-rendez-vous-de-decision.md` (ligne 67, sans partie « Vérification ») dit que deux versions du rapport de 2026 sont en ligne, avec 39 % ou 40 %, et 52 % ou 53 % pour la crainte d’un piratage. La note `audit/2026-11-09-audit-presentation-et-offre/travaux/r2-applications-par-metier.md` (ligne 371) dit que, sur trois usages, la page et le rapport détaillé ne donnent pas les mêmes chiffres. Ce contrôle a lu la page officielle, mise à jour le 12 octobre 2026 : elle écrit 40 % et 53 %. Elle écrit aussi 41 % (+23 points) pour le recours à l’expert-comptable, là où la note k5 lisait 40 % (+22 points) : signe que deux versions ont bien circulé. Le rapport n’a pas été ouvert (limite de vingt lectures atteinte). Conséquence : citer 40 % avec la page et sa date ; ne pas citer les chiffres d’usage sans avoir relu le rapport.
+
+### Phrases sûres pour un document client
+
+- « Selon le Baromètre France Num 2026 (enquête du Crédoc pour la Direction générale des entreprises, publiée le 17 septembre 2026), 40 % des TPE et PME déclarent utiliser au moins une solution d’intelligence artificielle, contre 26 % en 2025 et 13 % en 2024. »
+- « C’est une enquête par questionnaire auprès de 9 655 entreprises, du 23 mars au 18 avril 2026 : des réponses déclarées, à l’échelle du pays. »
+
+À ne pas écrire : « 40 % des entreprises » (le champ est celui des TPE et PME) ; « utilisent » sans « déclarent » ; un chiffre pour la Nièvre, pour les galeries ou pour l’hébergement (la page de 2026 n’en donne pas ; celle de 2025 donnait 20 % pour l’hébergement et la restauration) ; un lien de cause entre solution payante et effet positif.
+
+### Ce qui reste inconnu
+
+- Le rapport complet de 2026 n’a pas été ouvert (la page lue ne joint qu’une infographie) : libellé exact de la question, définition d’une « solution d’IA », borne de taille des PME (moins de 250 salariés, non écrit sur la page), et le chiffre qu’il porte, 39 % ou 40 % (correction 4).
+- Tout le reste de cette note, non recontrôlé : pages de la CNIL (9 juillet 2026, 8 avril 2024), de la CCI Nièvre et de France Num sur Impulse IA, de Bpifrance sur le Diag Data IA, du Cigref, du NIST, de la Commission européenne ; chiffres « 15 % », « 52 % », « 88 % », « 30 à 40 % ». Aucun n’est repris dans un document client à ce jour.
+- Le guide du Hub France IA pour les petites entreprises : toujours pas cherché.
+
+### Sources lues le 11 novembre 2026
+
+- France Num, « Baromètre France Num 2026 : le numérique et l’intelligence artificielle dans les TPE et PME », publié le 17 septembre 2026, mis à jour le 12 octobre 2026 : https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comprendre-le-numerique/barometre-france-num-2026-le
+- Vus en extraits de recherche seulement : France Num, « Baromètre France Num 2025 », 15 septembre 2025 : https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comprendre-le-numerique/barometre-france-num-2025-le ; rapport du baromètre 2025 : https://www.francenum.gouv.fr/files/2025-09/Barom%C3%A8tre%20France%20Num%202025%20-%20Rapport.pdf ; Crédoc, « Baromètre France Num » : https://www.credoc.fr/publications/barometre-france-num

@@ -1,6 +1,6 @@
 # Votre administratrice : mieux outillée, toujours aux commandes
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 5 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
@@ -26,7 +26,7 @@ Trois niveaux d’aide. **Automatique** : des tâches internes seulement, après
 | Comptes rendus et registre des décisions (assistée) | Un brouillon prêt après la réunion ; chaque décision datée, avec un responsable | Essai |
 | Factures et pièces du mois (assistée) | Factures classées et rapprochées ; montants calculés par formule ; dossier prêt pour l’expert-comptable | Essai |
 | Comparaison des devis (assistée) | Les devis côte à côte, les écarts repérés ; une personne décide | Essai |
-| Tri des courriers et messages (assistée) | Classés par urgence, avec des brouillons de réponse ; rien ne part sans elle | Essai, en dernier |
+| Tri des courriers et messages (assistée) | Classés par urgence, avec des brouillons de réponse ; rien ne part sans elle | Essai, en dernier : après l’accord sur les données |
 | Courriers et dossiers qui engagent (préparée) | Un dossier complet, prêt à relire et à signer | Ensuite |
 | Vue d’ensemble de tous vos lieux, dans le logiciel de gestion de vos propriétés | Ce qui arrive, ce qui attend une validation, ce qui est en retard | Ensuite, par étapes |
 
@@ -35,7 +35,7 @@ Le cadrage examine ces pistes avec elle et retient trois tâches au plus à essa
 ## Comment nous procéderions
 
 1. **Repérer** avec elle ses tâches répétitives. Vous choisissez la tâche, par écrit.
-2. **Mesurer le départ** : deux semaines, elle note le temps de la tâche. On mesure la tâche, jamais la personne.
+2. **Mesurer le départ** : pendant deux semaines, elle note le temps des tâches retenues (trois au plus). On mesure la tâche, jamais la personne.
 3. **Essayer sur des données fictives**, puis sur un petit périmètre réel. Une personne vérifie chaque résultat.
 4. **Décider** sur bilan écrit : garder, corriger ou arrêter. Puis mise en service sur les comptes de votre société, avec une fiche pour continuer à la main et une courte prise en main, pendant son temps de travail.
 
@@ -59,8 +59,8 @@ Le cadrage examine ces pistes avec elle et retient trois tâches au plus à essa
 
 ## À faire valider par vos professionnels
 
-- **Avocat** : l’information écrite à lui remettre avant le premier usage (si elle est salariée : code du travail, art. L1222-4 ; si la société qui l’emploie compte 50 salariés ou plus, consultation préalable du comité social et économique, art. L2312-38) ; selon son statut, l’organisation de l’usage des outils ; l’effet d’un pouvoir écrit de valider ; la durée de conservation du journal ; la forme d’une charte d’usage de l’IA.
+- **Avocat** : l’information écrite à lui remettre avant le premier usage (si elle est salariée : code du travail, art. L1222-4 ; si la société qui l’emploie compte 50 salariés ou plus, consultation préalable du comité social et économique, art. L2312-38) ; selon son statut, l’organisation de l’usage des outils ; l’effet d’un pouvoir écrit de valider ; la durée de conservation du journal ; la mesure du temps d’une tâche qu’elle est seule à faire ; la forme d’une charte d’usage de l’IA.
 - **Règlement européen sur l’IA** : l’entreprise qui utilise l’IA prend des mesures pour favoriser la maîtrise de l’IA par les personnes qui s’en servent, sans niveau précis imposé à chacun (article 4, réécrit par le règlement 2026/1744 du 8 juillet 2026). Une prise en main datée et une charte d’usage peuvent y contribuer.
 - **Expert-comptable** : les formations à l’IA qui pourraient être financées.
 
-Ce document n’est pas un avis juridique ; textes officiels consultés le 10 novembre 2026 (code du travail, CNIL, Journal officiel de l’Union européenne).
+Ce document n’est pas un avis juridique ; textes officiels consultés le 10 novembre 2026 (code du travail, CNIL, Journal officiel de l’Union européenne). Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage.

@@ -1,6 +1,6 @@
 # Votre droit de rétractation : information et formulaire
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 [Document conditionnel : il n’est joint au bon de commande que si la condition 2 (rétractation) est retenue. C’est une décision de Morgan Olsen et Mathys Couet, après avis de l’avocat. Sinon, il n’est pas remis.]
 
@@ -20,7 +20,7 @@ Projet à faire relire par un avocat avant tout usage. Les champs « ………�
 
 À l’attention de Marwin Tech, ……………… (adresse), ……………… (adresse électronique) :
 
-Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/pour la prestation de services (\*) ci-dessous : cadrage au forfait, bon de commande signé le ………………
+Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/pour la prestation de services (\*) ci-dessous : cadrage à prix fixe, bon de commande signé le ………………
 
 Commandé le (\*)/reçu le (\*) : ………………
 

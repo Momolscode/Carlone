@@ -1,10 +1,10 @@
 # Votre premier pas : un cadrage de trois à quatre semaines
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 Pour GianLuca Carlone · Marwin Tech · 10 novembre 2026 · proposition valable jusqu’au jeudi 31 décembre 2026
 
-**En bref.** Nous mettons à plat vos sociétés, vos lieux et vos projets. Vous choisissez vos trois priorités. Le prix est fixe. Vous décidez de la suite ensuite, dossier en main.
+**En bref.** Nous mettons à plat vos sociétés, vos lieux et vos projets. Vous choisissez vos trois priorités. Le prix est fixe. Vous recevez un dossier écrit, pas un outil. Vous décidez de la suite ensuite.
 
 **Ce que vous obtenez**
 
@@ -13,7 +13,7 @@ Pour GianLuca Carlone · Marwin Tech · 10 novembre 2026 · proposition valable 
 - Trois tâches au plus à essayer, chacune avec sa mesure de départ.
 - Le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune.
 
-Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous aidons à choisir un logiciel du marché et à le relier au reste ; nous construisons seulement ce qui manque. Si c’est une priorité, le cadrage fixe vos besoins et vos critères, sans mettre d’outil en service.
+Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Pour vos neuf suites et l’espace bien-être, nous vous aidons à choisir un logiciel du marché et à le relier au reste ; nous construisons seulement ce qui manque. Si c’est une priorité, le cadrage fixe vos besoins et vos critères ; comparer les logiciels et les mettre en service se commande ensuite, à part.
 
 **En combien de temps**
 
@@ -31,7 +31,7 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 
 - La société qui commande et la personne qui signe.
 - Du temps avec votre administratrice, et vos documents utiles.
-- Deux rendez-vous avec vous : le premier entretien et la restitution.
+- Deux rendez-vous avec vous et trois validations écrites (inventaire, tâches à essayer, réception).
 
 **Comment vous arrêter**
 

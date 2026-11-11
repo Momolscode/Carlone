@@ -1,6 +1,6 @@
 # Vos bâtiments et vos commerces
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 4 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
@@ -35,13 +35,13 @@ Le cadrage retient trois tâches au plus à essayer, tous projets confondus, une
 
 1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises si Marwin Tech est soumise à la TVA ; voir la fiche 10) établit l’inventaire validé de vos sociétés, bâtiments, lieux et baux.
 2. **Choisir les logiciels du marché** utiles (gestion des baux, entretien), souscrits par votre société.
-3. **Construire l’outil commun**, à votre nom, sur un outil existant : fiches, échéances, vue d’ensemble, liaisons. À notre connaissance, aucun logiciel du marché ne réunit plusieurs sociétés et des lieux de nature différente ; nous le vérifierons avant de construire.
-4. **Essayer** sur des données fictives, puis dans un essai de huit semaines au plus sur un bâtiment et un lieu, avec une mesure de départ du temps de votre administratrice.
+3. **Monter l’outil commun**, au nom de votre société, sur une base du marché : fiches, échéances, vue d’ensemble, liaisons ; d’abord en maquette, sur des données fictives. À notre connaissance, aucun logiciel du marché ne réunit plusieurs sociétés et des lieux de nature différente ; nous le vérifierons avant de construire.
+4. **Essayer** pendant huit semaines au plus une seule tâche, par exemple les échéances d’un bâtiment et d’un lieu, avec une mesure de départ du temps de votre administratrice ; puis le bilan écrit.
 5. **Étendre** un bâtiment ou un lieu à la fois. Vous pouvez arrêter après chaque étape.
 
 Nos écrans d’exemple (Maquette — données fictives) en montrent l’allure : fiche d’un bâtiment, échéances, trois devis comparés. Ce n’est pas un logiciel utilisable.
 
-Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
 
 ## Ce qui reste à vous
 
@@ -56,13 +56,13 @@ Marwin Tech est une société en cours de création, immatriculée avant toute f
 - Laisser l’IA calculer un montant : loyers et charges passent par des formules testées.
 - Fabriquer une caisse, une comptabilité ou un paiement ; juger la solvabilité d’un candidat locataire ; déposer un dossier d’autorisation.
 
-## À faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur)
+## À faire valider par vos professionnels
 
-- **Avocat, notaire.** Bail dérogatoire : trois ans au plus ; sans demande écrite du bailleur dans le mois qui suit le terme, un bail commercial prend effet le lendemain (Service Public Entreprendre, fiche F32304, vérifiée le 9 juin 2026). Commerce ou services commerciaux ou artisanaux, bail conclu ou renouvelé depuis fin mai 2026 : dépôt de garantie d’un trimestre de loyer au plus, rendu sous trois mois après la remise des clés (code de commerce, L145-40).
+- **Avocat, notaire.** Bail dérogatoire : trois ans au plus ; si le bailleur ne demande pas par écrit au locataire de partir dans le mois qui suit le terme, un bail commercial prend effet dès le lendemain du terme (fiche F32304, vérifiée le 9 juin 2026). Commerce ou services commerciaux ou artisanaux, bail conclu ou renouvelé depuis fin mai 2026 : dépôt de garantie d’un trimestre de loyer au plus, rendu sous trois mois après la remise des clés (code de commerce, L145-40).
 - **Architecte, mairie.** Déclaration préalable : un mois, deux en secteur protégé (fiche F17578, vérifiée le 22 octobre 2026). Cosne-Cours-sur-Loire a un site patrimonial remarquable : si un bâtiment s’y trouve, façade, vitrine et enseigne passent par l’architecte des Bâtiments de France. Travaux d’un lieu recevant du public : autorisation propre, même pour l’intérieur.
-- **Bureau de contrôle.** En 5e catégorie : entretien et vérification des installations tous les trois ans au plus, par des techniciens compétents ; avec des locaux à sommeil (vos neuf suites), détection incendie, désenfumage et électricité vérifiés avant l’ouverture par des personnes ou organismes agréés (arrêté du 25 juin 1980, art. PE 4). De la 1re à la 4e : commission de sécurité tous les trois ou cinq ans (art. GE 4). Registre de sécurité, exercices d’incendie compris (code de la construction, art. R143-44).
+- **Bureau de contrôle.** Petit lieu recevant du public (5e catégorie) : entretien et vérification des installations tous les trois ans au plus, par des techniciens compétents ; avec des locaux à sommeil (vos neuf suites), détection incendie, désenfumage et électricité vérifiés avant l’ouverture par des personnes ou organismes agréés (arrêté du 25 juin 1980, art. PE 4). De la 1re à la 4e : commission de sécurité tous les trois ou cinq ans (art. GE 4). Registre de sécurité, exercices d’incendie compris (code de la construction, art. R143-44).
 - **Diagnostiqueur.** Amiante ; performance énergétique (dix ans) ; état des risques (moins de six mois) ; logement classé G : plus de location depuis le 1er janvier 2025 (fiches F16096 et F12239).
 - **Expert-comptable.** Taxe foncière (15 octobre, ou 20 en ligne) ; cotisation foncière des entreprises (15 décembre) ; consommations d’énergie dès 1 000 m² tertiaires (30 septembre, F38065) ; zone France ruralités revitalisation.
 - **Assureur.** Dommages-ouvrage avant l’ouverture d’un chantier ; attestations décennales des entreprises.
 
-Ce document n’est pas un avis juridique ; sources publiques officielles consultées le 10 novembre 2026.
+Ce document n’est pas un avis juridique ; sources officielles (dont impots.gouv.fr) consultées le 10 novembre 2026.

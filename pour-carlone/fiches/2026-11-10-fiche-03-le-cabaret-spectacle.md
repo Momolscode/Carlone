@@ -1,6 +1,6 @@
 # Votre cabaret-spectacle
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 3 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
@@ -33,12 +33,12 @@ Pour le cabaret, rien ne s’essaie avant que l’exploitant et le lieu soient c
 ## Comment nous procéderions
 
 1. **Le cadrage au forfait** (6 500 € hors taxes, soit 7 800 € toutes taxes comprises si Marwin Tech est soumise à la TVA ; voir la fiche 10) rassemble ce qui est décidé et ce qui manque. Il dit si le cabaret est une priorité.
-2. **Fixer avec vous et vos professionnels** l’exploitant, le lieu, la jauge, repas ou non.
+2. **Fixer avec vous et vos professionnels** l’exploitant, le lieu, le nombre de places, repas ou non.
 3. **Tenir la liste et le calendrier** des démarches. Vos professionnels rédigent ; l’exploitant signe et dépose.
-4. **Comparer par écrit** les billetteries et les caisses du marché ; votre société souscrit. Billetterie déclarée à l’administration fiscale ; caisse certifiée ou attestée par l’éditeur.
+4. **Comparer par écrit** les billetteries et les caisses du marché ; votre société souscrit. Billetterie déclarée à l’administration fiscale ; caisse certifiée ou attestée par l’éditeur (à faire valider par votre expert-comptable).
 5. **Relier** leurs totaux à la vue d’ensemble de vos lieux. C’est ce que nous construisons.
 
-Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+Seul notre cadrage a un prix aujourd’hui. Chaque étape suivante se commande à part : un prix par étape après le cadrage, sur vos volumes réels. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
 
 ## Ce qui reste à vous
 
@@ -57,7 +57,7 @@ Marwin Tech est une société en cours de création, immatriculée avant toute f
 
 ## À faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur)
 
-- **Avocat.** Le récépissé d’entrepreneur de spectacles vivants : activité possible trente jours après un dossier complet, valable cinq ans ; son numéro figure sur les affiches, les prospectus et les billets (Service Public Entreprendre, fiche F22365, vérifiée le 5 avril 2024). Licence de boissons et permis d’exploitation.
+- **Avocat.** Le récépissé de la déclaration d’entrepreneur de spectacles vivants : activité possible trente jours après un dossier complet, valable cinq ans ; son numéro figure sur les affiches, les prospectus et les billets (Service Public Entreprendre, fiche F22365, vérifiée le 5 avril 2024). Licence de boissons et permis d’exploitation.
 - **Expert-comptable.** La taxe sur les spectacles : 3,5 % de la billetterie hors taxe sur la valeur ajoutée, déclarée au plus tard le dernier jour du troisième mois qui suit la représentation (Centre national de la musique, page « Taxe », consultée le 10 novembre 2026). La TVA du billet : dans un cabaret, taux normal en principe, avec des exceptions (BOFiP, BOI-TVA-LIQ-30-20-40, 7 février 2024).
 - **Architecte, bureau de contrôle.** Classement du lieu ; autorisation de travaux d’un lieu recevant du public : quatre mois d’instruction avec une déclaration préalable, cinq avec un permis (fiche F31687, vérifiée le 20 septembre 2024) ; visite de la commission de sécurité avant l’ouverture, selon la catégorie.
 - **Acousticien.** Étude de l’impact sonore, si la musique amplifiée est habituelle.
@@ -65,4 +65,4 @@ Marwin Tech est une société en cours de création, immatriculée avant toute f
 - **Mairie, préfecture.** Débit de boissons, heures de fermeture, caméras.
 - **Assureur.** Travaux, ouverture, chaque spectacle.
 
-Ce document n’est pas un avis juridique ; sources publiques de novembre 2026.
+Ce document n’est pas un avis juridique ; sources publiques officielles consultées le 10 novembre 2026, à revérifier à la date de chaque démarche.

@@ -1,6 +1,6 @@
 # Votre présence en ligne : être trouvé, être choisi
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 6 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **En bref**
 
@@ -10,7 +10,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 ## Ce que nous avons compris (à confirmer avec vous)
 
-- Votre établissement réunit la galerie, vos neuf suites et l’espace bien-être (sauna et jacuzzi). Un cabaret-spectacle est prévu à côté de la galerie, et des commerces dans vos lieux.
+- Votre établissement réunit la galerie et, en préparation, vos neuf suites et l’espace bien-être (sauna et jacuzzi). Un cabaret-spectacle est prévu à côté de la galerie, et des commerces dans vos lieux.
 - Vous organisez des vernissages et des soirées. Vous travaillez avec des artistes et des partenaires.
 - Nous ne savons pas encore ce qui existe aujourd’hui : sites, noms de domaine, réseaux, fiche d’établissement, avis. Ni qui s’en occupe, ni les dates d’ouverture, ni les droits des œuvres que vous voudriez montrer.
 
@@ -20,7 +20,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 | Formule | Ce que cela change pour vous | Quand |
 | --- | --- | --- |
-| **Séjours** : des pages pour vos neuf suites et l’espace bien-être ; la réservation directe par le logiciel choisi ; des séjours combinés avec la galerie et le cabaret ; des réponses préparées aux avis | Vos suites présentées par vous, réservables sans détour ; on mesure la part des réservations directes | Ensuite, avec l’ouverture des suites |
+| **Séjours** : des pages pour vos neuf suites et l’espace bien-être ; la réservation directe par le logiciel choisi ; des séjours combinés avec la galerie et le cabaret ; des réponses préparées aux avis. Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la vente de séjours : à faire valider par vos professionnels | Vos suites présentées par vous, réservables sans détour ; on mesure la part des réservations directes | Ensuite, avec l’ouverture des suites |
 | **Rayonnement** : un calendrier de contenus ; des pages utiles et vérifiées ; votre fiche d’établissement, vos horaires, vos avis ; votre visibilité dans les réponses des assistants d’IA, suivie chaque mois | Un établissement plus facile à trouver ; on mesure les recherches qui mènent à vous et les demandes | Ensuite |
 | **Galerie ouverte** : une page par œuvre, en plusieurs langues ; les expositions et les artistes ; un formulaire de demande d’information | Vos œuvres visibles hors de la galerie ; on mesure les demandes reçues | Ensuite, une fois les droits réglés |
 | **Soirées** : l’annonce de chaque soirée et de chaque vernissage, textes, visuels, lettre d’information aux personnes inscrites ; billets par un logiciel du marché | Des événements annoncés à temps ; on mesure les inscriptions et les places vendues | Ensuite, avec l’ouverture du cabaret |
@@ -33,9 +33,9 @@ Le cadrage choisit par où commencer. Nous sommes deux : au début, une seule fo
 ## Comment nous procéderions
 
 - **Partir de la mesure.** Avant toute formule, nous relevons ce qui existe et ce qui vous amène déjà des demandes.
-- **Peu de pages, utiles et vérifiées.** L’IA prépare ; une personne vérifie les faits et signe. Les moteurs de recherche sanctionnent les pages produites en masse sans valeur pour le lecteur.
+- **Peu de pages, utiles et vérifiées.** L’IA prépare ; une personne vérifie les faits et signe. Les règles publiées par Google visent les pages produites en masse sans valeur pour le lecteur (règle de mars 2024, lue dans la presse spécialisée le 10 novembre 2026).
 - **Être cité, pas seulement classé.** Les assistants d’IA reprennent des contenus clairs, sourcés et à jour : c’est ainsi que nous écrirons les vôtres.
-- **Les droits d’abord.** Montrer une œuvre en ligne demande l’autorisation de son auteur ou de la société qui gère ses droits. Pour un artiste dont les droits sont gérés par l’ADAGP, l’autorisation se demande à l’ADAGP (page « droits de reproduction et de représentation », consultée le 10 novembre 2026). Montrer une personne demande son accord.
+- **Les droits d’abord.** Montrer une œuvre en ligne demande l’autorisation de son auteur ou de la société qui gère ses droits. Pour un artiste dont les droits sont gérés par l’ADAGP, l’autorisation se demande en principe à l’ADAGP (page « droits de reproduction et de représentation », consultée le 10 novembre 2026) : à confirmer avec elle. Montrer une personne demande son accord.
 
 ## Ce qui reste à vous
 
@@ -55,5 +55,7 @@ Le cadrage choisit par où commencer. Nous sommes deux : au début, une seule fo
 
 ## À faire valider par vos professionnels
 
-- **Avocat** : les droits de reproduction des œuvres pour une galerie qui vend ; le droit à l’image ; les mentions légales et les conditions de vente en ligne.
-- **Avocat ou délégué à la protection des données** : le consentement pour la lettre d’information et les témoins de connexion ; l’accessibilité exigée de votre société.
+- **Avocat** : les droits de reproduction des œuvres pour une galerie qui vend ; le droit à l’image ; le signalement des contenus générés par IA ; les mentions légales et les conditions de vente en ligne.
+- **Avocat ou délégué à la protection des données** : le consentement pour la lettre d’information et les cookies (témoins de connexion) ; l’accessibilité exigée de votre société.
+
+Ce document n’est pas un avis juridique ; sources publiques consultées le 10 novembre 2026, à revérifier à la date de chaque démarche. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage.
