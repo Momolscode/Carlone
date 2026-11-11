@@ -1,7 +1,7 @@
 # S1 — État de l’art du rayonnement : image, contenus, moteurs et assistants
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Note de chercheur. Trente et une recherches ou lectures le 11 novembre 2026, douze pages lues. « Lu » : page ouverte ce jour. « Vu » : résultat de recherche, à relire avant de citer. « Dépôt » : vérifié dans le dépôt, non relu ce jour (fiche 6, note r1, notes sœurs). **Mesuré**, **annoncé**, **supposé** : niveau de preuve.
+Note de chercheur. Le 11 novembre 2026 : quinze recherches, dix-sept pages ouvertes, douze lues (cinq inaccessibles). « Lu » : page ouverte ce jour. « Vu » : résultat de recherche, à relire avant de citer. « Dépôt » : vérifié dans le dépôt, non relu ce jour (fiche 6, note r1, notes sœurs). **Mesuré**, **annoncé**, **supposé** : niveau de preuve.
 
 ## 1. En bref
 
@@ -13,16 +13,16 @@ Note de chercheur. Trente et une recherches ou lectures le 11 novembre 2026, dou
 
 ## 2. Ce qui se fait de mieux aujourd’hui
 
-1. **Google, réservation dans le mode IA.** Depuis le 27 août 2026, on décrit son séjour, on choisit, on paie par Google Pay sans quitter la recherche. Dix partenaires ; l’hôtel ou la plateforme reste le vendeur. États-Unis, anglais. Aucun volume publié. PPC Land, 28 août 2026. Lu.
+1. **Google, réservation dans le mode IA.** Depuis le 27 août 2026, on décrit son séjour, choisit et paie par Google Pay dans la recherche. Dix partenaires, qui restent vendeurs. États-Unis, anglais ; aucun volume publié. PPC Land, 28 août 2026. Lu.
 2. **Google, protocole de commerce ouvert (UCP).** Panier commun à plusieurs marchands ; extension annoncée aux hôtels ; un tableau de la présence d’une marque dans les réponses IA. Google, 20 mai 2026. Lu. Projet de spécification « hébergement » du 25 septembre 2026 : vu.
-3. **OpenAI, le recul.** Paiement dans ChatGPT lancé en septembre 2025, abandonné en mars 2026 : « nous donnons la priorité à la recherche et à la découverte de produits ». Skift, 5 mars 2026. Lu. Applications Booking.com et Expedia dans ChatGPT, réservation finie sur leur site, hors Union européenne (6 octobre 2025) : vu.
-4. **Microsoft, rapport « AI Performance ».** Dans les outils pour webmestres de Bing : citations d’un site dans Copilot et les résumés de Bing, pages citées, requêtes. Blog Bing, 10 février 2026. Lu. Ni clics, ni ChatGPT, ni Google : vu.
+3. **OpenAI, le recul.** Paiement dans ChatGPT lancé en septembre 2025, abandonné en mars 2026 au profit de « la recherche et la découverte de produits ». Skift, 5 mars 2026. Lu. Les applications Booking.com et Expedia renvoient vers leur site (octobre 2025, hors Union européenne) : vu.
+4. **Microsoft, rapport « AI Performance ».** Dans les outils pour webmestres de Bing : citations d’un site dans Copilot et les résumés de Bing, pages citées, requêtes. Blog Bing, 10 février 2026. Lu. Ni clics, ni ChatGPT, ni Google : vu (searchinfluence.com).
 5. **Google, consignes pour les réponses générées.** Aucune exigence supplémentaire : contenu utile, pages explorables, données structurées fidèles à la page, fiche d’établissement à jour ; mesurer la valeur des visites plus que les clics. Search Central, 21 mai 2025. Lu.
-6. **Bain et Adobe, les visites venues des assistants.** Sites d’hôtels et de locations : part quadruplée de juillet 2025 à juillet 2026, encore sous 1 % ; trois à cinq grands sites par catégorie. Hospitality Net, 7 octobre 2026. Lu. Sites de voyage américains : +119 % en un an, et ces visiteurs achètent presque autant que les autres (Adobe, juillet 2026). Vu.
+6. **Bain et Adobe, les visites venues des assistants.** Sites d’hôtels et de locations : part quadruplée en un an (juillet 2026), encore sous 1 %, sur trois à cinq grands sites par catégorie. Hospitality Net, 7 octobre 2026. Lu. Adobe : +119 % vers les sites de voyage américains, des visiteurs qui achètent presque autant que les autres. Vu.
 7. **Musée d’Orsay, agent conversationnel.** En ligne depuis mai 2025, construit en six semaines ; plus de 10 000 questions le premier mois ; moins de demandes par formulaire. L’éditeur de l’outil, 11 juillet 2025. Lu.
 8. **Art Basel et UBS, les collectionneurs.** 51 % de ceux qui ont acheté à un marchand l’ont fait au moins une fois par Instagram, sans voir l’œuvre (41 % en 2023). Enquête 2025. Lu.
 9. **Valentino, la vidéo générée.** Décembre 2025 : une vidéo de sac faite par IA, signalée ; des centaines de commentaires négatifs (« bon marché », « paresseux »). Glossy, 24 décembre 2025. Lu.
-10. **Studio Parallel Pictures (MCM, Peek & Cloppenburg).** Images générées : jusqu’à 70 % de coûts de production en moins en boutique en ligne, environ 50 % pour une campagne. Chiffres du studio. Glossy, 24 décembre 2025. Lu.
+10. **Studio Parallel Pictures (MCM, Peek & Cloppenburg).** Images générées : jusqu’à 70 % de coûts de production en moins, selon le studio. Glossy, 24 décembre 2025. Lu.
 11. **Recherche sur le luxe.** Trois expériences : une image générée et signalée rend une publicité de luxe moins authentique aux yeux du public ; l’effet s’atténue si l’image est très créative. Journal of Advertising Research, juin 2025. Lu (résumé).
 12. **Commission européenne, code de marquage.** Code pour marquer et signaler les contenus générés, publié le 10 juin 2026 ; environ 190 signataires fin juillet ; icônes européennes. Lu.
 
@@ -69,15 +69,15 @@ Dans toutes : nous concevons, écrivons les règles et mesurons ; des spécialis
 
 Dix faits, tous lus le 11 novembre 2026.
 
-1. « Depuis le 27 août 2026, aux États-Unis et en anglais, le mode IA de la recherche Google permet de réserver une chambre auprès de dix partenaires ; l’hôtel ou la plateforme reste le vendeur. » PPC Land, 28 août 2026.
+1. « Depuis le 27 août 2026, aux États-Unis et en anglais, le mode IA de la recherche Google permet de réserver une chambre auprès de dix partenaires. » PPC Land, 28 août 2026.
 2. « Google a annoncé le 20 mai 2026 qu’on pourrait, “dans les mois qui viennent”, réserver un hôtel depuis le mode IA de sa recherche. » Blog de Google, 20 mai 2026.
-3. « En mars 2026, OpenAI a renoncé à faire payer les achats dans ChatGPT : l’assistant aide à chercher, l’achat se fait chez le vendeur. » Skift, 5 mars 2026.
+3. « En mars 2026, OpenAI a renoncé au paiement dans ChatGPT : l’assistant aide à chercher, l’achat se fait chez le vendeur. » Skift, 5 mars 2026.
 4. « Google écrit qu’aucune technique particulière n’est demandée pour figurer dans ses réponses générées, et conseille une fiche d’établissement à jour. » Google Search Central, 21 mai 2025.
-5. « Depuis février 2026, Microsoft montre aux propriétaires de sites combien de fois leurs pages sont citées comme sources dans les réponses de Copilot et de Bing. » Blog de Bing, 10 février 2026.
+5. « Depuis février 2026, Microsoft montre aux propriétaires de sites combien de fois Copilot et Bing citent leurs pages comme sources. » Blog de Bing, 10 février 2026.
 6. « De juillet 2025 à juillet 2026, la part des visites venues des assistants d’IA a quadruplé sur les sites d’hôtels et de locations étudiés ; elle reste sous 1 %. » Hospitality Net, 7 octobre 2026, d’après Bain et Similarweb.
 7. « L’agent conversationnel du musée d’Orsay, en ligne depuis mai 2025, a reçu plus de 10 000 questions le premier mois, selon l’éditeur de l’outil. » Ask Mona, 11 juillet 2025.
 8. « Selon l’enquête Art Basel et UBS de 2025, 51 % des collectionneurs qui ont acheté à un marchand l’ont fait au moins une fois par Instagram, sans voir l’œuvre. » Art Basel, enquête 2025.
-9. « Une étude publiée en juin 2025 montre qu’une image générée et signalée dans une publicité de luxe la fait juger moins authentique ; l’effet s’atténue si l’image est très créative. » Journal of Advertising Research, résumé de l’ARF.
+9. « Selon une étude de juin 2025, une image générée et signalée rend une publicité de luxe moins authentique aux yeux du public, sauf si l’image est très créative. » Journal of Advertising Research, résumé de l’ARF.
 10. « Le 10 juin 2026, la Commission européenne a publié un code pour marquer et signaler les contenus générés par IA ; ces règles de transparence s’appliquent depuis le 2 août 2026. » Commission européenne, 10 juin 2026.
 
 ## 6. Règles et limites
@@ -88,7 +88,7 @@ Dix faits, tous lus le 11 novembre 2026.
 
 **Image, voix, œuvres.** Toute personne reconnaissable donne un accord écrit ; aucun tournage avec des clients dans les suites, au sauna, au jacuzzi. Voix : contrat écrit et payé (note « scène »). Une œuvre se montre ou s’anime avec l’accord de l’auteur ou de sa société de gestion (fiche 6) ; l’animer peut toucher au droit moral. À faire valider par un avocat.
 
-**Lettre et mesure.** Consentement avant toute lettre ; désinscription simple. Témoins de connexion soumis au consentement, sauf mesure d’audience encadrée par la CNIL. Règles connues, non relues ce jour.
+**Lettre et mesure.** Consentement avant toute lettre, désinscription simple ; témoins de connexion soumis au consentement, sauf mesure d’audience encadrée par la CNIL. Non relu ce jour.
 
 **Vente.** Nuit, spectacle et soin vendus ensemble : règles de la vente de séjours. Mêmes prix partout où les assistants les lisent. Aucune œuvre présentée comme un placement.
 
@@ -96,11 +96,11 @@ Dix faits, tous lus le 11 novembre 2026.
 
 **Échecs connus.**
 
-- British Museum : images générées publiées en janvier 2026, retirées après critiques (vu ; note « galerie »). Gucci et Prada : campagnes critiquées (vu).
+- British Museum : images générées publiées en janvier 2026, retirées après critiques (vu ; note « galerie »).
 - Glasgow, février 2024 : un « univers chocolat » vendu avec des images générées ; lieu presque vide, police appelée, remboursements (vu). Leçon : l’image ne promet jamais plus que le lieu.
 - Public : plus de 70 % des 2 045 adultes américains interrogés s’opposent à l’IA dans les expositions (American Alliance of Museums, janvier 2026, cité par The Art Newspaper, lu).
-- Clics : un résumé IA baisse les clics vers les sites, de 8,8 points dans une expérience contrôlée (universités Penn et Northeastern, août 2026, vu). Être cité ne fait pas venir.
-- Commerce : OpenAI a abandonné le paiement dans ChatGPT, faute d’acheteurs selon Skift (lu). Vidéo : un objet qui bouge peut se déformer (Glossy, lu).
+- Clics : un résumé IA baisse les clics vers les sites, de 8,8 points dans une expérience contrôlée (universités Penn et Northeastern, août 2026, vu). Être cité ne suffit pas à faire venir.
+- Commerce : paiement dans ChatGPT abandonné, faute d’acheteurs selon Skift (lu). Vidéo : un objet qui bouge peut se déformer (Glossy, lu).
 
 ## 7. Sources
 
@@ -123,14 +123,12 @@ Toutes consultées le 11 novembre 2026 ; date de la page entre parenthèses.
 
 **Vues, à relire avant de citer**
 
-- Adobe, voyage, juillet 2026 : https://e-commerce.news/story/adobe-says-ai-travel-traffic-to-us-sites-jumps-119 ; https://business.adobe.com/blog/adobe-report-ai-traffic-travel-sites-surges-200-percent (indisponible ce jour)
+- Adobe, voyage, juillet 2026 : https://e-commerce.news/story/adobe-says-ai-travel-traffic-to-us-sites-jumps-119 (page d’Adobe indisponible ce jour)
 - Expérience Penn et Northeastern (18 août 2026) : https://www.relevantaudience.com/geo/ai-mode-field-experiment-clicks-drop-18-8-points/
 - Décision britannique du 3 juin 2026 : https://siliconangle.com/2026/06/03/uk-orders-google-provide-ai-overviews-opt-option-publishers/ ; https://digiday.com/media/googles-ai-opt-out-leaves-publishers-with-a-choice-they-cant-safely-use/
 - Spécification « hébergement » de l’UCP (25 septembre 2026) : https://www.techwyse.com/news/search-seo/google-ucp-lodging-booking-spec-ai-mode-hotel-booking
 - Applications dans ChatGPT (6 octobre 2025) : https://openai.com/index/introducing-apps-in-chatgpt/ (refusée ce jour) ; https://www.testingcatalog.com/openai-launches-chatgpt-apps-and-sdk-preview-outside-eu
-- Rapport de Bing, limites : https://www.searchinfluence.com/blog/bing-ai-performance-report-copilot-citations/
 - British Museum (4 février 2026) : https://petapixel.com/2026/02/04/british-museum-deletes-ai-generated-pictures-after-backlash
-- Gucci : https://luxe.outlookindia.com/fashion-beauty/couture/gucci-sparks-backlash-after-using-ai-models-for-milan-fashion-week-campaign
 - Glasgow (février 2024) : https://petapixel.com/2024/02/28/families-scammed-by-ai-images-that-promised-willy-wonka-style-event ; https://www.rnz.co.nz/news/world/510686/how-did-the-viral-willy-wonka-experience-go-so-wrong
 - Loi du 9 juin 2023, article 5 (commentaires ; Légifrance non lu) : https://cm.twobirds.com/en/insights/2023/france/promulgation-de-la-loi-visant-a-encadrer-l-influence-commerciale
 - Étude du Journal of Advertising Research (DOI 10.1080/00218499.2025.2454120) : https://www.tarleton.edu/cob/?p=4216

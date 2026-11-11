@@ -1,7 +1,7 @@
 # État de l’art à la fin de 2026 — territoire, partenaires et financements
 Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
-Note de chercheur pour le catalogue « State Of The Art ». Vingt et une recherches ou lectures, le 11 novembre 2026. Non refait, car vérifié : `k7b-aides-publiques-numerique-ia.md` (Diag Data IA, conseil régional, Impulse IA, Cœur de Loire, zonage, CNM) et l’article 238 bis AB (`k9`). « Lue » : ouverte ce jour par un outil, entière ou par long extrait ; « vue » : résultat de recherche seul. Commune rapportée : Cosne-Cours-sur-Loire (non vérifiée). Aucun organisme contacté. Aucun conseil fiscal.
+Note de chercheur pour le catalogue « State Of The Art » : vingt et une recherches ou lectures, le 11 novembre 2026. Déjà vérifié, non refait : `k7b` (aides au numérique et à l’IA) et `k9` (238 bis AB). « Lue » : ouverte ce jour par un outil ; « vue » : résultat de recherche seul. Commune rapportée, non vérifiée : Cosne-Cours-sur-Loire. Aucun organisme contacté ; aucun conseil fiscal.
 
 ## 1. En bref
 
@@ -93,7 +93,7 @@ Rédaction prudente. Les montants en euros se contrôlent avec l’option `--tar
 - **Guichets fermés en 2026.** Culture et IA (20 octobre, crédits épuisés), « Services numériques innovants » (30 juin), Horizon Europe culture et IA (23 septembre), EIT Culture & Creativity (30 octobre). Formations : « dans la limite des fonds disponibles », organisme Qualiopi ; depuis le 1er octobre 2026, prise en charge hors taxes et paiement direct limité (sources professionnelles, vues).
 - **Budgets contraints.** Département : 12 M€ d’efforts en 2024 et 2025, baisses de subventions associatives en 2025, culture tenue à 3,15 M€ de fonctionnement en 2026 (lu). Bourges 2028 : gares végétales ramenées de cinq à trois (lu). Tiers-lieux : « le contexte économique global rend difficile » leur essor (étude de 2025, lue). Le centre d’art labellisé de la Nièvre a cessé son activité (`s1-etat-de-l-art-lieux.md`).
 - **Marwin Tech.** Ni agréée, ni certifiée Qualiopi, sans numéro SIRET : elle prépare ; l’entité de GianLuca Carlone dépose.
-- **IA.** Contenus générés signalés, droits d’auteur, données personnelles : les appels culturels l’exigent eux-mêmes.
+- **IA.** Signaler les contenus générés ; respecter droits d’auteur et données personnelles.
 
 ## 7. Sources
 
@@ -101,7 +101,6 @@ Toutes consultées le 11 novembre 2026. « Lue » : page entière ou long extrai
 
 **Culture et IA**
 - Bpifrance, appel culture et IA, clos le 20 octobre 2026 : https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-transition-numerique-de-la-culture-et-appropriation-de-lintelligence-artificielle (lue)
-- Ministère de la Culture, lancement de l’appel, 16 mai 2025 : https://www.culture.gouv.fr/presse/communiques-de-presse/france-2030-lancement-d-un-appel-a-projets-pour-accompagner-l-appropriation-de-l-intelligence-artificielle-et-du-numerique-par-les-industries-cul (lue)
 - Ministère de la Culture, « Culture immersive », 9 juillet 2026 : https://www.culture.gouv.fr/presse/communiques-de-presse/france-2030-annonce-des-20-laureats-de-la-deuxieme-vague-du-dispositif-culture-immersive (lue)
 - Ministère de la Culture, « Services numériques innovants », 2026 : https://www.culture.gouv.fr/catalogue-des-demarches-et-subventions/appels-a-projets-candidatures/services-numeriques-innovants-sni (lue)
 - CNAP, soutien aux galeries, 2 septembre 2026 : https://www.cnap.fr/soutien-creation/galeries et https://www.cnap.fr/soutien-creation/galeries/expositions/modalites-de-candidature (lues) ; résultats 2025 (vue)
@@ -119,8 +118,8 @@ Toutes consultées le 11 novembre 2026. « Lue » : page entière ou long extrai
 
 **Formation et IA locale**
 - CCI Nièvre, Impulse IA, 3 avril 2026 : https://nievre.cci.fr/appui-aux-entreprises/transformation-numerique/adopter-lintelligence-artificielle-generative-impulse-ia/ (lue)
-- Café IA : https://cafeia.org/carte-interactive/ (lue) ; Internet Society France, Varzy, 29 mars 2026 : https://www.isoc.fr/aan-varzy2026/ (lue) ; MedNum BFC : https://www.mednum-bfc.fr/cafes-ia/ (vue)
-- Opco Atlas, 7 septembre 2026 : https://www.opco-atlas.fr/actualites/besoin-de-former-vos-salaries-lia-decouvrez-ia-atlas.html (lue) ; L’Opcommerce, mars 2026 : https://www.lopcommerce.com/media/k1apbpel/c-f_catalogue-formation-ia_03-26.pdf (lu) ; studeria.fr, 12 octobre 2026, et meteorconseil.fr, 22 septembre 2026 (vues, sources professionnelles)
+- Café IA : https://cafeia.org/carte-interactive/ (lue) ; Internet Society France, Varzy, 29 mars 2026 : https://www.isoc.fr/aan-varzy2026/ (lue)
+- Opco Atlas, 7 septembre 2026 : https://www.opco-atlas.fr/actualites/besoin-de-former-vos-salaries-lia-decouvrez-ia-atlas.html (lue) ; L’Opcommerce, mars 2026 : https://www.lopcommerce.com/media/k1apbpel/c-f_catalogue-formation-ia_03-26.pdf (lu) ; studeria.fr (12 octobre 2026) et meteorconseil.fr (22 septembre 2026), vues
 
 **Tourisme**
 - Nevers Tourisme, rapport 2025 : https://www.calameo.com/books/0070992855bff8ea73ed4 (lu) ; Nièvre Attractive, rapport 2024 : https://www.calameo.com/books/006110262b3993e35d50c (lu) ; https://nievre-attractive.com/centre-ressources/chiffres-tourisme/ (lue)
