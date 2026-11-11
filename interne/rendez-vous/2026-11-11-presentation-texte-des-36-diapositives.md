@@ -8,9 +8,9 @@ Copie de travail, pour relire et répéter sans connexion : ce qui est à l’é
 
 ### 1. `cover`
 
-**À l’écran** : Marwin Tech · pour GianLuca Carlone / Vos projets, / votre logiciel : / par où commencer / Ce que nous avons compris, à quoi cela ressemblerait chez vous, et un premier pas à prix fixe. / Novembre 2026 · seul un bon de commande signé engage, vous comme nous / Visuel : vision générée par IA — dossier Strates
+**À l’écran** : Marwin Tech · pour GianLuca Carlone / Vos projets, / votre logiciel : / par où commencer / Ce que nous avons compris, à quoi cela ressemblerait chez vous, et un premier pas à prix fixe. / Novembre 2026 · seul un bon de commande signé engage, vous comme nous / Visuel : vision générée par IA
 
-**L’orateur dit** : Merci de nous recevoir. Nous avons préparé une demi-heure environ : ce que nous avons compris de vos projets, à quoi votre logiciel ressemblerait, et un premier pas à prix fixe. Ensuite, nous voulons surtout vous écouter. L’image vient du dossier Strates : c’est une vision générée par IA, pas la photo d’un lieu réel. Rien de ce document ne vous engage : seul un bon de commande signé engage, vous comme nous.
+**L’orateur dit** : Merci de nous recevoir. Nous avons préparé une demi-heure environ : ce que nous avons compris de vos projets, à quoi votre logiciel ressemblerait, et un premier pas à prix fixe. Ensuite, nous voulons surtout vous écouter. L’image est une vision générée par IA, pas la photo d’un lieu réel. Rien de ce document ne vous engage : seul un bon de commande signé engage, vous comme nous.
 
 ### 2. `compris`
 
@@ -166,9 +166,9 @@ Copie de travail, pour relire et répéter sans connexion : ce qui est à l’é
 
 ### 26. `decision`
 
-**À l’écran** : Aujourd’hui / Une seule décision : commander le cadrage / Il nous faut / La société qui commande / La personne qui signe / La date du premier entretien / Ensuite / Après ce rendez-vous / Un bon de commande d’une page. Rien ne vous engage avant de le signer. / Signé avant la mi-décembre / Démarrage visé début janvier 2027. / Jusqu’au jeudi 31 décembre 2026 / L’offre reste valable.
+**À l’écran** : Aujourd’hui / Une seule décision : commander le cadrage / Il nous faut / La société qui commande / La personne qui signe / La date du premier entretien / Ensuite / Après ce rendez-vous / Un bon de commande et ses conditions. Rien ne vous engage avant de le signer. / Signé avant la mi-décembre / Démarrage visé début janvier 2027. / Jusqu’au jeudi 31 décembre 2026 / L’offre reste valable.
 
-**L’orateur dit** : Nous vous proposons une seule décision aujourd’hui : commander le cadrage. Il nous faut trois informations : la société qui commande, la personne qui signe et une date pour le premier entretien. Nous vous envoyons ensuite un bon de commande d’une page ; rien ne vous engage avant de le signer. Démarrage visé début janvier 2027 si la commande est signée avant la mi-décembre. L’offre est valable jusqu’au jeudi 31 décembre 2026.
+**L’orateur dit** : Nous vous proposons une seule décision aujourd’hui : commander le cadrage. Il nous faut trois informations : la société qui commande, la personne qui signe et une date pour le premier entretien. Nous vous envoyons ensuite un bon de commande et ses conditions ; rien ne vous engage avant de le signer. Démarrage visé début janvier 2027 si la commande est signée avant la mi-décembre. L’offre est valable jusqu’au jeudi 31 décembre 2026.
 
 ### 27. `moyens`
 
