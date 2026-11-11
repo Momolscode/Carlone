@@ -90,7 +90,7 @@
           "titre": "5. Notes de fond",
           "documents": [
             {"source": "interne/offre-cadrage/2026-11-10-note-interne-offre-et-bon-de-commande.md", "titre": "Note interne : offre et bon de commande"},
-            {"source": "interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md", "titre": "Choisir un logiciel hôtelier du marché pour les neuf suites"},
+            {"source": "interne/logiciels-et-automatisations/2026-11-10-choisir-un-logiciel-hotelier.md", "titre": "Choisir un logiciel hôtelier du marché pour les neuf suites", "paysage": true},
             {"source": "interne/logiciels-et-automatisations/2026-11-10-connexion-airbnb-booking-et-autres-sites.md", "titre": "Relier les suites à Airbnb, Booking.com et aux autres sites"},
             {"source": "interne/logiciels-et-automatisations/2026-11-10-construire-nous-memes-le-logiciel-des-suites.md", "titre": "Construire nous-mêmes le logiciel des suites ?"},
             {"source": "interne/developpement/2026-11-10-offre-elargie-image-evenements-partenaires-nievre.md", "titre": "Offre élargie : image, événements, partenaires, Nièvre"},
@@ -125,7 +125,7 @@
             {"source": "pour-carlone/offre-cadrage/2026-11-10-proposition-de-cadrage-version-client.md", "titre": "Proposition de cadrage"},
             {"source": "pour-carlone/offre-cadrage/2026-11-10-projet-de-bon-de-commande.md", "titre": "Projet de bon de commande et conditions"},
             {"source": "pour-carlone/offre-cadrage/2026-11-11-tableau-qui-valide-quoi.md", "titre": "Tableau « qui valide quoi »", "max_pages": 1},
-            {"source": "pour-carlone/offre-cadrage/2026-11-11-projet-de-formulaire-de-retractation.md", "titre": "Projet de formulaire de rétractation", "max_pages": 1},
+            {"source": "pour-carlone/offre-cadrage/2026-11-11-projet-de-formulaire-de-retractation.md", "titre": "Votre droit de rétractation : information et formulaire (projet conditionnel)", "max_pages": 1},
             {"source": "pour-carlone/offre-cadrage/2026-11-11-projet-d-accord-sur-les-donnees.md", "titre": "Projet d’accord sur les données", "max_pages": 3}
           ]
         },
