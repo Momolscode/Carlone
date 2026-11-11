@@ -20,7 +20,7 @@ Source unique des rédacteurs : page programme, catalogue client, diapositives. 
 
 Nom de travail. Marque non vérifiée : recherche dans la base de l’INPI avant tout document laissé (décision V13).
 
-## 2. Sept familles, vingt-neuf offres
+## 2. Sept familles, vingt-sept offres
 
 Partout : nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main ; vous décidez. Un outil du marché plutôt qu’un outil construit. Lecture seule d’abord. Rien n’est envoyé, payé, signé ou publié sans une personne habilitée. Comptes et données au nom de votre société. Un prix écrit avant toute commande. Aucun résultat promis : chaque gain se mesure.
 
@@ -85,9 +85,9 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **À faire valider.** Maîtrise de l’IA (règlement européen, article 4) ; dire avant ce que l’outil enregistre.
 - **Quand.** Dès le cadrage, 2027.
 
-**6. Le livre des amateurs : rien ne quitte la maison** [coll. 5]
+**6. Le livre des amateurs : rien ne quitte la maison** [coll. 5 ; jugement Carlone, « la saison des foires »]
 - **Une phrase.** La mémoire privée de vos relations : ce que chacun a acheté, aime, cherche.
-- **Vous obtenez.** Avant chaque rendez-vous, une fiche d’une page ; après, une note dictée en une minute ; les relances préparées, envoyées par vous.
+- **Vous obtenez.** Avant chaque rendez-vous, une fiche d’une page ; après, une note dictée en une minute ; les relances préparées, envoyées par vous. Avant chaque foire, qui viendra ; après, chaque contact suivi.
 - **Avancé.** Dans un ministère britannique, 3 549 agents équipés d’un assistant ont déclaré gagner environ 19 minutes par jour, surtout pour chercher une information et écrire des courriels (GOV.UK, 29 janvier 2026 [dir. S9]).
 - **Format.** Deux mois.
 - **Qui.** Nous : structure, sécurité, liens. Un logiciel du marché hébergé en Europe, à votre nom ; une machine chez vous, en option. Vous et votre administratrice : la saisie.
