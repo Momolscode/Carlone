@@ -57,7 +57,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 - **Aucun résultat promis.** Chaque gain se dit avec sa tâche et son point de départ, puis se mesure.
 - **« Ce qu’elle a d’avancé ».** Un fait daté, avec sa source : ce qui existe déjà ailleurs. C’est un repère, pas une promesse pour votre maison.
 - **Le droit.** Ce qui touche au droit, aux autorisations ou à la fiscalité est à faire valider par vos professionnels.
-- **Ce que nous ne faisons pas.** Authentifier ou estimer une œuvre ; vendre une œuvre comme un placement ; donner un conseil fiscal ou juridique ; déposer un dossier à votre place ; reconnaître les visages ; poser un capteur sur le corps ; reproduire une voix sans accord écrit ; présenter comme réelle une image créée par l’IA.
+- **Ce que nous ne faisons pas.** Authentifier ou estimer une œuvre ; vendre une œuvre comme un placement, avec un rendement ou un rachat promis ; donner un conseil fiscal ou juridique ; déposer un dossier à votre place ; reconnaître les visages ; poser un capteur sur le corps ; reproduire une voix sans accord écrit ; présenter comme réelle une image créée par l’IA.
 
 ## Famille I. L’œil : servir votre goût
 
@@ -282,7 +282,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 - **Qui fait quoi.** Un metteur en scène décide ; des artistes jouent ; un régisseur vidéo réalise. Nous : les surtitres, les liens avec la galerie, les droits.
 - **Pour commencer.** Le cabaret confirmé ; un acousticien, avant les plans.
 - **Ce qui se mesure.** Spectateurs passés à la galerie, et l’inverse.
-- **À faire valider par vos professionnels.** L’accord de l’artiste exposé ; les droits des musiques ; la voix et l’image des artistes ; les règles du spectacle et de l’accueil du public. Une machine près du public demande une analyse des risques propre au lieu (la norme ISO 10218-2:2025 ne couvre pas le public ; règlement européen sur les machines, applicable au 20 janvier 2027). Le chant et les noms propres se préparent à la main ; les 223 langues ne sont qu’annoncées.
+- **À faire valider par vos professionnels.** L’accord de l’artiste exposé ; les droits des musiques ; la voix et l’image des artistes ; les règles du spectacle, des débits de boissons et des établissements recevant du public. Une machine près du public demande une analyse des risques propre au lieu (la norme ISO 10218-2:2025 ne couvre pas le public ; règlement européen sur les machines, applicable au 20 janvier 2027). Le chant et les noms propres se préparent à la main ; les 223 langues ne sont qu’annoncées.
 - **Quand.** 2027 si le cabaret ouvre ; l’artiste à la machine en 2028.
 
 ### 18. La nuit des œuvres
@@ -442,7 +442,7 @@ Les offres se combinent en six moments, imaginés pour le jour de votre ouvertur
 **Trois à quatre semaines, à prix fixe : 6 500 € hors taxes, soit 7 800 € toutes taxes comprises**, déplacements des deux rendez-vous compris. Le prix toutes taxes comprises suppose une TVA de 20 %, si Marwin Tech y est soumise à la date de la facture ; sinon, le prix est de 6 500 €, TVA non applicable (franchise en base).
 
 - **Ce qui vous est remis.** L’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours, chacune avec un objectif mesurable ; trois tâches au plus à essayer, chacune avec sa mesure de départ ; le choix argumenté de la suite : avec nous, votre administratrice seule, un autre prestataire, ou aucune.
-- **Comment.** Semaine 1 : un premier entretien chez vous, deux à trois heures. Semaines 2 et 3 : le travail sur vos documents, avec l’aide de votre administratrice, environ une à deux journées sur ses heures de travail. Semaine 3 ou 4 : la remise du dossier et la restitution.
+- **Comment.** Semaine 1 : un premier entretien chez vous, deux à trois heures. Semaines 2 et 3 : le travail sur vos documents, avec l’aide de votre administratrice. Semaine 3 ou 4 : la remise du dossier et la restitution. Votre administratrice y consacre environ une à deux journées sur trois à quatre semaines, sur ses heures de travail.
 - **Tourné vers vos moments.** Le cadrage se tourne vers les trois projets phares que vous choisissez, au même prix, avec le même dossier. Vous en choisissez aussi l’angle : par les œuvres, par le cercle, par l’ouverture ou par la maison.
 - **Quand.** Nous visons un démarrage début janvier 2027 si la commande est signée avant la mi-décembre. Proposition valable jusqu’au jeudi 31 décembre 2026.
 
