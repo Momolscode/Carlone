@@ -235,23 +235,23 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Qui.** Un metteur en scène décide ; des artistes jouent ; un régisseur vidéo réalise ; nous : surtitres, liens avec la galerie, droits.
 - **Départ.** Le cabaret confirmé, un acousticien avant les plans.
 - **Mesure.** Spectateurs passés à la galerie, et l’inverse.
-- **À faire valider.** L’accord de l’artiste exposé, droits des musiques, voix et image des artistes.
+- **À faire valider.** L’accord de l’artiste exposé, droits des musiques, voix et image des artistes ; le chant et les noms propres se préparent à la main, les 223 langues ne sont qu’annoncées.
 - **Quand.** 2027 si le cabaret ouvre, l’artiste à la machine en 2028.
 
 **18. La nuit des œuvres**
-- **Une phrase.** Le séjour introuvable ailleurs : vernissage, dîner, cabaret, une suite habitée par une œuvre, le sauna au matin, une visite privée avant le départ.
-- **Vous obtenez.** Trois programmes vendus en direct ; à 18 heures, chacun dans la maison reçoit sa conduite de la soirée ; la suite est prête quand le rideau tombe.
+- **Une phrase.** Un séjour que notre recherche n’a trouvé nulle part ailleurs : vernissage, dîner, cabaret, une suite habitée par une œuvre, le sauna au matin, une visite privée avant le départ.
+- **Vous obtenez.** Trois programmes, vendus par une agence de voyages immatriculée, ou par votre société une fois immatriculée chez Atout France ; à 18 heures, chacun dans la maison reçoit sa conduite de la soirée ; la suite est prête quand le rideau tombe.
 - **Avancé.** À Kirrwiller, en Alsace, un cabaret de village a annoncé hôtel et spa au 28 août 2026 (page officielle [acc. S12]). Notre recherche du 11 novembre 2026 n’a trouvé aucun lieu qui réunisse art, scène, soin et nuit autour d’une galerie marchande.
 - **Format.** Deux mois ; la conduite, trois mois avant l’ouverture du cabaret.
 - **Qui.** Vos professionnels fixent le cadre ; une agence de voyages immatriculée vend ; nous : programmes, conduite, liens.
 - **Départ.** Le cadre de vente validé.
 - **Mesure.** Nuits par visiteur, délai entre le rideau et la suite prête.
-- **À faire valider.** Forfait touristique probable : immatriculation chez Atout France.
+- **À faire valider.** Forfait touristique probable : immatriculation chez Atout France, garantie financière, assurance (code du tourisme, articles L211-1 et suivants ; DGCCRF, 16 mars 2026 [acc. S21]). Le vendre sans immatriculation est une infraction.
 - **Quand.** 2027-2028.
 
 **19. Solstice et la porte de Bourges 2028**
-- **Une phrase.** Un rendez-vous d’hiver quand la Nièvre se vide, et votre maison comme étape de la capitale européenne de la culture.
-- **Vous obtenez.** « Solstice » : la nuit, le feu, le sauna ouvert tard, une revue d’hiver ; un dossier pour Bourges 2028 ; un séjour « Bourges le jour, chez vous le soir ».
+- **Une phrase.** Un rendez-vous d’hiver quand la Nièvre se vide, et un dossier pour que votre maison devienne une étape de Bourges 2028, si ses organisateurs l’acceptent.
+- **Vous obtenez.** « Solstice » : la nuit, le feu, le sauna ouvert tard, la version d’hiver de L’eau, le feu, la nuit (29), une revue d’hiver ; un dossier pour Bourges 2028 ; un séjour « Bourges le jour, chez vous le soir ».
 - **Avancé.** En Tasmanie, un festival d’hiver a reçu 115 988 visiteurs en 2026, pour 306 601 nuitées (Pulse Tasmania, 22 septembre 2026 [lieux]). Nevers et La Charité-sur-Loire sont dans le réseau de Bourges 2028 (bourges2028.org, 16 décembre 2025 [terr.]).
 - **Format.** Dossier en deux à trois mois, Solstice en six mois.
 - **Qui.** Nous : conception, dossier. Un producteur porte Solstice ; une agence immatriculée vend le séjour.
@@ -260,12 +260,23 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **À faire valider.** Sécurité du public, vente de séjours, usage du nom de Bourges 2028.
 - **Quand.** Dossier 2027, préfiguration en décembre 2027 si vos lieux sont ouverts, Solstice en décembre 2028.
 
+**29. L’eau, le feu, la nuit**
+- **Une phrase.** Le sauna et le jacuzzi deviennent des œuvres : lumière et son composés par un artiste, qui changent avec l’heure et la saison.
+- **Vous obtenez.** Une pièce lente de lumière et de son pour chaque espace, sans écran ni capteur sur le corps. Trois rituels par saison (herbes, lumière, son), un créneau par suite. La version d’hiver ouvre Solstice (19).
+- **Avancé.** À Paris, une suite du Meurice associe lumière, son et un contenu généré par IA (annoncé, 14 septembre 2025 [acc. S18] ; aucun bilan trouvé). Fait à renforcer.
+- **Format.** Un rituel essayé en un mois ; l’œuvre en quatre à six mois.
+- **Qui.** Un artiste compose ; un électricien pour locaux humides installe ; une personne formée conduit les rituels. Nous : programme, appel, suivi.
+- **Départ.** La place des lumières et du son, avant la fin des travaux.
+- **Mesure.** Créneaux réservés, rituels redemandés.
+- **À faire valider.** Matériel pour locaux humides, précautions affichées, aucune promesse de santé, aucune donnée du corps.
+- **Quand.** Un rituel essayé dès l’ouverture des suites ; l’œuvre en 2028.
+
 ### Famille VI. La maison orchestrée : tout tenir d’un écran
 
 **20. Le pupitre de votre administratrice**
 - **Une phrase.** Un assistant par lieu, un seul écran : votre administratrice dirige ; vous recevez une page chaque matin.
 - **Vous obtenez.** Les tâches qui reviennent, écrites comme des partitions ; une seule file « à valider » ; les longues tâches du soir rendues au matin ; les factures rapprochées des devis et des paiements ; une mémoire qui répond, page source à l’appui.
-- **Avancé.** Une boutique tenue par un agent d’IA est passée des pertes à des semaines presque toutes bénéficiaires une fois dotée d’outils et de procédures ; son éditeur la juge encore vulnérable (Anthropic, 18 décembre 2025 [dir. S8]).
+- **Avancé.** Une équipe d’agents coordonnés a fait 90 % mieux qu’un agent seul, pour environ quinze fois plus de calcul, selon son éditeur (Anthropic, 13 juin 2025 [dir. S7]). Une boutique tenue par un agent d’IA est passée des pertes à des semaines presque toutes bénéficiaires une fois dotée d’outils et de procédures ; son éditeur la juge encore vulnérable (Anthropic, 18 décembre 2025 [dir. S8]).
 - **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu.
 - **Qui.** Nous : partitions, réglages, mesure, sur des outils du marché. Votre administratrice, aidée, jamais remplacée, choisit et valide ; votre expert-comptable tient les comptes.
 - **Départ.** L’inventaire du cadrage.
@@ -275,19 +286,19 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **21. Le carnet vivant des murs**
 - **Une phrase.** Chaque bâtiment câblé pour ce qui viendra, relevé en 3D avant les travaux, puis suivi pièce par pièce.
-- **Vous obtenez.** Tout de suite, une note pour votre architecte : réseau à part, scènes de lumière, son du cabaret, places des œuvres. Puis l’état zéro en 3D ; chaque lundi, les échéances ; chaque facture de chantier face au devis.
+- **Vous obtenez.** Tout de suite, une note pour votre architecte : réseau à part, scènes de lumière, son du cabaret, places des œuvres. Avant le premier devis de travaux, l’état zéro en 3D, qui nourrit aussi la maison d’avant (phare 6). Puis, chaque lundi, les échéances ; chaque facture de chantier face au devis.
 - **Avancé.** Un scanner portable relève un étage en une trentaine de minutes, à 5 à 15 mm près (Messe Frankfurt, 22 mai 2026 [bât. B3]).
 - **Format.** Note en deux semaines, état zéro avant les travaux, un carnet par bâtiment.
 - **Qui.** Nous : note, carnet, rapprochements. Un prestataire de relevé. Votre architecte décide.
 - **Départ.** Les plans en cours.
 - **Mesure.** Dépassements vus avant paiement.
 - **À faire valider.** Une image 3D n’est pas une mesure, réseau séparé.
-- **Quand.** Note maintenant, carnet 2027, bâtiment interrogé en langage courant vers 2030.
+- **Quand.** Note maintenant ; état zéro maintenant, avant le premier devis de travaux ; carnet 2027 ; bâtiment interrogé en langage courant vers 2030.
 
 **22. Le tableau d’ouverture et la répétition générale**
 - **Une phrase.** Toutes vos autorisations d’ouverture sur un tableau ; puis une répétition où des invités fictifs éprouvent chaque outil.
 - **Vous obtenez.** Spectacle, boissons, sécurité, déclaration du jacuzzi, analyses de l’eau, taxe de séjour : pièces et dates. Un séjour, une soirée, une vente joués sans donnée réelle, et la liste de ce qui a cassé.
-- **Avancé.** Gartner prévoit l’abandon de plus de 40 % des projets d’agents d’IA d’ici fin 2027 : coûts, valeur peu claire, risques mal maîtrisés (25 juin 2025 [dir. S20]).
+- **Avancé.** Gartner prévoit l’abandon de plus de 40 % des projets d’agents d’IA d’ici fin 2027 : coûts, valeur peu claire, risques mal maîtrisés (25 juin 2025 [dir. S20]). Les vôtres seront joués avant d’ouvrir.
 - **Format.** Six semaines, deux jours par répétition.
 - **Qui.** Nous préparons ; votre administratrice tient le tableau ; vos professionnels déposent et signent.
 - **Départ.** Les dates d’ouverture visées.
@@ -297,19 +308,30 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **23. Le fil de l’invité**
 - **Une phrase.** Avec son accord, chaque invité n’est connu qu’une fois pour toute la maison, et une seule voix lui répond.
-- **Vous obtenez.** Sa langue, l’œuvre aimée, sa table, son créneau de sauna connus de chacun ; un assistant écrit, puis vocal, qui se dit IA et passe la main ; après le séjour, une lettre signée de vous.
-- **Avancé.** Le 29 septembre 2026, 0,5 % des sites d’hôtels classés de Bourgogne-Franche-Comté proposaient une discussion en ligne (Revolution Agency [acc. S10]).
+- **Vous obtenez.** Avec son accord, sa langue, l’œuvre aimée, sa table et son créneau de sauna sont connus de ceux qui le servent, et d’eux seuls ; un assistant écrit, puis vocal, qui se dit IA et passe la main ; après le séjour, une lettre signée de vous.
+- **Avancé.** La Commission européenne décrit l’arrivée dans un hôtel en France par code QR, avec le portefeuille européen d’identité numérique, attendu à partir de fin 2026 (11 février 2026 [acc. S23], annoncé). Le 29 septembre 2026, 0,5 % des sites d’hôtels classés de Bourgogne-Franche-Comté proposaient une discussion en ligne, selon le relevé d’une agence, fait sur les pages d’accueil (Revolution Agency [acc. S10]).
 - **Format.** Douze semaines avant l’ouverture, l’écrit d’abord.
 - **Qui.** Trois logiciels du marché reliés ; nous : base de réponses ; votre équipe garde la relation.
 - **Départ.** Le logiciel des suites choisi.
 - **Mesure.** Questions réglées sans relais.
-- **À faire valider.** Article 50, consentement, aucune donnée de santé.
+- **À faire valider.** Article 50, consentement, aucune donnée de santé ; chaque donnée vue des seules personnes qui en ont besoin (RGPD, articles 5 et 25).
 - **Quand.** 2027-2028.
+
+**27. L’état de l’art, chaque saison**
+- **Une phrase.** Ce que l’IA apprend, votre maison le mesure et le prend : chaque semestre, tout ce que font vos assistants est rejoué sur les modèles les plus récents.
+- **Vous obtenez.** Tous les six mois, une liste datée : les tâches qui passent de « préparé, à valider » à « fait la nuit », et celles qui restent à une personne. Chaque saison, avec un vernissage, une soirée pour votre cercle : ce qui est devenu possible, essayé sur vos lieux, échecs compris. Chaque année, le rapport public de la maison (5). En 2027, le banc d’essai sur nos propres outils. Dès 2028, la tâche d’une entreprise d’ici, mesurée devant tous, si elle l’accepte.
+- **Avancé.** Selon le laboratoire indépendant METR, un modèle testé au printemps 2026 réussit, une fois sur deux, des tâches de logiciel qui prennent au moins seize heures à un expert ; il ne sait plus mesurer au-delà (METR, 8 septembre 2026 [front. F1]). En août 2025, c’était 2 h 17 [dir. S1]. Sur de vraies missions de travailleurs indépendants, de 2,5 % de travaux acceptables fin 2025 à 41,3 % en novembre 2026 (Scale AI [dir. S5]). Des mesures du passé, pas des prévisions.
+- **Format.** Deux jours par semestre ; une soirée par saison.
+- **Qui.** Nous : rejouer, mesurer, raconter. Votre administratrice décide de ce qui change. Vous ouvrez la soirée.
+- **Départ.** Les partitions du pupitre (20).
+- **Mesure.** Tâches passées à la nuit, par semestre ; erreurs à l’échantillon.
+- **À faire valider.** Rien ne change sans votre administratrice ; rien n’est envoyé, payé ou signé sans une personne. Aucune donnée de la maison n’est montrée. Les données d’une entreprise sont effacées après l’essai.
+- **Quand.** Dès le premier essai du pupitre, en 2027.
 
 ### Famille VII. Rayonner et financer
 
 **24. La maison lisible par les assistants**
-- **Une phrase.** Demander à un assistant d’IA où passer un week-end d’art mène à votre maison, décrite juste.
+- **Une phrase.** Quand un assistant d’IA parle de votre maison, il la décrit juste ; chaque mois, nous mesurons s’il la propose.
 - **Vous obtenez.** Une page de vérité reprise partout ; chaque mois, cinquante questions posées à quatre assistants, erreurs corrigées. En 2028, un ambassadeur qui répond aux assistants des voyageurs, sans jamais vendre seul.
 - **Avancé.** Depuis le 27 août 2026, aux États-Unis, le mode IA de la recherche Google réserve une chambre auprès de dix partenaires (PPC Land, 28 août 2026 [ray.]).
 - **Format.** Six semaines, puis une demi-journée par mois.
@@ -321,19 +343,19 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **25. L’argent qui attend**
 - **Une phrase.** Le calendrier des aides et des prêts possibles, avec l’ordre des actes.
-- **Vous obtenez.** Tout de suite, un conseil : aucun devis de travaux signé avant d’avoir vérifié les aides. Puis une fiche par aide, les dossiers préparés, une alerte avant toute signature.
-- **Avancé.** La Région aide l’hôtellerie indépendante jusqu’à 30 % des travaux, logiciel de gestion admis, dossier déposé avant tout commencement (règlement du 6 mars 2026 [terr.]). Un appel national pour l’IA dans la culture a fermé le 20 octobre 2026, crédits épuisés (Bpifrance [terr.]).
+- **Vous obtenez.** Tout de suite, un rappel : avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable. Puis une fiche par aide, les dossiers préparés, une alerte avant toute signature.
+- **Avancé.** Si vos neuf suites sont exploitées en hôtel de tourisme visant trois étoiles, la Région peut aider jusqu’à 30 % des travaux, dans un plafond ; le logiciel de gestion est admis, le bien-être exclu ; le dossier se dépose avant tout commencement (règlement régional du 6 mars 2026 [terr.]). À vérifier avec la Région. Un appel national pour l’IA dans la culture a fermé le 20 octobre 2026, crédits épuisés (Bpifrance [terr.]).
 - **Format.** Trois semaines, puis un à cinq jours par dossier.
 - **Qui.** Nous préparons ; votre administratrice tient le calendrier ; votre société dépose, jamais nous.
 - **Départ.** Vos projets, les devis déjà signés.
 - **Mesure.** Dossiers déposés à temps.
-- **À faire valider.** Un devis signé vaut commencement, aucune aide promise.
+- **À faire valider.** Un devis signé vaut commencement, aucune aide promise ; le règlement régional s’arrête au 31 décembre 2028.
 - **Quand.** Maintenant.
 
 **26. L’art en entreprise**
 - **Une phrase.** Des œuvres d’artistes vivants pour les entreprises, votre galerie servant de salon d’essai.
 - **Vous obtenez.** Un dossier par entreprise, préparé la nuit, relu le matin : artistes, accrochage simulé et signalé, note pour son expert-comptable ; puis le suivi.
-- **Avancé.** Sur de vraies missions d’indépendants, l’agent d’IA en tête du classement rend un travail acceptable dans 41,3 % des cas en novembre 2026, contre 2,5 % fin 2025 (Scale AI [dir. S5]) : il prépare, une personne relit.
+- **Avancé.** Sur de vraies missions d’indépendants, l’agent d’IA en tête du classement rend un travail acceptable dans 41,3 % des cas en novembre 2026, contre 2,5 % fin 2025 (Scale AI [dir. S5] ; rappel du fait de l’offre 27) : il prépare, une personne relit.
 - **Format.** Six semaines, puis deux jours par entreprise.
 - **Qui.** Nous : dossiers. Votre équipe vend. L’expert-comptable de chaque entreprise valide.
 - **Départ.** Trois entreprises.
@@ -341,14 +363,14 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **À faire valider.** Déduction des achats faits avant le 31 décembre 2028 (article 238 bis AB) : jamais un argument chiffré.
 - **Quand.** 2027-2028.
 
-## 3. Cinq projets phares pour l’ouverture de 2027
+## 3. Six projets phares pour votre ouverture
 
-Commande au premier trimestre 2027 ; dates d’ouverture à fixer avec vous.
+Commandés en janvier 2027, ils permettent d’ouvrir au plus tôt à l’automne 2027 ; commandés plus tard, au printemps 2028. La date se fixe avec vous pendant le cadrage.
 
-1. **La première nuit des œuvres** (offres 12, 16, 18, 23). *Le client des suites.* Un couple arrive de Milan, son programme reçu la veille en italien. Dans sa suite, une toile choisie pour lui, un mot au chevet, aucun écran. Quand le rideau du cabaret tombe, la suite est prête. Au matin, le sauna à son heure, puis le dossier de l’œuvre aimée. Il repart avec le tirage signé de sa nuit.
-2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux a visité l’accrochage depuis Londres, avec vous. Devant l’œuvre réservée, il approche son téléphone du châssis : le certificat s’affiche.
-3. **La main et la machine** (8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Dans la galerie, votre stock fait face aux œuvres commandées ; sous chacune, la part de la main et celle de la machine. Dans dix ans, on marchera encore dans cette exposition.
-4. **Le vernissage-spectacle** (17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. Des artistes vivants : aucun avatar, aucune voix imitée.
+1. **La première nuit des œuvres** (offres 12, 16, 18, 23). *Le client des suites.* Un couple arrive de Milan, son programme reçu la veille en italien. Dans sa suite, la toile que vous avez choisie pour la saison, un mot au chevet, aucun écran. Quand le rideau du cabaret tombe, la suite est prête. Au matin, le sauna à son heure, puis le dossier de l’œuvre aimée. Le tirage de sa nuit le suivra, signé de l’artiste.
+2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu une lettre de votre main, dans leur langue ; dix, une salle accrochée pour eux seuls, cinq œuvres de votre stock. L’un d’eux l’a parcourue depuis Londres, avec vous. Devant l’œuvre réservée, il approche son téléphone du châssis : le certificat s’affiche.
+3. **État de l’art** (8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Dans la galerie, les œuvres de votre stock répondent aux œuvres commandées ; sous chacune, son cartel de fabrication. Les fichiers de cette exposition sont à vous : on pourra y revenir. Chaque œuvre de cette salle fut neuve un jour ; certaines le sont depuis ce matin.
+4. **Le vernissage-spectacle** (17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. Des artistes vivants : aucun avatar, aucune voix reproduite sans accord.
 5. **Le matin de la maison** (2, 20, 22). *Vous et votre administratrice.* Sept heures. Sur un écran, la nuit de tous vos lieux : factures du chantier rapprochées des devis, deux écarts signalés, l’analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
 
 ## 4. Trois façons de commencer, vendredi
