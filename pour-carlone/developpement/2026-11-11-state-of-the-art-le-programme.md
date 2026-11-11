@@ -55,7 +55,7 @@ Commandés en janvier 2027, ils permettent d’ouvrir au plus tôt à l’automn
 
 Le cadrage reste la première marche recommandée : trois à quatre semaines, prix fixe, **6 500 € hors taxes, soit 7 800 € toutes taxes comprises, sous réserve de la TVA**. Tourné vers vos trois moments, il vous remet l’inventaire validé de vos sociétés, lieux, commerces et projets, vos trois priorités à 90 jours, trois tâches au plus à essayer et le choix argumenté de la suite. Démarrage visé début janvier 2027, pour une commande signée avant la mi-décembre ; détail dans notre offre en une page.
 
-1. **Tout de suite.** Le cadrage ; et, si une date l’impose, une offre qui n’attend pas : la règle de la maison, le film du chantier, la note pour votre architecte, l’état zéro de vos murs, le calendrier des aides. Avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable.
+1. **Tout de suite.** Le cadrage ; et, si une date l’impose, une offre qui n’attend pas : la règle de la maison, le film du chantier, la note pour votre architecte, l’état zéro de vos murs, le calendrier des aides. Comme le cadrage, elle démarre à l’immatriculation de Marwin Tech. Avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable.
 2. **D’abord par le cadrage.** Vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret ; puis un essai à la fois, de huit semaines au plus, mesuré avant et après.
 3. **Pour plus tard.** Les commandes d’œuvres, la résidence, Solstice et Bourges, le catalogue raisonné : leur conception peut commencer pendant le cadrage ; aucun artiste n’est contacté sans votre accord.
 
@@ -63,6 +63,6 @@ Le cadrage reste la première marche recommandée : trois à quatre semaines, pr
 
 ## Comment deux associés le tiennent
 
-Morgan Olsen et Mathys Couet ; Marwin Tech est en cours de création, aucune facture avant son immatriculation. **Nous concevons et orchestrons. Des spécialistes exécutent** (artistes, commissaire, intégrateurs, éditeurs de logiciels, professionnels du droit), aucun n’est approché sans votre accord. **Votre équipe garde la main** : votre administratrice dirige, aidée. **Une personne décide toujours** : rien n’est envoyé, payé ou signé sans une personne habilitée. Deux chantiers à la fois au plus ; tout à votre nom, tout exportable.
+Morgan Olsen et Mathys Couet ; Marwin Tech est en cours de création, aucune facture ni aucun démarrage avant son immatriculation. **Nous concevons et orchestrons. Des spécialistes exécutent** (artistes, commissaire, intégrateurs, éditeurs de logiciels, professionnels du droit), aucun n’est approché sans votre accord. **Votre équipe garde la main** : votre administratrice dirige, aidée. **Une personne décide toujours** : rien n’est envoyé, payé ou signé sans une personne habilitée. Deux chantiers à la fois au plus ; tout à votre nom, tout exportable.
 
 **Ce qui ne bouge pas.** Aucun résultat promis, chaque gain se mesure ; l’IA n’authentifie ni n’estime ; une œuvre n’est jamais un placement ; toute image créée avec l’IA est signalée ; le droit, à faire valider par vos professionnels.

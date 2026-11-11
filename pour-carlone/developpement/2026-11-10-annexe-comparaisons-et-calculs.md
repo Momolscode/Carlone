@@ -45,7 +45,7 @@ Sources : pages de tarifs des éditeurs (claude.com/pricing, mistral.ai/pricing)
 
 **La leçon.** Les grands multiplicateurs existent seulement sur des tâches répétitives que l’on peut traiter en parallèle. Ailleurs, selon la tâche, les études publiées mesurent de −19 % (19 % de temps en plus) à +56 % (une tâche finie 56 % plus vite) : quelques dizaines de pour cent, parfois un recul. C’est pourquoi nous mesurerons chaque tâche avant et après l’essai.
 
-**Deux tendances mesurées, sans promesse.** Sur des tâches de logiciel, la longueur des tâches qu’un agent d’IA réussit seul une fois sur deux double environ tous les sept mois depuis 2019, une mesure du passé, pas une prévision ; début 2026, il réussissait seul, quatre fois sur cinq, une tâche d’environ une heure et demie de travail d’expert (METR, 29 janvier et 19 mai 2026). À qualité égale, le coût d’usage de l’IA a baissé d’environ 47 % par trimestre depuis 2023, soit environ treize fois par an (Epoch AI, 22 septembre 2026). Rien n’assure que ces rythmes durent, et la baisse ralentit avec le temps. D’où notre règle : des tâches courtes et vérifiables, relues par une personne.
+**Deux tendances mesurées, sans promesse.** Sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 (METR, janvier 2026) ; un modèle testé au printemps 2026 en réussit qui demandent au moins seize heures à un expert (METR, septembre 2026). Des mesures du passé, pas des prévisions. À qualité égale, le coût d’usage de l’IA a baissé d’environ 47 % par trimestre depuis 2023, soit environ treize fois par an (Epoch AI, 22 septembre 2026). Rien n’assure que ces rythmes durent, et la baisse ralentit avec le temps. D’où notre règle : des tâches courtes et vérifiables, relues par une personne.
 
 ## 4. Trois chemins, en ordre de grandeur
 
@@ -53,12 +53,12 @@ Sources : pages de tarifs des éditeurs (claude.com/pricing, mistral.ai/pricing)
 | --- | --- | --- | --- |
 | Équipe | deux associés | deux associés rémunérés, un collaborateur ou un apprenti | quatre à six personnes |
 | Calcul | paiement à l’usage | paiement à l’usage, location ponctuelle, une machine de bureau chez vous si elle est utile | station de calcul dédiée, si un besoin mesuré le justifie |
-| Investissement de départ | aucun | environ 6 000 à 10 000 € hors taxes (une machine de bureau et sa mise en service, si elle est utile) | environ 11 000 à 25 000 € hors taxes pour une station de calcul ; une DGX Station reste hors de proportion |
+| Investissement de départ | aucun | une machine de bureau, si elle est utile, au prix public relevé au § 1 ; sa mise en service, avec un prix écrit avant toute commande | une station de calcul, prix à demander à un revendeur ; une DGX Station reste hors de proportion (§ 1) |
 | Dépenses courantes, outils | quelques dizaines d’euros par mois | quelques centaines d’euros par mois | environ un à deux milliers d’euros par mois, selon le calcul loué |
 | Dépenses courantes, personnes | — | l’essentiel du coût | l’essentiel du coût |
-| Ce que cela permet | une étape et un essai à la fois | plusieurs chantiers en parallèle, relève assurée | un laboratoire, des prototypes, plusieurs clients |
+| Ce que cela permet | deux chantiers à la fois au plus, un essai à la fois ; relève plus lente | plus de deux chantiers en parallèle, relève sans délai | un laboratoire, des prototypes, plusieurs clients |
 | Première priorité | le cadrage | mesurer les premiers gains, former | ce que les mesures auront montré |
 
-**Laboratoire.** Applications proches (quelques mois) : des prototypes d’outils pour vos lieux, construits à partir de vos documents. Pistes de recherche, sans date : un outil qui jugerait seul l’état d’une œuvre ou d’un bâtiment, un agent qui agirait sans validation humaine. La robotique reste « plus tard, sous conditions » (financement, sécurité, partenaires).
+**Laboratoire.** Applications proches (quelques mois) : des prototypes d’outils pour vos lieux, construits à partir de vos documents. Recherches, sans date : un outil qui jugerait seul l’état d’une œuvre ou d’un bâtiment, un agent qui agirait sans validation humaine. La robotique reste « plus tard, sous conditions » (financement, sécurité, partenaires).
 
 Toutes ces sommes sont des estimations à valider. Ce qui touche à la fiscalité, à l’amortissement d’un matériel ou à l’emploi est à faire valider par vos professionnels (expert-comptable, avocat).

@@ -19,7 +19,7 @@ Les champs « ……… » sont à compléter. Les mentions entre crochets sont 
 
 ## 2. Objet
 
-Un cadrage à prix fixe, tel que décrit dans la proposition du ……… : l’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours, chacune avec un objectif mesurable ; trois tâches au plus à essayer, chacune avec sa mesure de départ ; le choix argumenté de la suite. Si vous en faites une priorité : vos besoins et vos critères de choix pour votre logiciel de gestion de vos propriétés ; la comparaison des logiciels du marché se commande à part. Aucun outil n’est mis en service pendant le cadrage.
+Un cadrage à prix fixe, tel que décrit dans la proposition du ……… : l’inventaire validé de vos sociétés, lieux, commerces et projets ; vos trois priorités à 90 jours, chacune avec un objectif mesurable ; trois tâches au plus à essayer, chacune avec sa mesure de départ ; le choix argumenté de la suite. Le cadrage se tourne vers les trois projets phares que vous avez choisis (……… ; ……… ; ………), au même prix. Si vous en faites une priorité : vos besoins et vos critères de choix pour votre logiciel de gestion de vos propriétés ; la comparaison des logiciels du marché se commande à part. Aucun outil n’est mis en service pendant le cadrage.
 
 ## 3. Ce qui vous est remis
 

@@ -44,8 +44,8 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 - Vos comptes, vos données et vos accès, au nom de votre société.
 - Vos décisions. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée.
 
-**Ce qui se passe ensuite.** Vous choisissez une suite dans les trente jours après la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix. Votre logiciel aussi, étape par étape.
+**Ce qui se passe ensuite.** Vous choisissez une suite dans les trente jours après la restitution, ou aucune. Un essai à la fois : huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix. Votre logiciel aussi, étape par étape, et chaque offre de notre programme.
 
-**Qui nous sommes.** Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
+**Qui nous sommes.** Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : deux chantiers à la fois au plus, un essai à la fois.
 
 **Pour commencer** : un bon de commande et ses conditions, signés par votre société. Rien ne vous engage avant.

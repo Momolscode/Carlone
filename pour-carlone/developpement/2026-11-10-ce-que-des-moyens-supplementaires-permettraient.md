@@ -2,9 +2,9 @@
 
 PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
-**D’abord, ce qui ne change pas.** Notre offre du jour, le cadrage à 6 500 € hors taxes, se tient avec nos moyens actuels. Rien de ce qui suit n’en est une condition. Cette page décrit une possibilité, pour plus tard, si vous le souhaitez.
+**D’abord, ce qui ne change pas.** Notre programme et sa première marche, le cadrage à 6 500 € hors taxes (7 800 € toutes taxes comprises, sous réserve de la TVA), se tiennent avec nos moyens actuels. Rien de ce qui suit n’en est une condition. Cette page décrit une possibilité, pour plus tard, si vous le souhaitez.
 
-**Notre ambition dépasse nos moyens.** Aujourd’hui, nous sommes deux : une étape et un essai à la fois. Si l’un de nous manque, le travail s’arrête. Avec des moyens adaptés, certaines capacités changeraient d’échelle.
+**Notre ambition dépasse nos moyens.** Aujourd’hui, nous sommes deux : deux chantiers à la fois au plus, un essai à la fois. Si l’un de nous manque, l’autre reprend votre dossier, plus lentement. Avec des moyens adaptés, certaines capacités changeraient d’échelle.
 
 **Où le gain peut être très grand, et où il ne l’est pas**
 
@@ -16,14 +16,14 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
 
 | Moyen | Obstacle levé | Ce que cela permettrait pour vous |
 | --- | --- | --- |
-| Une machine d’IA installée chez vous, au nom de votre société | Des documents confidentiels que vous ne voulez pas envoyer en ligne | Lire, classer et retrouver vos archives sans qu’elles quittent vos murs, si les logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue |
+| Une machine d’IA installée chez vous, au nom de votre société, déjà possible en option du livre des amateurs (offre 6), étendue à toutes vos archives | Des documents confidentiels que vous ne voulez pas envoyer en ligne | Lire, classer et retrouver vos archives sans qu’elles quittent vos murs, si les logiciels n’envoient rien en ligne et si la sécurité de la machine est tenue |
 | Des abonnements d’équipe et du calcul à la demande | Limites d’usage, une tâche à la fois | Plusieurs traitements en même temps, donc moins d’attente pour vous |
-| Une rémunération stable et un ou deux collaborateurs formés | Deux personnes, pas de relève | Plusieurs chantiers en parallèle, un interlocuteur présent même en cas d’absence, des compétences transmises, des emplois, si possible dans la Nièvre |
+| Une rémunération stable et un ou deux collaborateurs formés | Deux personnes, une relève plus lente | Plus de deux chantiers en parallèle, une relève sans délai en cas d’absence, des compétences transmises, des emplois, si possible dans la Nièvre |
 | Du temps protégé pour expérimenter | Pas de temps pour tester | Des prototypes utiles à vos lieux, essayés avant d’être proposés |
 
 **Trois chemins possibles** (détail et estimations en annexe)
 
-1. **Moyens actuels** : une étape et un essai à la fois. C’est ce que nous vous proposons aujourd’hui.
+1. **Moyens actuels** : deux chantiers à la fois au plus, un essai à la fois. C’est ainsi que nous tenons le programme que nous vous proposons aujourd’hui.
 2. **Renforcement ciblé** : outils d’équipe, une machine d’IA chez vous si elle est utile, un premier collaborateur. Un investissement de départ de plusieurs milliers d’euros, puis surtout du temps humain.
 3. **Développement ambitieux** : une petite équipe, une station de calcul, un laboratoire. À n’envisager qu’après des résultats mesurés.
 

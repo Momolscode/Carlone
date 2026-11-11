@@ -6,7 +6,7 @@ Pour GianLuca Carlone · Marwin Tech · 11 novembre 2026
 
 *Les œuvres que vous aimez furent l’état de l’art de leur temps. Votre maison sera l’état de l’art du nôtre.*
 
-**Chaque offre se commande à part, avec un prix écrit avant toute commande ; le cadrage, à 6 500 € hors taxes, est la première marche que nous recommandons.**
+**Chaque offre se commande à part, avec un prix écrit avant toute commande ; le cadrage, à 6 500 € hors taxes (7 800 € toutes taxes comprises, sous réserve de la TVA), est la première marche que nous recommandons.**
 
 Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : nous en parlerons ensemble. « Quand » : l’année où l’offre peut commencer, selon la date de vos ouvertures. À la fin : six projets phares et trois façons de commencer.
 
@@ -37,12 +37,12 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 | | 19 | Solstice et la porte de Bourges 2028 | 2027 ; 2028 | ☐ | ☐ | ☐ |
 | | 29 | L’eau, le feu, la nuit | Ouverture des suites ; 2028 | ☐ | ☐ | ☐ |
 | **VI. La maison orchestrée** | 20 | Le pupitre de votre administratrice | 2027 ; 2030 | ☐ | ☐ | ☐ |
-| | 21 | Le carnet vivant des murs | Maintenant | ☐ | ☐ | ☐ |
+| | 21 | Le carnet vivant des murs | Dès notre immatriculation | ☐ | ☐ | ☐ |
 | | 22 | Le tableau d’ouverture et la répétition générale | 2027 | ☐ | ☐ | ☐ |
 | | 23 | Le fil de l’invité | 2027-2028 | ☐ | ☐ | ☐ |
 | | 27 | L’état de l’art, chaque saison | 2027 | ☐ | ☐ | ☐ |
 | **VII. Rayonner et financer** | 24 | La maison lisible par les assistants | 2027 ; 2028 | ☐ | ☐ | ☐ |
-| | 25 | L’argent qui attend | Maintenant | ☐ | ☐ | ☐ |
+| | 25 | L’argent qui attend | Dès notre immatriculation | ☐ | ☐ | ☐ |
 | | 26 | L’art en entreprise | 2027-2028 | ☐ | ☐ | ☐ |
 
 </div>
@@ -53,7 +53,8 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 - **Un outil du marché d’abord.** Nous construisons seulement ce qui manque, et nous le relions au reste.
 - **Rien sans une personne.** Lecture seule d’abord. Rien n’est envoyé, payé ou signé sans une personne habilitée. Votre administratrice est aidée, jamais remplacée ni surveillée.
 - **Tout à votre nom.** Comptes, données et fichiers au nom de votre société, exportables à tout moment.
-- **Une marche à la fois.** Nous sommes deux : un essai à la fois, chaque marche mesurée avant la suivante.
+- **Une société en création.** Marwin Tech est en cours de création : aucune facture ni aucun démarrage avant son immatriculation.
+- **Deux chantiers à la fois au plus.** Nous sommes deux : un seul chantier sur vos données, un essai à la fois, chaque marche mesurée avant la suivante.
 - **Aucun résultat promis.** Chaque gain se dit avec sa tâche et son point de départ, puis se mesure.
 - **« Ce qu’elle a d’avancé ».** Un fait daté, avec sa source : ce qui existe déjà ailleurs. C’est un repère, pas une promesse pour votre maison.
 - **Le droit.** Ce qui touche au droit, aux autorisations ou à la fiscalité est à faire valider par vos professionnels.
@@ -93,7 +94,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 - **Format et durée.** Un mois de montage, puis une page chaque semaine.
 - **Qui fait quoi.** Nous : les sources, le montage, le tri. Des bases sous abonnement. Vous : qui appeler.
 - **Pour commencer.** La liste de vos artistes et dix souhaits de collectionneurs.
-- **Ce qui se mesure.** Pistes retenues par mois. Parmi les dix premiers lots triés par l’œil appris, combien vous en auriez retenu.
+- **Ce qui se mesure.** Œuvres signalées retenues par mois. Parmi les dix premiers lots triés par l’œil appris, combien vous en auriez retenu.
 - **À faire valider par vos professionnels.** Les conditions d’usage des bases ; la lecture seule.
 - **Quand.** La veille en 2027 ; l’œil appris en 2028.
 
@@ -165,7 +166,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 
 - **En une phrase.** Chaque œuvre part avec un dossier qui la suit de main en main ; celles nées chez vous, avec le journal daté de leur fabrication.
 - **Ce que vous obtenez.** Un cartel de fabrication : la part de la main, celle de la machine. Le journal daté de la création. Au dos, un certificat signé doublé d’une puce. Pour l’acheteur : provenance, conservation, et dossier de sortie s’il vit à l’étranger.
-- **Ce qu’elle a d’avancé.** Selon son éditeur, chaque œuvre d’un stand d’Art Basel portait un certificat lié à une puce (Verisart, 22 juin 2026). Selon un rapport de mission remis au Conseil supérieur de la propriété littéraire et artistique, et publié par le ministère de la Culture le 16 juillet 2026, une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine. C’est un avis, pas une loi ; aucun juge français ne l’a encore tranché. Le journal daté de la création garde cette trace.
+- **Ce qu’elle a d’avancé.** Selon son éditeur, chaque œuvre d’un stand d’Art Basel portait un certificat lié à une puce (Verisart, 22 juin 2026). Selon la page de présentation d’un rapport de mission remis au Conseil supérieur de la propriété littéraire et artistique, publiée par le ministère de la Culture le 16 juillet 2026, une création faite avec l’IA peut être protégée si elle porte la trace d’une direction humaine. C’est un avis, pas une loi ; aucun juge français ne l’a encore tranché. Le journal daté de la création garde cette trace.
 - **Format et durée.** Six semaines, puis à chaque œuvre.
 - **Qui fait quoi.** Nous : le cartel et l’outil du journal. Un prestataire de certificats ; votre avocat écrit les mentions. L’artiste tient son journal ; vous signez.
 - **Pour commencer.** Trois œuvres.
@@ -189,7 +190,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 
 - **En une phrase.** Chaque accrochage capté en 3D et remis à votre nom dans un format ouvert : on pourra y revenir tant que vous gardez les fichiers ; puis des œuvres commandées pour ce médium.
 - **Ce que vous obtenez.** Chaque exposition revisitable par un lien, lumière comprise. Dès l’ouverture, la maison d’avant : vos murs d’avant les travaux, devenus œuvre (projet phare 6). En 2028, une œuvre faite pour un monde en 3D, que l’on explore. Vers 2030, des mondes où l’on parle.
-- **Ce qu’elle a d’avancé.** Un monde 3D se tire aujourd’hui de quelques photos ou d’une courte vidéo d’un lieu réel ; l’outil est ouvert à tous (World Labs, 12 novembre 2025). À Los Angeles, le LACMA présente jusqu’au 20 décembre 2026 une œuvre faite d’objets capturés en 3D, que l’on manipule sur un téléphone. Le 27 octobre 2026, Google DeepMind a présenté à des testeurs des mondes explorables où des personnages parlent.
+- **Ce qu’elle a d’avancé.** Un monde 3D se tire aujourd’hui de quelques photos ou d’une courte vidéo d’un lieu réel ; l’outil est ouvert à tous (World Labs, 12 novembre 2025). À Los Angeles, le LACMA présente jusqu’au 20 décembre 2026 une œuvre faite d’objets capturés en 3D, que l’on manipule sur un téléphone (LACMA, page de l’exposition, consultée le 11 novembre 2026). Le 27 octobre 2026, Google DeepMind a présenté à des testeurs des mondes explorables où des personnages parlent.
 - **Format et durée.** Une journée de capture par accrochage ; un essai de quatre semaines pour la première commande.
 - **Qui fait quoi.** Un spécialiste de la capture ; nous : le protocole, la mise en ligne. L’artiste dirige son œuvre.
 - **Pour commencer.** L’accord écrit des artistes exposés.
@@ -226,7 +227,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 ### 13. La résidence « État de l’art », puis un laboratoire associé
 
 - **En une phrase.** Un appel annuel lu en entier, deux artistes accueillis hors saison avec la puissance de calcul et un ingénieur ; puis, si un laboratoire s’associe, des chercheurs accueillis.
-- **Ce que vous obtenez.** Chaque dossier résumé dans votre langue ; deux œuvres nées chez vous par an ; le prix de la résidence. Dès 2028, des travaux publiés avec le laboratoire ; et, avec l’état de l’art de chaque saison (offre 27), la tâche d’une entreprise d’ici confiée à un agent d’IA, mesurée devant tous, échecs compris.
+- **Ce que vous obtenez.** Chaque dossier résumé dans votre langue ; deux œuvres nées chez vous par an ; une récompense décernée chaque année par votre jury. Dès 2028, des travaux publiés avec le laboratoire ; et, avec l’état de l’art de chaque saison (offre 27), la tâche d’une entreprise d’ici confiée à un agent d’IA, mesurée devant tous, échecs compris.
 - **Ce qu’elle a d’avancé.** La Villa Albertine ouvre quatre résidences « Les arts à l’ère de l’IA » en 2026, et quatre en 2027 (CNC, 25 février 2025). Première lecture des dossiers, traités en parallèle : jusqu’à cent fois plus vite qu’une personne qui les lit un par un ; hypothèse à mesurer.
 - **Format et durée.** Un appel en trois mois ; une résidence de quatre à huit semaines ; un laboratoire sur deux à trois ans.
 - **Qui fait quoi.** Nous : l’appel, la lecture préparée, les outils, les contrats. Un jury que vous présidez ; un laboratoire universitaire, à trouver.
@@ -289,7 +290,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 
 - **En une phrase.** Un séjour que notre recherche n’a trouvé nulle part ailleurs : vernissage, dîner, cabaret, une suite habitée par une œuvre, le sauna au matin, une visite privée avant le départ.
 - **Ce que vous obtenez.** Trois programmes, vendus par une agence de voyages immatriculée, ou par votre société une fois immatriculée chez Atout France. À 18 heures, chacun dans la maison reçoit sa conduite de la soirée ; la suite est prête quand le rideau tombe.
-- **Ce qu’elle a d’avancé.** À Kirrwiller, en Alsace, un cabaret de village a annoncé un hôtel et un spa au 28 août 2026 (page officielle). Notre recherche du 11 novembre 2026 n’a trouvé aucun lieu qui réunisse l’art, la scène, le soin et la nuit autour d’une galerie marchande.
+- **Ce qu’elle a d’avancé.** À Kirrwiller, en Alsace, un cabaret de village a annoncé l’ouverture d’un hôtel et d’un spa au 28 août 2026 (page officielle, consultée le 11 novembre 2026). Notre recherche du 11 novembre 2026 n’a trouvé aucun lieu qui réunisse l’art, la scène, le soin et la nuit autour d’une galerie marchande.
 - **Format et durée.** Deux mois ; la conduite, trois mois avant l’ouverture du cabaret.
 - **Qui fait quoi.** Vos professionnels fixent le cadre ; une agence de voyages immatriculée vend, ou votre société une fois immatriculée. Nous : les programmes, la conduite, les liens.
 - **Pour commencer.** Le cadre de vente, validé.
@@ -345,7 +346,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 - **Pour commencer.** Les plans en cours.
 - **Ce qui se mesure.** Dépassements vus avant paiement.
 - **À faire valider par vos professionnels.** Une image 3D n’est pas une mesure ; un réseau séparé ; la maîtrise d’œuvre reste à votre architecte.
-- **Quand.** La note et l’état zéro maintenant, avant le premier devis de travaux ; le carnet en 2027 ; vers 2030, un bâtiment que l’on interroge en langage courant.
+- **Quand.** La note et l’état zéro dès notre immatriculation, avant le premier devis de travaux ; le carnet en 2027 ; vers 2030, un bâtiment que l’on interroge en langage courant.
 
 ### 22. Le tableau d’ouverture et la répétition générale
 
@@ -407,7 +408,7 @@ Sept familles, vingt-neuf offres, noms de travail. Cochez ce qui vous parle : no
 - **Pour commencer.** La liste de vos projets et des devis déjà signés.
 - **Ce qui se mesure.** Dossiers déposés à temps.
 - **À faire valider par vos professionnels.** Un devis signé vaut commencement ; aucune aide n’est promise ; le règlement régional s’arrête au 31 décembre 2028.
-- **Quand.** Maintenant.
+- **Quand.** Dès notre immatriculation.
 
 ### 26. L’art en entreprise
 
@@ -432,7 +433,7 @@ Les offres se combinent en six moments, imaginés pour le jour de votre ouvertur
 5. **Le matin de la maison** (offres 2, 20, 22). *Vous et votre administratrice.* Sept heures. Sur un écran, la nuit de tous vos lieux : les factures du chantier rapprochées des devis, deux écarts signalés, l’analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
 6. **La maison d’avant** (offres 9, 10, 15, 21). *Le visiteur.* Avant d’entrer dans la galerie, il marche dans vos murs tels qu’ils étaient le jour de votre achat, relevés en 3D avant le premier coup de pioche. Un artiste en a fait une œuvre. Une porte s’ouvre : la galerie d’aujourd’hui.
    - *Ce qu’elle a d’avancé.* Le chantier de Notre-Dame de Paris a réuni plus de 170 scientifiques ; un double numérique a été bâti à partir de relevés 3D faits avant et après l’incendie (ministère de la Culture, 25 novembre 2024). Un monde 3D se tire aujourd’hui de quelques photos ou d’une courte vidéo d’un lieu réel (World Labs, 12 novembre 2025).
-   - *Quand.* La capture maintenant, avant tout chantier ; l’œuvre à l’ouverture, dans la première salle de l’exposition (offre 15).
+   - *Quand.* La capture dès notre immatriculation, avant tout chantier ; l’œuvre à l’ouverture, dans la première salle de l’exposition (offre 15).
    - *À faire valider par vos professionnels.* Une image 3D n’est pas une mesure. L’œuvre est signalée sans être gênée (règlement européen sur l’IA, article 50). Aucune personne reconnaissable sans accord écrit.
 
 ## Par où commencer
@@ -448,7 +449,7 @@ Les offres se combinent en six moments, imaginés pour le jour de votre ouvertur
 
 ### Trois façons de commencer
 
-1. **Tout de suite.** Votre accord pour le cadrage. Le jour même, un rappel : avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable. Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la règle de la maison (offre 5), le film du chantier (offre 9), la note pour votre architecte et l’état zéro de vos murs, capté avant le premier devis de travaux (offre 21), le calendrier des aides (offre 25).
+1. **Tout de suite.** Votre accord pour le cadrage. Le jour même, un rappel : avant de signer un devis de travaux, vérifiez avec vos professionnels les aides qui exigent un dossier préalable. Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la règle de la maison (offre 5), le film du chantier (offre 9), la note pour votre architecte et l’état zéro de vos murs, capté avant le premier devis de travaux (offre 21), le calendrier des aides (offre 25). Comme le cadrage, elle démarre à l’immatriculation de Marwin Tech.
 2. **D’abord par le cadrage.** Tout ce qui touche vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret : offres 1 à 4, 6 à 8, 16 à 18, 20, 22 à 24, 26 et 27. Le cadrage en tire vos trois priorités à 90 jours ; puis un essai à la fois.
 3. **Ce qui se prépare pour plus tard.** Ce qui demande des mois : les mondes et la maison d’avant (offre 10), les commandes d’œuvres (offres 11, 12, 15, 29), la résidence (offre 13), la main d’ici (offre 14), Bourges et Solstice (offre 19), le catalogue raisonné (offre 28). Leur conception peut commencer pendant le cadrage, commandée à part ; aucun artiste n’est contacté sans votre accord.
 

@@ -4,7 +4,7 @@ PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé l
 
 > *Pour GianLuca Carlone : cette page s’adresse à votre administratrice. Vous la lui remettez si vous le souhaitez, telle quelle ou modifiée. Rien ne lui est demandé avant votre accord.*
 
-Nous sommes Morgan Olsen et Mathys Couet, de Marwin Tech, société en cours de création, immatriculée avant toute facture et tout démarrage. Nous n’intervenons que si GianLuca Carlone commande un cadrage : trois à quatre semaines pour mettre à plat ses sociétés, ses lieux et ses projets, et choisir trois priorités.
+Nous sommes Morgan Olsen et Mathys Couet, de Marwin Tech, société en cours de création, immatriculée avant toute facture et tout démarrage. Nous n’intervenons que sur commande de GianLuca Carlone, en commençant par un cadrage : trois à quatre semaines pour mettre à plat ses sociétés, ses lieux et ses projets, et choisir trois priorités.
 
 **Vous voyez comment les choses se passent vraiment.** Qui appeler, où est tel document, ce qui bloque. Le cadrage part de ce que vous savez : c’est sa matière première.
 
