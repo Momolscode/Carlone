@@ -430,3 +430,48 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 24. Mêmes prix partout ; prix personnalisé déclaré ; aucune réservation sans validation.
 25. Un devis signé vaut commencement ; sa société dépose ; aucune aide promise.
 26. 238 bis AB, achats avant le 31 décembre 2028 ; aucun chiffre d’avantage.
+
+## 9. Faits citables retenus
+
+Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chiffres d’Art Basel et UBS : il les connaît mieux que nous.
+
+1. METR, seize heures d’expert en logiciel, une fois sur deux : 8 septembre 2026 [front. F1] ; § 5.
+2. Scale AI, de 2,5 % à 41,3 % de travaux acceptables : novembre 2026 [dir. S5] ; offre 26.
+3. Boutique tenue par un agent : Anthropic, 18 décembre 2025 [dir. S8] ; offre 20.
+4. Gartner, plus de 40 % de projets d’agents abandonnés d’ici fin 2027 : 25 juin 2025 [dir. S20] ; offre 22.
+5. Factures électroniques : trois entreprises sur quatre équipées au 4 octobre 2026 ; PME émettrices au 1er septembre 2027 (communiqué, 9 octobre 2026 [dir. S16]) ; offre 20.
+6. Google Meet, voix traduite qui imite le ton : 4 février 2026 [front. F10] ; offre 7.
+7. Mondes explorables où l’on parle : Google DeepMind, 27 octobre 2026 [front. F8] ; offre 10.
+8. LACMA, objets capturés en 3D : jusqu’au 20 décembre 2026 [gal. S14] ; offre 10.
+9. 84 % des professionnels de galerie utilisent l’IA ; 8 % des galeries ont une règle : 17 avril 2026 [gal. S4] ; offre 5.
+10. Santa Clara, plus de 70 œuvres spoliées : 9 août 2026 [gal. S23] ; offre 2.
+11. Certificat lié à une puce à Art Basel : Verisart, 22 juin 2026 [gal. S21] ; offre 8.
+12. Création avec l’IA protégeable si la direction humaine se prouve : ministère de la Culture, 16 juillet 2026 [créa.] ; offre 8.
+13. Jeu de Paume, 88 151 visiteurs : rapport d’activité 2025 [créa.] ; offre 15.
+14. Lunettes de surtitres, 223 langues annoncées : 29 mai 2025 [scène] ; offre 17.
+15. The Fife Arms, plus de 16 000 œuvres et objets : page officielle [acc. S13] ; offre 16.
+16. Kirrwiller, hôtel et spa au 28 août 2026 : page officielle [acc. S12] ; offre 18.
+17. Dark Mofo, 306 601 nuitées : 22 septembre 2026 [lieux] ; offre 19.
+18. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 : 16 décembre 2025 [terr.] ; offre 19.
+19. Google réserve une chambre dans son mode IA : 28 août 2026 [ray.] ; offre 24.
+20. Région, jusqu’à 30 % des travaux, dossier avant tout commencement : 6 mars 2026 [terr.] ; offre 25.
+
+À ne jamais citer : la source [S1] de la note « accueil » ; les « six mois » d’Orsay ; un chiffre seulement « vu » (Kistefos 2019) ; le prix de la machine (dépôt, à revérifier).
+
+## 10. Plan des documents à écrire
+
+**(a) Une page « State Of The Art : le programme ».** Mention PROJET ; phrase-titre ; les dix lignes ; les sept familles et les cinq phares, une ligne chacun ; la question « Par où votre maison commence-t-elle ? » ; le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
+
+**(b) Le catalogue client.** Une demi-page par offre : rubriques du § 2, sans crochets ; « un prix écrit avant toute commande » ; noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
+
+**(c) Les diapositives.** Environ quatre minutes de plus, à arbitrer (V14). La diapositive `offres` (23) garde ses quatre niveaux : « construire » renvoie aux familles I à VI, « rayonner » à la famille VII, à la résidence et à Solstice.
+
+| Id, place | Titre | À l’écran | L’orateur dit |
+| --- | --- | --- | --- |
+| `sota-vision`, après `enjeux` (6) | State Of The Art : votre œil, l’IA dans l’ombre | Une maison d’art que l’on vient voir de loin / Rien de ce qu’on vous confie ne la quitte / Des œuvres nées chez vous, avec la preuve de la main / La nuit, des assistants ; au matin, une page / Plus de maison, pas plus de machines | « Voici notre vision. On viendra de loin pour une œuvre ; on restera une nuit. Ce que l’IA fait de plus avancé travaille dans l’ombre : chercher, traduire, préparer, se souvenir. Votre goût reste la seule signature ; rien n’est montré, vendu ou signé sans vous. » |
+| `sota-phares`, ensuite | Cinq moments pour votre ouverture de 2027 | La première nuit des œuvres / L’ouverture choisie avant d’ouvrir / La main et la machine / Le vernissage-spectacle / Le matin de la maison / Lesquels voulez-vous que l’on raconte ? | « Voici cinq moments que nous voudrions voir le jour de votre ouverture. Lesquels voulez-vous que vos invités racontent en rentrant chez eux ? Entourez-en trois : le cadrage en fera vos priorités. » |
+| `sota-familles`, à la place d’`ambition` (21) | Sept familles d’offres, une seule maison | L’œil, le cercle, la preuve, faire naître des œuvres, recevoir, la maison orchestrée, rayonner et financer / Vingt-six offres, noms de travail / Un prix écrit avant toute commande | « Derrière ces moments, vingt-six offres en sept familles. Chacune dit ce qu’elle a d’avancé, avec sa source, et se commande à part. Sur cette carte, cochez : “j’en ai envie”, “plus tard”, “pas pour moi”. » |
+| `sota-chemin`, à la place d’`avenir` (22) | 2027, 2028, 2030 : ce qui ouvre, ce que l’IA saura | 2027 : la galerie, la maison tenue d’un écran / 2028 : Bourges 2028, la résidence, l’œil appris / 2030 : le passeport transmis, des mondes où l’on parle / Des tendances, pas des promesses | « Sur des tâches de logiciel, la durée des tâches que les meilleurs agents réussissent une fois sur deux double environ tous les sept mois depuis 2019 : une mesure du passé, pas une prévision. Chaque année ouvre une marche, mesurée avant la suivante. » |
+| `sota-tenir`, après `societe` (18) | Deux associés : nous orchestrons, d’autres exécutent | Nous concevons et orchestrons / Des spécialistes exécutent / Votre équipe garde la main / Deux chantiers à la fois au plus / Tout à votre nom, un relais nommé | « Nous ne faisons pas tout. Nous concevons et orchestrons ; artistes, intégrateurs et avocats exécutent ; votre administratrice garde la main. Deux chantiers à la fois au plus. Si l’un de nous manque, un relais est nommé et tout reste à vous. » |
+| `sota-commencer`, avant `proposition` (24) | Trois façons de commencer | Tout de suite : le cadrage, 6 500 € HT / D’abord par le cadrage : vos données, vos collectionneurs, vos séjours / Pour plus tard : les commandes d’œuvres, la résidence, Bourges / En plus, si vous le voulez : une offre qui n’attend pas | « Le cadrage reste la première marche : trois à quatre semaines, prix fixe, tourné vers vos trois moments. Si une date l’impose, une offre peut partir en même temps, avec son prix écrit avant toute commande. » |
+| `decision` (26), refaite | Aujourd’hui : par où votre maison commence | Votre accord pour le cadrage, tourné vers vos trois moments / Si vous le voulez, une offre à chiffrer en plus / Le bon de commande suit ; rien ne vous engage avant / Offre valable jusqu’au 31 décembre 2026 | La phrase de la décision du § 4, mot pour mot. |
