@@ -1,6 +1,6 @@
 # Feuille de notes et questions
 
-Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
+Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026, aligné sur la version 13 et « State Of The Art »
 
 Vendredi 13 novembre 2026 · Présents : …………………………………………………………………………………… · De ………………… à …………………
 
@@ -48,6 +48,20 @@ Vendredi 13 novembre 2026 · Présents : ………………………………�
 | **J. Ses professionnels** | *question de réserve, si le sujet vient de lui* |
 | 31. Son avocat ? Son expert-comptable ? | …………………………………………………………………………………………………………………………………… |
 | 32. Son bureau de contrôle ? Son assureur ? | …………………………………………………………………………………………………………………………………… |
+
+> **Ce qu’il retient du programme : offres, projets phares** (diapositives `sota-phares`, `sota-familles`, `sota-maison`, `sota-commencer`, `decision`)
+>
+> Les trois moments qu’il entoure : ☐ 1 La première nuit des œuvres ☐ 2 L’ouverture choisie avant d’ouvrir ☐ 3 État de l’art ☐ 4 Le vernissage-spectacle ☐ 5 Le matin de la maison ☐ 6 La maison d’avant
+>
+> Offres, par numéro : « j’en ai envie » ……………………………… « plus tard » ……………………………… « pas pour moi » ………………………………
+>
+> Une offre qui n’attend pas (J10) : ☐ 5 la règle de la maison ☐ 9 le film du chantier ☐ 21 la note pour l’architecte, l’état zéro ☐ 25 le calendrier des aides ☐ aucune
+>
+> Les deux noms (si J9) : l’œuvre de l’ouverture ……………………………………… l’artiste du catalogue raisonné ………………………………………
+>
+> Une offre à chiffrer en plus (prix écrit après le rendez-vous, jamais en séance) : ………………………………………………………………………
+>
+> Ses mots sur « State Of The Art », ce qui l’a fait réagir : ……………………………………………………………………………………………………………
 
 > **Sa décision** (une seule case ; rien ne se signe en séance)
 >
