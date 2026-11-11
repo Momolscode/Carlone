@@ -7,7 +7,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 1. **Il ne mise pas sur une technologie, il mise sur deux personnes.** Ce qui le décidera : la preuve que nous avons compris tout son univers (galerie, neuf suites et espace bien-être, cabaret, bâtiments, commerces, administratrice), du concret qu’il voit tout de suite, et un risque faible pour lui.
 2. **Une seule porte d’entrée** : le cadrage. Toutes les idées (`pour-carlone/developpement/2026-11-10-une-idee-pour-chacun-de-vos-projets.md`) passent par lui ; c’est lui qui les classe. On ne vend pas treize projets, on vend le choix des trois premiers.
 3. **L’honnêteté est notre argument le plus fort face à une offre plus installée** : prix fixe, arrêt possible à chaque étape, tout à son nom, aucun chiffre non mesuré, une personne décide toujours. Ne jamais critiquer l’autre proposition.
-4. **Ce que nous misons, nous, sur lui** : du temps et de l’attention que n’offre pas une grande structure. C’est vrai et cela se dit sobrement (§ 3).
+4. **Ce que nous misons, nous, sur lui** : du temps et de l’attention : un interlocuteur nommé, l’autre associé qui relit. Cela se dit sobrement, sans comparaison avec d’autres prestataires (§ 3).
 
 ## 1. Ce qui le fera dire oui (et la preuve à montrer)
 
@@ -34,7 +34,7 @@ Dates indicatives, dépendantes de la commande avant la mi-décembre et de l’o
 
 - Deux associés qui connaissent son dossier en entier : un interlocuteur nommé, l’autre qui relit.
 - Un point écrit chaque semaine pendant l’essai ; un compte rendu écrit sous 24 heures ouvrées (après vendredi : envoyé une fois la liste avant tout envoi cochée).
-- Des outils et méthodes qui lui restent, même s’il change de prestataire.
+- Des outils et méthodes dont sa société garde l’usage, sans limite de durée, même s’il change de prestataire (nos outils génériques restent à nous : bon de commande, condition 6).
 - Ne pas dire : « nous sommes votre seul partenaire », « nous ferons tout », « disponible jour et nuit ».
 
 ## 4. Innover dans tous les domaines, mais avec cohérence

@@ -43,7 +43,7 @@ Notes internes correspondantes : `interne/offre-cadrage/`, `interne/developpemen
 | vendredi 27 novembre 2026 | Dernier jour pour envoyer la proposition |
 | lundi 30 novembre 2026 | Statuts, avocat choisi, dossier d’immatriculation déposé |
 | jeudi 31 décembre 2026 | Fin de validité de l’offre |
-| vendredi 1er janvier 2027 | Nouvelles règles d’analyse de l’eau du jacuzzi (laboratoire accrédité, aux frais de l’exploitant ; note `travaux/k14-sauna-jacuzzi-espace-bien-etre.md`) |
+| vendredi 1er janvier 2027 | Jacuzzi partagé : l’exploitant commande lui-même les analyses de l’eau à un laboratoire accrédité, toujours à ses frais (note `travaux/k14-sauna-jacuzzi-espace-bien-etre.md`, partie « Vérification du 11 novembre 2026 ») [corrigé le 11 novembre 2026 : les frais étaient présentés comme la nouveauté (rapport a10, constat 17)] |
 | lundi 4 janvier 2027 | Démarrage possible du cadrage (commande signée avant la mi-décembre) |
 | vendredi 29 janvier 2027 | Restitution au plus tard (proposition, à décider) |
 
