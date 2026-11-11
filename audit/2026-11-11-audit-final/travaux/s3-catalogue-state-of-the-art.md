@@ -458,54 +458,70 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 3. Licences des bases, aucun droit d’agir, modèle privé nourri de ses seules données.
 4. Droits des photographes et des épistoliers ; voix clonée seulement avec son accord écrit, signalée (article 50) ; demande d’argent « de sa voix » vérifiée par un second canal.
 5. Article 4 ; code du travail, L1222-4 ; note CIANum-CNIL : journal, arrêt, mémoire cloisonnée.
-6. RGPD : information, effacement, chiffrement ; analyse d’impact possible.
-7. Suivi consenti, rétractation des ventes à distance, accord des auteurs.
-8. Le papier signé fait foi, droit de suite, certificat d’exportation.
-9. Droit à l’image, article 50, aucun tournage dans l’intimité, drone autorisé d’abord.
+6. RGPD : information sur le lieu des données (article 13), effacement, chiffrement ; analyse d’impact possible. Aucune promesse que « rien ne quitte la maison ».
+7. Suivi consenti, rétractation des ventes à distance, accord des auteurs ; traduction en direct seulement entre l’anglais et le français, l’espagnol, l’allemand, l’italien ou le portugais, sinon un interprète.
+8. Le papier signé fait foi, droit de suite, certificat d’exportation ; rapport du CSPLA : un avis, pas une loi.
+9. Droit à l’image, article 50, aucun tournage dans l’intimité, drone autorisé d’abord ; la promesse vise les images présentées comme réelles, toute image créée ou retouchée par l’IA est signalée.
 10. Reproduction et droit moral, article 50, une image 3D n’est pas une mesure.
 11. Contrat de commande, pose contrôlée, aucune captation.
-12. Statut fiscal d’un tirage fait à la machine (CGI, annexe III, art. 98 A) ; article 50, § 4.
+12. Statut fiscal d’un tirage né d’un programme (CGI, annexe III, art. 98 A) ; jamais de feuille signée d’avance, jamais de signature imprimée ; article 50, § 4.
 13. RGPD, article 22 ; contrats de résidence ; données d’entreprise effacées après essai.
 14. Co-autorat ; statut fiscal ; machines sous capot (règlement machines, 20 janvier 2027).
 15. Prêts, transport, assurance ; droits de reproduction.
 16. Bons de dépôt, assurance, climat, jamais un placement.
-17. Spectacle, ERP, boissons ; voix des artistes ; ISO 10218-2:2025 ne couvre pas le public : analyse propre au lieu.
-18. Forfait touristique (code du tourisme, L211-1 et L211-2) ; Atout France.
+17. Spectacle, ERP, boissons ; voix des artistes ; ISO 10218-2:2025 ne couvre pas le public : analyse propre au lieu ; surtitres du chant préparés à la main.
+18. Forfait touristique (code du tourisme, L211-1 et L211-2) ; Atout France : immatriculation, garantie financière, assurance ; vendre sans immatriculation est une infraction.
 19. Sécurité du public, boissons, nom de Bourges 2028, vente de séjours.
 20. Instruction cachée : droits minimaux ; secret bancaire ; monopole de l’expert-comptable.
 21. Réseau séparé ; capteurs des suites : données personnelles ; jamais la maîtrise d’œuvre.
 22. Jamais « conforme » ; jacuzzi : déclaration en mairie, analyses accréditées au 1er janvier 2027.
-23. Article 50, une réponse fausse engage l’exploitant, partage entre sociétés consenti.
+23. Article 50, une réponse fausse engage l’exploitant, partage entre sociétés consenti ; chaque donnée vue des seules personnes qui servent l’invité (RGPD, articles 5 et 25).
 24. Mêmes prix partout, prix personnalisé déclaré, aucune réservation sans validation.
-25. Un devis signé vaut commencement, sa société dépose, aucune aide promise.
+25. Un devis signé vaut commencement, sa société dépose, aucune aide promise ; aide régionale : trois étoiles visées, bien-être exclu, plafond, fin au 31 décembre 2028.
 26. 238 bis AB, achats avant le 31 décembre 2028 ; aucun chiffre d’avantage.
+27. Rien ne change sans l’administratrice ; aucune donnée de la maison montrée ; données d’entreprise effacées après l’essai.
+28. L’IA rapproche, le comité attribue ; ayants droit ; droits des images ; responsabilité de l’auteur du catalogue.
+29. Matériel pour locaux humides, précautions affichées, aucune promesse de santé, aucune donnée du corps.
+30. Notre cadre (§ 6). Marwin Tech en formation : les signataires répondent des actes tant que la société ne les reprend pas (code de commerce, article L210-6, à faire confirmer) ; assurance professionnelle avant toute signature ; prises en main hors formation financée (sans déclaration d’activité ni Qualiopi).
 
 ## 9. Faits citables retenus
 
 Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 
-1. Des tâches de logiciel d’au moins seize heures d’expert, réussies une fois sur deux (METR, 8 septembre 2026 ; § 5).
-2. De 2,5 % fin 2025 à 41,3 % en novembre 2026 de missions réelles jugées acceptables (Scale AI ; offre 26).
-3. La voix traduite qui imite le ton (Google Meet, 4 février 2026 ; offre 7).
+1. Des tâches de logiciel d’au moins seize heures d’expert, réussies une fois sur deux, contre 2 h 17 en août 2025 (METR, 8 septembre 2026 ; § 1, § 5, offre 27).
+2. De 2,5 % fin 2025 à 41,3 % en novembre 2026 de missions réelles jugées acceptables (Scale AI ; § 1, offres 26 et 27).
+3. La voix traduite qui imite le ton, une paire de langues par réunion : l’anglais et le français, l’espagnol, l’allemand, l’italien ou le portugais (Google Meet, 4 février 2026 ; offre 7).
 4. Des mondes explorables où l’on parle (Google DeepMind, 27 octobre 2026 ; offre 10).
 5. Des objets capturés en 3D, manipulés sur un téléphone (LACMA, jusqu’au 20 décembre 2026 ; offre 10).
 6. 84 % des professionnels de galerie utilisent l’IA, 8 % des galeries ont une règle (Observer, 17 avril 2026 ; offre 5).
-7. Plus de 70 œuvres spoliées retrouvées sur une seule question (NPR, 9 août 2026 ; offre 2).
-8. Un certificat lié à une puce, à Art Basel (Verisart, 22 juin 2026 ; offre 8).
-9. Une création avec l’IA protégeable si la direction humaine se prouve (ministère de la Culture, 16 juillet 2026 ; offre 8).
+7. Sur une seule question, un assistant de l’université de Santa Clara fait apparaître plus de 70 œuvres d’un même collectionneur spolié, dans une seule base (NPR, 9 août 2026 ; offres 2 et 28).
+8. Un certificat lié à une puce sur un stand d’Art Basel, selon l’éditeur (Verisart, 22 juin 2026 ; offre 8).
+9. Un avis, pas une loi : création avec l’IA protégeable si la direction humaine se prouve (CSPLA, ministère de la Culture, 16 juillet 2026 ; rapport complet à lire avant de citer ; offre 8).
 10. Des lunettes de surtitres, 223 langues annoncées (Audinate, 29 mai 2025 ; offre 17).
 11. Plus de 16 000 œuvres et objets à The Fife Arms, hôtel de galeristes (page officielle ; offre 16).
 12. Un cabaret de village qui annonce hôtel et spa au 28 août 2026 (Kirrwiller, page officielle ; offre 18).
 13. 306 601 nuitées pour un festival d’hiver (Pulse Tasmania, 22 septembre 2026 ; offre 19).
 14. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 (bourges2028.org, 16 décembre 2025 ; offre 19).
 15. Une chambre réservée dans le mode IA de Google (PPC Land, 28 août 2026 ; offre 24).
-16. Jusqu’à 30 % des travaux, dossier déposé avant tout commencement (Région, 6 mars 2026 ; offre 25).
+16. Jusqu’à 30 % des travaux d’un hôtel visant trois étoiles, bien-être exclu, dossier déposé avant tout commencement (Région, 6 mars 2026 ; offre 25).
+17. Près de la moitié (49 %) des acheteurs des marchands en 2025 étaient nouveaux pour eux (rapport Art Basel et UBS 2026 ; offre 6).
+18. Une équipe d’agents coordonnés : 90 % mieux qu’un agent seul, pour environ quinze fois plus de calcul, selon l’éditeur (Anthropic, 13 juin 2025 ; offre 20).
+19. L’arrivée dans un hôtel en France par code QR, avec le portefeuille européen d’identité numérique (Commission européenne, 11 février 2026, annoncé ; offre 23).
+20. Un code européen pour marquer et signaler les contenus générés par IA (Commission européenne, 10 juin 2026 ; offre 9).
+21. Une traduction de la voix dans plus de soixante-dix langues, en préversion, qui garde l’intonation (Google, annonce du 9 juin 2026 ; offre 4).
+22. Dans un grand laboratoire, l’IA rendrait la recherche en IA environ deux fois plus rapide, avec une forte incertitude (METR, 5 novembre 2026 ; § 5).
+23. Notre-Dame de Paris : plus de 170 scientifiques ; un double numérique tiré de relevés 3D d’avant et d’après l’incendie (ministère de la Culture, 25 novembre 2024 ; phare 6).
+24. Un monde 3D tiré de quelques photos ou d’une courte vidéo d’un lieu réel, ouvert à tous (World Labs, 12 novembre 2025 ; offre 10, phare 6).
+25. Une exposition entière capturée en 3D et visitable sur le web, par un seul artiste-développeur (Radiancefields, 22 février 2024 ; offre 7).
+26. D’ici 2030, une IA qui écrit seule du logiciel bien défini, 10 à 20 % gagnés par tâche, un déploiement en retard (Epoch AI, 16 septembre 2025, prévision ; § 5).
 
-À ne jamais citer : la source [S1] de la note « accueil » ; les « six mois » d’Orsay ; un chiffre seulement « vu » ; le prix de la machine (dépôt).
+À relire avant de citer : la réserve visitable de Peyrassol (site lu en partie ; offre 1) ; la suite du Meurice (annoncée, aucun bilan ; offre 29).
+
+À ne jamais citer : la source [S1] de la note « accueil » ; les « six mois » d’Orsay ; un chiffre seulement « vu » ; le prix de la machine (dépôt) ; le rythme de doublement de METR, tant que sa page d’origine n’est pas lue.
 
 ## 10. Plan des documents à écrire
 
-**(a) Une page « State Of The Art : le programme ».** Mention PROJET, phrase-titre, dix lignes, sept familles et cinq phares en une ligne chacun, « Par où votre maison commence-t-elle ? », le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
+**(a) Une page « State Of The Art : le programme ».** Mention PROJET, phrase-titre et sous-titre, dix lignes, « Pourquoi maintenant », sept familles et six phares en une ligne chacun, « Par où votre maison commence-t-elle ? », le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
 
 **(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
 
@@ -513,18 +529,21 @@ Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée.
 
 | Id, place | Titre | À l’écran | L’orateur dit |
 | --- | --- | --- | --- |
-| `sota-vision`, après `enjeux` (6) | State Of The Art : votre œil, l’IA dans l’ombre | Une maison d’art que l’on vient voir de loin / Rien de ce qu’on vous confie ne la quitte / Des œuvres nées chez vous / La nuit, des assistants ; au matin, une page / Plus de maison, pas plus de machines | « On viendra de loin pour une œuvre ; on restera une nuit. Ce que l’IA fait de plus avancé travaille dans l’ombre : chercher, traduire, préparer, se souvenir. Votre goût reste la seule signature. » |
-| `sota-phares`, ensuite | Cinq moments pour votre ouverture de 2027 | La première nuit des œuvres / L’ouverture choisie avant d’ouvrir / La main et la machine / Le vernissage-spectacle / Le matin de la maison | « Voici cinq moments pour le jour de votre ouverture. Lesquels voulez-vous que vos invités racontent en rentrant chez eux ? Entourez-en trois : le cadrage en fera vos priorités. » |
-| `sota-familles`, au lieu d’`ambition` (21) | Sept familles d’offres, une seule maison | L’œil, le cercle, la preuve, faire naître des œuvres, recevoir, la maison orchestrée, rayonner et financer / Vingt-six offres, noms de travail | « Derrière ces moments, vingt-six offres. Chacune dit ce qu’elle a d’avancé, avec sa source, et se commande à part. Cochez sur la carte : “j’en ai envie”, “plus tard”, “pas pour moi”. » |
-| `sota-chemin`, au lieu d’`avenir` (22) | 2027, 2028, 2030 : ce qui ouvre, ce que l’IA saura | 2027 : la galerie, la maison tenue d’un écran / 2028 : Bourges, la résidence, l’œil appris / 2030 : le passeport transmis, des mondes où l’on parle | « En 2027, votre maison se tient d’un écran ; en 2028, Bourges fait venir l’Europe ; en 2030, vos œuvres voyagent avec leur passeport. Des tendances, pas des promesses : chaque marche se mesure avant la suivante. » |
+| `sota-vision`, après `enjeux` (6) | State Of The Art : l’état de l’art de notre temps, au service de votre œil | Une maison d’art que l’on vient voir de loin / Ce qu’on vous confie reste dans vos comptes / Des œuvres nées chez vous, le réel signé / La nuit, des assistants ; au matin, une page / Les machines travaillent ; la maison reçoit | « Les œuvres que vous aimez furent l’état de l’art de leur temps ; votre maison sera l’état de l’art du nôtre. L’IA la plus avancée y sera discrète pour vos hôtes, visible dans les œuvres, décisive pour vous. Votre goût reste la seule signature. » |
+| `sota-phares`, ensuite | Six moments pour votre ouverture | La première nuit des œuvres / L’ouverture choisie avant d’ouvrir / État de l’art / Le vernissage-spectacle / Le matin de la maison / La maison d’avant | « Voici six moments pour le jour de votre ouverture. Lesquels voulez-vous que vos invités racontent en rentrant chez eux ? Entourez-en trois : le cadrage en fera vos priorités. » |
+| `sota-familles`, au lieu d’`ambition` (21) | Sept familles d’offres, une seule maison | L’œil, le cercle, la preuve, faire naître des œuvres, recevoir, la maison orchestrée, rayonner et financer / Vingt-neuf offres, noms de travail | « Derrière ces moments, vingt-neuf offres. Chacune dit ce qu’elle a d’avancé, avec sa source, et se commande à part. Cochez sur la carte : “j’en ai envie”, “plus tard”, “pas pour moi”. » |
+| `sota-chemin`, au lieu d’`avenir` (22) | 2027, 2028, 2030 : ce qui ouvre, ce que l’IA saura | 2027 : la galerie, la maison tenue d’un écran / 2028 : Bourges, la résidence, l’œil appris / 2030 : le passeport transmis, des mondes où l’on parle | « En 2027, votre maison se tient d’un écran ; en 2028, Bourges fait venir l’Europe ; en 2030, vos œuvres voyagent avec leur passeport. Ce sont des mesures et des prévisions, pas des promesses. Notre promesse est une méthode : chaque semestre, vos outils remis à l’épreuve des nouveaux modèles. » |
 | `sota-tenir`, après `societe` (18) | Deux associés : nous orchestrons, d’autres exécutent | Nous concevons / Des spécialistes exécutent / Votre équipe garde la main / Deux chantiers à la fois / Tout à votre nom, un relais nommé | « Nous ne faisons pas tout. Artistes, intégrateurs et avocats exécutent ; votre administratrice garde la main. Si l’un de nous manque, un relais est nommé et tout reste à vous. » |
 | `sota-commencer`, avant `proposition` (24) | Trois façons de commencer | Tout de suite : le cadrage, 6 500 € HT / D’abord par le cadrage : données, collectionneurs, séjours / Plus tard : commandes d’œuvres, résidence, Bourges / En plus : une offre qui n’attend pas | « Le cadrage reste la première marche, tourné vers vos trois moments. Si une date l’impose, une offre part en même temps, avec son prix écrit avant toute commande. » |
-| `decision` (26), refaite | Aujourd’hui : par où votre maison commence | Votre accord pour le cadrage, tourné vers vos trois moments / Une offre à chiffrer en plus, si vous voulez / Rien ne vous engage avant le bon de commande signé | La phrase du § 4, mot pour mot. |
+| `decision` (26), refaite | Aujourd’hui : une décision et deux noms | Votre accord pour le cadrage, tourné vers vos trois moments / L’œuvre que l’on verra le jour de l’ouverture / L’artiste de votre catalogue raisonné / Une offre à chiffrer en plus, si vous voulez / Rien ne vous engage avant le bon de commande signé | La phrase du § 4, mot pour mot. |
 
-**(d) La décision, l’antisèche, les objections.** La décision passe de « commander le cadrage » à la phrase du § 4. L’antisèche : cinq moments ; sept familles ; un seul prix, celui du cadrage ; deux chantiers à la fois ; rien sans lui ; aucun chiffre promis.
+La diapositive `evolution` reste. Sa mesure de METR passe à celle du § 5 ; sa phrase « qui s’organise maintenant profite de chaque progrès » renvoie désormais à l’offre 27.
+
+**(d) La décision, l’antisèche, les objections.** La décision passe de « commander le cadrage » à la phrase du § 4. L’antisèche : six moments ; sept familles ; une décision et deux noms ; un seul prix, celui du cadrage ; deux chantiers à la fois ; rien sans lui ; aucun chiffre promis.
 - « C’est beaucoup pour deux personnes. » « Oui, si nous faisions tout. Nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main. Deux chantiers à la fois, sur quatre ans. Tout est à votre nom, avec un relais nommé : vous pouvez continuer sans nous. »
 - « Combien pour tout cela ? » « Seul le cadrage a un prix aujourd’hui. Chaque offre aura le sien, écrit avant toute commande. »
 - « Une œuvre d’abord ? » « Sa conception peut commencer pendant le cadrage. »
+- « Dans un an, tout cela sera dépassé. » « C’est pour cela que l’offre 27 existe : chaque semestre, vos outils sont remis à l’épreuve des nouveaux modèles, échecs compris. »
 
 ## 11. Ce que seuls Morgan Olsen et Mathys Couet peuvent trancher
 
