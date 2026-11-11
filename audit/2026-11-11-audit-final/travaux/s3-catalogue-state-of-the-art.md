@@ -375,3 +375,73 @@ La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée
 - **Ce que fait votre équipe :** votre administratrice dirige le pupitre et tient les registres ; votre accueil garde la relation ; vous choisissez, écrivez, signez.
 - **L’ordre :** deux chantiers à la fois au plus, dont un seul sur vos données ; un essai à la fois ; chaque marche mesurée avant la suivante. Tout à votre nom, tout exportable, un relais nommé si l’un de nous manque.
 - **Ce que nous refusons :** authentifier, estimer, vendre une œuvre comme un placement ; un conseil fiscal ou juridique ; déposer un dossier à votre place ; une machine près du public sans analyse des risques ; un humanoïde d’accueil ; une voix imitée ; un capteur sur le corps ; la reconnaissance des visages ; une IA qui note une personne ; une administratrice remplacée ou surveillée ; une image générée présentée comme réelle.
+
+## 7. Grille interne
+
+**INTERNE — à décider par Morgan Olsen et Mathys Couet.** Jamais montrée ni citée au client.
+
+Hypothèse de calcul : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société sur leurs devis, hors grille ; leur part se lit face à nos honoraires. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
+
+| N° | Nous, en jours : mise en place ; suivi | Tiers (part) | Fourchette HT |
+| --- | --- | --- | --- |
+| 1 | 12 à 18 ; 1 par mois | logiciel (faible) | 9 000 à 18 500 € |
+| 2 | 8 à 12 ; 0,5 par dossier | laboratoire, bases (moyenne) | 6 000 à 12 500 € ; 400 à 500 € le dossier |
+| 3 | 8 à 10 ; 1 par mois ; œil appris 8 à 12 | bases (moyenne) | 6 000 à 10 500 € ; œil appris 6 000 à 12 500 € |
+| 4 | 12 à 16 ; 2 par mois, six mois | numérisation, studio (forte) | 9 000 à 16 500 € |
+| 5 | 4 à 6 ; 3 par an | sécurité, avocat (moyenne) | 3 000 à 6 000 € |
+| 6 | 10 à 14 ; 1 par mois | logiciel, avocat ; machine 5 500 à 7 500 € HT (k13a, à revérifier) | 7 500 à 14 500 € |
+| 7 | 12 à 18 ; 2 par saison | salles, impression (moyenne) | 9 000 à 18 500 € |
+| 8 | 10 à 14 ; 0,25 par vente | certificats, avocat (moyenne) | 7 500 à 14 500 € |
+| 9 | 5 à 7 ; 2 par saison | photographe, réalisateur (forte) | 4 000 à 7 000 € |
+| 10 | 6 à 8 ; 1 par accrochage | capture, 500 à 3 000 € par jour [bât. B3] | 4 500 à 8 500 € |
+| 11 | 12 à 16 ; 1 par trimestre | artiste, production (très forte) | 9 000 à 16 500 € |
+| 12 | 8 à 12 ; 1 par mois | artiste, imprimeur (forte) | 6 000 à 12 500 € |
+| 13 | 12 à 16 ; 4 par artiste ; laboratoire 15 à 25 | bourses, laboratoire (forte) | 9 000 à 16 500 € ; laboratoire 11 000 à 26 000 € |
+| 14 | 6 à 10 ; 2 par binôme | artisans, relevé (forte) | 4 500 à 10 500 € |
+| 15 | 15 à 20 | commissaire, transport, assurance (très forte) | 11 000 à 20 500 € |
+| 16 | 6 à 10 ; 1 par saison | régisseur, restaurateur (moyenne) | 4 500 à 10 500 € |
+| 17 | 10 à 14 ; 4 à 6 par exposition | scène, artistes (très forte) | 7 500 à 14 500 € |
+| 18 | 8 à 10 ; 1 par mois | avocat, agence (moyenne) | 6 000 à 10 500 € |
+| 19 | Bourges 8 à 12 ; Solstice 12 à 18 par édition | producteur, sécurité (très forte) | 6 000 à 12 500 € ; 9 000 à 18 500 € |
+| 20 | 15 à 25 ; 2 à 4 par mois | abonnements, calcul plafonné (faible) | 11 000 à 26 000 € |
+| 21 | 8 à 12 par société ; 1 à 2 par mois | plateforme (faible) | 6 000 à 12 500 € par société |
+| 22 | note 3 à 5 ; carnet 10 à 15 ; 1 par mois | relevé, capteurs (forte) | 2 500 à 5 000 € ; 7 500 à 15 500 € |
+| 23 | 6 à 8 ; 2 à 3 par répétition | ses professionnels (moyenne) | 4 500 à 8 500 € |
+| 24 | 12 à 18 ; 1 à 2 par mois | logiciels, voix (moyenne) | 9 000 à 18 500 € |
+| 25 | 6 à 8 ; 0,5 par mois ; ambassadeur 8 à 12 | outil (faible) | 4 500 à 8 500 € ; 6 000 à 12 500 € |
+| 26 | 5 à 7 ; 1 à 5 par dossier | aucun | 4 000 à 7 000 € |
+| 27 | 10 à 14 ; 2 par entreprise | expert-comptable (faible) | 7 500 à 14 500 € |
+
+**Total.** 247 à 355 jours de mise en place sur 2027-2030, sans les prolongements ; environ 185 000 à 370 000 € HT, hors tiers et hors suivi. **2027 tient en 150 jours au plus** : cadrage, 5, 26, note du 22, 9, 1, 20, 2, 7, 8, 11, 15 (110 à 157 jours). Les suites (16, 18, 24) au-delà : une troisième personne ou des sous-traitants. Votre administratrice : deux à cinq jours de prise en main par offre, sur son temps de travail.
+
+## 8. Réserves de droit et de sécurité
+
+À faire valider par ses professionnels, offre par offre.
+
+1. Registre des objets mobiliers ; droits des images ; export ouvert exigé.
+2. Décret de 1981 ; anti-blanchiment au 10 juillet 2027 ; jamais d’authentification ni d’estimation.
+3. Licences des bases ; aucun droit d’agir ; modèle privé, données à lui seul.
+4. Droits des photographes et des épistoliers ; voix enregistrée, jamais imitée ; article 50.
+5. Article 4 ; code du travail, L1222-4 ; note CIANum-CNIL : journal, arrêt, mémoire cloisonnée.
+6. RGPD : information, accès, effacement, chiffrement ; analyse d’impact possible ; pièces d’identité à part.
+7. Suivi consenti ; rétractation des ventes à distance ; accord des auteurs.
+8. Le papier signé fait foi ; droit de suite ; certificat d’exportation ; prestataire qui disparaît.
+9. Droit à l’image ; article 50 ; aucun tournage dans l’intimité ; drone : autorisation préalable.
+10. Reproduction et droit moral ; article 50 ; une image 3D n’est pas une mesure.
+11. Contrat de commande ; pose contrôlée ; aucune captation.
+12. Statut fiscal d’un tirage fait à la machine (CGI, annexe III, art. 98 A) ; article 50, § 4.
+13. RGPD, article 22 ; contrats de résidence ; données d’entreprise effacées après essai.
+14. Co-autorat ; statut fiscal ; machines sous capot (règlement machines, 20 janvier 2027).
+15. Prêts, transport, assurance ; droits de reproduction.
+16. Bons de dépôt ; assurance ; climat ; jamais un placement.
+17. Spectacle, ERP, boissons ; voix des artistes ; machine : ISO 10218-2:2025 ne couvre pas le public, analyse propre au lieu.
+18. Forfait touristique (code du tourisme, L211-1 et L211-2) ; Atout France ; directive 2026/1024 en 2029.
+19. Sécurité du public ; boissons ; nom de Bourges 2028 ; vente de séjours.
+20. Lecture seule ; instruction cachée : comptes séparés, droits minimaux ; calcul plafonné.
+21. Monopole de l’expert-comptable ; secret bancaire ; aucun conseil fiscal.
+22. Réseau séparé ; capteurs des suites : données personnelles ; jamais la maîtrise d’œuvre ; assurance vérifiée.
+23. Jamais « conforme » ; jacuzzi : déclaration en mairie, analyses accréditées au 1er janvier 2027.
+24. Article 50 ; une réponse fausse engage l’exploitant ; partage entre sociétés consenti.
+25. Mêmes prix partout ; prix personnalisé déclaré ; aucune réservation sans validation.
+26. Un devis signé vaut commencement ; sa société dépose ; aucune aide promise.
+27. 238 bis AB, achats avant le 31 décembre 2028 ; œuvre originale ; aucun chiffre d’avantage.
