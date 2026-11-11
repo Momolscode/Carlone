@@ -29,8 +29,7 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 
 **Ce dont nous avons besoin**
 
-- La société qui commande et la personne qui signe.
-- Du temps avec votre administratrice, et vos documents utiles.
+- La société qui commande, la personne qui signe, du temps avec votre administratrice et vos documents utiles.
 - Deux rendez-vous avec vous et trois validations écrites (inventaire, tâches à essayer, réception).
 
 **Comment vous arrêter**
@@ -45,7 +44,7 @@ Nous visons un démarrage début janvier 2027 si la commande est signée avant l
 - Vos comptes, vos données et vos accès, au nom de votre société.
 - Vos décisions. Rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée.
 
-**Ce qui se passe ensuite.** Vous choisissez une suite dans les trente jours après la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, commandé à part, avec son prix. Votre logiciel aussi, étape par étape.
+**Ce qui se passe ensuite.** Vous choisissez une suite dans les trente jours après la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix. Votre logiciel aussi, étape par étape.
 
 **Qui nous sommes.** Morgan Olsen et Mathys Couet. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
 

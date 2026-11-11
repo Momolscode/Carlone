@@ -104,13 +104,12 @@ L’un de nous mène le travail, l’autre le relit. **Durée** : 3 à 4 semaine
 
 **Ce que vous en retirez, même si vous vous arrêtez là.** Tout le dossier (inventaire, priorités, jusqu’à trois tâches à essayer avec leur mesure de départ, carte des rôles, grille de délégation et projets de mandat, registre sur votre compte) et une comparaison qui vous laisse libre : nous, votre administratrice seule, avec ou sans nouveaux outils, un autre prestataire, ou aucune suite. Ces documents appartiennent à votre société une fois le prix dû payé (le solde ; en cas d’arrêt, l’acompte) ; elle les utilise avec qui elle veut.
 
-## 3. Après le cadrage : une suite à la fois, ou aucune
+## 3. Après le cadrage : trois suites possibles, sans engagement
 
-Vous choisissez une suite dans les trente jours qui suivent la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix, sans reconduction automatique. Le point de départ et les critères pour continuer ou arrêter sont fixés avec vous avant l’essai. Les lignes ci-dessous sont des exemples ; d’autres essais sont possibles, par exemple le registre de vos bâtiments ou les devis comparés.
+Vous choisissez une suite dans les trente jours qui suivent la restitution, ou aucune. Une seule à la fois : un essai de huit semaines au plus, sur une seule tâche, mesurée avant et après, commandé à part, avec son prix, sans reconduction automatique. Le point de départ et les critères pour continuer ou arrêter sont fixés avec vous avant l’essai. La mise en œuvre des tâches retenues se commande à part, une à une, chacune avec son prix et sa réception.
 
-| Exemple d’essai | Ce que nous ferions | Ce qu’il faut de votre côté |
+| Suite | Ce que nous ferions | Ce qu’il faut de votre côté |
 | --- | --- | --- |
-| **Le choix du logiciel de vos suites** | Trois logiciels du marché au plus, comparés par écrit sur vos critères et essayés sur des réservations fictives | La société exploitante ; la date d’ouverture visée ; du temps de votre administratrice |
 | **(a) Ventes d’œuvres** | Essai sur 20 entreprises : fiches vérifiées et sourcées, script et courriel validés par votre conseil, suivi des appels, bilan mesuré. Appels, vente et encaissement restent à vous ou à vos prestataires | La société qui vend ; cinq à dix œuvres d’artistes vivants, disponibles, avec leur prix ; l’avis écrit de votre conseil fiscal ; qui appelle ; la société responsable des données |
 | **(b) Pilotage** | Deux mois : point hebdomadaire avec votre administratrice, compte rendu sous 24 h ouvrées, registre et tableau de bord, comité mensuel avec vous ; un premier travail concret (catalogue de vos œuvres, ou obligations de vos lieux) | Un interlocuteur nommé, votre administratrice si vous le confirmez ; vos réponses aux demandes de décision sous 5 jours ouvrés |
 | **(c) Organisation interne** | Nous outillons votre administratrice, ou une autre personne que vous désignez ou recrutez : registre, tableau de bord, procédures écrites, comptes à votre nom, formation. L’exécution se fait ensuite chez vous | Son temps pendant l’essai et ce qu’elle peut valider seule, ou le choix d’une autre personne |
