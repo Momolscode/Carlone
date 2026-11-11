@@ -1,8 +1,8 @@
 # Cabaret, commerces et suites : autorisations, démarches et échéances
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
-Ce document n’est pas un avis juridique. Il rassemble, pour préparer vos échanges avec vos professionnels, ce que disent des pages publiques consultées le 10 novembre 2026. Tout est à faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur) avant toute démarche. Les autorisations sont au nom de l’exploitant de chaque lieu : Marwin Tech ne dépose rien et ne signe rien pour vous ; elle peut tenir la liste, les pièces et les dates.
+Ce document n’est pas un avis juridique. Il rassemble, pour préparer vos échanges avec vos professionnels, ce que disent des pages publiques consultées les 10 et 11 novembre 2026. Tout est à faire valider par vos professionnels (avocat, notaire, expert-comptable, architecte, assureur) avant toute démarche. Les autorisations sont au nom de l’exploitant de chaque lieu : Marwin Tech ne dépose rien et ne signe rien pour vous ; elle peut tenir la liste, les pièces et les dates.
 
 **Comment lire les statuts.** *Documenté* : une page officielle est citée (numéro entre crochets, liste à la fin) ; à revérifier à la date de la démarche. *À vérifier* : page officielle pas encore relue, texte ancien ou situation de vos lieux inconnue. *À faire valider* : dépend de vos choix ou de vos bâtiments ; le professionnel est indiqué.
 
@@ -19,7 +19,7 @@ Ce document n’est pas un avis juridique. Il rassemble, pour préparer vos éch
 | 1 | Fixer la société qui exploite, le lieu, le nombre de personnes accueillies, avec ou sans repas | vous, avec l’expert-comptable et l’avocat | — | À faire valider (avocat, expert-comptable) |
 | 2 | Plans, étude acoustique, premier échange sur la sécurité | architecte, acousticien, mairie, service d’incendie | inconnu | À faire valider (architecte) |
 | 3 | Autorisation de travaux d’un lieu recevant du public, ou permis de construire qui en tient lieu ; une société qui demande un permis doit faire appel à un architecte | mairie | quatre mois avec une déclaration préalable, cinq avec un permis | Documenté [3] |
-| 4 | Si le lieu est dans le site patrimonial remarquable : accord de l’architecte des Bâtiments de France pour façade, vitrine, enseigne | mairie | allongé (déclaration préalable : deux mois au lieu d’un [4]) | À vérifier (périmètre non vu) |
+| 4 | Si le lieu est dans le site patrimonial remarquable [22] : accord de l’architecte des Bâtiments de France pour façade, vitrine, enseigne | mairie | allongé (déclaration préalable : deux mois au lieu d’un [4]) | À vérifier (périmètre non vu) |
 | 5 | Licence de boissons : la plus large (dite licence IV) ne se crée pas, elle s’achète ou se transfère ; formation au « permis d’exploitation » | vendeur de la licence, préfecture, organisme de formation | inconnu | À vérifier (pages non relues) |
 | 6 | Déclaration d’entrepreneur de spectacles ; activité possible trente jours après un dossier complet, sauf opposition du préfet ; valable cinq ans | direction régionale des affaires culturelles | trente jours | Documenté [1] |
 | 7 | Étude de l’impact des nuisances sonores, avant le démarrage, si de la musique amplifiée est diffusée de façon habituelle | acousticien | avant l’ouverture | À vérifier (texte à lire) |
@@ -35,12 +35,13 @@ Ce document n’est pas un avis juridique. Il rassemble, pour préparer vos éch
 | --- | --- | --- |
 | Après chaque représentation | Taxe sur les spectacles : 3,5 % de la billetterie hors taxe sur la valeur ajoutée, déclarée au plus tard le dernier jour du troisième mois qui suit la représentation | Documenté [2] |
 | Tous les trois ans au plus | Petit lieu (5e catégorie) : vérification des installations techniques (électricité, gaz, chauffage, moyens de secours…), depuis le 1er juillet 2026 ; autres catégories : rythme à confirmer | Documenté [6] ; à faire valider (bureau de contrôle) |
-| Selon la catégorie | Visites périodiques de la commission de sécurité | À vérifier (rythme à confirmer) |
+| Selon la catégorie | Visites périodiques de la commission de sécurité : tous les trois ou cinq ans de la 1re à la 4e catégorie ; petit lieu (5e catégorie) : à vérifier | Documenté [20] pour la 1re à la 4e catégorie ; à vérifier pour la 5e |
 | Tous les deux ans | Vérification des équipements de mesure du son | À vérifier |
 | Tous les cinq ans | Renouvellement de la déclaration d’entrepreneur de spectacles | Documenté [1] |
 | Tous les dix ans | Renouvellement du permis d’exploitation | À vérifier |
 | En continu | Numéro du récépissé d’entrepreneur de spectacles sur les affiches, prospectus et billets | Documenté [1] |
-| En continu | Registre de sécurité ; enregistrement des niveaux sonores dans les grandes salles (seuil à vérifier) | À vérifier |
+| En continu | Registre de sécurité, exercices d’incendie compris | Documenté [21] |
+| En continu | Enregistrement des niveaux sonores dans les grandes salles (seuil à vérifier) | À vérifier |
 
 Emploi des artistes : ils sont présumés salariés ; l’emploi de mineurs demande une autorisation préalable du préfet. À vérifier, puis à faire valider (avocat, expert-comptable).
 
@@ -67,35 +68,39 @@ D’après nos échanges, vous prévoyez neuf suites, un sauna et un jacuzzi dan
 | Taxe de séjour | Au réel ou au forfait, selon la délibération de la commune ou de l’intercommunalité ; tarifs locaux non trouvés | À vérifier (mairie) |
 | Affichage des prix | Prix de la nuitée et des prestations à afficher, y compris en ligne ; détail selon la catégorie d’hébergement | À vérifier (texte non relu) |
 | Classement en étoiles | Volontaire ; conditions et durée à lire | À vérifier |
-| Jacuzzi partagé : déclaration | Un jacuzzi (bain à remous) partagé par vos clients suit les règles des piscines d’usage collectif : déclaration à la mairie avant l’ouverture, avec un dossier justificatif et l’engagement de respecter les normes [11] ; au plus tard deux mois avant, selon l’ARS de Bourgogne-Franche-Comté [12]. Un jacuzzi réservé au seul client d’une suite pendant son séjour n’est pas d’usage collectif [14] | Documenté [11] [12] [14] ; installation réelle à faire valider (installateur, mairie) |
-| Jacuzzi : eau et affichage | Carnet sanitaire tenu à la disposition des agents du contrôle sanitaire ; derniers résultats d’analyses affichés ; fréquentation maximale affichée près du bassin ; affichage recommandant de ne pas dépasser quinze minutes et déconseillant l’accès aux enfants de moins de dix ans [13] | Documenté [13] |
-| Jacuzzi : entretien | Au moins 150 litres d’eau par baigneur pour fixer la fréquentation maximale ; vidange complète au moins deux fois par mois sous 10 m³ (deux fois par an au-delà), puis nettoyage et désinfection [15] | Documenté [15] ; matériel et traitement de l’eau à faire valider (installateur) |
-| Jacuzzi : à partir du 1er janvier 2027 | L’exploitant fait analyser l’eau par un laboratoire accrédité, à ses frais, affiche les derniers résultats et prévoit d’informer l’agence régionale de santé des incidents [16]. Le rythme dépend de la capacité d’accueil : analyses microbiologiques une fois par an (15 personnes ou moins) ou une fois par trimestre (16 à 150) ; légionelles une fois par an ; relevés de l’eau au moins une fois par jour [14] | Documenté [14] [16] ; capacité de vos suites à préciser |
-| Sauna | Aucune règle sanitaire propre trouvée dans le code de la santé publique. Obligation générale de sécurité des services [17] ; installation électrique et poêle dans les vérifications du lieu ; affichage des précautions d’usage conseillé ; règlement sanitaire du département non lu | À faire valider (bureau de contrôle, assureur, mairie) |
-| Sécurité des bassins | Une piscine enterrée non close à usage collectif doit avoir un dispositif contre la noyade (barrière, alarme, couverture ou abri) [18] ; application à un jacuzzi intérieur non tranchée | À faire valider (installateur, architecte) |
+| Jacuzzi partagé : déclaration | Un jacuzzi (bain à remous) partagé par vos clients suit les règles des piscines d’usage collectif : déclaration à la mairie avant l’ouverture, avec un dossier justificatif et l’engagement de respecter les normes [11] ; au plus tard deux mois avant, en trois exemplaires (code du sport, article A322-4, repris par l’ARS de Bourgogne-Franche-Comté) [12]. Un jacuzzi réservé au seul client d’une suite pendant son séjour n’est pas d’usage collectif [14] | Documenté [11] [12] [14] ; installation réelle à faire valider (installateur, mairie) |
+| Jacuzzi : eau et affichage | Carnet sanitaire tenu à la disposition des agents du contrôle sanitaire ; derniers résultats d’analyses affichés ; affichage recommandant de ne pas dépasser quinze minutes et déconseillant l’accès aux enfants de moins de dix ans ; fréquentation maximale affichée près du bassin, sauf dispense des petites installations (bassins de quinze baigneurs au plus en théorie, ou hébergement de quinze personnes au plus) [13] | Documenté [13] ; dispense à faire préciser (agence régionale de santé) |
+| Jacuzzi : entretien | Vidange complète au moins deux fois par mois sous 10 m³ (deux fois par an à partir de 10 m³), puis nettoyage et désinfection ; au moins 150 litres d’eau par baigneur pour fixer la fréquentation maximale, avec la même dispense possible que ci-dessus [15] | Documenté [15] ; matériel et traitement de l’eau à faire valider (installateur) |
+| Jacuzzi : à partir du 1er janvier 2027 | L’exploitant commande lui-même les analyses de l’eau à un laboratoire accrédité, à ses frais, affiche les derniers résultats et informe l’agence régionale de santé des incidents qui peuvent toucher la santé des baigneurs [16]. Le rythme dépend de la capacité d’accueil : analyses microbiologiques une fois par an (15 personnes ou moins) ou une fois par trimestre (16 à 150) ; légionelles une fois par an ; relevés de l’eau une fois par jour (15 personnes ou moins) ou deux fois par jour (16 à 150 ; une fois avec des régulateurs en continu) [14]. Jusqu’au 31 décembre 2026, les relevés sont déjà dus, et les analyses aussi : l’agence régionale de santé les organise de 16 à 150 personnes, l’exploitant les commande à 15 personnes ou moins ; les frais sont à sa charge dans les deux cas | Documenté [14] [16] ; capacité de vos suites à préciser |
+| Sauna | Aucune règle sanitaire propre trouvée dans le code de la santé publique. Le règlement sanitaire de la Nièvre demande que le sauna soit installé et exploité dans de bonnes conditions d’hygiène pour les usagers et le voisinage, et que le bâtiment soit protégé contre l’humidité [19]. Obligation générale de sécurité des services [17] ; installation électrique et poêle dans les vérifications du lieu ; affichage des précautions d’usage conseillé | À faire valider (mairie, bureau de contrôle, assureur) |
+| Sécurité des bassins | Une piscine privée de plein air dont le bassin est enterré, en tout ou en partie, doit avoir un dispositif contre la noyade (barrière, alarme, couverture ou abri) [18] ; un jacuzzi installé à l’intérieur n’entre pas dans cette règle ; à vérifier s’il est dehors et encastré | À faire valider (installateur, architecte) |
 | Assurance | Hébergement, espace bien-être et événements à déclarer | À faire valider (assureur) |
 
 ## 6. Comment ces échéances entreraient dans le registre de vos bâtiments
 
 Si vous en décidez ainsi, chaque ligne de ce document devient une échéance dans le registre de vos bâtiments, relié à vos logiciels : rattachée à un lieu, avec sa pièce, sa date et la personne chargée. L’outil rappelle ; votre administratrice ou la personne chargée vérifie et décide. Le tableau joint (échéancier) en donne la forme.
 
-## Pages officielles citées (consultées le 10 novembre 2026)
+## Pages officielles citées (consultées les 10 et 11 novembre 2026)
 
 1. Service Public Entreprendre, « Licence d’entrepreneur de spectacles vivants », fiche F22365, vérifiée le 5 avril 2024.
 2. Centre national de la musique, page « Taxe » (date non affichée).
 3. Service Public Entreprendre, « Établissement recevant du public : procédures d’autorisation de travaux », fiche F31687, vérifiée le 20 septembre 2024.
 4. Service Public Entreprendre, « Déclaration préalable », fiche F17578, vérifiée le 22 octobre 2026.
 5. Bulletin officiel des finances publiques, BOI-TVA-LIQ-30-20-40, 7 février 2024.
-6. Légifrance, arrêté du 1er décembre 2025 modifiant le règlement de sécurité des lieux recevant du public (article PE 4).
+6. Légifrance, arrêté du 25 juin 1980 (règlement de sécurité des lieux recevant du public), article PE 4, modifié par l’arrêté du 1er décembre 2025, en vigueur depuis le 1er juillet 2026.
 7. Service Public Entreprendre, « Bail dérogatoire », fiche F32304, vérifiée le 9 juin 2026.
 8. Légifrance, loi n° 2026-403 du 26 mai 2026, article 62 ; Service Public Entreprendre, fiche F36538. Date exacte de départ (26 ou 28 mai 2026) à faire préciser par votre avocat.
 9. Service Public Entreprendre, « Zones France ruralités revitalisation », fiche F31139, vérifiée le 21 février 2026.
 10. Service Public Entreprendre, fiche F17452 (chambres d’hôtes), vérifiée le 21 mai 2026 ; application à vos suites à faire valider.
 11. Légifrance, code de la santé publique, articles L1332-1 à L1332-9 (piscines et baignades), versions en vigueur le 10 novembre 2026.
-12. Agence régionale de santé de Bourgogne-Franche-Comté, « Piscine : réglementation en vigueur », page du 19 juin 2025.
-13. Légifrance, code de la santé publique, articles D1332-7 (version du 1er janvier 2022) et D1332-10 (version en vigueur le 10 novembre 2026).
-14. Légifrance, arrêté du 23 juin 2026 relatif à la surveillance des eaux de piscine (en vigueur le 1er janvier 2027), article 1er et annexes I et II.
+12. Légifrance, code du sport, article A322-4 (version du 9 août 2015) ; Agence régionale de santé de Bourgogne-Franche-Comté, « Piscine : réglementation en vigueur », page du 19 juin 2025.
+13. Légifrance, code de la santé publique, articles D1332-4 et D1332-10 (versions du 25 décembre 2025) et D1332-7 (version du 1er janvier 2022).
+14. Légifrance, arrêté du 23 juin 2026 relatif à la surveillance des eaux de piscine (en vigueur le 1er janvier 2027), article 1er et annexes I et II ; jusqu’au 31 décembre 2026, arrêté du 26 mai 2021 sur le même sujet, article 1er et annexes I et II.
 15. Légifrance, arrêté du 19 décembre 2025 relatif aux dispositions techniques applicables aux piscines, articles 4 et 15.
 16. Légifrance, décret n° 2026-118 du 20 février 2026, article 2 (en vigueur le 1er janvier 2027).
 17. Légifrance, code de la consommation, article L421-3 (version du 13 décembre 2024).
-18. Service Public, « Dispositif de sécurité des piscines privées familiales et collectives », fiche F1722, vérifiée le 13 février 2026.
+18. Service Public, « Dispositif de sécurité des piscines privées familiales et collectives », fiche F1722, vérifiée le 13 février 2026 ; Légifrance, code de la construction et de l’habitation, article D134-51 (version du 1er juillet 2021).
+19. Préfecture de la Nièvre, règlement sanitaire départemental (arrêté préfectoral n° 85-3421 du 21 novembre 1985), article 71 ; page de la préfecture mise à jour le 4 juillet 2024.
+20. Légifrance, arrêté du 25 juin 1980 (règlement de sécurité), article GE 4, version du 1er janvier 2015.
+21. Légifrance, code de la construction et de l’habitation, article R143-44, version du 1er juillet 2026.
+22. Ministère de la Culture, base Mérimée, notice SPR2700038 (site patrimonial remarquable de Cosne-Cours-sur-Loire), mise à jour le 9 octobre 2026.

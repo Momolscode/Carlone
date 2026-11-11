@@ -1,6 +1,6 @@
 # Écrans d’exemple du logiciel de gestion de vos propriétés
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 **Maquette — données fictives.** À ne montrer qu’après décision écrite de Morgan Olsen et Mathys Couet.
 
@@ -14,7 +14,7 @@ Ces onze écrans montrent l’ensemble : un logiciel du marché pour vos suites,
 2. **Fiche d’un bâtiment** : identité, occupant, échéances, documents classés, travaux ; tout peut être exporté.
 3. **Échéances** : chaque échéance avec qui porte l’obligation (propriétaire ou exploitant), la pièce attendue, la date et son état.
 4. **Comparaison de trois devis** : les devis mis côte à côte, les écarts repérés, et une personne qui décide.
-5. **Les neuf suites** : une semaine de réservations venues du logiciel hôtelier du marché choisi avec vous (un seul calendrier, à jour sur votre site et sur les sites de réservation), les arrivées du jour, les offres combinées.
+5. **Les neuf suites** : une semaine de réservations venues du logiciel hôtelier du marché choisi avec vous (un seul calendrier, à jour sur votre site et sur les sites de réservation), les arrivées du jour, les offres combinées. Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la vente de séjours : à faire valider par vos professionnels.
 6. **L’espace bien-être** : les créneaux du sauna et du jacuzzi, les relevés et l’entretien à faire.
 7. **La galerie** : une fiche par œuvre, son emplacement, ses pièces, ses prêts ; la description proposée par l’outil est relue par une personne.
 8. **Le cabaret** : les prochaines soirées, les contrats préparés pour vos professionnels, les démarches liées.
@@ -28,7 +28,7 @@ Aucun bien réel, aucune société réelle, aucun montant réel : « Bâtiment A
 
 ## Le principe qui ne change pas
 
-L’outil prépare et rappelle. Une personne vérifie et décide : rien n’est envoyé, payé, signé ou supprimé sans validation. Vos données restent à vous et peuvent sortir à tout moment.
+L’outil prépare et rappelle. Une personne vérifie et décide : rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée. Vos données restent à vous et peuvent sortir à tout moment.
 
 ## Comment l’ouvrir
 
