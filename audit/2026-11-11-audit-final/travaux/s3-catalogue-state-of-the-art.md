@@ -18,13 +18,12 @@ Source unique des rédacteurs. Le meilleur des six portefeuilles s2, retouché s
 9. Les outils les plus avancés resteront dans l’ombre : chercher, traduire, préparer, se souvenir. Rien n’est montré, vendu ou signé sans vous.
 10. Ce n’est pas plus de machines. C’est plus de maison.
 
-Nom de travail. Marque non vérifiée : recherche dans la base de l’INPI avant tout document laissé (décision V13).
+Nom de travail ; marque non vérifiée (V13).
 
 ## 2. Sept familles, vingt-six offres
 
 Partout : nous concevons et orchestrons, des spécialistes exécutent, votre équipe garde la main, vous décidez. Un outil du marché d’abord ; lecture seule d’abord ; rien d’envoyé, payé ou signé sans une personne habilitée ; tout à votre nom ; un prix écrit avant toute commande ; aucun résultat promis, chaque gain se mesure.
 
-Rubriques du brief, dans l’ordre ; « avancé » : un fait, sa source, sa date.
 
 ### Famille I. L’œil : servir votre goût
 
@@ -214,7 +213,7 @@ Rubriques du brief, dans l’ordre ; « avancé » : un fait, sa source, sa date
 
 **17. La scène qui répond à la galerie**
 - **Une phrase.** Chaque exposition s’ouvre par un numéro créé pour elle ; une œuvre devient décor.
-- **Vous obtenez.** Un vernissage-spectacle par exposition ; des surtitres dans la langue de chacun, sur des lunettes prêtées ; un son net à chaque table. En 2028, si un artiste dont la machine est l’œuvre est invité : la toile de minuit, peinte derrière une vitre pendant le spectacle.
+- **Vous obtenez.** Un vernissage-spectacle par exposition ; des surtitres dans la langue de chacun, sur lunettes prêtées ; un son net à chaque table. En 2028, avec un artiste dont la machine est l’œuvre : la toile de minuit, peinte derrière une vitre.
 - **Avancé.** À La Haye, un théâtre national a annoncé le prêt de lunettes à sous-titres créés par l’IA depuis la voix des comédiens ; 223 langues annoncées (Audinate, 29 mai 2025 [scène]).
 - **Format.** Un essai d’un mois sur un numéro, puis six semaines par exposition.
 - **Qui.** Un metteur en scène décide ; des artistes jouent ; un régisseur vidéo réalise ; nous : surtitres, liens avec la galerie, droits.
@@ -367,7 +366,7 @@ La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée
 
 ## 7. Grille interne
 
-**INTERNE — à décider par Morgan Olsen et Mathys Couet.** Jamais montrée ni citée au client.
+**INTERNE — à décider par Morgan Olsen et Mathys Couet.**
 
 Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de provision sur le haut, arrondi à 500 € ; suivi au même taux. Tiers payés par sa société sur leurs devis, hors grille ; leur part se lit face à nos honoraires. Repère : le cadrage, 6 500 € HT, vaut environ neuf journées.
 
@@ -404,65 +403,65 @@ Hypothèse : nos journées × 750 € HT (plancher) à 900 € HT, plus 15 % de 
 
 ## 8. Réserves de droit et de sécurité
 
-1. Registre des objets mobiliers ; droits des images ; export ouvert.
-2. Décret de 1981 ; anti-blanchiment au 10 juillet 2027 ; ni authentification ni estimation.
-3. Licences des bases ; aucun droit d’agir ; modèle privé nourri de ses seules données.
+1. Registre des objets mobiliers, droits des images, export ouvert.
+2. Décret de 1981, anti-blanchiment au 10 juillet 2027, ni authentification ni estimation.
+3. Licences des bases, aucun droit d’agir, modèle privé nourri de ses seules données.
 4. Droits des photographes et des épistoliers ; voix enregistrée, jamais imitée.
 5. Article 4 ; code du travail, L1222-4 ; note CIANum-CNIL : journal, arrêt, mémoire cloisonnée.
 6. RGPD : information, effacement, chiffrement ; analyse d’impact possible.
-7. Suivi consenti ; rétractation des ventes à distance ; accord des auteurs.
-8. Le papier signé fait foi ; droit de suite ; certificat d’exportation.
-9. Droit à l’image ; article 50 ; aucun tournage dans l’intimité ; drone autorisé d’abord.
-10. Reproduction et droit moral ; article 50 ; une image 3D n’est pas une mesure.
-11. Contrat de commande ; pose contrôlée ; aucune captation.
+7. Suivi consenti, rétractation des ventes à distance, accord des auteurs.
+8. Le papier signé fait foi, droit de suite, certificat d’exportation.
+9. Droit à l’image, article 50, aucun tournage dans l’intimité, drone autorisé d’abord.
+10. Reproduction et droit moral, article 50, une image 3D n’est pas une mesure.
+11. Contrat de commande, pose contrôlée, aucune captation.
 12. Statut fiscal d’un tirage fait à la machine (CGI, annexe III, art. 98 A) ; article 50, § 4.
 13. RGPD, article 22 ; contrats de résidence ; données d’entreprise effacées après essai.
 14. Co-autorat ; statut fiscal ; machines sous capot (règlement machines, 20 janvier 2027).
 15. Prêts, transport, assurance ; droits de reproduction.
-16. Bons de dépôt ; assurance ; climat ; jamais un placement.
+16. Bons de dépôt, assurance, climat, jamais un placement.
 17. Spectacle, ERP, boissons ; voix des artistes ; ISO 10218-2:2025 ne couvre pas le public : analyse propre au lieu.
 18. Forfait touristique (code du tourisme, L211-1 et L211-2) ; Atout France.
-19. Sécurité du public ; boissons ; nom de Bourges 2028 ; vente de séjours.
+19. Sécurité du public, boissons, nom de Bourges 2028, vente de séjours.
 20. Instruction cachée : droits minimaux ; secret bancaire ; monopole de l’expert-comptable.
 21. Réseau séparé ; capteurs des suites : données personnelles ; jamais la maîtrise d’œuvre.
 22. Jamais « conforme » ; jacuzzi : déclaration en mairie, analyses accréditées au 1er janvier 2027.
-23. Article 50 ; une réponse fausse engage l’exploitant ; partage entre sociétés consenti.
-24. Mêmes prix partout ; prix personnalisé déclaré ; aucune réservation sans validation.
-25. Un devis signé vaut commencement ; sa société dépose ; aucune aide promise.
+23. Article 50, une réponse fausse engage l’exploitant, partage entre sociétés consenti.
+24. Mêmes prix partout, prix personnalisé déclaré, aucune réservation sans validation.
+25. Un devis signé vaut commencement, sa société dépose, aucune aide promise.
 26. 238 bis AB, achats avant le 31 décembre 2028 ; aucun chiffre d’avantage.
 
 ## 9. Faits citables retenus
 
 Tous lus le 11 novembre 2026 ; rédaction exacte dans l’offre citée. Les chiffres d’Art Basel et UBS : il les connaît mieux que nous.
 
-1. Seize heures d’expert en logiciel, une fois sur deux : METR, 8 septembre 2026 [front. F1] (§ 5).
-2. De 2,5 % à 41,3 % de missions réelles acceptables : Scale AI, novembre 2026 [dir. S5] (offre 26).
-3. Une boutique tenue par un agent, bénéficiaire avec des procédures : Anthropic, 18 décembre 2025 [dir. S8] (offre 20).
-4. Plus de 40 % des projets d’agents abandonnés d’ici fin 2027 : Gartner, 25 juin 2025 [dir. S20] (offre 22).
-5. Factures électroniques : trois entreprises sur quatre équipées au 4 octobre 2026, PME émettrices au 1er septembre 2027 : communiqué ministériel, 9 octobre 2026 [dir. S16] (offre 20).
-6. Voix traduite qui imite le ton : Google Meet, 4 février 2026 [front. F10] (offre 7).
-7. Mondes explorables où l’on parle : Google DeepMind, 27 octobre 2026 [front. F8] (offre 10).
-8. Objets capturés en 3D, manipulés sur un téléphone : LACMA, jusqu’au 20 décembre 2026 [gal. S14] (offre 10).
-9. 84 % des professionnels de galerie utilisent l’IA ; 8 % des galeries ont une règle : Observer, 17 avril 2026 [gal. S4] (offre 5).
-10. Plus de 70 œuvres spoliées retrouvées sur une question : NPR, 9 août 2026 [gal. S23] (offre 2).
-11. Certificat lié à une puce, à Art Basel : Verisart, 22 juin 2026 [gal. S21] (offre 8).
-12. Création avec l’IA protégeable si la direction humaine se prouve : ministère de la Culture, 16 juillet 2026 [créa.] (offre 8).
-13. 88 151 visiteurs pour « Le monde selon l’IA » : Jeu de Paume, rapport 2025 [créa.] (offre 15).
-14. Lunettes de surtitres, 223 langues annoncées : Audinate, 29 mai 2025 [scène] (offre 17).
-15. Plus de 16 000 œuvres et objets à The Fife Arms : page officielle [acc. S13] (offre 16).
-16. Un cabaret de village avec hôtel et spa au 28 août 2026 : Kirrwiller, page officielle [acc. S12] (offre 18).
-17. 306 601 nuitées pour un festival d’hiver : Pulse Tasmania, 22 septembre 2026 [lieux] (offre 19).
-18. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 : 16 décembre 2025 [terr.] (offre 19).
-19. Une chambre réservée dans le mode IA de Google : PPC Land, 28 août 2026 [ray.] (offre 24).
-20. Jusqu’à 30 % des travaux, dossier avant tout commencement : Région, 6 mars 2026 [terr.] (offre 25).
+1. Seize heures d’expert en logiciel, une fois sur deux : METR, 8 septembre 2026 (§ 5).
+2. De 2,5 % à 41,3 % de missions réelles acceptables : Scale AI, novembre 2026 (offre 26).
+3. Une boutique tenue par un agent, bénéficiaire avec des procédures : Anthropic, 18 décembre 2025 (offre 20).
+4. Plus de 40 % des projets d’agents abandonnés d’ici fin 2027 : Gartner, 25 juin 2025 (offre 22).
+5. Factures électroniques : trois entreprises sur quatre équipées au 4 octobre 2026, PME émettrices au 1er septembre 2027 : communiqué ministériel, 9 octobre 2026 (offre 20).
+6. Voix traduite qui imite le ton : Google Meet, 4 février 2026 (offre 7).
+7. Mondes explorables où l’on parle : Google DeepMind, 27 octobre 2026 (offre 10).
+8. Objets capturés en 3D, manipulés sur un téléphone : LACMA, jusqu’au 20 décembre 2026 (offre 10).
+9. 84 % des professionnels de galerie utilisent l’IA ; 8 % des galeries ont une règle : Observer, 17 avril 2026 (offre 5).
+10. Plus de 70 œuvres spoliées retrouvées sur une question : NPR, 9 août 2026 (offre 2).
+11. Certificat lié à une puce, à Art Basel : Verisart, 22 juin 2026 (offre 8).
+12. Création avec l’IA protégeable si la direction humaine se prouve : ministère de la Culture, 16 juillet 2026 (offre 8).
+13. 88 151 visiteurs pour « Le monde selon l’IA » : Jeu de Paume, rapport 2025 (offre 15).
+14. Lunettes de surtitres, 223 langues annoncées : Audinate, 29 mai 2025 (offre 17).
+15. Plus de 16 000 œuvres et objets à The Fife Arms : page officielle (offre 16).
+16. Un cabaret de village avec hôtel et spa au 28 août 2026 : Kirrwiller, page officielle (offre 18).
+17. 306 601 nuitées pour un festival d’hiver : Pulse Tasmania, 22 septembre 2026 (offre 19).
+18. Nevers et La Charité-sur-Loire dans le réseau de Bourges 2028 : 16 décembre 2025 (offre 19).
+19. Une chambre réservée dans le mode IA de Google : PPC Land, 28 août 2026 (offre 24).
+20. Jusqu’à 30 % des travaux, dossier avant tout commencement : Région, 6 mars 2026 (offre 25).
 
 À ne jamais citer : la source [S1] de la note « accueil » ; les « six mois » d’Orsay ; un chiffre seulement « vu » ; le prix de la machine (dépôt).
 
 ## 10. Plan des documents à écrire
 
-**(a) Une page « State Of The Art : le programme ».** Mention PROJET ; phrase-titre ; les dix lignes ; les sept familles et les cinq phares, une ligne chacun ; « Par où votre maison commence-t-elle ? » ; le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1) ; `lint-doc.js --tarifs-publics`.
+**(a) Une page « State Of The Art : le programme ».** Mention PROJET, phrase-titre, dix lignes, sept familles et cinq phares en une ligne chacun, la question « Par où votre maison commence-t-elle ? », le cadrage à 6 500 € HT. Contrôles : `md2pdf` (PAGES=1), `lint-doc.js --tarifs-publics`.
 
-**(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2 ; « un prix écrit avant toute commande » ; noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
+**(b) Le catalogue client.** Une demi-page par offre, rubriques du § 2, « un prix écrit avant toute commande », noms de travail. En tête, la carte à cocher : « j’en ai envie », « plus tard », « pas pour moi ».
 
 **(c) Les diapositives.** Environ quatre minutes de plus, à arbitrer (V14). `offres` (23) garde ses quatre niveaux ; anciens noms et offres : chef d’orchestre et copilote, 20 ; galerie sans murs, 1 et 7 ; séjours signature, 16 et 18 ; cabaret augmenté, 17 ; rayonnement, 24 ; bouclier et pass IA, 5 ; résidence et laboratoire, 13 ; bâtiments qui préviennent, 21 ; réseau de vos partenaires, 14 et 26.
 
