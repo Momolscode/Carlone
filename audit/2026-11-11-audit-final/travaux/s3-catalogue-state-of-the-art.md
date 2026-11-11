@@ -24,7 +24,6 @@ Nom de travail ; marque non vérifiée (V13).
 
 Partout : nous concevons et orchestrons, des spécialistes exécutent, votre équipe garde la main, vous décidez. Un outil du marché d’abord ; lecture seule d’abord ; rien d’envoyé, payé ou signé sans une personne habilitée ; tout à votre nom ; un prix écrit avant toute commande ; aucun résultat promis, chaque gain se mesure.
 
-
 ### Famille I. L’œil : servir votre goût
 
 **1. Le cabinet des œuvres**
@@ -251,7 +250,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 - **Vous obtenez.** Les tâches qui reviennent, écrites comme des partitions ; une seule file « à valider » ; les longues tâches du soir rendues au matin ; les factures rapprochées des devis et des paiements ; une mémoire qui répond, page source à l’appui.
 - **Avancé.** Une boutique tenue par un agent d’IA est passée des pertes à des semaines presque toutes bénéficiaires une fois dotée d’outils et de procédures ; son éditeur la juge encore vulnérable (Anthropic, 18 décembre 2025 [dir. S8]).
 - **Format.** Partitions pendant le cadrage ; essai de huit semaines sur un lieu ; puis lieu par lieu, société par société.
-- **Qui.** Nous : partitions, réglages, mesure, sur des outils du marché. Votre administratrice choisit et valide ; votre expert-comptable tient les comptes.
+- **Qui.** Nous : partitions, réglages, mesure, sur des outils du marché. Votre administratrice, aidée, jamais remplacée, choisit et valide ; votre expert-comptable tient les comptes.
 - **Pour commencer.** L’inventaire du cadrage.
 - **Mesure.** Délai entre réception et validation ; minutes par facture ; erreurs à l’échantillon : la tâche, jamais la personne.
 - **À faire valider.** Rien de payé, envoyé ou signé sans elle ; émission des factures par les PME au 1er septembre 2027 ; aucun conseil fiscal.
@@ -305,7 +304,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 **25. L’argent qui attend**
 - **Une phrase.** Le calendrier des aides et des prêts possibles, avec l’ordre des actes.
-- **Vous obtenez.** Dès vendredi, un conseil : aucun devis de travaux signé avant d’avoir vérifié les aides. Puis une fiche par aide, les dossiers préparés, une alerte avant toute signature.
+- **Vous obtenez.** Tout de suite, un conseil : aucun devis de travaux signé avant d’avoir vérifié les aides. Puis une fiche par aide, les dossiers préparés, une alerte avant toute signature.
 - **Avancé.** La Région aide l’hôtellerie indépendante jusqu’à 30 % des travaux, logiciel de gestion admis, dossier déposé avant tout commencement (règlement du 6 mars 2026 [terr.]). Un appel national pour l’IA dans la culture a fermé le 20 octobre 2026, crédits épuisés (Bpifrance [terr.]).
 - **Format.** Trois semaines, puis un à cinq jours par dossier.
 - **Qui.** Nous préparons ; votre administratrice tient le calendrier ; votre société dépose, jamais nous.
@@ -327,7 +326,7 @@ Partout : nous concevons et orchestrons, des spécialistes exécutent, votre éq
 
 ## 3. Cinq projets phares pour l’ouverture de 2027
 
-Si la commande part au premier trimestre 2027 ; dates d’ouverture à fixer avec lui.
+Si la commande part au premier trimestre 2027 ; dates d’ouverture à fixer avec vous.
 
 1. **La première nuit des œuvres** (offres 12, 16, 18, 23). *Le client des suites.* Un couple arrive de Milan, son programme reçu la veille en italien. Dans sa suite, une toile choisie pour lui, un mot au chevet, aucun écran. Quand le rideau du cabaret tombe, la suite est prête. Au matin, le sauna à son heure, puis le dossier de l’œuvre aimée. Il repart avec le tirage signé de sa nuit.
 2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux a visité l’accrochage depuis Londres, avec vous. Le jour venu, il approche son téléphone du châssis de l’œuvre réservée : le certificat s’affiche.
@@ -353,7 +352,7 @@ La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée
 
 - **2027. Ce qui ouvre :** le cadrage en janvier ; la règle de la maison, le cabinet des œuvres, le pupitre, les salles des fondateurs ; la galerie, son exposition, l’œuvre du seuil ; les suites et le cabaret si leurs dates le permettent. **L’IA :** des tâches de logiciel de seize heures d’expert réussies une fois sur deux (mesuré) ; la voix traduite en français dans une réunion (disponible) ; un monde 3D tiré d’une image (disponible). **Les règles :** machines au 20 janvier ; vigilance contre le blanchiment au 10 juillet ; factures émises par les PME au 1er septembre.
 - **2028. Ce qui ouvre :** la résidence, la main d’ici, l’œil appris, l’ambassadeur, la toile de minuit ; Bourges 2028, ouverture annoncée les 22 et 23 janvier ; Solstice en décembre ; le laboratoire. **L’IA :** des tâches de plusieurs jours si le rythme se maintient (supposé) ; un programmeur automatisé, situé par deux prévisionnistes entre fin 2027 et début 2030 (prévision très incertaine). **Les règles :** déduction des achats d’œuvres par les entreprises jusqu’au 31 décembre 2028.
-- **2030. Ce qui ouvre :** le passeport transmis à chaque revente ; des salles que lisent les assistants des collectionneurs ; des mondes où l’on parle ; le carnet des murs interrogé en langage courant. En réserve, s’il le demande : un catalogue raisonné, l’inventaire des collections de ses clients. **L’IA :** selon Epoch AI, une IA qui écrit seule du logiciel bien défini, 10 à 20 % gagnés par tâche, un déploiement en retard (prévision, 2025) ; un humanoïde utile près du public, pas avant (supposé ; aucune livraison domestique vérifiée à la mi-octobre 2026).
+- **2030. Ce qui ouvre :** le passeport transmis à chaque revente ; des salles que lisent les assistants des collectionneurs ; des mondes où l’on parle ; le carnet des murs interrogé en langage courant. En réserve, si vous le demandez : un catalogue raisonné, l’inventaire des collections de vos clients. **L’IA :** selon Epoch AI, une IA qui écrit seule du logiciel bien défini, 10 à 20 % gagnés par tâche, un déploiement en retard (prévision, 2025) ; un humanoïde utile près du public, pas avant (supposé ; aucune livraison domestique vérifiée à la mi-octobre 2026).
 
 ## 6. Comment nous le tenons
 
