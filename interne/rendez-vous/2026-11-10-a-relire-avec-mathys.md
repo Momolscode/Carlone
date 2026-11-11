@@ -4,7 +4,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 
 Environ trois heures et demie à deux, en trois séances. Ordre : décider d’abord, puis relire ce qu’on montre, puis s’entraîner. Chaque document passe déjà le contrôle des lignes rouges sans erreur ; ce qui reste, c’est votre jugement.
 
-**Ces durées ne tiennent que si chacun a lu avant, seul** (compte du 11 novembre 2026) : les documents de la séance 1 font environ 11 000 mots, soit près d’une heure de lecture ; ceux de la séance 2, environ 26 000 mots (36 diapositives avec leurs notes, douze fiches, onze pages, onze écrans), soit plus de deux heures de lecture attentive par personne. Sans cette lecture, compter plutôt six à sept heures à deux. En séance : on décide, on corrige, on répète.
+**Ces durées ne tiennent que si chacun a lu avant, seul** (compte du 11 novembre 2026) : les documents de la séance 1 font environ 12 000 mots, soit une heure de lecture ; ceux de la séance 2, environ 27 000 mots (36 diapositives avec leurs notes, douze fiches, onze pages, onze écrans), soit plus de deux heures de lecture attentive par personne. Sans cette lecture, compter plutôt six à sept heures à deux. En séance : on décide, on corrige, on répète.
 
 ## Séance 1 — Décider (environ une heure, au plus tard jeudi 12 au soir)
 

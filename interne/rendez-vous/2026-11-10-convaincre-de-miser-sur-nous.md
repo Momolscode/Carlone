@@ -24,7 +24,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 
 | Période | Ce qui se passe | Ce qu’il voit |
 | --- | --- | --- |
-| Janvier 2027, semaines 1 à 4 | Cadrage : entretien, inventaire, trois priorités | Un dossier qui lui appartient |
+| Janvier 2027, semaines 1 à 4 | Cadrage : entretien, inventaire, trois priorités | Un dossier qui appartient à sa société, dès le solde payé |
 | Février et mars 2027 | Un essai de huit semaines au plus, sur une seule tâche de la priorité n° 1 (par exemple : le registre des bâtiments, ou le choix du logiciel des suites), commandé à part | Un résultat mesuré, comparé à sa mesure de départ |
 | Avril 2027 | Bilan : continuer, ajuster ou arrêter | Une décision fondée sur des chiffres |
 

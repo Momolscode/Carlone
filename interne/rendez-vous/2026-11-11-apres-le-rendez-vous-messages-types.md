@@ -17,7 +17,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 11 novembre 2026
 
 Lecture retenue ici : la dernière case de la liste (relecture par un avocat) retient le bon de commande, pas le message. À confirmer à deux, jeudi.
 
-**Les relances**
+### Les relances
 
 - **Après un oui** : s’il manque une des trois informations, une seule relance, cinq jours ouvrés après le message. Le silence ne vaut pas accord.
 - **Après « je réfléchis »** : aucune relance avant la date de rappel convenue. Ce jour-là, l’appel prévu. Ensuite, une seule relance, cinq jours ouvrés plus tard. Puis plus rien.

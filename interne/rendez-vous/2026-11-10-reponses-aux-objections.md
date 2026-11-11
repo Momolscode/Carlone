@@ -34,7 +34,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 - **DL1 maintenue (recommandé)** : « Nous vous remettons un prix par étape après le cadrage, sur vos volumes réels. Aujourd’hui nous vous montrons la méthode et les garanties. »
 - **DL1 levée** : « Jusqu’au bilan du pilote, comptez 15 700 à 18 700 € HT, commandés et payés étape par étape. » Puis : « Le cadrage vient avant et s’y ajoute. » Pour le seul choix du logiciel des suites : le prix unique de la décision V8, jamais les deux lignes du 9 novembre.
 **Ne pas dire** : un total additionné ; un chiffre improvisé ; la maintenance mensuelle ; le coût sur trois ans des logiciels (estimation interne) ; une comparaison avec le prix de l’autre proposition.
-**Question suivante** : « Votre logiciel de gestion des propriétés fait-il partie de vos trois priorités ? Quand voulez-vous accueillir les premiers clients dans vos suites ? »
+**Question suivante** : « Le logiciel de gestion de vos propriétés fait-il partie de vos trois priorités ? Quand voulez-vous accueillir les premiers clients dans vos suites ? »
 
 ## 4. La comparaison avec l’autre proposition
 
@@ -48,7 +48,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 
 **Il dit** : « Comment on commence, concrètement ? »
 **Réponse** : « Il nous faut trois informations : la société qui commande, la personne qui signe, et une date pour le premier entretien. Nous vous envoyons ensuite le bon de commande et ses conditions ; rien ne vous engage avant de le signer. » (Délai d’envoi à fixer jeudi : décision V10 de la feuille de décisions.)
-**Calendrier** : démarrage début janvier 2027 si la commande est signée avant la mi-décembre ; premier entretien de deux à trois heures chez lui ; dossier remis trois à quatre semaines plus tard.
+**Calendrier** : démarrage visé début janvier 2027 si la commande est signée avant la mi-décembre ; premier entretien de deux à trois heures chez lui ; dossier remis trois à quatre semaines plus tard.
 **Ne pas faire** : signer en séance (recommandation de la feuille de décisions, arbitrage B) ; demander un chèque.
 
 ## 6. « Mon administratrice va-t-elle perdre son poste ? »
@@ -59,7 +59,7 @@ Base : `audit/2026-11-09-audit-presentation-et-offre/03-objections-et-conditions
 
 ## 7. « L’IA se trompe »
 
-**Réponse** : « Oui, et c’est pourquoi rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne. L’outil prépare, une personne vérifie et décide. »
+**Réponse** : « Oui, et c’est pourquoi rien n’est envoyé, payé, signé ou supprimé sans la validation d’une personne habilitée. L’outil prépare, une personne vérifie et décide. »
 **Ne pas dire** : « zéro erreur », « fiable à 100 % ».
 
 ## 8. « Et mes données ? »
