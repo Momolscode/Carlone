@@ -336,3 +336,42 @@ Rubriques, dans l’ordre du brief : une phrase ; vous obtenez ; avancé (un fai
 - **Mesure.** Œuvres placées ; entreprises qui reviennent.
 - **À faire valider.** Déduction des achats faits avant le 31 décembre 2028 (article 238 bis AB) : jamais un argument chiffré.
 - **Quand.** 2027-2028.
+
+## 3. Cinq projets phares pour l’ouverture de 2027
+
+Ce que l’on verrait le jour venu, si la commande part au premier trimestre 2027. Dates d’ouverture à fixer avec lui.
+
+1. **La première nuit des œuvres** (offres 12, 16, 18, 24). *Le client des suites.* Un couple arrive de Milan le soir de l’ouverture ; la veille, il a reçu son programme en italien. Dans sa suite, une toile choisie pour lui, un mot au chevet, aucun écran. Après le vernissage et le cabaret, la suite est prête quand le rideau tombe. Au matin : le sauna à son heure, le dossier de l’œuvre aimée, une visite privée. Il repart avec le tirage signé de sa nuit.
+2. **L’ouverture choisie avant d’ouvrir** (7, 8). *Le collectionneur.* Six mois avant, trente collectionneurs ont reçu chacun leur salle : cinq œuvres, une lettre de votre main, dans leur langue. L’un d’eux, à Londres, a visité l’accrochage avec vous, chacun parlant la sienne. Le jour venu, il retrouve l’œuvre réservée, approche son téléphone du châssis : le certificat s’affiche. Le soir, il reçoit le passeport de l’œuvre.
+3. **La main et la machine** (8, 10, 11, 15). *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel du jour. Dans la galerie, votre stock fait face aux œuvres commandées ; sous chacune, la part de la main et celle de la machine. Une visiteuse ouvre le journal daté d’une pièce. Dans dix ans, on marchera encore dans cette exposition.
+4. **Le vernissage-spectacle** (17). *Le spectateur.* Au cabaret s’il ouvre en 2027, sinon dans la galerie. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes. À chaque table, le son est net. Des artistes vivants : aucun avatar, aucune voix imitée.
+5. **Le matin de la maison** (2, 20, 21, 23). *Vous et votre administratrice.* Sept heures. Sur un seul écran, la nuit de tous vos lieux : factures du chantier rapprochées des devis, deux écarts signalés, la dernière analyse de l’eau du jacuzzi jointe, le dossier de l’œuvre nommée hier soir. Elle valide, corrige, refuse. Vous recevez une page : trois décisions attendent votre accord.
+
+## 4. Trois façons de commencer, vendredi
+
+Le cadrage reste la première marche recommandée : trois à quatre semaines, 6 500 € hors taxes, prix fixe. Ce qui change : il se tourne vers les trois moments que vous choisissez dans le programme, au même prix, avec le même dossier.
+
+1. **Ce que l’on peut décider tout de suite.** Votre accord pour le cadrage. Un conseil, sans attendre : aucun devis de travaux signé avant d’avoir vérifié les aides (26). Et, si vous le voulez, une offre qui n’attend pas, parce qu’une date l’impose : la note pour votre architecte (22), le film du chantier (9), la règle de la maison (5) ou le calendrier des aides (26).
+2. **Ce qui passe d’abord par le cadrage.** Tout ce qui touche vos données, vos collectionneurs, vos logiciels, vos séjours, le cabaret : offres 1 à 4, 6, 7, 16 à 18, 20, 21, 23 à 25, 27. Le cadrage en tire vos trois priorités à 90 jours ; puis un essai à la fois.
+3. **Ce qui se prépare pour plus tard.** Ce qui demande des mois : les commandes d’œuvres (11, 12, 15), la résidence (13), la main d’ici (14), les mondes (10), Bourges et Solstice (19). Leur conception peut commencer pendant le cadrage ; aucun artiste n’est contacté sans votre accord.
+
+**Ce que vous pouvez choisir en plus.** L’angle du cadrage, au même prix : par les œuvres, par le cercle, par l’ouverture ou par la maison. Au plus une offre qui n’attend pas. Un projet phare en conception. Chacune avec son prix écrit avant toute commande.
+
+**La phrase de la décision.** « Aujourd’hui, nous vous demandons une décision : votre accord pour le cadrage, tourné vers les trois moments que vous avez choisis, et, si vous le voulez, le nom de l’offre que nous vous chiffrons en plus. Le bon de commande suit ; rien ne vous engage avant de le signer. »
+
+## 5. Le chemin : 2027, 2028, 2030
+
+La mesure de METR se dit toujours ainsi : sur des tâches de logiciel, la durée des tâches que les meilleurs agents d’IA réussissent une fois sur deux double environ tous les sept mois depuis 2019 ; une mesure du passé, pas une prévision.
+
+- **2027. Ce qui ouvre :** le cadrage en janvier ; la règle de la maison, le cabinet des œuvres, le pupitre, les salles des fondateurs ; la galerie, son exposition, l’œuvre du seuil ; les suites et le cabaret si leurs dates le permettent. **L’IA :** des tâches de logiciel de seize heures d’expert réussies une fois sur deux (mesuré) ; la voix traduite en français dans une réunion (disponible) ; un monde 3D tiré d’une image (disponible). **Les règles :** machines au 20 janvier ; vigilance contre le blanchiment au 10 juillet ; factures émises par les PME au 1er septembre.
+- **2028. Ce qui ouvre :** la résidence, la main d’ici, l’œil appris, l’ambassadeur, la toile de minuit ; Bourges 2028, ouverture annoncée les 22 et 23 janvier ; Solstice en décembre ; le laboratoire. **L’IA :** des tâches de plusieurs jours si le rythme se maintient (supposé) ; un programmeur automatisé, situé par deux prévisionnistes indépendants entre fin 2027 et début 2030 (prévision très incertaine). **Les règles :** déduction des achats d’œuvres par les entreprises jusqu’au 31 décembre 2028.
+- **2030. Ce qui ouvre :** le passeport transmis à chaque revente ; des salles que lisent les assistants des collectionneurs ; des mondes où l’on parle ; un carnet des murs interrogé en langage courant. En réserve, s’il le demande : le catalogue raisonné d’un artiste, l’inventaire des collections de ses clients. **L’IA :** selon Epoch AI, une IA qui écrit seule du logiciel bien défini, avec 10 à 20 % gagnés par tâche et un déploiement en retard (prévision, 2025) ; l’assistant du collectionneur qui prépare l’achat (supposé) ; un humanoïde utile près du public, pas avant (supposé ; aucune livraison domestique vérifiée à la mi-octobre 2026).
+
+## 6. Comment nous le tenons
+
+- **Les deux associés** (partage proposé). Morgan Olsen : la relation, les artistes, les spécialistes, les projets phares. Mathys Couet : les outils, les données, les liens, la sécurité, la mesure. L’un mène, l’autre relit et prend le relais.
+- **Les spécialistes à réunir** (aucun approché) : avocats du marché de l’art, des données et de la propriété artistique ; votre expert-comptable ; une agence de voyages immatriculée ; un intégrateur réseau, scène et sécurité ; un spécialiste du relevé 3D ; un commissaire ; des artistes ; un metteur en scène ; un régisseur d’œuvres ; un conservateur-restaurateur ; un assureur d’œuvres ; un producteur ; un laboratoire universitaire.
+- **Ce qui s’achète :** logiciels de galerie, des suites, de billetterie, de réservation ; assistants ; traduction ; certificats ; capture 3D ; plateforme de factures. **Ce que nous construisons :** une seule base des faits et des récits, validée par vous, qui nourrit toutes les offres ; la file « à valider » ; les liens ; la mesure.
+- **Ce que fait votre équipe :** votre administratrice dirige le pupitre et tient les registres ; votre accueil garde la relation ; vous choisissez, écrivez, signez.
+- **L’ordre :** deux chantiers à la fois au plus, dont un seul sur vos données ; un essai à la fois ; chaque marche mesurée avant la suivante. Tout à votre nom, tout exportable, un relais nommé si l’un de nous manque.
+- **Ce que nous refusons :** authentifier, estimer, vendre une œuvre comme un placement ; un conseil fiscal ou juridique ; déposer un dossier à votre place ; une machine près du public sans analyse des risques ; un humanoïde d’accueil ; une voix imitée ; un capteur sur le corps ; la reconnaissance des visages ; une IA qui note une personne ; une administratrice remplacée ou surveillée ; une image générée présentée comme réelle.
