@@ -1,6 +1,6 @@
 # Le logiciel de gestion de vos propriétés
 
-PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet
+Fiche 7 sur 12 · PROJET non envoyé — à valider par Morgan Olsen et Mathys Couet · corrigé le 11 novembre 2026
 
 Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos propriétés. Voici comment nous le ferions.
 
@@ -13,7 +13,7 @@ Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos
 ## Ce que nous avons compris (à confirmer avec vous)
 
 - Dans l’établissement de la galerie, vous préparez neuf suites « privilège », un sauna et un jacuzzi. Le cabaret-spectacle est prévu à côté. Vous avez plusieurs bâtiments et des commerces à ouvrir.
-- Votre administratrice gérera l’administratif ; aucune gestion n’est confiée à un tiers.
+- Votre administratrice gère l’administratif ; aucune gestion n’est confiée à un tiers.
 - Nous ne savons pas encore : le nombre et l’adresse des bâtiments, les sociétés propriétaires et exploitantes, la date d’ouverture des suites, les outils déjà utilisés.
 
 ## Ce que nous proposons
@@ -23,26 +23,28 @@ Vous nous avez demandé si nous pouvions créer votre logiciel de gestion de vos
 | Idée | Ce que cela change pour vous | Quand |
 | --- | --- | --- |
 | Choisir le logiciel des suites : trois logiciels du marché au plus, comparés par écrit (accès aux principaux sites de réservation, liaison ouverte avec nos outils, créneaux du sauna et du jacuzzi, coût sur trois ans) | Un choix argumenté, sur pièces | Essai |
-| Le registre de vos bâtiments : une fiche par bâtiment, les échéances avec qui porte l’obligation, les documents, les travaux | Aucune échéance découverte trop tard | Essai |
+| Le registre de vos bâtiments : une fiche par bâtiment, les échéances avec qui porte l’obligation, les documents, les travaux | Chaque échéance rappelée à temps, avec la pièce attendue | Essai |
 | La comparaison de trois devis | Les devis comparés sur les mêmes points ; une personne décide | Essai |
 | Une page chaque semaine : décisions à prendre, échéances, quelques chiffres | Diriger plusieurs projets sans vous noyer dans le détail | Essai |
 | Le logiciel des suites paramétré et relié : si vous le souhaitez, vos suites pourront apparaître sur les principaux sites de réservation, avec un seul calendrier à jour | Moins de saisies et de doubles réservations ; votre administratrice garde la main | Ensuite |
-| L’espace bien-être : créneaux du sauna et du jacuzzi, rappels de l’entretien et des contrôles | Pas de créneau en double, aucune vérification oubliée | Rappels : essai ; créneaux : ensuite |
+| L’espace bien-être : créneaux du sauna et du jacuzzi, rappels de l’entretien et des contrôles | Des créneaux sans doublon ; chaque vérification rappelée à la personne qui la fait | Rappels : essai ; créneaux : ensuite |
 | Les séjours combinés : nuit, vernissage, soirée au cabaret, espace bien-être | Une offre propre à votre établissement | Ensuite : lieux ouverts |
 | La galerie, le cabaret et l’administratif dans la même vue d’ensemble | Tout au même endroit ; chacun ne voit que ce qui le concerne | Ensuite, par étapes |
 | Un assistant qui cherche dans vos documents et cite sa source | Retrouver un document en une question | Ensuite, si vous le souhaitez |
+
+Vendre ensemble une nuit, un spectacle et un soin peut relever des règles de la vente de séjours : à faire valider par vos professionnels.
 
 **Les écrans d’exemple** (Maquette — données fictives) en montrent onze, dont une carte de toutes les fonctions. Elle sépare ce qui vient d’un logiciel du marché relié (réservations des suites, billets, encaissements) et ce que nous construirions pour vous. Ce n’est pas un logiciel utilisable : les rubriques réelles se fixent avec vous.
 
 ## Comment nous procéderions
 
 1. **Cadrage** : si vous en faites une priorité, inventaire de vos lieux et mesure du temps passé aujourd’hui.
-2. **Choix des logiciels**, avec des critères de réception écrits.
+2. **Choix des logiciels**, avec des critères écrits pour accepter ou refuser le résultat.
 3. **Maquette et essai sur données fictives** : votre administratrice essaie les écrans.
-4. **Essai de huit semaines au plus** sur un bâtiment et un lieu, commandé à part ; chaque rappel activé après votre validation écrite.
+4. **Essai de huit semaines au plus**, sur une seule tâche (par exemple les échéances d’un bâtiment et d’un lieu), mesurée avant et après, commandé à part, avec son prix ; chaque rappel activé après votre validation écrite.
 5. **Bilan** : arrêt, essai conservé ou suite, un périmètre à la fois.
 
-L’IA nous aide à écrire le code ; une personne relit tout. Les montants passent par des formules testées, jamais par l’IA. Comptes, hébergement dans l’Union européenne, code et données sont au nom de votre société dès le premier jour. Le code développé pour vous lui est cédé une fois le prix dû payé. Vous exportez tout, à tout moment, sans nous. Si nous ne pouvions plus intervenir, vos outils continuent de fonctionner sur vos comptes, et un autre prestataire peut reprendre.
+L’IA nous aide à écrire le code ; une personne relit tout. Les montants passent par des formules testées, jamais par l’IA. Comptes, hébergement de l’outil dans l’Union européenne, espace où le code est rangé et données sont au nom de votre société dès le premier jour (pour l’IA, voir la fiche 8). Les droits sur le code développé pour vous lui sont cédés une fois le prix dû payé. Vous exportez tout, à tout moment, sans nous. Si nous ne pouvions plus intervenir, vos outils continuent de fonctionner sur vos comptes, et un autre prestataire peut reprendre.
 
 ## Ce qui reste à vous
 
@@ -64,3 +66,5 @@ L’IA nous aide à écrire le code ; une personne relit tout. Les montants pass
 - **Expert-comptable** : caisse certifiée ou attestée, facture électronique, TVA, taxe de séjour.
 - **Avocat** : les contrats des éditeurs (durée d’engagement, export, lieu des données) et l’accord sur les données.
 - **Assureur** : l’assurance des suites et de l’espace bien-être.
+
+Ce document n’est pas un avis juridique. Marwin Tech est une société en cours de création, immatriculée avant toute facture et tout démarrage. Nous sommes deux : une étape et un essai à la fois.
