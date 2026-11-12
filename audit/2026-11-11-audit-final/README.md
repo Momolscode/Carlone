@@ -57,6 +57,22 @@ Morgan Olsen a tranché le 11 novembre : on peut proposer bien d’autres choses
 
 **Restent à trancher jeudi, apparus pendant ce contrôle** : « deux chantiers à la fois au plus » (écrit partout comme proposition ; si refusé, revenir à « une étape à la fois ») ; « une décision et deux noms » (programme et diapositive 27) contre « une décision » (page « Votre intérêt ») ; la suite (a) de la proposition rattachée à l’offre 26 ; le relevé de l’état zéro si les travaux commencent avant notre immatriculation.
 
+**Audit de la présentation, 12 novembre 2026** (demande de Morgan Olsen : « Audite la présentation, il y a quelques incohérences »). Relecture des 38 diapositives, écran et notes, entre elles et face au programme, au catalogue et à l’offre en une page. Neuf écarts corrigés, et reportés dans le programme, le catalogue, le déroulé, les objections, l’antisèche et le référentiel :
+
+| Diapositive | Écart | Correction |
+| --- | --- | --- |
+| 15 `sota-phares` | « Commandés en janvier 2027 » : six projets commandés le mois du cadrage, alors que le cadrage fixe les priorités et que nous tenons deux chantiers au plus | « Si les premières commandes sont passées en janvier 2027, en même temps que le cadrage » |
+| 17 `sota-avant` | « tels qu’au jour de votre achat », alors que la capture se fait à notre immatriculation | « vos murs d’avant les travaux » |
+| 24 `sota-commencer` | « Tout de suite : le cadrage », face à « ni facture ni démarrage avant l’immatriculation » ; offres citées sous des noms jamais présentés | « Votre accord pour le cadrage » ; chaque offre rattachée à son nom des diapositives 18 et 19 |
+| 23 `sota-tenir` | « Deux chantiers à la fois » à l’écran, « au plus » partout ailleurs | « Deux chantiers à la fois au plus » |
+| 22 `societe` | « prend le relais en cas d’absence » : formule abandonnée | « reprend votre dossier, plus lentement » |
+| 20 `sota-chemin` | « l’œil appris » à l’écran, jamais expliqué | Une ligne d’explication dans les notes |
+| 7 `cat-galerie` | « Notre outil », alors que le logiciel de galerie se choisit d’abord sur le marché (diapositives 6 et 23) | « L’outil, un logiciel de galerie du marché s’il convient, sinon construit par nous » |
+| 3 `demande` | « puis deux écrans d’exemple » : un seul suit, l’autre est en annexe | « un écran d’exemple et la carte de vos fonctions » |
+| 33 `ecran-batiment` | Surtitre différent des deux autres écrans d’exemple | « Exemple d’écran · Bâtiment » |
+
+Contrôlé sans écart : numéros de pied de page, renvois aux fiches, numéros des projets phares, 29 offres et sept familles face au catalogue, prix, dates, mesures de METR, question de clôture face à la question d’accueil. Laissé tel quel, à trancher par les associés : « avant le premier devis de travaux » (catalogue, offre 21) à côté de « avant tout chantier » (projet phare 6), les deux se tiennent ; le surtitre « Annexe » de la seule diapositive `robotique`, gardé comme garde-fou. Contrôles : 0 erreur sur les 38 diapositives, aucun débordement ; programme 2 pages, antisèche 1 page. Présentation republiée (version 25 de la page) ; dossier relié reconstruit (164 et 81 pages).
+
 **Dossier relié** : `dossier-du-13-novembre/` (deux PDF et les pages à imprimer), construit par `outils/2026-11-11-dossier/construire-le-dossier.py`.
 
 ## 6. Limites

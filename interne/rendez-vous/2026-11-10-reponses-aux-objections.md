@@ -144,10 +144,10 @@ Ajouté le 11 novembre 2026 (audit du 9 novembre, objections n° 8 et 9).
 
 Ajouté le 11 novembre 2026 (programme « State Of The Art » ; catalogue maître, § 6 et § 10 d).
 **Il craint** : que nous promettions plus que nous ne pouvons tenir ; dépendre de deux personnes.
-**Réponse** : « Oui, si nous faisions tout. Nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main. Deux chantiers à la fois, sur quatre ans. Tout est à votre nom et peut être exporté ; si l’un de nous manque, l’autre reprend votre dossier, plus lentement : vous pouvez continuer sans nous. »
+**Réponse** : « Oui, si nous faisions tout. Nous concevons et orchestrons ; des spécialistes exécutent ; votre équipe garde la main. Deux chantiers à la fois au plus, sur quatre ans. Tout est à votre nom et peut être exporté ; si l’un de nous manque, l’autre reprend votre dossier, plus lentement : vous pouvez continuer sans nous. »
 **Preuve** : la diapositive `sota-tenir` ; la page « State Of The Art : le programme », partie « Comment deux associés le tiennent », à l’écran (J17).
-**S’il demande qui fait quoi** : « L’un de nous mène votre dossier ; l’autre le relit et prend le relais. » (notes de `societe`). Le partage des rôles du catalogue est une proposition : ne pas l’annoncer comme décidé (J13). Si un spécialiste est utile, sa société l’engage directement ; aucun n’est approché sans son accord.
-**Consigne** : « Deux chantiers à la fois » est une recommandation du catalogue, à confirmer jeudi (J10) ; l’absence de l’un de nous se dit « l’autre reprend votre dossier, plus lentement » (J13) ; si un autre choix est coché, dire celui-là.
+**S’il demande qui fait quoi** : « L’un de nous mène votre dossier ; l’autre le relit et, si le premier manque, reprend votre dossier, plus lentement. » (notes de `societe`). Le partage des rôles du catalogue est une proposition : ne pas l’annoncer comme décidé (J13). Si un spécialiste est utile, sa société l’engage directement ; aucun n’est approché sans son accord.
+**Consigne** : « Deux chantiers à la fois au plus » est une recommandation du catalogue, à confirmer jeudi (J10) ; l’absence de l’un de nous se dit « l’autre reprend votre dossier, plus lentement » (J13) ; si un autre choix est coché, dire celui-là.
 **Ne pas dire** : « nous ferons tout » ; « nous avons une équipe » ; le nom d’un spécialiste ou d’un partenaire ; une mention d’assurance (J26) ; une date d’embauche.
 **Question suivante** : « Parmi les six moments, lesquels voulez-vous voir en premier ? Le cadrage en fera vos trois priorités. »
 

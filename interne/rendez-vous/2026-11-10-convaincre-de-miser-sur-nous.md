@@ -20,7 +20,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026 
 | « Ce n’est pas du vent » | « evolution » (la mesure de METR, dite en entier) ; « sota-faits » (quatre faits datés, chacun avec son offre) ; chaque offre du catalogue dit ce qu’elle a d’avancé, avec sa source |
 | « Je ne prends pas de risque » | Prix fixe ; arrêt ; il garde le travail fait, le dossier une fois le prix dû payé, ses comptes et ses données ; rien ne se signe en séance (diapositive « garanties ») |
 | « Mon administratrice est respectée » | La diapositive « administratrice » et la fiche 5 ; la page qui lui est destinée |
-| « Ils voient grand, mais ils sont sérieux » | « sota-familles » et « sota-maison » (vingt-neuf offres, noms de travail), « sota-chemin » (2027, 2028, 2030 : mesuré, supposé, prévision ; « les années sont des repères ») ; « sota-tenir » (nous orchestrons, des spécialistes exécutent, deux chantiers à la fois) ; « moyens » en annexe, selon V7 ; chiffres honnêtes, aucun gain promis |
+| « Ils voient grand, mais ils sont sérieux » | « sota-familles » et « sota-maison » (vingt-neuf offres, noms de travail), « sota-chemin » (2027, 2028, 2030 : mesuré, supposé, prévision ; « les années sont des repères ») ; « sota-tenir » (nous orchestrons, des spécialistes exécutent, deux chantiers à la fois au plus) ; « moyens » en annexe, selon V7 ; chiffres honnêtes, aucun gain promis |
 | « Je sais par où commencer » | « sota-commencer » (trois façons), « proposition » (le cadrage, tourné vers ses trois moments), « decision » (une décision et deux noms : proposition à valider jeudi, J9) |
 
 ## 2. Les cent premiers jours, si c’est oui (à dire oralement, pas comme une promesse)

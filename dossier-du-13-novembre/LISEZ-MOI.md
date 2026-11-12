@@ -20,7 +20,7 @@ Les deux pages en ligne sont privées. Rien n’est laissé ni envoyé à GianLu
 
 ## `1-pour-nous-dossier-interne.pdf` — Rendez-vous du 13 novembre 2026 — dossier interne
 
-Tout ce dont Morgan Olsen et Mathys Couet ont besoin avant, pendant et après le rendez-vous avec GianLuca Carlone. 164 pages.
+Tout ce dont Morgan Olsen et Mathys Couet ont besoin avant, pendant et après le rendez-vous avec GianLuca Carlone. 165 pages.
 
 | N° | Document | Page | Pages | Source | À imprimer |
 | --- | --- | --- | --- | --- | --- |
@@ -63,8 +63,8 @@ Tout ce dont Morgan Olsen et Mathys Couet ont besoin avant, pendant et après le
 | 32 | Note interne : moyens supplémentaires | 148 | 4 | `interne/developpement/2026-11-10-note-interne-moyens-supplementaires.md` |  |
 | 33 | Cabaret, commerces et suites : sources et limites | 152 | 5 | `interne/cabaret-et-commerces/2026-11-10-sources-et-limites.md` |  |
 | | **6. Audit final et index** | | | | |
-| 34 | Audit final du 11 novembre 2026 | 157 | 3 | `audit/2026-11-11-audit-final/README.md` |  |
-| 35 | Index du dossier pour-carlone : ce qui vaut pour le 13 novembre | 160 | 5 | `pour-carlone/README.md` |  |
+| 34 | Audit final du 11 novembre 2026 | 157 | 4 | `audit/2026-11-11-audit-final/README.md` |  |
+| 35 | Index du dossier pour-carlone : ce qui vaut pour le 13 novembre | 161 | 5 | `pour-carlone/README.md` |  |
 
 ## `2-pour-gianluca-carlone-projets.pdf` — Pour GianLuca Carlone — projets de documents
 

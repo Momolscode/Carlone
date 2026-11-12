@@ -8,7 +8,7 @@ Document interne — ne pas transmettre à GianLuca Carlone · 10 novembre 2026,
 
 **State Of The Art** (nom de travail). « Les œuvres que vous aimez furent l’état de l’art de leur temps. Votre maison sera l’état de l’art du nôtre. » **Six moments**, il en entoure trois : la première nuit des œuvres ; l’ouverture choisie avant d’ouvrir ; État de l’art ; le vernissage-spectacle ; le matin de la maison ; la maison d’avant. **Sept familles, vingt-neuf offres** : l’œil, le cercle, la preuve, faire naître des œuvres, recevoir, la maison orchestrée, rayonner et financer. **2027, 2028, 2030** : des repères.
 
-**Commencer** : le cadrage tout de suite, et au plus une offre qui n’attend pas (5, 9, 21, 25 ; J10) ; le reste par le cadrage, un essai à la fois ; plus tard, œuvres commandées, résidence, Bourges 2028. Deux chantiers à la fois ; rien sans lui.
+**Commencer** : le cadrage tout de suite, et au plus une offre qui n’attend pas (5, 9, 21, 25 ; J10) ; le reste par le cadrage, un essai à la fois ; plus tard, œuvres commandées, résidence, Bourges 2028. Deux chantiers au plus ; rien sans lui.
 
 **Les chiffres** (toutes taxes comprises : sous réserve de la TVA)
 - Cadrage : **6 500 € hors taxes, soit 7 800 € toutes taxes comprises**, prix fixe, déplacements compris ; moitié à la commande, moitié à la remise. Trois à quatre semaines ; administratrice : une à deux journées, sur ses heures.

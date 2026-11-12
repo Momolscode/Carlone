@@ -36,14 +36,14 @@ Noms de travail, programme compris. Chaque offre se commande à part, avec un pr
 
 ## Six moments pour votre ouverture
 
-Commandés en janvier 2027, ils permettent d’ouvrir au plus tôt à l’automne 2027 ; commandés plus tard, au printemps 2028. Choisissez-en trois : le cadrage en fera vos priorités.
+Si les premières commandes sont passées en janvier 2027, avec le cadrage, ils permettent d’ouvrir au plus tôt à l’automne 2027 ; passées plus tard, au printemps 2028. Choisissez-en trois : le cadrage en fera vos priorités.
 
 1. **La première nuit des œuvres.** *Le client des suites.* Un couple arrive de Milan, son programme reçu en italien. Sa suite est prête quand le rideau tombe : une toile de votre choix, aucun écran. Le tirage de sa nuit le suivra.
 2. **L’ouverture choisie avant d’ouvrir.** *Le collectionneur.* Six mois avant, une salle a été accrochée pour lui seul ; il l’a parcourue depuis Londres, avec vous. Devant l’œuvre réservée, son téléphone affiche le certificat.
 3. **État de l’art.** *Le visiteur.* À l’entrée, l’œuvre du seuil a pris la couleur du ciel. Les œuvres de votre stock répondent aux œuvres commandées, chacune avec son cartel de fabrication.
 4. **Le vernissage-spectacle.** *Le spectateur.* Au cabaret, ou dans la galerie s’il n’a pas ouvert. Le rideau s’ouvre sur un numéro créé pour l’exposition ; une œuvre devient décor. Un spectateur allemand lit le texte dans ses lunettes.
 5. **Le matin de la maison.** *Vous et votre administratrice.* Sept heures : la nuit de vos lieux, deux écarts de factures signalés, le dossier de l’œuvre nommée hier. Elle valide ; vous recevez une page : trois décisions à prendre.
-6. **La maison d’avant.** *Le visiteur.* Avant la galerie, il marche dans vos murs tels qu’ils étaient le jour de votre achat, relevés en 3D avant les travaux, dont un artiste a fait une œuvre. Une porte s’ouvre : la galerie d’aujourd’hui.
+6. **La maison d’avant.** *Le visiteur.* Avant la galerie, il marche dans vos murs tels qu’ils étaient avant les travaux, relevés en 3D, dont un artiste a fait une œuvre. Une porte s’ouvre : la galerie d’aujourd’hui.
 
 ## Le chemin : 2027, 2028, 2030
 
